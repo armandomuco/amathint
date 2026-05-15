@@ -1,0 +1,63 @@
+{
+  "id": "MAT7_014",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "III",
+  "lesson_number": 14,
+  "tema": "Shprehjet algjebrike",
+  "tematika": "Algjebra",
+  "month": "Shtator",
+  "trimester": 1,
+  "duration_minutes": 45,
+  "situata": "Nxënësit punojnë në një dyqan ku çmimi i produkteve varet nga pesha. Ata shkruajnë shprehje algjebrike për të llogaritur çmimin total dhe zbulojnë si të punojnë me shprehje.",
+  "rezultatet": [
+    "Nxënësi/ja identifikon dhe klasifikon shprehjet algjebrike (monom, binom, polinom)",
+    "Nxënësi/ja shkruan shprehje algjebrike për probleme me fjalë",
+    "Nxënësi/ja gjen vlerën e shprehjeve për vlera të caktuara",
+    "Nxënësi/ja kupton strukturën e një shprehjeje algjebrike"
+  ],
+  "fjalet_kyce": [
+    "Monom",
+    "Binom",
+    "Trinom",
+    "Polinom",
+    "Shkallë",
+    "Koeficient kryesor"
+  ],
+  "burimet": [
+    "Libri i matematikës klasa 7, fq. 79-84",
+    "Kartela me shprehje",
+    "Diagrama klasifikimi",
+    "Fletë pune",
+    "Shembuj praktikë"
+  ],
+  "lidhja": "Lidhje me shkencat natyrore: formula të kinematikës. Lidhje me Ekonominë: modele çmimesh. Lidhje me Biologjinë: modele rritjeje.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "QËLLIMI: Nxënësit do të klasifikojnë shprehjet algjebrike dhe do të punojnë me to në kontekste të ndryshme.\n\nHYRJA (6 min):\n• Sfidë: Klasifikoni këto shprehje sipas numrit të termave:\n  - 5x (1 term)\n  - 3x + 2 (2 terma)\n  - x² - 4x + 4 (3 terma)\n• Prezantimi i termave: monom, binom, trinom, polinom.\n\nZHVILLIMI (26 min):\n• KLASIFIKIMI:\n  - Monom: 1 term (5x, -3y², 7)\n  - Binom: 2 terma (x+3, 2y-5)\n  - Trinom: 3 terma (x²+2x+1)\n  - Polinom: termi i përgjithshëm për shprehje me 1 ose më shumë terma\n\n• SHKALLA E POLINOMIT:\n  - Shkalla = fuqia më e lartë e variablës\n  - 3x + 2: shkalla 1 (polinom linear)\n  - x² - 5x + 6: shkalla 2 (polinom kuadratik)\n  - 2x³ + x² - 4: shkalla 3 (polinom kubik)\n\n• KOEFICIENTI KRYESOR:\n  - Koeficienti i termit me shkallën më të lartë\n  - Në 4x³ - 2x² + x - 5, koeficienti kryesor është 4\n\n• SHKRIMI I SHPREHJEVE:\n  Problem: Çmimi i mollëve është 80 lek/kg, i dardhave 100 lek/kg.\n  Nëse blej m kg mollë dhe d kg dardhë, çmimi total = 80m + 100d\n\n  Problem: Një drejtkëndësh ka gjatësi x+3 dhe gjerësi x.\n  Syprina = x(x+3) = x² + 3x\n  Perimetri = 2(x+3) + 2x = 2x + 6 + 2x = 4x + 6\n\nPRAKTIKA (10 min):\n• Ushtrim 1: Klasifikoni: a) 7y  b) x²-9  c) 3a-2b+c  d) 5x⁴-2x²+x-1\n• Ushtrim 2: Gjeni shkallën: a) 4x³+2x  b) 5-3y  c) x⁵-x³+x\n• Ushtrim 3: Shkruani shprehje për syprinën e trekëndëshit me bazë b dhe lartësi h.\n• Vlerësoni x²-3x+2 për x=-1, x=0, x=2\n\nMBYLLJA (3 min):\n• Skemë përmbledhëse e klasifikimit\n• Pyetje: Çfarë lloj polinomi është 5? (Monom i shkallës 0)",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "1. Klasifikoni dhe gjeni shkallën: a) 6x²y  b) a³-b³  c) 2x⁴-3x³+x²-x+5\n2. Shkruani si shprehje dhe gjeni shkallën: a) Kubi i x minus katrori i x  b) Produkti i x dhe y plus 5\n3. Problem: Rroga mujore = 40000 + 500×(numri i ditëve të punuara). Shkruani shprehjen dhe llogaritni për 22 ditë.\n4. Vlerësoni 2x³-x²+3x-4 për x=-2, x=0, x=1\n5. Sfidë: Gjeni një polinom të shkallës 3 ku vlera për x=1 është 0.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Algjebra",
+      "page_or_row": "14"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

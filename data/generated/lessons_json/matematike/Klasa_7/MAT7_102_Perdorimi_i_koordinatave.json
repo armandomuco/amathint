@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_102",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 102,
+  "tema": "Përdorimi i koordinatave",
+  "tematika": "Shndërrimet",
+  "month": "Mars",
+  "trimester": 2,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës VII punojnë si urbanistë të rinj për ta riorganizuar sheshin kryesor të qytetit të Korçës. Ata duhet të përdorin një hartë me koordinata për të pozicionuar saktësisht monumentet, pemët, dhe ndërtesat e reja. Çdo objekt ka koordinatat e tij (x, y) dhe nxënësit duhet të llogaritin distancat, të gjejnë pikën e mesit midis dy objekteve, dhe të kryejnë zhvendosje të objekteve në pozicione të reja duke përdorur koordinatat karteziane.",
+  "rezultatet": [
+    "Nxënësi/ja identifikon saktësisht koordinatat e një pike në planin kartezian",
+    "Nxënësi/ja llogarit distancën midis dy pikave duke përdorur formulën e distancës",
+    "Nxënësi/ja përcakton koordinatat e pikës së mesit të një segmenti",
+    "Nxënësi/ja kryen zhvendosje të pikave në planin koordinativ",
+    "Nxënësi/ja zgjidh probleme praktike që përfshijnë përdorimin e koordinatave",
+    "Nxënësi/ja argumenton rëndësinë e koordinatave në jetën e përditshme"
+  ],
+  "fjalet_kyce": [
+    "koordinata (x, y)",
+    "plani kartezian (Cartesian plane)",
+    "boshti x (abshisa)",
+    "boshti y (ordinata)",
+    "pika e mesit (midpoint)",
+    "formula e distancës: d = √[(x₂-x₁)² + (y₂-y₁)²]",
+    "zhvendosja (translation)",
+    "kuadranti (quadrant)"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 4: Koordinatat, faqe 78-85",
+    "Fletë milimetrike A4 dhe A3 për çdo nxënës",
+    "Vizore transparente 30 cm dhe laps me gome",
+    "Fletë pune e përgatitur: 'Udhëtimi në planin koordinativ'",
+    "Kartela me koordinata të ndryshme objektesh",
+    "Kalkulatore për llogaritje të shpejta të rrënjës katrore"
+  ],
+  "lidhja": "Koordinatat lidhen ngushtësisht me Gjeografinë përmes përdorimit të GPS-it dhe hartave të Shqipërisë, me shkencat natyrore në studimin e lëvizjes së objekteve, me Artet në krijimin e modeleve gjeometrike, dhe me jetën e përditshme në orientimin në qytetet e Tiranës, Durrësit, apo Vlorës. Nxënësit mund të përdorin koordinatat për të gjetur adresat e sakta në Google Maps ose për të llogaritin distancën midis shtëpisë dhe shkollës.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nNxënësit do të mësojnë të përdorin koordinatat për të pozicionuar pika në plan, të llogaritin distancat dhe të gjejnë pikat e mesit, duke e lidhur këtë me situata praktike nga jeta e përditshme në Shqipëri.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\nMësuesja fillon me një lojë 'Gjej thesarin': në klasë vendoset një rrjetë koordinatash 5x5 dhe një nxënës duhet të gjejë një objekt të fshehur duke përdorur koordinatat që i japin shokët. Pyetje motivuese: 'Si orientoheni kur shkoni nga shtëpia në shkollë? Si mund të tregoni rrugën dikujt tjetër?' Lidhja me orën e kaluar: 'Në orën e kaluar studiuam figurat gjeometrike. Sot do të mësojmë si t'i pozicionojmë ato saktësisht në një plan.'\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\nShpjegim teorik: Prezantimi i planit kartezian me boshtin x (horizontal) dhe boshtin y (vertikal). Çdo pikë ka dy koordinata: (x, y).\n\n**Shembulli 1 - Pozicionimi i pikave:**\nPika A(3, 4): Nga pika e fillimit (0, 0), lëvizim 3 njësi djathtas dhe 4 njësi lart.\nPika B(-2, 3): Nga pika e fillimit, lëvizim 2 njësi majtas dhe 3 njësi lart.\nPika C(1, -2): Nga pika e fillimit, lëvizim 1 njësi djathtas dhe 2 njësi poshtë.\n\n**Shembulli 2 - Llogaritja e distancës:**\nDistanca midis A(1, 2) dhe B(4, 6):\nd = √[(4-1)² + (6-2)²] = √[3² + 4²] = √[9 + 16] = √25 = 5 njësi\n\n**Shembulli 3 - Pika e mesit:**\nPër segmentin me skaje A(2, 3) dhe B(6, 7):\nPika e mesit M = ((2+6)/2, (3+7)/2) = (4, 5)\n\nPunë në grupe: Çdo grup merr një fletë me 'hartën' e qytetit të Korçës dhe duhet të pozicionojë 5 objekte të ndryshme (shkolla, spitali, parku, tregu, stacioni) duke përdorur koordinatat e dhëna. Pastaj llogaritjnë distancat midis tyre.\n\n**PRAKTIKA/USHTRIME** (8-10 minuta)\n\n**a) Niveli bazë:**\n1. Gjeni koordinatat e pikave A, B, C të dhëna në planin koordinativ\n2. Poziciononi pikat D(2, 3), E(-1, 4), F(0, -2) në plan\n3. Llogaritni distancën midis pikave G(0, 0) dhe H(3, 4)\n\n**b) Niveli mesatar:**\n1. Gjeni pikën e mesit të segmentit me skaje P(2, -1) dhe Q(6, 5)\n2. Nëse një pikë zhvendoset 3 njësi djathtas dhe 2 njësi lart nga pozicioni R(1, 2), cilat janë koordinatat e reja?\n\n**c) Niveli i avancuar:**\n1. Një trekëndësh ka kulme në pikat A(1, 2), B(4, 6), C(7, 2). Gjeni perimetrin e trekëndëshit duke llogarithur të tre anët.\n\n**MBYLLJA/REFLEKTIMI** (3-5 minuta)\nPërmbledhje e tri pikave kryesore: 1) Koordinatat na ndihmojnë të pozicionojmë pika saktësisht, 2) Mund të llogaritim distancat duke përdorur formulën, 3) Koordinatat përdoren gjerësisht në jetën reale. Quiz verbal: 'Cilat janë koordinatat e pikës që është 2 njësi majtas dhe 3 njësi lart nga origjina?' Parashikim: 'Orën e ardhshme do të mësojmë si të rrotullojmë figurat në planin koordinativ.'",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**1. DETYRË BAZË:**\nZgjidhni ushtrimet 1-6 nga faqja 82 të librit: poziciononi 8 pika të dhëna në planin koordinativ dhe llogaritni distancën midis çifteve të pikave A-B, C-D, E-F.\n\n**2. DETYRË KRIJUESE:**\nKrijoni një 'hartë' të lagjes suaj duke përdorur koordinata. Poziciononi të paktën 6 objekte të rëndësishme (shtëpia, shkolla, dyqani, parku, etj.) dhe llogaritni distancat midis tyre. Prezantoni hartën në një fletë A3 me ngjyra dhe përshkrime.\n\n**3. DETYRË SHTESË (fakultative):**\nHulumtoni si përdoret sistemi GPS në telefona dhe shkruani një raport 200-fjalësh rreth rëndësisë së koordinatave në navigim. Gjeni koordinatat GPS të shkollës suaj dhe të shtëpisë, dhe llogaritni distancën në vijë të drejtë midis tyre.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Shndërrimet",
+      "page_or_row": "102"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

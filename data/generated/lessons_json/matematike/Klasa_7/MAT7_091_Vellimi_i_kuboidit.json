@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_091",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 91,
+  "tema": "Vëllimi i kuboidit",
+  "tematika": "Matja",
+  "month": "Mars",
+  "trimester": 2,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës së 7-të të shkollës 'Fan Noli' në Tiranë duhet të llogaristin sa ujë mund të mbahet në pishinën e re të shkollës që ka formë kuboidi. Pishina ka gjatësi 12 metra, gjerësi 8 metra dhe thellësi 1.5 metra. Ata duhet gjithashtu të llogaristin koston e ujit sipas tarifave të OSHEE-së (85 lekë për metër kub).",
+  "rezultatet": [
+    "Nxënësi/ja përkufizon kuboidin dhe identifikon elementet e tij (gjatësi, gjerësi, lartësi)",
+    "Nxënësi/ja zbaton formulën V = a × b × c për të llogaritur vëllimin e kuboidit",
+    "Nxënësi/ja llogarit saktësisht vëllimin e kuboideve me matje të dhëna",
+    "Nxënësi/ja konverton njësitë e vëllimit (m³, cm³, dm³, litra)",
+    "Nxënësi/ja zgjidh probleme praktike që përfshijnë vëllimin e kuboidit",
+    "Nxënësi/ja argumenton rëndësinë e llogaritjes së vëllimit në jetën e përditshme"
+  ],
+  "fjalet_kyce": [
+    "kuboid (parallelepipedon drejtkëndor)",
+    "vëllim (volume - V)",
+    "formula V = a × b × c",
+    "metër kub (m³)",
+    "centimetër kub (cm³)",
+    "decimetër kub (dm³)",
+    "litra (l)",
+    "konvertim njësish"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 'Matja', faqe 78-82",
+    "Vizore, metër matës, kalkulatore",
+    "Kuti kartonash në forma kuboidesh (kuti çokollate, kuti këpucësh)",
+    "Fletë pune me 12 probleme vëllimi",
+    "Cilindra matës uji (1000ml, 500ml)",
+    "Projektor dhe prezantim PowerPoint me ilustrime 3D"
+  ],
+  "lidhja": "Lidhje me shkencat natyrore përmes konceptit të densitetit dhe masës së lëngjeve. Lidhje me Gjeografinë duke llogaritur vëllimet e liqeneve si Ohri dhe Shkodra. Lidhje me jetën praktike: llogaritja e vëllimit të rezervuarëve të ujit, pishinave, kontejnerëve tregtarë dhe magazinave. Lidhje me Artet vizore përmes krijimit të modeleve tredimensionale të kuboideve.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nKjo orë synon që nxënësit të mësojnë të llogarisni vëllimin e kuboidit duke zbatuar formulën V = a × b × c dhe të zgjidhin probleme praktike të lidhura me jetën e përditshme në Shqipëri.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\nMësuesi prezanton një kuti të madhe çokollate 'Kinder' dhe pyet: 'Sa çokollata mund të përmbajë kjo kuti?' Demonstron duke mbushur kutinë me kuba të vegjël çokollate 1cm³. Pyet: 'Si mund ta llogarisim pa i numëruar një për një?' Lidh me orën e kaluar për sipërfaqen e drejtkëndëshit: 'Nëse sipërfaqja është S = a × b, çfarë mendoni për vëllimin?' Shkruan në tabelë: 'Vëllimi = ?'\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\nShpjegim i konceptit të kuboidit: objekt tredimensional me 6 faqe drejtkëndore. Prezanton formulën V = a × b × c (gjatësi × gjerësi × lartësi).\n\n**Shembull 1:** Kuti këpucësh\nGjatësi = 30cm, Gjerësi = 20cm, Lartësi = 12cm\nV = 30 × 20 × 12 = 7200 cm³\nKonvertimi: 7200 cm³ = 7.2 dm³ = 7.2 litra\n\n**Shembull 2:** Rezervuar uji në oborr\nGjatësi = 2m, Gjerësi = 1.5m, Lartësi = 1.2m\nV = 2 × 1.5 × 1.2 = 3.6 m³\nUji i nevojshëm: 3.6 × 1000 = 3600 litra\nKosto me OSHEE: 3.6 × 85 = 306 lekë\n\n**Shembull 3:** Kontejner transporti\nGjatësi = 6m, Gjerësi = 2.5m, Lartësi = 2.8m\nV = 6 × 2.5 × 2.8 = 42 m³\n\nPunë në grupe (4-5 nxënës): Çdo grup merr kuti të ndryshme (sapun, qumësht, biskota) dhe mat dimensionet me vizore. Llogarit vëllimin dhe prezanton rezultatet. Mësuesi demonstron në tabelë llogaritjen për pishinën e shkollës: V = 12 × 8 × 1.5 = 144 m³.\n\n**PRAKTIKA** (8-10 minuta)\n\na) **Niveli bazë:**\n- Gjeni vëllimin: a=5cm, b=4cm, c=3cm\n- Gjeni vëllimin: a=10m, b=6m, c=2m\n- Konvertoni 5000 cm³ në litra\n\nb) **Niveli mesatar:**\n- Një akuarium ka vëllim 240 litra. Nëse gjatësia është 80cm dhe gjerësia 50cm, sa është lartësia?\n- Llogaritni koston për të mbushur një rezervuar 2×1.5×1m me ujë nga OSHEE\n\nc) **Niveli i avancuar:**\n- Një dhomë ka dimensione 4×3×2.8m. Sa metra kub ajër përmban? Nëse 1m³ ajër peshon 1.3kg, sa peshon ajri i dhomës?\n\n**MBYLLJA** (3-5 minuta)\nPërmbledhje: (1) Vëllimi i kuboidit llogaritet me V = a × b × c, (2) Njësitë kryesore janë m³, dm³, cm³, (3) 1 dm³ = 1 litra. Quiz verbal: 'Çfarë është vëllimi i një kubu me brinjë 4cm?' Parashikim: 'Orën tjetër do të mësojmë vëllimin e cilindrit dhe do të krahasojmë me kuboidin.'",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**DETYRË BAZË:**\n1. Zgjidhni ushtrimet 1-6 nga libri, faqe 81\n2. Llogaritni vëllimin e dhomës suaj duke matur dimensionet\n3. Konvertoni: 7500 cm³ në dm³ dhe litra\n4. Gjeni vëllimin e një kuboidi me a=8cm, b=5cm, c=12cm\n\n**DETYRË KRIJUESE:**\nKrijoni një projekt 'Rezervuari i ujit për familjen time'. Matni oborrin dhe projektoni një rezervuar kuboidal që mund të mbledhë ujin e shiut. Llogaritni vëllimin, sasinë e ujit dhe koston. Prezantojeni në një fletë A4 me vizatime.\n\n**DETYRË SHTESË (fakultative):**\nHulumtoni vëllimet e pishinave olimpike (50×25×2m) dhe llogaritni sa ton ujë përmbajnë. Krahasoni me pishinat e komplekseve të Tiranës si 'Tirana Aqua Park' ose 'Rogner Hotel'.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Matja",
+      "page_or_row": "91"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

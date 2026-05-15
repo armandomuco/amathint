@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_071",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 71,
+  "tema": "Matja e këndeve me raportor",
+  "tematika": "Gjeometria",
+  "month": "Janar",
+  "trimester": 2,
+  "duration_minutes": 45,
+  "situata": "Klasa 7C në shkollën 'Fan Noli' në Tiranë po planifikon të ndërtojë një kopsht në oborrin e shkollës. Për të përcaktuar pozicionin e saktë të pemëve dhe rrugëzave, nxënësit duhet të matin këndet e ndryshme të formave gjeometrike që kanë projektuar. Ata përdorin raportor për të matur këndet e trekëndëshave dhe katërkëndëshave në planin e kopshtit që kanë skicuar në letër milimetrike.",
+  "rezultatet": [
+    "Nxënësi/ja identifikon llojet e këndeve sipas madhësisë (akut, drejt, mprëhët, të plotë)",
+    "Nxënësi/ja mat me saktësi kënde të ndryshme duke përdorur raportor",
+    "Nxënësi/ja llogarit vlerat numerike të këndeve në gradë (°)",
+    "Nxënësi/ja demonstron teknikën e saktë të pozicionimit të raportorit në krye të këndit",
+    "Nxënësi/ja zgjidh probleme praktike duke matur kënde në figura gjeometrike",
+    "Nxënësi/ja argumenton rëndësinë e matjes së saktë të këndeve në jetën e përditshme"
+  ],
+  "fjalet_kyce": [
+    "kënd (angle)",
+    "raportor (protractor)",
+    "gradë (°)",
+    "kënd akut (<90°)",
+    "kënd drejt (90°)",
+    "kënd mprëhët (>90°, <180°)",
+    "kënd i plotë (360°)",
+    "maja e këndit (vertex)"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 4 'Gjeometria', faqet 78-85",
+    "Raportor plastik transparent (për çdo nxënës)",
+    "Vizore dhe laps për vizatim",
+    "Fletë milimetrike A4",
+    "Fletë pune e përgatitur me 15 figura gjeometrike për matje",
+    "Postera me llojet e këndeve dhe shkallën gradë"
+  ],
+  "lidhja": "Matja e këndeve lidhet ngushtë me Artet Vizuale në projektimin e objekteve dekorative, me Gjeografinë në leximin e hartave dhe busullës (këndet e drejtimeve), me shkencat natyrore në studimin e reflektimit të dritës në pasqyra, dhe me jetën praktike në arkitekturë dhe ndërtim. Në Shqipëri, zanatçinjtë që punojnë me dru ose hekur përdorin matjen e këndeve për të krijuar mobilje dhe objekte të ndryshme.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nQëllimi i kësaj ore është që nxënësit të mësojnë të përdorin raportorin për të matur kënde të ndryshme me saktësi dhe të kuptojnë rëndësinë e matjes së këndeve në problemat praktike.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\nMësuesi fillon orën duke shfaqur një foto të Piramidës së Tiranës dhe pyet: \"Sa mendoni që është këndi i kulmit të kësaj piramide?\" Nxënësit japin përgjigje të ndryshme duke hamendësuar. Pastaj mësuesi tregon një raportor dhe pyet: \"Si mund ta matim këtë kënd me saktësi?\" Lidh me orën e kaluar duke rikujtuar llojet e këndeve që kanë mësuar dhe tani do të mësojnë t'i matin ato. Pyet: \"Cili nga ju ka përdorur raportor më parë? Ku e keni parë të përdoret?\"\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\nMësuesi shpjegon strukturën e raportorit duke treguar qendrën, shkallën 0°-180°, dhe vijat e graduara. Demonstron teknikën e saktë të matjes:\n\n**Shembulli 1:** Matja e një këndi akut 45°\n- Vendos qendrën e raportorit në majën e këndit\n- Rreshton vijën e parë të këndit me 0° të raportorit\n- Lexon vlerën ku pret vija e dytë e këndit\n- Rezultati: 45° (kënd akut)\n\n**Shembulli 2:** Matja e një këndi mprëhët 120°\n- E njëjta procedurë\n- Kujdes në lexim: përdor shkallën e duhur\n- Rezultati: 120° (kënd mprëhët)\n\n**Shembulli 3:** Matja e një këndi drejt 90°\n- Demonstron që këndi drejt mat saktësisht 90°\n- Shpjegon se si ta dallojmë nga tiparet vizuale\n- Rezultati: 90° (kënd drejt)\n\nPas demonstrimit, nxënësit ndahen në grupe prej 4 vetash. Çdo grup merr fletën e punës me 5 kënde të ndryshme për t'i matur. Grupet konkurrojnë për matjen më të saktë. Mësuesi qarkuon dhe ndihmon grupet që kanë vështirësi, duke korrigjuar gabimet në pozicionimin e raportorit.\n\n**PRAKTIKA** (8-10 minuta)\n\na) **Niveli bazë (2-3 ushtrime):**\n- Matni këndin ABC ku duket qartë si kënd akut\n- Matni këndin DEF që formon një kënd drejt\n- Matni këndin GHI që është kënd mprëhët\n\nb) **Niveli mesatar (2 ushtrime):**\n- Matni të gjithë këndet e brendshëm të një trekëndëshi dhe gjeni shumën\n- Matni këndet e jashtëm të një katërkëndëshi të thjeshtë\n\nc) **Niveli i avancuar (1 problemë sfiduese):**\n- Në një trekëndësh ABC, këndi A është 60°, këndi B është 70°. Pa matur, gjeni këndin C dhe pastaj verifikojeni me raportor. Shpjegoni përgjigjen.\n\n**MBYLLJA/REFLEKTIMI** (3-5 minuta)\nMësuesi përmbledh tre pikat kryesore: 1) Raportorti mat këndet në gradë, 2) Pozicionimi i saktë është thelbësor për matje të saktë, 3) Këndet klasifikohen sipas madhësisë. Realizon quiz verbal: \"Sa gradë ka këndi drejt?\" \"Çfarë këndi është 150°?\" \"Si quhet këndi që mat 45°?\". Parashikon orën e ardhshme duke thënë se do të mësojnë të ndërtojnë kënde me madhësi të caktuar duke përdorur raportor.",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**BAZË:** Matni këndet në ushtrimet 1-6, faqe 82. Shkruani rezultatin për çdo kënd dhe klasifikojini si akut, drejt ose mprëhët. Matni të gjithë këndet e brendshëm të trekëndëshit në ushtrimin 7 dhe llogaritni shumën e tyre.\n\n**KRIJUESE:** Krijoni një poster A3 me titullin 'Këndet në jetën tonë'. Gjeni dhe fotografoni ose skiconi 5 objekte në shtëpinë tuaj që përmbajnë kënde të ndryshme (p.sh. shkallët, dyert e hapura, çatia). Matni këndet dhe shkruani vlerat gradë në poster.\n\n**SHTESË (fakultative):** Hulumtoni dhe shkruani një paragraf për përdorimin e raportorit në profesione të ndryshme (arkitekt, inxhinier, marangoz). Gjeni në internet sa është këndi i çatisë së shtëpive tradicionale shqiptare dhe krahasojeni me matjen tuaj në poster.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Gjeometria",
+      "page_or_row": "71"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

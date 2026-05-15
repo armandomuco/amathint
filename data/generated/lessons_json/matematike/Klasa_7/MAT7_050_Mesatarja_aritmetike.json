@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_050",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 50,
+  "tema": "Mesatarja aritmetike",
+  "tematika": "Statistika",
+  "month": "Dhjetor",
+  "trimester": 1,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e shkollës 'Naim Frashëri' në Tiranë organizojnë një sondazh për të mësuar sa orë në ditë shikojnë televizor familjet e lagjes së tyre. Ata kanë mbledhur të dhëna nga 50 familje dhe duhet të gjejnë mesataren aritmetike të orëve për t'ia prezantuar rezultatet direktorit të shkollës. Gjithashtu, duhet të krahasojnë rezultatet me mesataren kombëtare prej 3.5 orë në ditë sipas INSTAT-it.",
+  "rezultatet": [
+    "Nxënësi/ja përkufizon konceptin e mesatares aritmetike dhe shpjegon rëndësinë e saj në jetën e përditshme",
+    "Nxënësi/ja llogarit saktësisht mesataren aritmetike të një grupi të dhënash numerike duke përdorur formulën x̄ = (x₁+x₂+...+xₙ)/n",
+    "Nxënësi/ja identifikon situata reale ku përdoret mesatarja aritmetike në kontekstin shqiptar",
+    "Nxënësi/ja analizon dhe interpreton mesataren aritmetike për të nxjerrë përfundime",
+    "Nxënësi/ja zgjidh probleme praktike që përfshijnë llogaritjen e mesatares aritmetike",
+    "Nxënësi/ja argumenton përse mesatarja aritmetike është një masë përfaqësuese e një grupi të dhënash"
+  ],
+  "fjalet_kyce": [
+    "mesatarja aritmetike (arithmetic mean)",
+    "formula x̄ = (x₁+x₂+...+xₙ)/n",
+    "shuma e të dhënave",
+    "numri i elementeve",
+    "simboli x̄ (x me vizë sipër)",
+    "statistika përshkruese",
+    "tendenca qendrore",
+    "interpretimi i rezultateve"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 4 'Statistika', faqe 78-85",
+    "Kalkulatore për verifikimin e llogaritjeve",
+    "Fletë pune e përgatitur me 15 ushtrime të niveleve të ndryshme",
+    "Karton i madh për demonstrimin e formulës në tabelë",
+    "Të dhëna reale nga INSTAT për krahasime",
+    "Tabela e përgatitur për punën në grupe me të dhëna të ndryshme"
+  ],
+  "lidhja": "Lidhet fuqimisht me Gjeografinë (statistikat e popullsisë së qyteteve shqiptare, mesatarja e temperaturave mujore në Tiranë, Shkodër, Vlorë), me shkencat natyrore (mesatarja e shpejtësive, temperaturave), me Edukimin Qytetar (sondazhet e opinionit publik, zgjedhjet), si dhe me jetën e përditshme në Shqipëri (mesatarja e çmimeve në tregje, nota mesatare në shkollë, të ardhurat mesatare familjare).",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nKjo orë synon që nxënësit të kuptojnë konceptin e mesatares aritmetike dhe të mësojnë ta llogarisin atë duke përdorur formulën specifike. Ata do të zbatojnë këtë njohuri në situata reale të jetës së përditshme shqiptare.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\nMësuesi fillon me një lojë interaktive: 'Sa vjeç jeni mesatarisht?' Duke pyetur 5 nxënës për moshën e tyre (p.sh. 12, 13, 12, 13, 12 vjeç) dhe duke shkruar në tabelë: 'Si mund ta gjejmë moshën mesatare të grupit?' Pastaj prezanton situatën e sondazhit televiziv: 'Familja e Aridit shikon TV 2 orë, familja e Enës 4 orë, familja e Markut 3 orë. Sa orë shikojnë mesatarisht?' Pyetje orientuese: 'A mendoni se 10 orë do të ishte një mesatare reale?' Lidhet me orën e kaluar: 'Kujtoni grafikët që mësuam - tani do të llogarisim një vlerë tipike.'\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\nMësuesi prezanton formulën e mesatares aritmetike: x̄ = (x₁+x₂+...+xₙ)/n dhe shpjegon simbolet. Demonstron tre shembuj të plotë:\n\nShembull 1: Notat e Anës në matematikë: 7, 8, 6, 9, 8\nZgjidhja: x̄ = (7+8+6+9+8)/5 = 38/5 = 7.6\nPërfundim: Ana ka mesataren 7.6\n\nShembull 2: Çmimet e bukës në 4 furra (lekë): 50, 45, 48, 52\nZgjidhja: x̄ = (50+45+48+52)/4 = 195/4 = 48.75 lekë\nPërfundim: Çmimi mesatar i bukës është 48.75 lekë\n\nShembull 3: Temperaturat javore në Tiranë (°C): 15, 18, 20, 16, 19, 17, 21\nZgjidhja: x̄ = (15+18+20+16+19+17+21)/7 = 126/7 = 18°C\nPërfundim: Temperatura mesatare javore është 18°C\n\nPunë në grupe (4 grupe): Çdo grup merr një tabelë me të dhëna të ndryshme (orët e gjumit, notat e nxënësve, çmimet e frutave, distancat ndërmjet qyteteve). Instrukcionet: 1) Llogaritni mesataren, 2) Interpretoni rezultatin, 3) Përgatitnipër prezantim. Mësuesi qarkullon dhe ndihmon.\n\n**PRAKTIKA** (8-10 minuta)\na) Niveli bazë: \n   - Gjeni mesataren: 5, 7, 8 (përgjigja: 6.67)\n   - Gjeni mesataren: 10, 12, 14, 16 (përgjigja: 13)\n   - Gjeni mesataren: 3, 6, 9 (përgjigja: 6)\n\nb) Niveli mesatar:\n   - Mesatarja e 5 numrave është 12. Nëse 4 numrat janë 10, 11, 13, 15, gjeni numrin e pestë (përgjigja: 11)\n   - Çmimet e benzinës: 168, 172, 170, 169 lekë/litër. Gjeni çmimin mesatar (përgjigja: 169.75 lekë)\n\nc) Niveli i avancuar:\n   - Në një klasë, mesatarja e notave të 20 nxënësve është 7.5. Nëse 5 nxënës të rinj me mesatare 8.0 shtohen në klasë, cila do të jetë mesatarja e re? (përgjigja: 7.6)\n\n**MBYLLJA/REFLEKTIMI** (3-5 minuta)\nPërmbledhje në tre pika: 1) Mesatarja aritmetike është suma e të dhënave e ndarë me numrin e tyre, 2) Formula është x̄ = (x₁+x₂+...+xₙ)/n, 3) Përdoret shumë në jetën reale për të krahasuar dhe për të marrë vendime. Quiz verbal: 'Çfarë do të thotë nëse mesatarja e notave tuaja është 8?' 'Pse është e dobishme të llogarisim mesataren e çmimeve?' Parashikim: 'Orën e ardhshme do të mësojmë medianën - një masë tjetër qendrore që mund të jetë më përfaqësuese se mesatarja në disa raste.'",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**BAZË:** Zgjidhni ushtrimet 1-6 nga faqja 82 të librit: llogaritni mesataren aritmetike të grupeve të dhënash numerike (notat, moshat, çmimet). Shembull: Gjeni mesataren e numrave 8, 12, 15, 9, 11.\n\n**KRIJUESE:** Realizoni një sondazh të shkurtër në familje ose lagje për një temë që ju intereson (p.sh. sa libra lexojnë në muaj, sa herë shkojnë në kinema, sa orë studiojnë). Mbledhni të dhëna nga të paktën 10 persona, llogaritni mesataren dhe shkruani një paragraf interpretues për rezultatin.\n\n**SHTESË (Fakultative):** Hulumtoni online mesataret e temperaturave mujore në tre qytete të Shqipërisë (Tiranë, Shkodër, Vlorë) për një vit të plotë. Llogaritni mesataren vjetore për çdo qytet dhe krahasoni rezultatet. Shkruani një raport një-faqesh me përfundime.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Statistika",
+      "page_or_row": "50"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

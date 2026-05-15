@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_082",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "III",
+  "lesson_number": 82,
+  "tema": "Piktogramat",
+  "tematika": "Statistika",
+  "month": "Shkurt",
+  "trimester": 2,
+  "duration_minutes": 45,
+  "situata": "Klasa 7B e shkollës së mesme 'Ismail Qemali' në Tiranë kryen një hulumtim për të gjetur cilat janë sportet më të preferuara nga nxënësit e shkollës së tyre. Pas mbledhjes së të dhënave nga 240 nxënës, ata duhet të paraqesin rezultatet në formë piktogramash për ta prezantuar në panairin e shkencave që do të organizohet muajin e ardhshëm në oborrin e shkollës.",
+  "rezultatet": [
+    "Nxënësi/ja përkufizon çfarë është piktograma dhe dallon elementet kryesorë të saj",
+    "Nxënësi/ja lexon dhe interpreton të dhënat e paraqitura në piktograma të ndryshme",
+    "Nxënësi/ja llogarit vlerën e simboleve në piktograma kur një simbol përfaqëson më shumë se një njësi",
+    "Nxënësi/ja krijon piktograma të thjeshta duke përdorur të dhëna të dhëna konkrete",
+    "Nxënësi/ja krahazon dhe analizon informacionin e paraqitur në piktograma të ndryshme",
+    "Nxënësi/ja zgjidh probleme praktike duke përdorur të dhënat e marra nga piktogramat"
+  ],
+  "fjalet_kyce": [
+    "piktograma",
+    "simbol",
+    "frekuenca",
+    "të dhëna (data)",
+    "legjenda",
+    "shkallë (scale)",
+    "interpretim",
+    "statistika deskriptive"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 8: Statistika, faqe 142-148",
+    "Fletë pune e përgatitur me 8 piktograma të ndryshme për analizë",
+    "Letër milimetrike A4 dhe ngjyra për krijimin e piktogramave",
+    "Vizore, laps dhe gome për vizatim të saktë të simboleve",
+    "Kartela me simbole të gatshme (emoji, forma gjeometrike) për nxënësit që kanë vështirësi në vizatim",
+    "Kompjuteri dhe projektori për paraqitjen e shembujve digjitalë"
+  ],
+  "lidhja": "Lidhje të forta me teknologjine për krijimin e piktogramave digjitale, me Edukatën Qytetare për analizimin e të dhënave rreth demografisë së Shqipërisë, me Gjeografinë për paraqitjen e të dhënave klimatike të qyteteve shqiptare, dhe me Gjuhën Shqipe për leximin dhe interpretimin e grafikëve në gazetat dhe revistat shqiptare. Përdoret në jetën e përditshme për të kuptuar statistikat e prezantuara në mediat shqiptare rreth ekonomisë, sportit dhe ngjarjeve sociale.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nKjo orë ka për qëllim që nxënësit të mësojnë të lexojnë, interpretojnë dhe krijojnë piktograma të thjeshta, duke i përgatitur ata për të paraqitur të dhënat statistikore në mënyrë vizuale dhe tërheqëse.\n\n**EVOKIMI/HYRJA** (10 minuta)\nMësuesi tregon një poster me piktograma nga një gazetë shqiptare që tregon numrin e turistëve që vizitojnë Shqipërinë çdo vit. Pyet: 'Çfarë shihni të veçantë në këtë grafikë? Si mendoni që janë paraqitur këto numra?' Nxënësit vëzhgojnë dhe diskutojnë. Mësuesi lidh me orën e kaluar rreth tabelave statistikore: 'Javën e kaluar mësuam si të organizojmë të dhënat në tabela. Sot do të mësojmë një mënyrë tjetër, më vizuale për t'i paraqitur ato - piktogramat.'\n\n**REALIZIMI I KUPTIMIT** (28 minuta)\nMësuesi shpjegon konceptin: 'Piktograma është një mënyrë e paraqitjes së të dhënave duke përdorur simbole ose imazhe.' Paraqet shembujt:\n\n**Shembulli 1:** Piktograma e librave të lexuar në bibliotekën e shkollës gjatë një muaji:\nJanari: 🟦🟦🟦 (çdo katror = 10 libra, gjithsej 30 libra)\nShkurti: 🟦🟦🟦🟦🟦 (gjithsej 50 libra)\nMarsi: 🟦🟦🟦🟦🟦🟦🟦 (gjithsej 70 libra)\nMësuesi shpjegon hap pas hapi: '3 simbole × 10 libra/simbol = 30 libra në janar.'\n\n**Shembulli 2:** Sportet e preferuara nga 60 nxënës:\nFutbolli: ⚽⚽⚽ (çdo top = 8 nxënës, gjithsej 24 nxënës)\nVollejbolli: 🏐🏐 (gjithsej 16 nxënës)\nBasketbolli: 🏀🏀🏀🏀 (gjithsej 32 nxënës)\nKalkulimi: 24 + 16 + 32 = 72? Jo, duhet të jetë 60. Mësuesi sqaron se sportet e tjera janë 60 - (24+16) = 20, dhe basketbolli duhet të jetë 20 nxënës.\n\n**Shembulli 3:** Të ardhurat e një dyqani frutash në Tiranë gjatë një jave (në mijë lekë):\nE hënë: 💰💰💰💰 (çdo simbol = 5 mijë lekë, gjithsej 20 mijë lekë)\nE martë: 💰💰💰💰💰💰 (gjithsej 30 mijë lekë)\nE mërkurë: 💰💰💰 (gjithsej 15 mijë lekë)\nTotali i tre ditëve: 20 + 30 + 15 = 65 mijë lekë.\n\nMësuesi formon grupe nga 4 nxënës dhe u jep secilës grup një fletë pune me piktograma të ndryshme për t'i analizuar dhe interpretuar. Një grup analizon piktogramën e mjeteve të transportit që përdoren për të shkuar në shkollë, tjetri analizon të dhënat e shiut në qytete të ndryshme shqiptare, dhe grupi i tretë analizon numrin e nxënësve në klasa të ndryshme.\n\n**PRAKTIKA** (8 minuta)\na) **Niveli bazë:** \n1. Në piktogramën e mëposhtme çdo 🚗 = 5 makina. Sa makina ka gjithsej nëse ka 6 simbole?\n2. Çdo 📚 = 3 libra. Sa libra përfaqësojnë 4 simbole?\n3. Çdo 🏠 = 10 shtëpi. Sa shtëpi ka një lagje me 7 simbole?\n\nb) **Niveli mesatar:**\n1. Krijoni një piktogramë të thjeshtë për numrin e nxënësve në 4 klasa: 7A ka 28 nxënës, 7B ka 32 nxënës, 7C ka 24 nxënës, 7D ka 36 nxënës. Përdorni simbol që përfaqëson 4 nxënës.\n2. Analizoni piktogramën e dhënë dhe gjeni sa është totali i të gjitha kategorive.\n\nc) **Niveli i avancuar:**\n1. Një dyqan shet 240 kafe në ditë. Nëse doni ta paraqisni këtë në piktogramë duke përdorur 6 simbole, sa kafe duhet të përfaqësojë çdo simbol? Krijoni piktogramën.\n\n**MBYLLJA/REFLEKTIMI** (4 minuta)\nMësuesi përmbledh: 'Sot mësuam se piktogramat janë një mënyrë vizuale për të paraqitur të dhënat, ku çdo simbol përfaqëson një numër të caktuar njësish. Elementet kryesore janë: simboli, legjenda që tregon vlerën e simbolit, dhe titulli.' Quiz verbal: 'Nëse çdo 🍎 = 3 mollë dhe kam 5 simbole, sa mollë kam gjithsej?' (Përgjigje: 15 mollë). Parashikon orën e ardhshme: 'Javën e ardhshme do të mësojmë si të krijojmë diagramet me shtylla, një mënyrë tjetër për të paraqitur të dhënat.'",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**BAZË:** Zgjidhni ushtrimet 1-6 nga faqja 146 të librit, ku duhet të lexoni dhe interpretoni 3 piktograma të dhëna dhe të llogaritni totalet për secilën kategori. Gjithashtu, plotësoni piktogramën e paplotë për numrin e kafshëve në kopshtin zoologjik të Tiranës.\n\n**KRIJUESE:** Krijo një piktogramë për të paraqitur numrin e ditëve me shi gjatë 6 muajve të parë të vitit në qytetin tuaj. Përdor të dhënat: Janar-12 ditë, Shkurt-8 ditë, Mars-15 ditë, Prill-10 ditë, Maj-7 ditë, Qershor-5 ditë. Zgjidh një simbol të përshtatshëm dhe përcakto vlerën e tij. Paraqite punën në një fletë A4 me ngjyra.\n\n**SHTESË (fakultative):** Hulumto në internet ose gazeta shqiptare dhe gjej 2 piktograma të vërteta që përdoren për të paraqitur statistika rreth Shqipërisë (ekonomi, sport, demografì). Analizoi ato dhe shkruaj një paragraf për secilën duke shpjeguar çfarë informacioni jepet dhe si e interpreton atë.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Statistika",
+      "page_or_row": "82"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

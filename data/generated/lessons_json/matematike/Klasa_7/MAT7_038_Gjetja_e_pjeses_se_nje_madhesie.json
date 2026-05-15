@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_038",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 38,
+  "tema": "Gjetja e pjesës së një madhësie",
+  "tematika": "Numri",
+  "month": "Nëntor",
+  "trimester": 1,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës së 7-të në shkollën 'Fan Noli' në Tiranë organizojnë një treg bamirësie për të mbledhur fonde për shkollën. Ata kanë shitur produkte në vlerë 15,000 lekë dhe duhet të llogaritin sa para duhet të japin për shkollën (3/5 e shumës), sa për materiale të reja (1/4 e shumës) dhe sa mbetet për aktivitete të tjera.",
+  "rezultatet": [
+    "Nxënësi/ja identifikon pjesën e kërkuar të një madhësie duke përdorur thyesat",
+    "Nxënësi/ja llogarit saktësisht vlerën numerike të një pjese të caktuar",
+    "Nxënësi/ja demonstron metodën e gjetjes së pjesës përmes shumëzimit me thyesa",
+    "Nxënësi/ja zgjidh probleme praktike me gjetjen e pjesëve të madhësive",
+    "Nxënësi/ja argumenton zgjidhjen e tij duke shpjeguar hapat e ndjekura",
+    "Nxënësi/ja përdor kalkulatorin për të verifikuar rezultatet e llogaritura"
+  ],
+  "fjalet_kyce": [
+    "pjesë e madhësise",
+    "thyesë",
+    "numëruesi",
+    "emëruesi",
+    "shumëzim me thyesa",
+    "përqindje (%)",
+    "proporcion",
+    "vlerë numerike"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 4 'Thyesat', faqe 58-63",
+    "Kalkulatorë shkentorë për verifikim",
+    "Fletë pune e përgatitur me 12 probleme praktike",
+    "Tabela e madhe për demonstrime",
+    "Kartela me thyesa të shkruara për aktivitetin grupor",
+    "Poster me formulën: Pjesa = Madhësia × Thyesa"
+  ],
+  "lidhja": "Lidhet me Gjeografinë në llogaritjen e sipërfaqeve të rajoneve të Shqipërisë, me Artet në ndanjen e ngjyrave për pikturë, me Edukimin Qytetar në buxhetimin familjar dhe planifikimin financiar, dhe me jetën e përditshme në llogaritjen e zbritjeve në dyqane, ndanjen e faturave dhe llogaritjen e tatimeve.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nOra synon që nxënësit të mësojnë të gjejnë pjesën e një madhësie duke përdorur thyesat dhe të zbatojnë këtë koncept në situata praktike nga jeta e përditshme në Shqipëri.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\nMësuesja fillon me një lojë motivuese: 'Ndajmë çokollatën'. Sjell një çokollatë të madhe dhe pyet: 'Nëse kjo çokollatë ka 24 copa dhe duam të marrim 1/3 e saj, sa copa do të marrim?' Nxënësit diskutojne në çifte. Pastaj lidh me situatën: 'Nëse një familje në Tiranë ka të ardhura 60,000 lekë në muaj dhe harxhon 2/5 për ushqim, sa lekë harxhon?' Aktivizon njohuritë e mëparshme për thyesat dhe pyet: 'Si e kemi gjetur 1/4 të 20?'\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\nMësuesja shpjegon konceptin me tre shembuj të detajuar:\n\n**Shembulli 1:** Një dyqan në Shkodër ka shitur 120 telefona. 3/8 e tyre janë smartphone. Sa smartphone janë shitur?\nZgjidhja: 120 × 3/8 = (120 × 3) ÷ 8 = 360 ÷ 8 = 45 smartphone\n\n**Shembulli 2:** Një autobus Tiranë-Vlorë ka 48 vende. 5/6 e vendeve janë zënë. Sa pasagjerë ka?\nZgjidhja: 48 × 5/6 = (48 × 5) ÷ 6 = 240 ÷ 6 = 40 pasagjerë\n\n**Shembulli 3:** Një fermer në Fier ka 360 kg grurë. Shet 7/9 e tij. Sa kilogramë shet?\nZgjidhja: 360 × 7/9 = (360 × 7) ÷ 9 = 2520 ÷ 9 = 280 kg\n\nPastaj organizon punë në grupe nga 4 nxënës. Çdo grup merr një kartolë me një problem: 'Llogaritni sa lekë duhet për: 1) ushqim (2/5 e 50,000 lekë), 2) veshje (1/8 e 32,000 lekë), 3) transport (3/10 e 25,000 lekë)'. Grupet prezantojnë zgjidhjet në tabelë.\n\n**PRAKTIKA** (8-10 minuta)\n**Niveli bazë:**\na) Gjeni 1/4 e 60\nb) Gjeni 3/7 e 84\nc) Gjeni 5/8 e 48\n\n**Niveli mesatar:**\na) Një shkollë ka 540 nxënës. 4/9 janë vajza. Sa vajza ka shkolla?\nb) Në një kinema ka 180 karrige. 7/12 janë zënë. Sa persona po shikojnë filmin?\n\n**Niveli i avancuar:**\nNjë kompani në Durrës ka 240 punëtorë. 3/8 punojnë në mëngjes, 2/5 e të mbetur punojnë pasdite, kurse të tjerët punojnë natën. Sa punëtorë punojnë natën?\n\n**MBYLLJA/REFLEKTIMI** (3-5 minuta)\nMësuesja përmbledh tre pikat kryesore: 1) Pjesa e madhësisë gjendet duke shumëzuar me thyesën, 2) Formula është: Pjesa = Madhësia × Thyesa, 3) Duhet të kontrollojmë nëse rezultati ka kuptim. Bën një quiz të shkurtër: 'Sa është 2/3 e 90?' dhe 'Si e llogaritëm?' Njofton se ora e ardhshme do të trajtojë problemet e përbëra me pjesët e madhësive.",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**DETYRË BAZË:** Zgjidhni ushtrimet 1-6 nga faqja 61 të librit. Llogaritni: 1/3 e 72, 5/8 e 96, 2/7 e 105, dhe 4/9 e 162. Kontrolloni rezultatet me kalkulatore.\n\n**DETYRË KRIJUESE:** Krijoni një problem praktik nga jeta juaj familjare ku duhet të gjeni pjesën e një madhësie (p.sh. sa para harxhoni për libra nëse keni 5000 lekë dhe librat kushtojnë 3/10 e kësaj shume). Shkruani problemin dhe zgjidheni.\n\n**DETYRË SHTESË (fakultative):** Hulumtoni sa është 30% e 200, 25% e 160, dhe 75% e 80. Gjeni lidhjen midis përqindjeve dhe thyesave. Krijoni një tabelë që tregon ekuivalencën midis thyesave dhe përqindjeve.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Numri",
+      "page_or_row": "38"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_123",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 123,
+  "tema": "Probleme me përqindje",
+  "tematika": "Numri",
+  "month": "Maj",
+  "trimester": 3,
+  "duration_minutes": 45,
+  "situata": "Nxënësit vizitojnë tregun e Pazarit të Ri në Tiranë për të blerë materialin shkollor për vitin e ri. Ata duhet të krahasojnë çmimet e ndryshme në dyqane të ndryshme ku ka uljet prej 15%, 20% dhe 25%, si dhe të llogaritin TVSH-në 20% për blerjet e tyre. Gjithashtu, ata duhet të planifikojnë shpërndarjen e buxhetit familjar kur 35% shkon për ushqim, 25% për qira dhe pjesa tjetër për shpenzime të ndryshme.",
+  "rezultatet": [
+    "Nxënësi/ja llogarit saktësisht përqindjen e një numri duke përdorur tre mënyra të ndryshme",
+    "Nxënësi/ja gjen numrin kur dihet përqindja e tij duke përdorur metodën e tre rregullit",
+    "Nxënësi/ja zgjidh probleme praktike me ulje dhe shtesa çmimesh në kontekstin e tregjeve shqiptare",
+    "Nxënësi/ja llogarit TVSH-në dhe çmimin përfundimtar të produkteve të ndryshme",
+    "Nxënësi/ja analizon shpërndarjen përqindsore të buxhetit familjar dhe bën krahasime",
+    "Nxënësi/ja argumenton zgjedhjen e ofertës më të mirë duke përdorur llogaritjet me përqindje"
+  ],
+  "fjalet_kyce": [
+    "përqindja (%)",
+    "përqindori (numri bazë)",
+    "vlera përqindsore",
+    "tre rregulli",
+    "ulja (discount)",
+    "shtesa (markup)",
+    "TVSH (Tatimi mbi Vlerën e Shtuar)",
+    "formula: P = (a/b) × 100%"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 4 'Përqindjet', faqe 78-95",
+    "Kalkulatore shkencorë për të gjithë nxënësit",
+    "Fletë pune e përgatitur 'Llogaritjet me përqindje në jetën e përditshme'",
+    "Broshutat reklamues të dyqaneve me ofertat e tyre",
+    "Tabelat e çmimeve të produkteve të ndryshme nga tregu",
+    "PowerPoint prezantimi 'Përqindjet rreth nesh'"
+  ],
+  "lidhja": "Lidhet me Gjeografinë përmes hartës së Tiranës dhe vendndodhjes së tregjeve, me Edukimin Qytetar në menaxhimin e buxhetit familjar dhe marrëdhëniet tregtare, me Gjuhën Shqipe në leximin dhe interpretimin e problemave tekstuale, si dhe me jetën praktike të nxënësve në blerjet e përditshme, planifikimin financiar dhe kuptimin e ofertave tregtare në Shqipëri.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nKjo orë synon që nxënësit të zotërojnë llogaritjet me përqindje në situata praktike të jetës së përditshme, duke përfshirë uljen dhe shtesën e çmimeve, llogaritjen e TVSH-së dhe analizimin e buxhetit familjar.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\nMësuesi fillon orën duke shfaqur broshurata reklamues të dyqaneve me ofertat: 'Ulje deri në 50%', 'Paguaj 2, merr 3', '20% zbritje për studentët'. Pyetje motivuese: 'Nëse një xhaketë kushton 5000 lekë dhe ka ulje 25%, sa do të paguani?' Nxënësit diskutojne në çifte përgjigjet e tyre. Mësuesi lidh me orën e kaluar për thyesat dhe dhjetorët duke pyetur: 'Si mund ta shndërrojmë 25% në thyesë dhe dhjetor?'\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\nMësuesi shpjegon tre mënyrat për llogaritjen e përqindjes:\n\nShembull 1 - Gjej përqindjen:\n'Sa për qind është 15 nga 60 nxënës?'\nMënyra 1: (15/60) × 100% = 25%\nMënyra 2: 15 : 60 = 0.25 = 25%\nMënyra 3: Tre rregulli - 60 është 100%, 15 është x%, x = (15×100)/60 = 25%\n\nShembull 2 - Gjej vlerën përqindsore:\n'Gjej 30% të 1200 lekëve (çmimi i një libri)'\nMënyra 1: 30% = 30/100 = 0.3, pra 1200 × 0.3 = 360 lekë\nMënyra 2: (30 × 1200)/100 = 360 lekë\nMënyra 3: Tre rregulli - 100% është 1200 lekë, 30% është x lekë, x = (30×1200)/100 = 360 lekë\n\nShembull 3 - Gjej numrin kur dihet përqindja:\n'20% e një shume është 240 lekë. Sa është shuma?'\nNëse 20% = 240 lekë, atëhere 100% = x lekë\nTre rregulli: (100 × 240)/20 = 1200 lekë\nVerifikimi: 20% e 1200 = 0.2 × 1200 = 240 lekë ✓\n\nPunë në grupe: Çdo grup merr broshurata të ndryshme dhe llogarit çmimet me ulje për 5 produkte. Grupi 1: Elektroshtëpiakat, Grupi 2: Veshmbathjet, Grupi 3: Librat shkollor, Grupi 4: Ushqimet. Çdo grup prezanton llogaritjet e tyre në tabelë.\n\n**PRAKTIKA** (8-10 minuta)\na) Niveli bazë:\n- Gjej 25% të 800 lekëve\n- Sa për qind është 12 nga 48?\n- Një pantallonë kushton 4000 lekë. Me ulje 15%, sa do të paguash?\n\nb) Niveli mesatar:\n- Çmimi i një telefoni pas shtesës së TVSH-së 20% është 72000 lekë. Sa ishte çmimi para taksave?\n- Në një shkollë me 450 nxënës, 60% janë vajza. Sa djem ka?\n\nc) Niveli i avancuar:\nFamilia Hoxha ka të ardhura mujore 80000 lekë. Shpenzon 35% për ushqim, 25% për qira, 15% për transport, 10% për veshmbathje dhe pjesën tjetër kursen. Sa lekë kursen në vit?\n\n**MBYLLJA** (3-5 minuta)\nPërmbledhja e tri pikave kryesore: 1) Përqindja tregon sa pjesë nga 100, 2) Ka tri mënyra llogaritjeje, 3) Përdoret në çdo aspekt të jetës. Quiz verbal: 'Nëse çmimi rritet 10% dhe pastaj ulet 10%, a kthehemi në çmimin fillestar?' Ora e ardhshme: 'Kamatë e thjeshtë dhe e përbërë në bankat shqiptare'.",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**BAZË:** Zgjidhni ushtrimet 15-22 nga faqja 88 të librit, që përfshijnë llogaritjen e përqindjeve të thjeshta dhe gjetjen e vlerave përqindsore për çmimet e produkteve të zakonshme.\n\n**KRIJUESE:** Krijoni një poster 'Ofertat e javës' duke mbledhur 10 reklama nga gazeta ose interneti. Llogaritni çmimin real pas uljes për çdo produkt dhe hartoni një tabelë krahasuese. Prezantoni posterin tuaj në orën e ardhshme.\n\n**SHTESË (fakultative):** Hulumtoni normat e kamatës në 3 banka të ndryshme shqiptare për kursimet. Llogaritni sa do të rritet një kursim 50000 lekësh pas 1 viti në secilën bankë dhe përgatitvni një raport të shkurtër me rekomandimin tuaj.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Numri",
+      "page_or_row": "123"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

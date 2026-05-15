@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_035",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 35,
+  "tema": "Mbledhja e thyesave me emërues të ndryshëm",
+  "tematika": "Numri",
+  "month": "Nëntor",
+  "trimester": 1,
+  "duration_minutes": 45,
+  "situata": "Klasa 7/2 e shkollës 'Fan Noli' në Tiranë organizon një treg bamirësie për të ndihmuar familjet në nevojë. Grupi i parë shiti 2/3 të tortave të përgatitura, grupi i dytë shiti 3/4 të byrekëve, ndërsa grupi i tretë shiti 5/6 të pijeve. Nxënësit duhet të llogaritin sa pjesë të produkteve kanë shitur gjithsej dhe sa fitim kanë realizuar duke mbledhur thyesa me emërues të ndryshëm.",
+  "rezultatet": [
+    "Nxënësi/ja identifikon emëruesi i përbashkët më i vogël (EPVV) për thyesa të dhëna",
+    "Nxënësi/ja kthen thyesat në thyesa ekuivalente me emërues të njëjtë",
+    "Nxënësi/ja llogarit saktësisht shumën e thyesave me emërues të ndryshëm",
+    "Nxënësi/ja thjeshtëron rezultatin deri në formën më të thjeshtë",
+    "Nxënësi/ja zgjidh probleme praktike duke përdorur mbledhjen e thyesave",
+    "Nxënësi/ja argumenton hapat e ndjekura gjatë llogaritjes së shumës"
+  ],
+  "fjalet_kyce": [
+    "thyesë (fraction)",
+    "numëruesi (numerator)",
+    "emëruesi (denominator)",
+    "emëruesi i përbashkët më i vogël (EPVV)",
+    "thyesa ekuivalente",
+    "shumë thyesash",
+    "thjeshtëzim thyesash",
+    "shumëfisha më i vogël i përbashkët (SMVP)"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 2: Thyesat, faqe 38-42",
+    "Kartela me thyesa për demonstrim dhe punë në grupe",
+    "Tabelë demonstrative me thyesa të vizualizuara",
+    "Fletë pune e përgatitur me 15 ushtrime me nivele të ndryshme",
+    "Kalkulatorë për verifikim të rezultateve",
+    "Postera me rregullat e mbledhjes së thyesave"
+  ],
+  "lidhja": "Në Artet Vizuale nxënësit përdorin thyesa për të llogaritur proporcionet në pikturë (1/2, 1/3, 2/3). Në Gjeografi llogaritëse shkallën e hartave (1:50000). Në jetën e përditshme përdoren për gatim (1/2 kg miell + 1/4 kg sheqer), për të llogaritur kohën (1/4 orë + 1/3 orë), dhe për të ndarë shpenzimet familjare në buxhetin mujor shqiptar.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nKjo orë synon që nxënësit të zotërojnë teknikën e mbledhjes së thyesave me emërues të ndryshëm duke gjetur emëruesin e përbashkët më të vogël dhe të aplikojnë këtë njohuri në situata praktike nga jeta e përditshme.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\nMësuesi prezanton situatën e tregut bamirës dhe pyet: 'Si do të llogarisnit sa produkte keni shitur gjithsej nëse një grup ka shitur 2/3, tjetri 1/4 dhe i treti 1/6 të produkteve të tyre?' Nxënësit diskutojne në çifte dhe ndajnë idetë. Mësuesi vizualizon problemën duke vizatuar drejtkëndësha në tabelë të ndarë në pjesë të barabarta dhe pyet: 'A mund t'i mbledhim direkt këto thyesa? Pse jo?' Lidhet me orën e kaluar mbi thyesat ekuivalente.\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\nMësuesi demonstron procesin hap pas hapi:\n\n**Shembulli 1:** 1/3 + 1/4\n- Gjej EPVV për 3 dhe 4: shumëfishat e 3 (3,6,9,12...) dhe 4 (4,8,12,16...) → EPVV = 12\n- Kthe në thyesa ekuivalente: 1/3 = 4/12 dhe 1/4 = 3/12\n- Mblidh numëruesit: 4/12 + 3/12 = 7/12\n- Kontrollo nëse mund të thjeshtëzohet: 7 dhe 12 nuk kanë faktorë të përbashkët → 7/12\n\n**Shembulli 2:** 2/5 + 3/10\n- Gjej EPVV për 5 dhe 10: 10 është shumëfish i 5 → EPVV = 10\n- Kthe në thyesa ekuivalente: 2/5 = 4/10 dhe 3/10 = 3/10\n- Mblidh: 4/10 + 3/10 = 7/10\n\n**Shembulli 3:** 5/6 + 2/9\n- Gjej EPVV për 6 dhe 9: shumëfishat e 6 (6,12,18,24...) dhe 9 (9,18,27...) → EPVV = 18\n- Kthe: 5/6 = 15/18 dhe 2/9 = 4/18\n- Mblidh: 15/18 + 4/18 = 19/18 = 1 1/18\n\nNxënësit ndahen në grupe nga 4 dhe secilit grup i jepen 3 thyesa për t'i mbledhur duke ndjekur të njëjtat hapa. Mësuesi rrotullon nëpër grupe dhe ndihmon.\n\n**PRAKTIKA** (8-10 minuta)\n\na) **Niveli bazë:** \n- 1/2 + 1/3 = ?\n- 2/5 + 1/10 = ?\n- 3/4 + 1/8 = ?\n\nb) **Niveli mesatar:**\n- 5/6 + 2/15 = ?\n- 7/12 + 5/18 = ?\n\nc) **Niveli i avancuar:**\n- Në një restorant në Tiranë, kuzhinieri përdori 2/3 të veredhes për dreka dhe 3/8 për darka. Sa veredhe përdori gjithsej? Nëse kishte fillimisht 24 kg veredhe, sa kg mbetën?\n\n**MBYLLJA/REFLEKTIMI** (3-5 minuta)\nPërmbledhje e rregullave: 1) Gjej EPVV, 2) Kthe në thyesa ekuivalente, 3) Mblidh numëruesit, 4) Thjeshtëzo nëse mundësh. Quiz verbal: 'Çfarë është EPVV i 6 dhe 8?' 'Si e kthejmë 3/4 me emërues 12?' Parashikimi: nesër do të mësojmë zbritjen e thyesave me emërues të ndryshëm.",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**BAZË:** Zgjidhni ushtrimet 12-18 në faqen 41 të librit, ku përfshihen: 1/4 + 1/6, 2/3 + 1/9, 3/5 + 1/15, 5/8 + 1/4, duke ndjekur hapat e mësuar në klasë.\n\n**KRIJUESE:** Krijoni një problem nga jeta e përditshme shqiptare (gatim, ndërtim, sport) që zgjidhet duke mbledhur 3 thyesa me emërues të ndryshëm. Shkruajeni problemën dhe zgjidheni duke treguar të gjithë hapat.\n\n**SHTESË (fakultative):** Hulumtoni se si mbledhen 4 thyesa së bashku: 1/2 + 1/3 + 1/4 + 1/6. Gjeni një metodë të shpejtë për të gjetur EPVV të më shumë se 2 numrave dhe paraqiteni zgjidhjen tuaj në një fletë të veçantë.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Numri",
+      "page_or_row": "35"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

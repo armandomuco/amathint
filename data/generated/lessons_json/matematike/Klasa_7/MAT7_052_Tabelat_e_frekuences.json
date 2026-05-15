@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_052",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 52,
+  "tema": "Tabelat e frekuencës",
+  "tematika": "Statistika",
+  "month": "Dhjetor",
+  "trimester": 1,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës së 7B të shkollës 'Ismail Qemali' në Tiranë kryejnë një hulumtim rreth llojeve të sporteve që preferojnë nxënësit e shkollës së tyre. Ata mbledhin të dhënat duke anketuar 50 nxënës nga klasa të ndryshme dhe duhet t'i organizojnë këto të dhëna në tabela frekuence për të parë qartë cilat sporte janë më të preferuarat. Rezultatet do t'i prezantojnë në Ditën e Sportit të shkollës për të ndihmuar komitetin organizativ.",
+  "rezultatet": [
+    "Nxënësi/ja përkufizon konceptin e frekuencës dhe dallon frekuencën absolute nga ajo relative",
+    "Nxënësi/ja konstrukton tabela frekuence për të dhëna të dhëna cilësore dhe sasiore",
+    "Nxënësi/ja llogarit frekuencën relative dhe e shpreh si përqindje me saktësi",
+    "Nxënësi/ja lexon dhe interpreton informacionet e paraqitura në tabela frekuence",
+    "Nxënësi/ja analizon të dhënat statistikore dhe nxjerr përfundime të bazuara",
+    "Nxënësi/ja zgjidh probleme praktike duke përdorur tabelat e frekuencës"
+  ],
+  "fjalet_kyce": [
+    "frekuencë (frequency)",
+    "frekuencë absolute",
+    "frekuencë relative",
+    "përqindje (%)",
+    "të dhëna statistikore",
+    "shuma totale (n)",
+    "kategori/grup",
+    "interpretim i të dhënave"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 'Statistika', faqe 125-132",
+    "Fletë pune e përgatitur me 15 pyetje ankete",
+    "Tabela të zbrazëta A4 për plotësim",
+    "Kalkulatorë elektronike",
+    "Markera me ngjyra për tabelë",
+    "Letër milimetrike për grafikë"
+  ],
+  "lidhja": "Tema lidhet ngushtë me Edukimin Qytetar në mbledhjen dhe analizimin e opinionit publik, me Gjeografinë në interpretimin e të dhënave demografike të Shqipërisë, dhe me teknologjine në përdorimin e programeve si Excel për krijimin e tabelave. Në jetën e përditshme, tabelat e frekuencës përdoren në sondazhet e opinionit publik, statistikat sportive që transmetohen në televizion, dhe në analizimin e shitjeve të produkteve në tregjet shqiptare.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nKjo orë synon që nxënësit të kuptojnë konceptin e frekuencës dhe të mësojnë të ndërtojnë tabela frekuence për organizimin e të dhënave statistikore, duke u bazuar në një hulumtim praktik për preferencat sportive.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\nMësuesi fillon me një lojë interaktive: 'Sa prej jush preferojnë futbollin? Sa basketbollin? Sa voleibolin?' dhe shkruan përgjigjet në tabelë pa organizim. Pyetje orientuese: 'Si mund t'i organizojmë më mirë këto të dhëna? Çfarë sporti është më i preferuar?' Lidhet me orën e kaluar për mbledhjen e të dhënave duke kujtuar se si mblodhen informacionet në hulumtime.\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\nMësuesi shpjegon konceptin e frekuencës dhe demonstron krijimin e tabelave të frekuencës:\n\nShembull 1: Të dhënat: Futboll, Basketboll, Futboll, Volejboll, Futboll, Basketboll, Notim, Futboll, Volejboll, Futboll\nTabela e frekuencës:\nSporti | Frekuenca absolute | Frekuenca relative\nFutboll | 5 | 5/10 = 0.5 = 50%\nBasketboll | 2 | 2/10 = 0.2 = 20%\nVolejboll | 2 | 2/10 = 0.2 = 20%\nNotim | 1 | 1/10 = 0.1 = 10%\nTotali | 10 | 100%\n\nShembull 2: Notat e një testi (nga 20 nxënës): 7,8,9,7,8,10,7,9,8,7,9,10,8,7,9,8,7,10,8,9\nTabela:\nNota | Frekuenca absolute | Frekuenca relative\n7 | 5 | 25%\n8 | 6 | 30%\n9 | 6 | 30%\n10 | 3 | 15%\nTotali | 20 | 100%\n\nShembull 3: Mosha e nxënësve në klasë: 12,13,12,13,14,12,13,12,13,13,12,14,13,12,13\nTabela:\nMosha | Frekuenca absolute | Frekuenca relative\n12 | 6 | 40%\n13 | 8 | 53.3%\n14 | 2 | 6.7%\nTotali | 15 | 100%\n\nNxënësit ndahen në grupe prej 4-5 personash. Çdo grup merr një fletë pune me të dhëna të ndryshme (ngjyrat e preferuara, llojet e muzikës, orët e studimit) dhe duhet të krijojë tabela frekuence. Mësuesi demonstron në tabelë si llogariten përqindjet dhe kontrollon punën e grupeve.\n\n**PRAKTIKA** (8-10 minuta)\na) Niveli bazë: Krijojnë tabela frekuence për: 1) 10 të dhëna rreth kafshëve shtëpiake, 2) Muajt e lindjes të 15 nxënësve, 3) Llojet e transportit që përdorin për në shkollë\nb) Niveli mesatar: Analizojnë tabela ekzistuese dhe përgjigjën pyetje si 'Sa përqind preferojnë...?' dhe 'Cili është dallimi mes kategorive...?'\nc) Niveli i avancuar: Krijojnë tabela me grupe/intervale për të dhëna të vazhdueshme si lartësia ose pesha, duke përdorur intervale 5cm ose 5kg.\n\n**MBYLLJA/REFLEKTIMI** (3-5 minuta)\nPërmbledhja e tri pikave kryesore: 1) Frekuenca tregon sa herë paraqitet një vlerë, 2) Frekuenca relative jepet si përqindje, 3) Tabela na ndihmojnë të interpretojmë të dhënat më mirë. Quiz verbal: 'Nëse 8 prej 25 nxënësve preferojnë matematikën, sa është frekuenca relative?' Parashikim: Ora e ardhshme do të mësojmë të krijojmë grafikë nga tabelat e frekuencës.",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "1. BAZË: Zgjidhni ushtrimet 1-6 nga faqja 130 të librit, ku duhet të krijoni tabela frekuence për të dhëna të thjeshta dhe të llogaritni përqindjet përkatëse.\n\n2. KRIJUESE: Kryeni një mini-hulumtim duke pyetur 20 persona në familje ose lagje rreth temës së preferuar televizive (lajme, sporte, filma, muzikë, dokumentarë). Krijoni tabelën e frekuencës dhe shkruani 3 konkluzione bazuar në rezultatet tuaja.\n\n3. SHTESË (fakultative): Hulumtoni statistikat e popullsisë së Shqipërisë sipas prefekturave dhe krijoni një tabelë frekuence duke grupuar prefekturat sipas numrit të banorëve (0-100,000; 100,001-200,000; mbi 200,000). Llogaritni sa përqind e popullsisë jeton në çdo grup.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Statistika",
+      "page_or_row": "52"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

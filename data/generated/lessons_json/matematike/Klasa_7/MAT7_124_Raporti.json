@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_124",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 124,
+  "tema": "Raporti",
+  "tematika": "Numri",
+  "month": "Maj",
+  "trimester": 3,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e shkollës së mesme 'Ismail Qemali' në Tiranë duhet të përgatisin një ekspozitë për festën e shkollës. Ata kanë një buxhet prej 15,000 lekësh dhe duhet ta ndajnë në proporcion 3:2:1 përkatësisht për dekorime, ushqime dhe çmime. Gjithashtu, duhet të llogaritën raportin midis numrit të nxënësve meshkuj dhe femra në klasë, si dhe raportin e notave të mira ndaj totalit të notave në provimin e fundit.",
+  "rezultatet": [
+    "Nxënësi/ja përkufizon raportin si krahasim të dy madhësive të të njëjtit lloj",
+    "Nxënësi/ja identifikon raportet e barabarta dhe i thjeshtojnë në formën më të thjeshtë",
+    "Nxënësi/ja llogarit vlerën e x-it në raportet e barabarta a:b = c:x",
+    "Nxënësi/ja zgjidh probleme praktike duke përdorur raportet",
+    "Nxënësi/ja demonstron si të ndajë një shumë në proporcion të dhënë",
+    "Nxënësi/ja argumenton zgjidhjen e problemave me raporte duke përdorur shembuj konkretë"
+  ],
+  "fjalet_kyce": [
+    "raport (ratio)",
+    "termi i parë dhe termi i dytë",
+    "raporte të barabarta",
+    "proporcion",
+    "ndarje në proporcion",
+    "thjeshtimi i raportit",
+    "a:b = c:d",
+    "madhësia e përbashkët"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 4, faqet 62-68",
+    "Fletë pune e përgatitur me 15 ushtrime në tre nivele",
+    "Kartela me numra dhe objekte për demonstrim",
+    "Kalkulatore për kontroll të llogaritjeve",
+    "Poster i madh për demonstrimin e raporteve",
+    "Materiale për aktivitetin në grup: monedha, shkopinj, gurëza"
+  ],
+  "lidhja": "Raporti lidhet ngushtë me Gjeografinë (shkallë hartash, distanca), me Artet (proporcioni në vizatim), me Ekonominë familjare (përbërësit e recetave gatimi), me Edukimin Fizik (llogaritja e rezultateve sportive), dhe me jetën e përditshme në Shqipëri (kursi i këmbimit valutor euro-lek, proporcioni i përbërësve në dyqanet e bakllës).",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nNxënësit të mësojnë konceptin e raportit dhe të zgjidhin probleme praktike duke përdorur raportet dhe proporcionet. Ata të aftësohen të ndajnë madhësi në proporcion dhe të gjejnë terma të panjohur në raportet e barabarta.\n\n**EVOKIMI/HYRJA (8-10 minuta)**\nMësuesi hyn në klasë me një qese me 15 mollë të kuqe dhe 10 mollë të gjelbra. Pyet: 'Sa mollë kemi gjithsej? Sa janë të kuqet krahasuar me të gjelbrat?' Nxënësit përgjigjen 25 mollë gjithsej, 15 të kuqe, 10 të gjelbra. Më pas pyet: 'Si mund ta shprehim këtë krahasim?' Disa nxënës thonë '15 kundrejt 10' ose '15 me 10'. Mësuesi shpjegon se kjo është një raport dhe e shkruan në tabelë si 15:10. Pyet: 'A mund ta thjeshtojmë këtë raport?' Nxënësit zbulojnë se 15:10 = 3:2. Pastaj pyet: 'Në klasën tonë sa vajza dhe sa djem kemi?' dhe i fton të llogaritin raportin.\n\n**REALIZIMI I KUPTIMIT (25-28 minuta)**\nMësuesi shpjegon se raporti është mënyra se si krahasojmë dy madhësi të të njëjtit lloj. Shkruan definicionin: 'Raporti i dy numrave a dhe b (b≠0) është thyesa a/b ose shkruhet a:b'.\n\nShembull 1: Në një shkollë ka 180 nxënës meshkuj dhe 120 nxënësa femra. Gjeni raportin e meshkujve ndaj femrave.\nZgjidhje hap pas hapi:\n- Raporti = 180:120\n- Gjejnë FPMD(180,120) = 60\n- 180:120 = (180÷60):(120÷60) = 3:2\n- Pra për çdo 3 meshkuj ka 2 femra\n\nShembull 2: Nëse raporti i moshës së Alkesit ndaj moshës së Beatriçes është 5:3 dhe Alkesi është 15 vjeç, sa vjeçe është Beatriça?\nZgjidhje:\n- Shkruajmë 15:x = 5:3\n- 15/x = 5/3\n- 15×3 = 5×x\n- 45 = 5x\n- x = 9\n- Beatriça është 9 vjeçe\n\nShembull 3: Ndani 240 lekë në proporcion 3:5 midis Amarit dhe Bendit.\nZgjidhje:\n- Shuma e raporteve: 3+5 = 8 pjesë\n- Çdo pjesë = 240÷8 = 30 lekë\n- Amari merr: 3×30 = 90 lekë\n- Bendi merr: 5×30 = 150 lekë\n- Kontrolli: 90+150 = 240 ✓\n\nPunë në grupe (3 grupe nga 8 nxënës): Secili grup merr një detyrat të ndryshme: Grupi 1 gjen raportin e librave të matematikës ndaj librave të gjuhës në bibliotekën e klasës. Grupi 2 mat lartësinë e 6 nxënësve dhe gjen raportin midis më të lartit dhe më të shkurtit. Grupi 3 llogarit sa përqind janë nxënësit me sy kaltër në klasë.\n\n**PRAKTIKA (8-10 minuta)**\na) Niveli bazë:\n- Thjeshtoni raportet: 12:8, 15:25, 18:12\n- Nëse 4:x = 8:12, gjeni x-in\n- Ndani 60 lekë në proporcion 2:3\n\nb) Niveli mesatar:\n- Raporti i dy numrave është 3:7 dhe ndryshesa e tyre është 24. Gjeni numrat\n- Në një recetë për 4 persona duhen 200g miell. Sa miell duhet për 6 persona?\n\nc) Niveli i avancuar:\n- Raporti i tre numrave është 2:3:5 dhe shuma e tyre është 120. Nëse i shtojmë 10 numrit të parë, sa bëhet raporti i ri?\n\n**MBYLLJA (3-5 minuta)**\nPërmbledhje e tre pikave kryesore: 1) Raporti krahajon dy madhësi të të njëjtit lloj, 2) Mund të thjeshtojmë raportet si thyesat, 3) Përdorim raportet për të ndarë madhësi në proporcion. Quiz verbal: 'Çfarë është raporti 6:9 i thjeshtuar?' (2:3), 'Si ndajmë 100 lekë në proporcion 1:4?' (20 dhe 80 lekë). Parashikim: nesër do mësojmë për përqindjet si raporte me 100.",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**BAZË (për të gjithë):**\n1. Thjeshtoni raportet: 16:24, 35:15, 42:28, 20:45\n2. Gjeni x-in: 6:x = 9:15, x:12 = 5:8, 7:14 = x:10\n3. Ndani shumat: 84 lekë në proporcion 3:4, 150 lekë në proporcion 2:3:5\n4. Libri 'Matematika 7', faqe 65, ushtrimet 1-8\n\n**KRIJUESE (fakultative):**\nProjekt: Krijoni një poster me titull 'Raportet në jetën time' ku do të përfshini 5 raporte nga jeta e përditshme (p.sh. raporti i kohës së studimit me kohën e lojës, raporti i anëtarëve të familjes, etj). Përdorni ngjyra dhe vizatime për ta bërë tërheqës.\n\n**SHTESË (për nxënës të avancuar):**\n1. Hulumtoni 'Raportin e Artë' (1.618...) dhe gjeni shembuj ku përdoret në arkitekturë dhe natyrë\n2. Zgjidhni: Tre shokë kanë para në proporcion 2:5:8. Nëse i dyti ka 15 euro më shumë se i pari, sa para ka secili?\n3. Krijoni një problem origjinal me raporte që lidhet me kulturën shqiptare",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Numri",
+      "page_or_row": "124"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_084",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 84,
+  "tema": "Diagramet rrethore",
+  "tematika": "Statistika",
+  "month": "Shkurt",
+  "trimester": 2,
+  "duration_minutes": 45,
+  "situata": "Klasa 7A organizon një festival kulturor në shkollën 'Fan S. Noli' në Tiranë dhe ka nevojë të prezantojë të dhënat e mbledhura nga një sondazh për preferencat muzikore të nxënësve të shkollës. Nga 240 nxënës të intervistuar, 72 preferojnë muzikë popullore shqiptare, 60 preferojnë rap/hip-hop, 48 preferojnë muzikë klasike, 36 preferojnë folk ballkanik dhe 24 preferojnë muzikë elektronike. Nxënësit duhet të krijojnë diagrame rrethore për të vizualizuar këto të dhëna në një mënyrë të qartë dhe tërheqëse për prezantimin e tyre.",
+  "rezultatet": [
+    "Nxënësi/ja përkufizon diagramin rrethor dhe elementet e tij bazë (rrezja, qendra, sektorët)",
+    "Nxënësi/ja llogarit saktësisht këndet e sektorëve duke përdorur proporcionin me 360°",
+    "Nxënësi/ja konstrukton diagrame rrethore duke përdorur busull dhe busull-gradues",
+    "Nxënësi/ja interpreton të dhënat e paraqitura në diagrame rrethore dhe nxjerr përfundime",
+    "Nxënësi/ja konverton përqindjet në kënd gradë dhe anasjelltas për sektorët e diagramit",
+    "Nxënësi/ja argumenton përparësitë e diagrameve rrethore krahasuar me forma të tjera të prezantimit të të dhënave"
+  ],
+  "fjalet_kyce": [
+    "diagram rrethor (pie chart)",
+    "sektor (sector)",
+    "kënd qendror (central angle)",
+    "360° (tre qind e gjashtëdhjetë gradë)",
+    "proporcion (ratio/proportion)",
+    "përqindje (%)",
+    "busull-gradues (protractor)",
+    "frekuenca relative"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 8 'Statistika dhe probabiliteti', faqe 156-162",
+    "Busull dhe laps për vizatim",
+    "Busull-gradeus (protractor) për matjen e këndeve",
+    "Kalkulatore për llogaritjet e përqindjeve",
+    "Fletë pune e përgatitur me tabela të dhënash për 5 situata të ndryshme",
+    "Kompas gjeometrik dhe vizore për konstruksione të sakta"
+  ],
+  "lidhja": "Lidhje me Gjeografinë (statistika mbi popullsinë e qarkëve të Shqipërisë, klimën), me Artet (ngjyrat dhe dizajni i diagrameve, proporcioni në pikturë), me teknologjine (krijimi i diagrameve në Excel ose LibreOffice Calc), me Edukatën Qytetare (sondazhet për zgjedhjet, analiza e të dhënave të komunitetit), dhe me jetën e përditshme në tregun shqiptar (përqindjet e produkteve vendase vs të importuara, statistikat e shitjeve në dyqane).",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\n\nKjo orë synon që nxënësit të kuptojnë konceptin e diagramit rrethor si mjet vizualizimi të të dhënave statistikore dhe të mësojnë të konstruktojnë dhe interpretojnë diagrame rrethore duke përdorur situata reale nga jeta shqiptare.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\n\nMësuesi fillon orën duke shfaqur një poster me statistika reale: \"Sa njerëz jetojnë në secilën nga qarqet e Shqipërisë?\" - Tiranë 900,000, Durrës 290,000, Vlorë 200,000, Elbasan 295,000, etj. Pyet: \"Si mund t'i paraqesim këto numra në një mënyrë më vizuale dhe të kuptueshme?\" Nxënësit diskutojnë ide (tabela, grafik me shtylla). Mësuesi tregon një diagram rrethor të gatshëm dhe pyet: \"Çfarë vëreni të veçantë në këtë mënyrë prezantimi?\" \"Pse përdoret një rreth?\" \"Si mendoni se është ndërtuar?\" Lidhja me orën e kaluar: \"Kujtoni se në orën e fundit mësuam të llogaritnim mesataren dhe modën. Sot do të mësojmë një mënyrë tjetër për të paraqitur të dhënat.\"\n\n**REALIZIMI I KUPTIMIT/ZHVILLIMI** (25-28 minuta)\n\nMësuesi shpjegon: \"Diagrami rrethor është një mënyrë grafike për të paraqitur të dhëna, ku çdo kategori paraqitet si një sektor i rrethit. Rrethi i plotë përfaqëson totalin (100%) dhe ka 360°.\"\n\n**Shembulli 1:** Në një shkollë me 120 nxënës: 40 studiojnë anglisht, 50 studiojnë frëngjisht, 30 studiojnë gjermanisht.\nHapi 1: Gjejmë përqindjet - Anglisht: 40/120 = 1/3 = 33.3%\nHapi 2: Kthejmë në gradë - 33.3% × 360° = 120°\nHapi 3: Frëngjisht: 50/120 × 360° = 150°\nHapi 4: Gjermanisht: 30/120 × 360° = 90°\nKontroll: 120° + 150° + 90° = 360° ✓\n\n**Shembulli 2:** Në një treg në Tiranë, nga 200 blerës: 80 blejnë fruta, 60 blejnë perime, 40 blejnë mish, 20 blejnë peshk.\nFruta: 80/200 × 360° = 144°\nPerime: 60/200 × 360° = 108°\nMish: 40/200 × 360° = 72°\nPeshk: 20/200 × 360° = 36°\nTotal: 144° + 108° + 72° + 36° = 360° ✓\n\n**Shembulli 3:** Transporti publik në Tiranë: nga 300 persona - 120 përdorin autobus, 90 përdorin taksi, 60 shkojnë në këmbë, 30 përdorin biçikletë.\nAutobus: 120/300 × 360° = 144°\nTaksi: 90/300 × 360° = 108°\nNë këmbë: 60/300 × 360° = 72°\nBiçikletë: 30/300 × 360° = 36°\n\nPunë në grupe (10 minuta): Çdo grup merr një situatë të ndryshme dhe duhet të llogarisë këndet, pastaj të vizatojë diagramin. Grupi 1: Sportet e preferuara, Grupi 2: Profesionet e dëshiruara, Grupi 3: Matjet e preferuara në mëngjes. Mësuesi demonstron në tabelë se si përdoret busull-graduesi për të matur këndet dhe si vizatohet çdo sektor.\n\n**PRAKTIKA/USHTRIME** (8-10 minuta)\n\na) **Niveli bazë** (2-3 ushtrime):\n- Nga 60 nxënës: 20 luajnë futboll, 15 basketboll, 25 volejboll. Gjeni këndet.\n- Nga 40 familje: 16 kanë makinë, 24 nuk kanë. Vizatoni diagramin.\n- Nga 80 studentë: 30 studiojnë në Tiranë, 50 në qytete të tjera. Llogaritni gradët.\n\nb) **Niveli mesatar** (2 ushtrime):\n- Një dyqan shet: 45% bukë, 30% qumësht, 25% mish. Vizatoni diagramin për 200 produkte.\n- Interpretoni diagramin e dhënë dhe thoni sa përqind zë çdo sektor.\n\nc) **Niveli i avancuar** (1 problemë sfiduese):\n- Krijoni një diagram rrethor për të dhënat e mbledhura nga klasa juaj për 5 kategori të ndryshme, duke përdorur të dhënat reale të anëtarëve.\n\n**MBYLLJA/REFLEKTIMI** (3-5 minuta)\n\nPërmbledhja e tre pikave kryesore: 1) Diagrami rrethor paraqet të dhëna si sektorë të një rrethi 360°, 2) Llogaritim këndet duke shumzuar përqindjen me 360°, 3) Kontrollojmë gjithmonë që shuma të jetë 360°. Quiz verbal: \"Sa gradë ka një sektor që përfaqëson 25%?\" (90°), \"Nëse një sektor ka 72°, sa përqind përfaqëson?\" (20%). Parashikimi: \"Orën e ardhshme do të mësojmë diagramet me shtylla dhe si t'i krahasojmë me diagramet rrethore.\"",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**BAZË:** Zgjidhni ushtrimet 1, 2, 3, 4 nga libri faqe 160. Llogaritni këndet për këto situata: a) Nga 90 nxënës - 30 preferojnë verën, 25 dimrin, 20 vjeshtën, 15 pranverën, b) Në një klasë me 24 nxënës - 8 janë djem, 16 janë vajza.\n\n**KRIJUESE:** Krijoni një sondazh në familjen tuaj ose lagjen ku jetoni për një temë që ju intereson (p.sh. ushqimi i preferuar, aktivitetet e kohës së lirë). Mbledhni të dhënat nga 10-15 persona dhe krijoni një diagram rrethor të bukur me ngjyra dhe tituj. Prezantoni rezultatet në një poster A4.\n\n**SHTESË (fakultative):** Hulumtoni statistikat reale të popullsisë së Shqipërisë sipas moshave ose qarqeve dhe krijoni diagrame rrethore përkatëse. Krahasoni diagramet tuaja me ato zyrtare të INSTAT-it dhe diskutoni ndryshimet. Bonus: Përdorni Excel ose program tjetër për të krijuar diagrame dixhitale.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Statistika",
+      "page_or_row": "84"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

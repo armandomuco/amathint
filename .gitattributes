@@ -1,0 +1,16 @@
+# Text normalization
+*.py text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.json text eol=lf
+*.toml text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+*.sh text eol=lf
+*.bat text eol=crlf
+
+# Office/source documents are binary in Git.
+*.doc binary
+*.docx binary
+*.pdf binary
+*.xlsx binary

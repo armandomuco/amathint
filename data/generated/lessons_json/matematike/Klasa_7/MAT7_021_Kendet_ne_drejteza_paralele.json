@@ -1,0 +1,64 @@
+{
+  "id": "MAT7_021",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 21,
+  "tema": "Këndet në drejtëza paralele",
+  "tematika": "Gjeometria",
+  "month": "Tetor",
+  "trimester": 1,
+  "duration_minutes": 45,
+  "situata": "Arkitekti i një ndërtese në Tiranë duhet të projektojë një shkallë ku të gjitha shkallët duhet të jenë paralele me njëra-tjetrën. Ai duhet të llogarisë këndet që formohen kur shkallët priten nga një drejtëz tjetër për të garantuar që ndërtimi të jetë i saktë dhe i sigurt.",
+  "rezultatet": [
+    "Nxënësi/ja identifikon këndet korresponduese, alternuese dhe bashkëplotësuese në drejtëza paralele",
+    "Nxënësi/ja llogarit masën e këndeve të panjohura duke përdorur vetitë e këndeve në drejtëza paralele",
+    "Nxënësi/ja zgjidh probleme konkrete me kënde në drejtëza paralele me masa nga 30° deri 150°",
+    "Nxënësi/ja dëshmon barazinë e këndeve duke përdorur rregullat e drejtëzave paralele",
+    "Nxënësi/ja aplikon njohuritë për këndet në situata praktike si ndërtimi dhe projektimi"
+  ],
+  "fjalet_kyce": [
+    "drejtëza paralele",
+    "kënde korresponduese",
+    "kënde alternuese të brendshme",
+    "kënde alternuese të jashtme",
+    "drejtëz sekantte",
+    "kënde bashkëplotësuese"
+  ],
+  "burimet": [
+    "Teksti shkollor 'Matematika 7' - Kapitulli Gjeometria",
+    "Vizore, kompas dhe raportues për matje kënde",
+    "Fletë pune me figura gjeometrike të drejtëzave paralele",
+    "Materiale konkrete si shkallë dhe rrugë për shembuj praktikë",
+    "Tabela mbi murin me vetitë e këndeve në drejtëza paralele"
+  ],
+  "lidhja": "Lidhet me fizikën në studimin e dritës dhe reflektimit, me gjeografinë në hartëzimin e rrugëve paralele, me artin në projektimin e modeleve gjeometrike, dhe me jetën e përditshme në ndërtimin e shtëpive, rrugëve dhe objekteve të tjera arkitekturore.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "QËLLIMI: Nxënësit të kuptojnë dhe të aplikojnë vetitë e këndeve që formohen kur një drejtëz pret dy drejtëza paralele, duke zgjidhur probleme konkrete numerike.\n\nHYRJA (7 min): Fillojmë duke vëzhguar shkallët e shkollës dhe pyesim: 'Pse shkallët duket se janë paralele?' Tregoj me duar dy drejtëza paralele dhe një të tretë që i pret. Paraqes problemin: 'Në një rrugë me dy korsi paralele, një rrugë kryqëzuese formon këndin 65° me korsin e parë. Sa është këndi me korsin e dytë?' Shkruaj në tabelë.\n\nZHVILLIMI (28 min): Vizatoj në tabelë dy drejtëza paralele AB dhe CD të pretura nga drejtëza EF. Shënoj 8 kënde me numra 1-8. Shpjegoj: Këndet korresponduese: ∠1=∠5=120°, ∠2=∠6=60°, ∠3=∠7=60°, ∠4=∠8=120°. Këndet alternuese të brendshme: ∠3=∠6=60°, ∠4=∠5=120°. Këndet alternuese të jashtme: ∠1=∠8=120°, ∠2=∠7=60°. Demonstroj me shembull: Nëse ∠1=75°, atëherë ∠5=75° (korresponduese), ∠4=105° (bashkëplotësuese). Aktivitet grupi: Çdo grup merr një figurë me masa të dhëna dhe gjen këndet e tjera. Grupi 1: ∠2=45°, gjeni të gjithë. Grupi 2: ∠6=110°, gjeni të gjithë.\n\nPRAKTIKA (8 min): Ushtrime individuale: 1) Nëse AB∥CD dhe ∠x=85°, gjeni ∠y (korrespondues). 2) Në figurën e dhënë ku PQ∥RS dhe ∠a=125°, llogaritni ∠b dhe ∠c. 3) Dy rrugë paralele priten nga një rrugë tjetër. Këndi i parë është 72°. Sa janë këndet e tjerë?\n\nMBYLLJA (5 min): Përsëritim rregullat kryesore: këndet korresponduese janë të barabarta, këndet alternuese janë të barabarta, këndet në të njëjtën anë janë bashkëplotësuese (shuma=180°). Pyetje: 'Çfarë këndi formon një shkallë 30cm e lartë dhe 40cm e gjatë me dyshemenë?' Vlerësoj me pyetje të shpejta: tregoni një çift këndesh korresponduese, alternuese.",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "1) Në figurën ku AB∥CD, drejtëza EF i pret dhe formon ∠1=68°. Gjeni masën e këndeve ∠2, ∠3, ∠4, ∠5, ∠6, ∠7, ∠8. 2) Dy rrugë paralele në Durrës priten nga një rrugë tjetër. Këndi që formon rruga me korsin e parë është 115°. Llogaritni të gjithë këndet e tjerë. 3) Në një shkallë, secila shkallore formon këndin 32° me dyshemenë horizontale. Nëse shkallët janë paralele, sa është këndi që formon shkallësi me shkalloren? 4) Vizatoni dy drejtëza paralele dhe një sekantte. Nëse një kënd është 95°, gjeni të gjithë këndet e tjerë dhe etiketojini ato. 5) Problemi praktik: Një ndërtues vendos dërrasat paralele të një çatie. Dërrasa e parë formon këndin 55° me murin vertikal. Sa duhet të jetë këndi i dërrasës së dytë për të qenë paralele me të parën?",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Gjeometria",
+      "page_or_row": "21"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

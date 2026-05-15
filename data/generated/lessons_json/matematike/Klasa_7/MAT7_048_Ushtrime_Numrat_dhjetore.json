@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_048",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 48,
+  "tema": "Ushtrime - Numrat dhjetorë",
+  "tematika": "Numri",
+  "month": "Dhjetor",
+  "trimester": 1,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës së 7-të në shkollën 'Fan S. Noli' në Tiranë janë duke organizuar një treg bamirësie për të ndihmuar familjet në nevojë gjatë dimrit. Ata duhet të llogaritjin çmimet e produkteve duke përdorur numra dhjetorë, të gjejnë fitimin nga shitja e bukëve që kushton 2.75 euro dhe shitet për 4.20 euro, dhe të përllogaritin sa para mund të mbledhin nëse shesin 15.5 kg sheqer me çmim 1.85 euro/kg.",
+  "rezultatet": [
+    "Nxënësi/ja llogarit saktësisht mbledhjen dhe zbritjen e numrave dhjetorë deri në tre shifra pas presjes",
+    "Nxënësi/ja shumëzon dhe pjesëton numra dhjetorë duke aplikuar rregullat e pozicionimit të presjes dhjetore",
+    "Nxënësi/ja zgjidh probleme praktike që përfshijnë veprime me numra dhjetorë në kontekstin e çmimeve dhe matjeve",
+    "Nxënësi/ja vlerëson rezultatin e llogaritjeve dhe kontrollon saktësinë duke përdorur përafrim",
+    "Nxënësi/ja argumenton zgjedhjen e rrugës së zgjidhjes për probleme që përfshijnë numra dhjetorë",
+    "Nxënësi/ja identifikon gabimet e shpeshta në llogaritjet me numra dhjetorë dhe i korrigjon ato"
+  ],
+  "fjalet_kyce": [
+    "numri dhjetorë (decimal number)",
+    "presja dhjetore (decimal point)",
+    "shifra pas presjes (digits after decimal point)",
+    "mbledhje dhjetorësh (3.5 + 2.75 = 6.25)",
+    "shumëzim dhjetorësh (2.4 × 1.5 = 3.60)",
+    "pjesëtim dhjetorësh (8.4 ÷ 2.1 = 4.0)",
+    "përafrim (rounding) - 3.456 ≈ 3.46",
+    "vlerë e pozicionit dhjetor (0.1, 0.01, 0.001)"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 2: Numrat dhjetorë, faqe 28-35",
+    "Kalkulatore për verifikim të rezultateve",
+    "Fletë pune e përgatitur me 15 probleme me kontekst real shqiptar",
+    "Tabela e konvertimit të njësive matëse (kg, euro, metra)",
+    "Kartela me çmime produktesh nga tregjet shqiptare",
+    "Vizore dhe laps për skicime të problemave"
+  ],
+  "lidhja": "Lidhje me Gjeografinë përmes llogaritjes së distancave në harta (Tiranë-Shkodër: 116.5 km). Lidhje me Edukimin Qytetar përmes organizimit të aktiviteteve bamirëse dhe mësimit të përgjegjësisë financiare. Lidhje me shkencat natyrore përmes matjeve të saktësisë (masa, gjatësi) dhe me Artet përmes projektimit të posterave për tregun shkollor. Aplikim në jetën e përditshme përmes llogaritjes së çmimeve në dyqane, matjeve në kuzhinë, dhe menaxhimit të parave xhepi.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\n\nOra synon të përmirësojë aftësitë e nxënësve në kryerjen e veprimeve me numra dhjetorë përmes problemave konkrete nga jeta e përditshme shqiptare. Nxënësit do të zhvillojnë saktësinë në llogaritje dhe do të mësojnë të aplikojnë strategji kontrolli për verifikimin e rezultateve.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\n\nMësuesi fillon me lojën 'Tregu i matematikës': vendos në tabelë produkte të ndryshme me çmime dhjetorë (bukë 1.25€, qumësht 0.85€, mollë 2.30€/kg). Pyet: 'Sa kushton të blesh 2 bukë dhe 3 litra qumësht?' Nxënësit përgjigjen verbalisht duke përdorur strategji të ndryshme. Mësuesi shkruan në tabelë: 2 × 1.25 + 3 × 0.85 = ? dhe pyet: 'Si mund t'i llogarisim këto veprime më saktësisht?' Lidh me orën e kaluar duke kujtuar rregullat bazë të numrave dhjetorë dhe prezanton objektivin e orës: 'Sot do të bëhemi ekspertë në zgjidhjen e problemave me numra dhjetorë që hasen në jetën tonë të përditshme.'\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\n\nMësuesi shpjegon metodat sistematike të llogaritjes me numra dhjetorë duke prezantuar tre shembuj të plotë:\n\n**Shembulli 1 - Mbledhje dhe Zbritje:**\nProblema: Ana bleu 2.75 kg mollë me çmim 3.20€/kg dhe 1.5 kg banane me çmim 2.85€/kg. Sa pagoi gjithsej?\nZgjidhja hap pas hapi:\n- Kostoja e mollëve: 2.75 × 3.20 = 8.80€\n- Kostoja e bananeve: 1.5 × 2.85 = 4.275€ ≈ 4.28€  \n- Kostoja totale: 8.80 + 4.28 = 13.08€\n\n**Shembulli 2 - Shumëzimi:**\nProblema: Një recetë kërkon 0.75 kg miell për 4 persona. Sa miell duhet për 6 persona?\nZgjidhja hap pas hapi:\n- Raporti: 6 ÷ 4 = 1.5\n- Mielli i nevojshëm: 0.75 × 1.5 = 1.125 kg ≈ 1.13 kg\n\n**Shembulli 3 - Pjesëtimi:**\nProblema: Familja Kola pagoi 45.60€ për 12 kg patate. Cili është çmimi për kilogram?\nZgjidhja hap pas hapi:\n- Çmimi/kg: 45.60 ÷ 12 = 3.80€/kg\n- Verifikimi: 3.80 × 12 = 45.60€ ✓\n\nPas shembujve, nxënësit ndahen në grupe prej 4 vetash. Çdo grup merr nga 3 probleme të ngjashme dhe duhet t'i zgjidhë duke ndjekur të njëjtat hapa. Mësuesi qarkullon dhe ndihmon grupet. Grupet prezantojnë zgjidhjet në tabelë duke shpjeguar hapat.\n\n**PRAKTIKA** (8-10 minuta)\n\n**Niveli Bazë:**\na) 3.45 + 2.7 = ?\nb) 5.2 - 1.85 = ?\nc) 2.4 × 3 = ?\n\n**Niveli Mesatar:**\na) Gjoni bleu 2.5 kg patate me çmim 1.20€/kg dhe 1.8 kg domate me çmim 2.50€/kg. Sa pagoi?\nb) Nëse 3.6 metra pëlhurë kushton 18.90€, sa kushton 1 metri?\n\n**Niveli i Avancuar:**\nFamiljja Hoxha planifikon të blejë shtëpi. Ata kanë kursyer 45,250.75€ dhe duhet të paguajnë 15% paradhënie. Nëse shtëpia kushton 185,500€, a kanë mjaft para për paradhënien? Sa para do t'u mbeten pas pagesës?\n\nNxënësit zgjedhin nivelin sipas aftësive dhe punojnë individualisht. Mësuesi ndihmon ata që kanë vështirësi dhe sfidon ata që mbarojnë shpejt.\n\n**MBYLLJA/REFLEKTIMI** (3-5 minuta)\n\nMësuesi përmbledh tri pikat kryesore:\n1. Kur shumëzojmë numra dhjetorë, numërojmë shifrat pas presjes dhe i vendosim në rezultat\n2. Gjithmonë verifikojmë rezultatin duke përdorur përafrim ose veprim të kundërt\n3. Numrat dhjetorë janë të dobishëm për matje të sakta në jetën reale\n\nQuiz i shkurtër verbal: 'Çfarë duhet të bëjmë kur pjesëtojmë me numër dhjetorë? Si e verifikojmë rezultatin?' Nxënësit ngrenë dorë për t'u përgjigjur.\n\nParashikon orën e ardhshme: 'Nesër do të mësojmë si të kthejmë thyesat në numra dhjetorë dhe anasjelltas, për të zgjidhur problema edhe më interesante.'",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**DETYRAT PËR NË SHTËPI - Tri Nivele:**\n\n**1. NIVELI BAZË (të gjithë nxënësit):**\n- Ushtrimet 1-6 nga libri, faqe 34: Llogaritni mbledhjen, zbritjen, shumëzimin dhe pjesëtimin e numrave dhjetorë\n- Problemi praktik: Llogaritni sa kushton të blini 3 kg mollë me çmim 2.40€/kg dhe 2 litra qumësht me çmim 1.15€/litër\n- Verifikoni rezultatet duke përdorur përafrim\n- Kopjoni dhe plotësoni tabelën e veprimeve nga fletorja e punës\n\n**2. DETYRA KRIJUESE:**\nKrijoni një mini-biznesplan për një dyqan ëmbëlsirash. Zgjidhni 5 produkte, vendosni çmimet me numra dhjetorë, llogaritni koston e blerjes së 10 copëve nga çdo produkt, dhe parashikoni fitimin nëse i shitni me 25% më shtrenjtë. Prezantojeni në një fletë A4 me skica dhe llogaritje të qarta.\n\n**3. DETYRA SHTESË (fakultative për nxënës të avancuar):**\nHulumtoni çmimet e karburantit në 5 stacione të ndryshme benzine në Tiranë gjatë një jave. Llogaritni çmimin mesatar, gjeni diferenciën më të madhe, dhe përllogaritni sa kushton të mbushësh një rezervuar 45.5 litrash në stacionin më të lirë dhe më të shtrenjtë. Krahasoni rezultatet dhe shkruani përfundime.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Numri",
+      "page_or_row": "48"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

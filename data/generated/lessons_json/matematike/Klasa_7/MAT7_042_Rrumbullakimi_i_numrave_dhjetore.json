@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_042",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 42,
+  "tema": "Rrumbullakimi i numrave dhjetorë",
+  "tematika": "Numri",
+  "month": "Nëntor",
+  "trimester": 1,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës së 7-të të shkollës 'Fan Noli' në Tiranë organizojnë një treg shkollor bamirës për të ndihmuar familjet në nevojë. Ata duhet të llogaritin çmimet e produkteve, të bëjnë rrumbullakime për të dhënë kusur dhe të llogaritësin fitimet. Produktet shiten me çmime si 125.67 lekë për një libër, 47.89 lekë për një stilolaps dhe 236.45 lekë për një bluzë. Nxënësit duhet të mësojnë si të rrumbullakojnë këto çmime në dhjetëshe, qindëshe ose mijëshe për të lehtësuar transaksionet.",
+  "rezultatet": [
+    "Nxënësi/ja përkufizon rregullat e rrumbullakimit për numrat dhjetorë duke përdorur shifrën kontrollore",
+    "Nxënësi/ja identifikon vendin dhjetor ku duhet të bëhet rrumbullakimi (dhjetëshe, qindëshe, mijëshe)",
+    "Nxënësi/ja llogarit rrumbullakimin e numrave dhjetorë deri në dhjetëshe me saktësi 100%",
+    "Nxënësi/ja llogarit rrumbullakimin e numrave dhjetorë deri në qindëshe dhe mijëshe",
+    "Nxënësi/ja argumenton pse një numër rrumbullakohet lart ose poshtë duke u bazuar në shifrën kontrollore",
+    "Nxënësi/ja zgjidh probleme praktike që përfshijnë rrumbullakimin e numrave dhjetorë në situata reale"
+  ],
+  "fjalet_kyce": [
+    "rrumbullakimi (rounding)",
+    "shifra kontrollore",
+    "numri dhjetor (decimal number)",
+    "dhjetëshe (tenths) - 0.1",
+    "qindëshe (hundredths) - 0.01",
+    "mijëshe (thousandths) - 0.001",
+    "rrumbullakimi lart/poshtë",
+    "saktësia e llogaritjes"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' nga IZHA - Kapitulli 2, faqe 34-38",
+    "Kalkulatorë shkollore për verifikim",
+    "Fletë pune e përgatitur me 15 ushtrime rrumbullakimi",
+    "Kartat e produkteve me çmime dhjetore (materiale të printuara)",
+    "Vizore dhe lapse me ngjyra për nënvizim",
+    "Tabela e rrumbullakimit (poster i madh për në mur)"
+  ],
+  "lidhja": "Tema lidhet ngushtë me Ekonominë dhe Jetën Praktike duke përdorur çmimet në tregje dhe dyqane shqiptare, me Gjeografinë për llogaritjen e distancave të rrumbullakosuara midis qyteteve (Tiranë-Shkodër 116.7 km ≈ 117 km), me shkencat natyrore për matjet e sakta dhe të rrumbullakosuara, dhe me Edukimin Financiar për menaxhimin e parave dhe bërjen e llogarive të shpejta. Koncepti është thelbësor për jetën e përditshme në blerje, matje dhe llogaritje praktike në Shqipëri.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nKjo orë ka për qëllim që nxënësit të zotërojnë teknikën e rrumbullakimit të numrave dhjetorë në nivele të ndryshme saktësie. Nxënësit do të mësojnë të përdorin rregullat e rrumbullakimit për të zgjidhur probleme praktike nga jeta e përditshme.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\nMësuesi hyn në klasë me një qese me produkte dhe çmime: \"Libër 125.67 lekë, Stilolaps 47.89 lekë, Fletore 23.45 lekë\". Pyet nxënësit: \"Nëse doni të llogaritin shpejt sa para ju duhen pa përdorur kalkulatorë, si do t'i bëni këto çmime më të thjeshta?\" Nxënësit propozojnë ide. Mësuesi shkruan në tabelë disa përgjigje: 126 lekë, 48 lekë, 23 lekë. \"Si erdhëm te këto numra? A ka rregulla për këtë?\" Lidh me orën e kaluar për numrat dhjetorë: \"Kur mësuam të lexojmë 125.67, çfarë domethën kishin shifrat pas presjes?\" Prezanton objektivin: \"Sot do të mësojmë të bëjmë rrumbullakime të sakta që na ndihmojnë në jetën e përditshme.\"\n\n**REALIZIMI I KUPTIMIT/ZHVILLIMI** (25-28 minuta)\n\n*Shpjegimi i konceptit bazë:*\nMësuesi shpjegon se rrumbullakimi është bërja e një numri më të thjeshtë duke ruajtur vlerën e tij të përafërt. Prezanton rregullat:\n\n*Rregulla themelore:*\n1. Identifikojmë vendin ku do të rrumbullakojmë\n2. Shikojmë shifrën e menjëhershme majtas (shifra kontrollore)\n3. Nëse shifra kontrollore ≥ 5: rrumbullakojmë lart (+1)\n4. Nëse shifra kontrollore < 5: rrumbullakojmë poshtë (mbetet e njëjtë)\n\n**SHEMBULL 1 - Rrumbullakimi në dhjetëshe:**\nNumri: 125.67 lekë\nDuam ta rrumbullakojmë në dhjetëshe (një shifër pas presjes)\nVendi i rrumbullakimit: dhjetëshe (6)\nShifra kontrollore: 7 (në vendin e qindësheve)\n7 ≥ 5, prandaj rrumbullakojmë lart: 6+1=7\nPërgjigja: 125.7 lekë\n\n**SHEMBULL 2 - Rrumbullakimi në qindëshe:**\nNumri: 47.894 lekë\nDuam ta rrumbullakojmë në qindëshe (dy shifra pas presjes)\nVendi i rrumbullakimit: qindëshe (9)\nShifra kontrollore: 4 (në vendin e mijësheve)\n4 < 5, prandaj rrumbullakojmë poshtë: mbetet 9\nPërgjigja: 47.89 lekë\n\n**SHEMBULL 3 - Rrumbullakimi në numra të plotë:**\nNumri: 236.45 lekë\nDuam ta rrumbullakojmë në numra të plotë (pa shifra pas presjes)\nVendi i rrumbullakimit: njëshe (6)\nShifra kontrollore: 4 (në vendin e dhjetësheve)\n4 < 5, prandaj rrumbullakojmë poshtë: mbetet 6\nPërgjigja: 236 lekë\n\n*Punë në grupe (10 minuta):*\nNdarja në 4 grupe, çdo grup merr 5 produkte me çmime dhjetore. Detyra: Rrumbullakoni çmimet në dhjetëshe, qindëshe dhe numra të plotë. Grupet prezantojnë rezultatet dhe shpjegojnë arsyetimin.\n\n*Demonstrim interaktiv:*\nMësuesi përdor tabelën për të treguar vizualisht lëvizjen e shifrave, duke vizatuar shigjeta për të treguar se si ndryshojnë shifrat gjatë rrumbullakimit.\n\n**PRAKTIKA/USHTRIME** (8-10 minuta)\n\n*a) Niveli bazë (2-3 ushtrime):*\n- Rrumbullakoni në dhjetëshe: 34.82, 67.15, 91.09\n- Rrumbullakoni në numra të plotë: 156.3, 89.7, 234.2\n\n*b) Niveli mesatar (2 ushtrime):*\n- Një libër kushton 1,247.68 lekë. Rrumbullakoni në qindëshe dhe në dhjetëshe\n- Distanca Tiranë-Vlorë është 147.35 km. Si do ta rrumbullakonit për një udhëtim?\n\n*c) Niveli i avancuar (1 problemë sfiduese):*\n- Një dyqan shet 3 produkte: 125.678 lekë, 89.234 lekë, 456.891 lekë. Llogari totalin e saktë dhe totalin e rrumbullakosur në dhjetëshe. Sa është ndryshimi?\n\n**MBYLLJA/REFLEKTIMI** (3-5 minuta)\n*Përmbledhje në tre pika kryesore:*\n1. Rrumbullakimi na ndihmon të bëjmë llogaritje të shpejta\n2. Shifra kontrollore vendos nëse shkojmë lart apo poshtë\n3. Mund të rrumbullakojmë në nivele të ndryshme saktësie\n\n*Quiz verbal:*\n\"Si rrumbullakohet 67.83 në dhjetëshe?\" (Përgjigja: 67.8)\n\"Përse 45.67 bëhet 46 kur rrumbullakohet në numra të plotë?\" (Përgjigja: Sepse 6≥5)\n\n*Parashikim:*\n\"Orën e ardhshme do të mësojmë si të përdorim rrumbullakimin për të llogaritur shpejt shumat dhe ndryshimet e numrave dhjetorë.\"",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**NIVELI BAZË (3-4 ushtrime konkrete):**\n1. Rrumbullakoni këto çmime në dhjetëshe: 234.56 lekë, 167.89 lekë, 98.34 lekë, 345.67 lekë\n2. Rrumbullakoni në numra të plotë: 45.7 kg, 78.3 m, 156.8 cm, 234.5 litra\n3. Zgjidhni ushtrimet 1-6 nga libri, faqe 36\n4. Plotësoni tabelën e rrumbullakimit për numrat: 567.894, 123.456, 789.123\n\n**NIVELI KRIJUES (Projekt i shkurtër):**\nKrijoni një 'Menu Kafeneje' me të paktën 8 produkte me çmime dhjetore realiste për Shqipërinë. Për secilin produkt tregoni:\n- Çmimin e saktë\n- Çmimin e rrumbullakosur në dhjetëshe \n- Çmimin e rrumbullakosur në numra të plotë\nShkruani një paragraf që shpjegon përse rrumbullakimi është i dobishëm për kafenenë dhe klientët.\n\n**NIVELI SHTESË (Fakultative për nxënës të avancuar):**\n1. Hulumtoni si përdoret rrumbullakimi në sistemin bankar shqiptar për llogaritjen e interesave\n2. Zgjidhni problemën: Një fabrikë prodhon 1,247.678 kg produkte në ditë. Sa prodhon në një javë të rrumbullakosur në dhjetëshe dhe qindëshe?\n3. Krijoni 5 probleme origjinale me rrumbullakimin që lidhen me sportin, transportin ose tregtinë në Shqipëri",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Numri",
+      "page_or_row": "42"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

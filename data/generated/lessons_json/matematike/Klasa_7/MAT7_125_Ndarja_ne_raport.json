@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_125",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 125,
+  "tema": "Ndarja në raport",
+  "tematika": "Numri",
+  "month": "Maj",
+  "trimester": 3,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës së 7-të në shkollën 'Fan S. Noli' në Tiranë planifikojnë të organizojnë një treg shkollor për të mbledhur fonde për ekskursionin në Butrint. Ata duhet të ndajnë të ardhurat prej 12,000 lekësh nga shitja e produkteve në raport 2:3:1 mes tre grupeve: grupi i librave të përdorur, grupi i ëmbëlsirave dhe grupi i artizanatit. Gjithashtu, duhet të llogaritin se sa metra pëlhurë duhen për secilën ngjyrë flamuri kur kanë gjithsej 15 metra pëlhurë dhe duan ta ndajnë në raportin 2:1:2 për të kuq, të zi dhe të verdha.",
+  "rezultatet": [
+    "Nxënësi/ja përkufizon konceptin e ndarjes në raport dhe identifikon raportin e dhënë në një situatë konkrete",
+    "Nxënësi/ja llogarit saktësisht secilën pjesë kur një numër ndahet në raport të dhënë duke përdorur metodën e shumës së raporteve",
+    "Nxënësi/ja zgjidh probleme praktike të ndarjes në raport me të paktën dy të panjohura",
+    "Nxënësi/ja demonstron procedurën e ndarjes së një sasie në raport të përbërë nga tre ose më shumë anëtarë",
+    "Nxënësi/ja analizon dhe argumenton saktësinë e zgjidhjes së tij duke verifikuar se shuma e pjesëve është e barabartë me sasinë fillestare",
+    "Nxënësi/ja zbajon metodën e ndarjes në raport në situata të ndryshme jetësore si ndarje fitimi, kohë, distancë"
+  ],
+  "fjalet_kyce": [
+    "raport (ratio)",
+    "ndarje proporcionale",
+    "shuma e raporteve",
+    "koeficienti i proporcionalitetit",
+    "anëtarët e raportit",
+    "a:b:c (lexohet: a ndaj b ndaj c)",
+    "verifikim i zgjidhjes",
+    "sasia totale"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 4 'Raporti dhe Proporcioni', faqe 78-82",
+    "Kalkulatore për verifikimin e llogaritjeve",
+    "Fletë pune e përgatitur me 8 probleme të shkallëzuara",
+    "Kartela me situata praktike nga jeta e përditshme",
+    "Tabelë magnetike me numra dhe simbole matematikore",
+    "Monedha plastike (imitacion lekësh) për demonstrime konkrete"
+  ],
+  "lidhja": "Lënda lidhet ngushtë me Gjeografinë kur llogaritim distancat në hartë sipas shkallës dhe me shkencat natyrore kur ndajmë masa apo kohë në raporte të caktuara. Në jetën e përditshme në Shqipëri, ndarja në raport përdoret për ndarjen e fitimit në biznes familjar, për llogaritjen e përbërësve në receta kulinare tradicionale si byrek apo tavë kosi, dhe për planifikimin e buxhetit familjar ku të ardhurat ndahen mes ushqimit, arsimit dhe shpenzimeve të tjera.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\n\nOra synon që nxënësit të kuptojnë konceptin e ndarjes në raport dhe të mësojnë të zgjidhin probleme praktike ku një sasi ndahet proporcionale sipas një raporti të dhënë. Nxënësit do të zhvillojnë aftësi llogaritjeje dhe arsyetimi logjik përmes shembujve konkretë.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\n\nFilloj orën duke treguar tre kuti të ndryshme: një të madhe, një mesatare dhe një të vogël. Në dorë kam 24 bonbone dhe pyes: 'Nëse duam t'i shpërndajmë këto bonbone në tre kutitë, dhe kuti e madhe duhet të marrë dyfishin e kutisë mesatare, ndërsa kutia e vogël gjysmën e kutisë mesatare, si do t'i ndajmë?' Lë nxënësit të eksperimentojnë me vlerësimet e tyre. Shkruaj në tabelë: Kutia e madhe: 2 pjesë, Kutia mesatare: 1 pjesë, Kutia e vogël: 1/2 pjesë. Pastaj pyes: 'Kush ka ndeshur situata të ngjashme në shtëpi kur duhet të ndahet diçka?' Lidh me orën e kaluar për raportet e thjeshta duke kujtuar që 2:1 thotë se elementi i parë është dyfish i të dytit.\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\n\nShpjegoj që ndarja në raport do të thotë ndarje e një sasie në pjesë proporcionale sipas një raporti të dhënë. Formuloj rregullin: 'Për të ndarë numrin N në raportin a:b:c, gjejmë shuman e raporteve (a+b+c), pastaj çdo pjesë do të jetë: Pjesa e parë = N×a/(a+b+c), Pjesa e dytë = N×b/(a+b+c), Pjesa e tretë = N×c/(a+b+c)'.\n\n**Shembull 1:** Ndajmë 120 lekë në raportin 2:3:1\nShuma e raporteve: 2+3+1 = 6\nPjesa e parë: 120 × 2/6 = 120 × 2 ÷ 6 = 240 ÷ 6 = 40 lekë\nPjesa e dytë: 120 × 3/6 = 120 × 3 ÷ 6 = 360 ÷ 6 = 60 lekë  \nPjesa e tretë: 120 × 1/6 = 120 × 1 ÷ 6 = 120 ÷ 6 = 20 lekë\nVerifikim: 40 + 60 + 20 = 120 lekë ✓\n\n**Shembull 2:** Ndajmë 15 metra pëlhurë në raportin 1:2:2\nShuma e raporteve: 1+2+2 = 5\nPjesa e parë: 15 × 1/5 = 15 ÷ 5 = 3 metra\nPjesa e dytë: 15 × 2/5 = 30 ÷ 5 = 6 metra\nPjesa e tretë: 15 × 2/5 = 30 ÷ 5 = 6 metra  \nVerifikim: 3 + 6 + 6 = 15 metra ✓\n\n**Shembull 3:** Tre shokë ndajnë 84 lekë fitim në raportin 3:4:5\nShuma e raporteve: 3+4+5 = 12\nShoku i parë: 84 × 3/12 = 252 ÷ 12 = 21 lekë\nShoku i dytë: 84 × 4/12 = 336 ÷ 12 = 28 lekë\nShoku i tretë: 84 × 5/12 = 420 ÷ 12 = 35 lekë\nVerifikim: 21 + 28 + 35 = 84 lekë ✓\n\nNdaj klasën në 4 grupe të 6 nxënësve secili. Çdo grup merr një kartolë me një problem për ta zgjidhur së bashku: Grupi 1 ndan 180 minuta kohë loje në raportin 2:1:3, Grupi 2 ndan 96 kokrra arra në raportin 1:2:1, Grupi 3 ndan 150 faqe libri për lexim në raportin 2:3:5, Grupi 4 ndan 72 lekë shpenzime në raportin 1:1:4. Secili grup prezanton zgjidhjen para klasës.\n\n**PRAKTIKA** (8-10 minuta)\n\na) **Niveli bazë (2-3 ushtrime):**\n   - Ndani 60 në raportin 1:2:3\n   - Ndani 45 lekë në raportin 1:1:1\n   - Ndani 28 mollë në raportin 1:3:3\n\nb) **Niveli mesatar (2 ushtrime):**\n   - Tre motrat marrin 156 lekë dhuratë dhe i ndajnë në raportin e moshave të tyre: 2:4:6. Sa merr secila?\n   - Një arë toke ndahet mes tre fermave në raportin 3:2:1. Nëse ara është 1800 m², sa m² merr secila fermë?\n\nc) **Niveli i avancuar (1 problemë sfiduese):**\n   - Babai jep 240 lekë xheparë tre fëmijëve të tij. Fëmija i madh merr sa shuma e dy të vegjëlve, fëmija i mesëm merr dyfishin e të voglit. Sa lekë merr secili? (Gjetje e raportit dhe pastaj ndarje)\n\n**MBYLLJA/REFLEKTIMI** (3-5 minuta)\n\nPërmbledh tre pikat kryesore: (1) Ndarja në raport është ndarje proporcionale, (2) Gjejmë shumen e raporteve dhe pastaj shumëzojmë sasinë me çdo anëtar të raportit të ndarë me shumën, (3) Gjithmonë verifikojmë që shuma e pjesëve të jetë e barabartë me sasinë fillestare. Bëj një quiz të shpejtë verbal: 'Nëse ndajmë 30 në raportin 1:2, sa është pjesa e parë?' (10). 'Çfarë bëjmë të parën kur na jepet një problem ndarjeje në raport?' (Gjejmë shumen e anëtarëve të raportit). Njoftoj se ora e ardhshme do të trajtojë raportin e arit dhe aplikime të tjera të ndarjes proporcionale në arkitekturë dhe art.",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**DETYRË BAZË:** Zgjidhni ushtrimet 1-5 nga libri, faqe 81: (1) Ndani 72 në raportin 2:1:3, (2) Ndani 95 lekë në raportin 3:2:4, (3) Ndani 84 minuta kohë studimi në raportin 4:3:5, (4) Tre klasë ndajnë 360 libra në raportin e numrit të nxënësve: 25:30:25. Sa libra merr secila klasë?\n\n**DETYRË KRIJUESE:** Krijoni një problem praktik nga jeta juaj familjare ku duhet të përdoret ndarja në raport (për shembull: ndarje kohe studimi për lëndë të ndryshme, ndarje hapësire dhome, ndarje ingredientësh për recetë gatimi, etj). Shkruajni problemin, zgjidheni dhe ilustrojeni me vizatim ose tabelë.\n\n**DETYRË SHTESË (fakultative):** Hulumtoni për raportin e arit (1.618:1) dhe gjeni të paktën tre shembuj ku ky raport përdoret në arkitekturën shqiptare, natyrë ose art. Shkruani një referat 1-faqe me fotografi dhe shpjegime se pse ky raport konsiderohet 'perfekt' nga njerëzit.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Numri",
+      "page_or_row": "125"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

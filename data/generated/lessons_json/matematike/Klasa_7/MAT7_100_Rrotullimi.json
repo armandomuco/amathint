@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_100",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 100,
+  "tema": "Rrotullimi",
+  "tematika": "Shndërrimet",
+  "month": "Mars",
+  "trimester": 2,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e shkollës 'Naim Frashëri' në Tiranë duhet të rindërtojnë kopshtin e shkollës dhe të vendosin në mënyrë simetrike lulet, pemët dhe stola. Drejtoresha ka kërkuar që çdo element i kopshtit të vendoset në pozicione të caktuara duke përdorur rrotullime rreth një pika centrale. Nxënësit duhet të përdorin konceptet e rrotullimit për të planifikuar vendosjen e mobiljeve të kopshtit në mënyrë që të duken të balancuara dhe estetike.",
+  "rezultatet": [
+    "Nxënësi/ja përkufizon rrotullimin si shndërrim gjeometrik që ruan gjatësitë dhe format",
+    "Nxënësi/ja identifikon qendrën e rrotullimit dhe këndin e rrotullimit në figura të ndryshme",
+    "Nxënësi/ja llogarit koordinatat e një pike pas rrotullimit rreth origjinës me 90°, 180° dhe 270°",
+    "Nxënësi/ja demonstron rrotullimin e figurave të thjeshta duke përdorur busull dhe rregull",
+    "Nxënësi/ja zgjidh problemat praktike që përfshijnë rrotullime në situata të përditshme",
+    "Nxënësi/ja argumenton pse rrotullimi është një shndërrim që ruan distancat dhe format"
+  ],
+  "fjalet_kyce": [
+    "rrotullimi (rotation)",
+    "qendra e rrotullimit",
+    "këndi i rrotullimit",
+    "drejtimi orësor/kundërorësor",
+    "koordinatat (x,y)",
+    "shndërrim izometrik",
+    "90°, 180°, 270°, 360°",
+    "rrotullimi rreth origjinës"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 4: Shndërrimet, faqe 78-85",
+    "Busull, rregull, laps, goma fshirëse",
+    "Fletë milimetrike A4 për çdo nxënës",
+    "Kartela plastike me figura gjeometrike (trekëndësha, katërkëndësha)",
+    "Fletë pune e përgatitur me 12 ushtrime rrotullimi",
+    "Projektor dhe prezantim PowerPoint me animacione rrotullimi"
+  ],
+  "lidhja": "Lënda lidhet ngushtë me Artet Vizuale (rrotullimi në dekorim dhe dizajn), Gjeografinë (rrotullimi i Tokës rreth boshtit të saj), shkencat natyrore (lëvizja rrethore), Teknologjinë (dizajnimi grafik dhe animacionet). Në jetën e përditshme në Shqipëri, rrotullimi përdoret në arkitekturën tradicionale shqiptare, motivet e qilimave të Krujës, dizajnin e arteve aplikative, dhe në industrinë e turizmit për krijimin e hartave dhe planeve të qyteteve.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\n\nKjo orë synon që nxënësit të kuptojnë konceptin e rrotullimit si shndërrim gjeometrik dhe të mësojnë të zbatojnë rrotullimet në probleme praktike duke përdorur koordinatat dhe mjetet gjeometrike.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\n\nMësuesi fillon orën duke shfaqur një video të shkurtër 2-minutësh që tregon rrotullimin e një moleje të erës në fushën e Lushnjes. Pastaj shfaq figura të ndryshme të rrotulluara dhe pyet: \"Çfarë keni vërejtur në këto figura?\", \"Si mund të kthejmë figurën në pozicionin fillestar?\", \"Çfarë mbetet e njëjtë dhe çfarë ndryshon kur rrotullojmë një figurë?\". Nxënësit diskutojnë në çifte për 3 minuta dhe ndajnë mendimet e tyre. Mësuesi lidh përgjigjet me konceptin e rrotullimit duke kujtuar shndërrimet e mëparshme (pasqyrimi dhe zhvendosja) të mësuara në orët e kaluara.\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\n\nMësuesi shpjegon se rrotullimi është shndërrim që ruan gjatësitë dhe format e figurave. Definon qendrën e rrotullimit si pikën fikse rreth së cilës bëhet rrotullimi dhe këndin e rrotullimit si masën e kthimit.\n\nSHEMBULLI 1: Rrotullimi i pikës A(3,2) rreth origjinës me 90° kundërorësor.\nHapi 1: Vizatojmë sistemin koordinativ dhe shënojmë pikën A(3,2)\nHapi 2: Zbatojmë rregullin: (x,y) → (-y,x)\nHapi 3: A(3,2) → A'(-2,3)\nHapi 4: Verifikojmë distancën: √(3²+2²) = √13 dhe √((-2)²+3²) = √13\n\nSHEMBULLI 2: Rrotullimi i trekëndëshit me kulme B(4,1), C(2,3), D(1,1) rreth origjinës me 180°.\nHapi 1: Vizatojmë trekëndëshin BCD\nHapi 2: Zbatojmë rregullin: (x,y) → (-x,-y)\nHapi 3: B(4,1) → B'(-4,-1), C(2,3) → C'(-2,-3), D(1,1) → D'(-1,-1)\nHapi 4: Vizatojmë trekëndëshin B'C'D' dhe krahasojmë formën\n\nSHEMBULLI 3: Rrotullimi i katërkëndëshit me kulme E(2,1), F(4,1), G(4,3), H(2,3) me 270° kundërorësor.\nHapi 1: Vizatojmë drejtkëndëshin EFGH\nHapi 2: Zbatojmë rregullin: (x,y) → (y,-x)\nHapi 3: E(2,1) → E'(1,-2), F(4,1) → F'(1,-4), G(4,3) → G'(3,-4), H(2,3) → H'(3,-2)\nHapi 4: Verifikojmë që forma mbetet drejtkëndësh\n\nNxënësit ndahen në grupe të 4 personave. Secili grup merr kartela me figura të ndryshme dhe duhet t'i rrotullojë ato me kënde të ndryshme duke përdorur busull. Mësuesi demonstron në tabelë teknikën e rrotullimit me busull duke treguar se si të matim këndin dhe të gjejmë pozicionin e ri.\n\n**PRAKTIKA** (8-10 minuta)\n\na) Niveli bazë (2-3 ushtrime):\n- Rrotulloni pikën M(2,4) rreth origjinës me 90° orësor\n- Rrotulloni pikën N(-1,3) rreth origjinës me 180°\n- Gjeni koordinatat e pikës P pas rrotullimit 270° nëse P'(2,-3)\n\nb) Niveli mesatar (2 ushtrime):\n- Rrotulloni trekëndëshin me kulme A(1,2), B(3,1), C(2,4) me 90° kundërorësor dhe gjeni sipërfaqen para dhe pas rrotullimit\n- Një pemë në kopsht ndodhet në pozicionin (5,7) metra nga qendra. Pas rindërtimit, ajo duhet të vendoset pas një rrotullimi 120°. Gjeni pozicionin e ri.\n\nc) Niveli i avancuar (1 problemë):\n- Një figurë rrotullohet me një kënd të panjohur rreth origjinës. Nëse pika (4,3) kalon në pozicionin (3,-4), përcaktoni këndin e rrotullimit dhe drejtimin.\n\n**MBYLLJA/REFLEKTIMI** (3-5 minuta)\n\nMësuesi përmbledh tre pikat kryesore: 1) Rrotullimi është shndërrim që ruan gjatësitë dhe format, 2) Çdo rrotullim përcaktohet nga qendra dhe këndi i rrotullimit, 3) Ekzistojnë rregulla specifike për rrotullimet rreth origjinës. Bën një quiz verbal të shpejtë: \"Sa është këndi i rrotullimit për një kthesë të plotë?\", \"Çfarë ndodh me një pikë kur rrotullohet 360°?\", \"Si ndryshojnë koordinatat në rrotullimin 180°?\". Paralajmëron se ora e ardhshme do të fokusohet te kombinimi i disa shndërrimeve dhe kompozimet e tyre.",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**NIVELI BAZË:**\n1. Zgjidhni ushtrimet 1-6 nga faqja 82 të librit\n2. Rrotulloni pikat: A(1,3), B(-2,4), C(5,-1) rreth origjinës me 90° dhe 270°\n3. Vizatoni një trekëndësh dhe rrotullojeni atë me 180° rreth qendrës së tij\n4. Llogaritni koordinatat e pikës D pas rrotullimit me 90° orësor nëse D'(-4,2)\n\n**NIVELI KRIJUES:**\nKrijoni një poster A3 që tregon rrotullimin e motiveve tradicionale shqiptare (shqiponja, simbolet e artizanatit). Përdorni të paktën 4 rrotullime të ndryshme dhe shpjegoni me fjalët tuaja si ndikon rrotullimi në bukurinë e motivit. Prezantoni posterin në klasë javën e ardhshme.\n\n**NIVELI SHTESË (fakultative):**\nHulumtoni rrotullimet në arkitekturën osmane të Beratit dhe Gjirokastrës. Shkruani një ese 200 fjalëshe rreth përdorimit të rrotullimeve në dekorat e shtëpive historike dhe sillni foto të analizuara matematikisht që tregojnë qendrat dhe këndet e rrotullimit të elementeve dekorative.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Shndërrimet",
+      "page_or_row": "100"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

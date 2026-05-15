@@ -1,0 +1,69 @@
+{
+  "id": "MAT7_093",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 93,
+  "tema": "Ushtrime - Syprina dhe vëllimi",
+  "tematika": "Matja",
+  "month": "Mars",
+  "trimester": 2,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e shkollës 'Fan Noli' në Tiranë duhet të llogaritin sasinë e bojës së nevojshme për të rinovuar klasën e tyre dhe të gjejnë koston totale. Klasa ka formën drejtkëndëshe me gjatësi 8m dhe gjerësi 6m, lartësi 3m, me 4 dritare 1.5m × 1.2m dhe 1 derë 2m × 0.9m. Një litër bojë kushton 800 lekë dhe mbulon 5m² sipërfaqe.",
+  "rezultatet": [
+    "Nxënësi/ja llogarit saktësisht sipërfaqen e figurave drejtkëndëshe dhe katrore duke përdorur formulat S = a×b dhe S = a²",
+    "Nxënësi/ja përkufizon dhe gjep vëllimin e kuboideve dhe kubeve duke zbatuar formulat V = a×b×c dhe V = a³",
+    "Nxënësi/ja identifikon dhe zgjidh problema praktike që kërkojnë llogaritjen e sipërfaqes dhe vëllimit në situata reale",
+    "Nxënësi/ja argumenton zgjedhjen e formulës së duhur bazuar në llojin e figurës gjeometrike",
+    "Nxënësi/ja demonstron metodën e llogaritjes së sipërfaqes neto duke zbritur hapësirat (dritare, dyer)",
+    "Nxënësi/ja zgjidh probleme komplekse që lidhin sipërfaqen dhe vëllimin me koston dhe sasinë e materialeve"
+  ],
+  "fjalet_kyce": [
+    "sipërfaqe (S)",
+    "vëllim (V)",
+    "drejtkëndësh (S = a×b)",
+    "katror (S = a²)",
+    "kuboid (V = a×b×c)",
+    "kub (V = a³)",
+    "sipërfaqe neto",
+    "metër katror (m²)",
+    "metër kub (m³)"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 5: Matja, faqe 78-85",
+    "Metër matës, vizore 30cm, laps dhe gumë",
+    "Fletë pune e përgatitur me 12 probleme praktike",
+    "Kalkulatore për llogaritje të shpejta",
+    "Karton dhe ngjyra për vizatimin e figurave",
+    "Lista e çmimeve nga dyqanet lokale (bojë, pllaka, çimento)"
+  ],
+  "lidhja": "Lidhje me shkencat natyrore (njësitë e matjes, konvertimi m²→cm²), me Artet (projektimi i dhomës, ngjyrat), me Gjeografinë (llogaritja e sipërfaqeve të vendeve shqiptare), me Ekonominë familjare (buxhetimi, koston e materialeve ndërtimore), dhe me Teknologjinë (përdorimi i mjeteve matëse në ndërtim).",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nNxënësit do të përforcojnë aftësitë për llogaritjen e sipërfaqes dhe vëllimit përmes problemave praktike nga jeta e përditshme, duke u fokusuar në situata reale si rinovimi i klasës dhe llogaritja e kostove të materialeve.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\nFilloj me pyetjen motivuese: 'Sa do të kushtojë të lyejmë muret e klasës sonë?' Tregoj një litër bojë të vërtetë dhe pyes: 'Si mund ta llogarisim sa bojë na duhet?' Shfaq foto nga rinovimi i shkollës 'Luigj Gurakuqi' në Shkodër. Bëj lidhjen me orën e kaluar: 'Javën e kaluar mësuam formulat bazë, sot do t'i zbatojmë në probleme reale.' Matim së bashku gjatësinë dhe gjerësinë e klasës me metër matës dhe i shkruaj në tabelë: 8m × 6m.\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\nShpjegoj konceptin e sipërfaqes neto duke demonstruar në tabelë tre shembuj të plotë:\n\n**Shembulli 1:** Sipërfaqja e mureve të klasës\n- Muri 1 dhe 3: 2 × (8m × 3m) = 48m²\n- Muri 2 dhe 4: 2 × (6m × 3m) = 36m²\n- Sipërfaqja totale: 48 + 36 = 84m²\n- Dritaret: 4 × (1.5 × 1.2) = 7.2m²\n- Dera: 1 × (2 × 0.9) = 1.8m²\n- Sipërfaqja neto: 84 - 7.2 - 1.8 = 75m²\n\n**Shembulli 2:** Llogaritja e bojës dhe kostës\n- Bojë e nevojshme: 75m² ÷ 5m²/litër = 15 litra\n- Kosto: 15 litra × 800 lekë = 12,000 lekë\n\n**Shembulli 3:** Vëllimi i klasës për ajër të pastër\n- Vëllimi total: 8m × 6m × 3m = 144m³\n- Vëllimi i mobiljeve (10% e dhomës): 144 × 0.1 = 14.4m³\n- Vëllimi neto ajri: 144 - 14.4 = 129.6m³\n\nNdaj klasën në 4 grupe. Secilit grup i jap një detyrë praktike: Grupi 1 llogarit sipërfaqen e bibliotekës, Grupi 2 të kuzhinës, Grupi 3 të palestres, Grupi 4 të kancelarisë. Çdo grup paraqet zgjidhjen në tabelë.\n\n**PRAKTIKA** (8-10 minuta)\n**Niveli bazë:**\n1. Gjeni sipërfaqen: drejtkëndësh 5m × 3m\n2. Gjeni vëllimin: kuboid 4m × 2m × 3m\n3. Sa litra bojë duhen për 30m² nëse 1 litër mbulon 6m²?\n\n**Niveli mesatar:**\n1. Dhoma ka sipërfaqe 24m² dhe 2 dritare 1m × 0.8m. Gjeni sipërfaqen neto.\n2. Magazina ka vëllim 180m³. Nëse lartësia është 5m dhe gjerësia 6m, gjeni gjatësinë.\n\n**Niveli i avancuar:**\nNjë shtëpi ka 3 dhoma me përmasa 4×3m, 5×4m, dhe 3×3m. Lartësia 2.8m. Çdo dhomë ka 1 derë (2×0.9m) dhe 2 dritare (1.2×1m). Sa kushton të lyhen të gjitha muret nëse 1 litri bojë kushton 750 lekë dhe mbulon 4.5m²?\n\n**MBYLLJA** (3-5 minuta)\nPërmbledh tre pikat kryesore: 1) Sipërfaqja neto = sipërfaqja totale minus hapësirat; 2) Formulat S = a×b dhe V = a×b×c; 3) Lidhja me koston reale të materialeve. Quiz verbal: 'Çfarë është sipërfaqja neto?' 'Si llogarisim vëllimin e një kutie?' Parashikoj orën e ardhshme: 'Nesër do të mësojmë sipërfaqen e trekëndëshit dhe rrethit.'",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**1. DETYRA BAZË:**\nZgjidhni ushtrimet 15-19 nga faqja 82 të librit. Llogaritni sipërfaqen dhe vëllimin e figurave të dhëna. Shtesë: Matni dhomën tuaj në shtëpi dhe llogaritni sa bojë do të duhej për muret.\n\n**2. DETYRA KRIJUESE:**\nKrijoni një poster A3 me planin e një shtëpie me 4 dhoma. Shkruani përmasat dhe llogaritni sipërfaqen totale të secilit ambient. Paraqitni edhe koston e lirjes së dyshemesë duke marrë çmimet nga 'Euromax' ose 'Conad'.\n\n**3. DETYRA SHTESË (fakultative):**\nHulumtoni sa m² sipërfaqe ka Shqipëria dhe krahasojeni me shtetet fqinje. Llogaritni se sa herë më e madhe është sipërfaqja e Tiranës krahasuar me klasën tuaj. Përdorni internetin për të gjetur të dhënat.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Matja",
+      "page_or_row": "93"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

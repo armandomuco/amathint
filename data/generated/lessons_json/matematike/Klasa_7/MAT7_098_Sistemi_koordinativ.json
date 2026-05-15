@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_098",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 98,
+  "tema": "Sistemi koordinativ",
+  "tematika": "Shndërrimet",
+  "month": "Mars",
+  "trimester": 2,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës së 7-të të shkollës 'Sami Frashëri' në Tiranë duhet të hartojnë planin e oborrit të shkollës së tyre për të ndërtuar një kopsht të ri. Ata duhet të përdorin sistemin koordinativ për të pozicionuar saktësisht pemët, stola dhe shtegët e reja. Çdo element i kopshtit duhet të ketë koordinata të sakta (x, y) që do të ndihmojë punëtorët e ndërtimit të pozicionojnë gjithçka në vendin e duhur.",
+  "rezultatet": [
+    "Nxënësi/ja përkufizon sistemin koordinativ dhe identifikon saktësisht boshtet X dhe Y",
+    "Nxënësi/ja llogarit koordinatat e pikave të dhëna në planin koordinativ",
+    "Nxënësi/ja pozicionon pika në sistemin koordinativ duke përdorur koordinata të dhëna",
+    "Nxënësi/ja identifikon kuadrantet I, II, III dhe IV të planit koordinativ",
+    "Nxënësi/ja zgjidh probleme praktike duke aplikuar sistemin koordinativ në situata reale",
+    "Nxënësi/ja demonstron se si ndryshojnë koordinatat kur një pikë lëviz në plan"
+  ],
+  "fjalet_kyce": [
+    "sistemi koordinativ (coordinate system)",
+    "boshti X (horizontal axis)",
+    "boshti Y (vertical axis)",
+    "koordinata (x, y)",
+    "kuadrant I, II, III, IV",
+    "origjina O (0, 0)",
+    "abshisa (x-coordinate)",
+    "ordinata (y-coordinate)"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 5 'Gjeometria analitike', faqe 78-85",
+    "Fletë milimetrike (A4) për secilin nxënës",
+    "Vizore dhe laps me guzhgë për vizatim të saktë",
+    "Kartela të përgatitura me 15 pika për pozicionim",
+    "Kompjuteri me program GeoGebra për demonstrim",
+    "Hartë e shkallëzuar e oborrit të shkollës për aktivitetin praktik"
+  ],
+  "lidhja": "Lënda lidhet ngushtë me Gjeografinë përmes leximit të hartave dhe koordinatave gjeografike të Shqipërisë (Tirana: 41.33°N, 19.82°E). Në Arte përdoren principet e perspektivës dhe kompozimit. Në teknologji aplikohen në programet e vizatimit dhe navigacionin GPS. Në jetën e përditshme përdoren për adresat, aplikacionet e navigimit si Google Maps për të gjetur lokacione në Tiranë, Durrës apo qytete të tjera shqiptare.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nKjo orë synon që nxënësit të kuptojnë dhe të zbatojnë konceptin e sistemit koordinativ përmes shembujve konkretë nga jeta e përditshme. Ata do të mësojnë të pozicionojnë pika, të lexojnë koordinata dhe të zgjedhin probleme praktike duke përdorur planin koordinativ.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\nMësuesi prezanton një hartë të thjeshtë të qendrës së Tiranës dhe pyet: 'Si mund ta shpjegojmë dikujt se ku ndodhet Teatri i Opërës nëse ai është në Sheshi Skënderbej?' Nxënësit diskutojnë në çifte dhe japin ide. Më pas mësuesi shfaq një foto të bordit të shahut: 'Si identifikojmë pozicionin e mbretit të bardhë? Çfarë ka të ngjashme kjo me hartën?' Lidhet me njohuritë e mëparshme për pikat dhe drejtëzat nga gjeometria.\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\nMësuesi shpjegon sistemin koordinativ duke vizatuar në tabelë dy drejtëza pingule që priten në pikën O(0,0). Shembull 1: Pozicionimi i pikës A(3,2). 'Fillojmë nga origjina O, lëvizim 3 njësi djathtas në boshtin X, pastaj 2 njësi lart në boshtin Y.' Përsëritet me disa nxënës në tabelë. Shembull 2: Pika B(-2,4). 'Nga origjina, 2 njësi majtas (drejtimi negativ), pastaj 4 njësi lart.' Shembull 3: Pika C(1,-3). 'Një njësi djathtas, 3 njësi poshtë (drejtimi negativ).' Më pas nxënësit ndahen në grupe prej 4 vetash. Secili grup merr fletë milimetrike dhe duhet të pozicionojë 8 pika të dhëna: D(4,1), E(-3,2), F(2,-4), G(-1,-2), H(0,3), I(5,0), J(-4,-1), K(3,4). Çdo grup kontrollon rezultatet me grupin tjetër dhe diskuton vështirësitë. Mësuesi shpjegon kuadrantet: Kuadranti I (x>0, y>0), II (x<0, y>0), III (x<0, y<0), IV (x>0, y<0) dhe kërkon nga nxënësit të klasifikojnë pikat e pozicionuara sipas kuadranteve.\n\n**PRAKTIKA** (8-10 minuta)\na) Niveli bazë: Poziciononi pikat L(2,3), M(-1,4), N(3,-2) dhe shkruani koordinatat e pikave të shënuara në fletën tuaj të punës. Gjeni në cilin kuadrant ndodhet secila pikë.\nb) Niveli mesatar: Një pemë ndodhet në pozicionin (4,2) të kopshtit. Nëse e lëvizim 3 njësi majtas dhe 2 njësi poshtë, cilat do të jenë koordinatat e reja? Një tjetër pemë në (-2,1) lëviz 5 njësi djathtas dhe 3 njësi lart - gjeni pozicionin e ri.\nc) Niveli i avancuar: Krijoni një figurë gjeometrike (trekëndësh ose katërkëndësh) duke lidhur katër pika që ju zgjidhni vetë. Llogaritni perimetrin e figurës duke matur distancat me vizore (secilin cm në fletën milimetrike e konsiderojmë 1 njësi).\n\n**MBYLLJA/REFLEKTIMI** (3-5 minuta)\nPërmbledhje e tri pikave kryesore: 1) Sistemi koordinativ përdor dy boshte pingul X dhe Y që priten në origjinën O(0,0), 2) Çdo pikë ka koordinata (x,y) ku x është pozicioni horizontal dhe y është vertikal, 3) Plani ndahet në katër kuadrante sipas shenjave të koordinatave. Quiz verbal: 'Në cilin kuadrant ndodhet pika (-5,3)? Çfarë do të thotë koordinata (0,4)?' Parashikimi i orës së ardhshme: do të mësojmë të llogarisim distancën midis dy pikave në planin koordinativ.",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**BAZË:** Zgjidhni ushtrimet 1-6 nga faqja 82 të librit: poziciononi 12 pika të dhëna dhe shkruani koordinatat e pikave të vizatuara. Plotësoni tabelën që tregon në cilin kuadrant ndodhet secila pikë.\n\n**KRIJUESE:** Krijoni hartën e dhomës suaj duke përdorur sistemin koordinativ. Vendosni origjinën në qendër të dhomës dhe shënoni pozicionet e shtratit, tavolinës, garderobës dhe objekteve të tjera me koordinatat e tyre. Përdorni një fletë A4 dhe vizore për matje.\n\n**SHTESË (fakultative):** Hulumtoni si përdoret sistemi koordinativ në aplikacionet e navigimit si Google Maps. Gjeni koordinatat gjeografike të 5 qyteteve të Shqipërisë dhe shpjegoni çfarë tregojnë këto numra. Shkruani një paragraf 100 fjalësh për rëndësinë e koordinatave në jetën moderne.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Shndërrimet",
+      "page_or_row": "98"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

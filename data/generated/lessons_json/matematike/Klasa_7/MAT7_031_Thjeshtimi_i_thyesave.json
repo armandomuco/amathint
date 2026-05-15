@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_031",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 31,
+  "tema": "Thjeshtimi i thyesave",
+  "tematika": "Numri",
+  "month": "Nëntor",
+  "trimester": 1,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës 7 në shkollën 'Fan Noli' në Tiranë organizojnë një treg shkollor bamirës për të mbledhur fonde për biblotekën. Ata duhet të ndajnë fitimin prej 240 lekësh midis 3 klasave në proporcion me numrin e nxënësve që morën pjesë. Klasa 7A kishte 18 nxënës, klasa 7B kishte 24 nxënës dhe klasa 7C kishte 30 nxënës. Për të llogaritur pjesët e secilës klasë, nxënësit duhet të përdorin thyesa dhe t'i thjeshtojnë ato në formën më të thjeshtë.",
+  "rezultatet": [
+    "Nxënësi/ja përkufizon çfarë është thjeshtimi i thyesave dhe identifikon FPNM-në e numëratorit dhe emëruesit",
+    "Nxënësi/ja llogarit saktësisht FPNM-në e dy ose më shumë numrave duke përdorur metodën e faktorizimit",
+    "Nxënësi/ja thjeshtoj thyesa të ndryshme duke i ndarë numëratorin dhe emëruesin me FPNM-në e tyre",
+    "Nxënësi/ja identifikon nëse një thyesë është në formën më të thjeshtë apo jo",
+    "Nxënësi/ja zgjidh probleme praktike që kërkojnë thjeshtimin e thyesave në kontekstin e jetës së përditshme",
+    "Nxënësi/ja demonstron se thyesat e ndryshme mund të përfaqësojnë të njëjtën vlerë përmes thjeshtimit"
+  ],
+  "fjalet_kyce": [
+    "thyesë (fraction)",
+    "thjeshtim (simplification)",
+    "faktori i përbashkët më i madh - FPNM (greatest common factor - GCF)",
+    "faktorizim (factorization)",
+    "numërator (numerator)",
+    "emërues (denominator)",
+    "thyesë e thjeshtuar (simplified fraction)",
+    "thyesa ekuivalente (equivalent fractions)"
+  ],
+  "burimet": [
+    "Libri 'Matematika për klasën 7' - Kapitulli 4: Thyesat, faqe 62-68",
+    "Fletë pune e përgatitur me 15 ushtrime thjeshtimi thyesash",
+    "Kartela me numra të thjeshtë dhe të përbërë për aktivitetin grupi",
+    "Tabela e shumëfishave dhe pjesëtuesve për të gjetur FPNM-në",
+    "Kalkulatore për verifikim (opsionale)",
+    "Postera me hapat e thjeshtimit të thyesave dhe shembuj vizualë"
+  ],
+  "lidhja": "Lidhja me Artet: vizatimi i diagrameve për përfaqësimin vizual të thyesave. Gjeografi: llogaritja e shkallës së hartës dhe distancave relative. Fizikë: thjeshtimi i njësive të matjes dhe raporteve. Ekonomi familjare: ndarja e buxhetit familjar dhe llogaritja e përqindjes së shpenzimeve. Kimia: koncepti i përqendrimit të tretësirave. Jeta e përditshme: ndarja e ushqimit në porcione, llogaritja e zbritjeve në dyqane, ndarja e kohës për aktivitete të ndryshme.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nKjo orë mësimore synon që nxënësit të kuptojnë konceptin e thjeshtimit të thyesave, të mësojnë të gjejnë FPNM-në e numrave dhe të aplikojnë këto njohuri në zgjidhjen e problemave praktike nga jeta e përditshme.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\nMësuesi fillon me një aktivitet motivues: 'Loja e pizzës'. Tregon një vizatim të pizzës së ndarë në 8 copa të barabarta dhe pyet: 'Nëse hëngri 4 copa, çfarë pjese të pizzës hëngrët?' Nxënësit përgjigjen 4/8. Pastaj pyet: 'A mund ta shkruajmë këtë thyesë në një mënyrë më të thjeshtë?' Vazhdon me pyetje orientuese: 'Sa është 4÷4 dhe 8÷4? Pse mund t'i ndajmë të dy numrat me 4?' Lidh me orën e kaluar për pjesëtuesit e përbashkët dhe pyet: 'Cili është pjesëtuesi më i madh i përbashkët i 4 dhe 8?' Krijon kureshtje: 'Sot do të mësojmë si të bëjmë thyesat më të thjeshta!'\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\nMësuesi shpjegon konceptin: 'Thjeshtimi i thyesave do të thotë të gjesh një thyesë ekuivalente me numra më të vegjël.' Demonstron tre shembuj të plotë:\n\nShembull 1: Thjeshtimi i 12/18\n- Gjejmë pjesëtuesit e 12: 1, 2, 3, 4, 6, 12\n- Gjejmë pjesëtuesit e 18: 1, 2, 3, 6, 9, 18\n- Pjesëtuesit e përbashkët: 1, 2, 3, 6\n- FPNM = 6\n- 12÷6 = 2, 18÷6 = 3\n- 12/18 = 2/3 (forma më e thjeshtë)\n\nShembull 2: Thjeshtimi i 24/36\n- FPNM(24, 36) = 12\n- 24÷12 = 2, 36÷12 = 3\n- 24/36 = 2/3\n\nShembull 3: Thjeshtimi i 15/25\n- FPNM(15, 25) = 5\n- 15÷5 = 3, 25÷5 = 5\n- 15/25 = 3/5\n\nPunë në grupe (4 nxënës): Secili grup merr kartela me thyesa të ndryshme dhe duhet t'i thjeshtojë ato. Grupi 1: 8/12, 10/15; Grupi 2: 16/20, 21/28; Grupi 3: 18/24, 14/21; Grupi 4: 20/30, 12/16. Pas 8 minutash, secili grup prezanton një thyesë të zgjidhur në tabelë.\n\n**PRAKTIKA** (8-10 minuta)\nTre nivele ushtrimesh:\n\na) Niveli bazë:\n- Thjeshtoni 6/9 = 2/3\n- Thjeshtoni 8/12 = 2/3\n- Thjeshtoni 10/15 = 2/3\n\nb) Niveli mesatar:\n- Thjeshtoni 18/27 = 2/3\n- Nga 45 nxënës në shkollë, 30 janë vajza. Shkruani raportinin më të thjeshtë: 30/45 = 2/3\n\nc) Niveli i avancuar:\nNëse 3/5 e nxënësve të klasës janë djem dhe ka 24 djem, sa nxënës ka në total? (Përgjigje: 40 nxënës)\n\n**MBYLLJA** (3-5 minuta)\nPërmbledhja me tri pika kryesore: 1) Thjeshtimi bën thyesat më të lehta për t'u lexuar; 2) Gjejmë FPNM-në dhe ndajmë numëratorin e emëruesin me të; 3) Thyesa e thjeshtuar ka të njëjtën vlerë me thyesën origjinale. Quiz verbal: 'Çfarë është FPNM e 8 dhe 12?' (4), 'Si thjeshtohet 16/24?' (2/3). Parashikim: 'Orën e ardhshme do të mësojmë si të krahasojmë thyesa të thjeshtuara.'",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**DETYRË BAZË:**\nZgjidhni ushtrimet 1-6 nga faqja 65 të librit:\n1. Thjeshtoni: 4/6, 9/12, 15/20, 8/10\n2. Gjeni FPNM-në: (6,9), (12,18), (20,25)\n3. Thjeshtoni në formën më të thjeshtë: 14/21, 16/24, 18/30\n\n**DETYRË KRIJUESE:**\nKrijoni një poster 'Thyesat në jetën tonë' duke gjetur 5 shembuj të thyesave nga jeta e përditshme (p.sh. orari i shkollës, përbërësit e ushqimit, rezultatet sportive) dhe thjeshtoni ato. Shtoni vizatime ose fotografi për ilustrim.\n\n**DETYRË SHTESË (FAKULTATIVE):**\nHulumtoni dhe zgjidhni: Nëse një recetë për 4 persona kërkon 3/4 gota miell, sa miell nevojitet për 6 persona? Shpjegoni zgjidhjen me fjalë dhe thjeshtoni përgjigjen. Bonus: Gjeni të gjitha thyesat ekuivalente të 2/3 me emërues më të vogël se 30.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Numri",
+      "page_or_row": "31"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

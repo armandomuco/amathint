@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_089",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 89,
+  "tema": "Syprina e figurave të përbëra",
+  "tematika": "Matja",
+  "month": "Mars",
+  "trimester": 2,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës së 7-të në shkollën 'Fan S. Noli' në Tiranë duhet të llogaritin syprinën e oborrit të shkollës për të planifikuar vendosjen e lulores në formë drejtkëndëshi dhe një hapësire lojrash në formë rrethore. Oborri ka formë L dhe përbëhet nga dy pjesë drejtkëndore të lidhura. Nxënësit do të përdorin matjet që kanë bërë për të llogaritur koston e gjelbërimit me çmimin 300 lekë për m².",
+  "rezultatet": [
+    "Nxënësi/ja identifikon figura të thjeshta gjeometrike brenda një figure të përbërë",
+    "Nxënësi/ja llogarit syprinën e drejtkëndëshit dhe katrori duke përdorur formula S = a × b dhe S = a²",
+    "Nxënësi/ja zbaton metodën e dekompozimit për të ndarë figura të përbëra në figura të thjeshta",
+    "Nxënësi/ja demonstron llogaritjen e syprinës totale duke mbledhur syprinat e figurave përbërëse",
+    "Nxënësi/ja zgjidh problema praktike duke përdorur njohuri për syprinat e figurave të përbëra",
+    "Nxënësi/ja argumenton zgjedhjen e metodës më të përshtatshme për llogaritjen e syprinës"
+  ],
+  "fjalet_kyce": [
+    "figura të përbëra (composite figures)",
+    "dekompozim (decomposition)",
+    "syprinë totale (S total = S₁ + S₂ + S₃)",
+    "drejtkëndësh (S = a × b)",
+    "katror (S = a²)",
+    "njësi matëse (m², cm², mm²)",
+    "metodë e mbledhjes",
+    "metodë e zbritjes"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 4: Matja, faqe 78-85",
+    "Vizore 30 cm, laps, gomë, ngjyra të ndryshme",
+    "Fletë milimetrike dhe fletë pune të përgatitura me 8 figura të përbëra",
+    "Kalkulatorë shkollore për verifikimin e llogaritjeve",
+    "Postera me formula kryesore të syprinave",
+    "Materiale konkrete: karton, gërshërë për prerjen e figurave"
+  ],
+  "lidhja": "Lidhje me Gjeografinë në llogaritjen e sipërfaqeve të territoreve të Shqipërisë (Tirana 41.8 km², Durrësi 338.3 km²). Lidhje me Artet në krijimin e mozaikëve dhe ornamenteve tradicionale shqiptare që përbëhen nga figura gjeometrike. Lidhje me jetën praktike në llogaritjen e kostos së materialeve për ndërtim, të pllakave për dysheme, dhe planifikimin e kopshteve familjare në fshatrat shqiptare.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\n\nNxënësit do të mësojnë të zbërthejnë figura të përbëra në figura të thjeshta dhe të llogaritin syprinën totale duke përdorur metodën e dekompozimit. Kjo orë synon zhvillimin e aftësive për zgjidhjen e problemave praktike të lidhura me matjet në jetën e përditshme.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\n\nFillohet me lojën 'Arkitekti i shkollës'. Nxënësve u tregohet një hartë e thjeshtë e oborrit të shkollës dhe pyetet: 'Si do ta llogarisni sipërfaqen e plotë të oborrit për të blerë bar artificial me çmim 200 lekë/m²?' Shfaqet një figurë në formë L në tabelë. Pyetje orientuese: 'Çfarë figurash të njohura shihni këtu? A mund ta ndajmë këtë figurë në pjesë më të thjeshta?' Rikujtojmë formulat e syprinës së drejtkëndëshit (S = a × b) dhe katrorit (S = a²) duke kërkuar nga nxënësit të japin shembuj.\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\n\nShpjegimi i konceptit 'figura të përbëra' dhe metodave të dekompozimit. Prezantohen dy metoda kryesore: mbledhja dhe zbritja.\n\n**Shembulli 1 - Metoda e mbledhjes:**\nFigurë në formë L me dimensione: pjesa e parë drejtkëndësh 8m × 5m, pjesa e dytë drejtkëndësh 4m × 3m.\nZgjidhje hap pas hapi:\n- Identifikojmë figurat: 2 drejtkëndësha\n- S₁ = 8 × 5 = 40 m²\n- S₂ = 4 × 3 = 12 m²\n- S totale = S₁ + S₂ = 40 + 12 = 52 m²\n\n**Shembulli 2 - Metoda e zbritjes:**\nDrejtkëndësh i madh 10m × 6m me një prerje drejtkëndore 3m × 2m.\nZgjidhje hap pas hapi:\n- S e madhe = 10 × 6 = 60 m²\n- S e hequr = 3 × 2 = 6 m²\n- S totale = 60 - 6 = 54 m²\n\n**Shembulli 3 - Kombinim metodash:**\nFigurë komplekse që përmban katror 6m × 6m plus drejtkëndësh 8m × 2m, minus katror të vogël 2m × 2m.\nZgjidhje hap pas hapi:\n- S katrori = 6² = 36 m²\n- S drejtkëndëshi = 8 × 2 = 16 m²\n- S katrori i vogël = 2² = 4 m²\n- S totale = 36 + 16 - 4 = 48 m²\n\nPunë në grupe (3-4 nxënës): Çdo grup merr një figurë të përbërë të ndryshme dhe duhet të zgjedhë metodën më të përshtatshme për llogaritjen. Grupet prezantojnë zgjidhjet në tabelë duke shpjeguar përse zgjodhën atë metodë.\n\n**PRAKTIKA** (8-10 minuta)\n\na) **Niveli bazë** - 3 ushtrime:\n- Figurë në formë T: 2 drejtkëndësha 5×3 dhe 4×2\n- Katror 8×8 me prerje katrore 3×3\n- Dy katrorë të lidhur: 6×6 dhe 4×4\n\nb) **Niveli mesatar** - 2 ushtrime:\n- Figurë në formë U me dimensione komplekse\n- Drejtkëndësh me 3 prerje të ndryshme gjeometrike\n\nc) **Niveli i avancuar** - 1 problemë sfiduese:\n- Llogaritni syprinën e një shtëpie tradicionale shqiptare me plan kompleks dhe gjeni koston e pllakave me çmim 1200 lekë/m²\n\n**MBYLLJA/REFLEKTIMI** (3-5 minuta)\n\nPërmbledhje në 3 pika: 1) Figurat e përbëra ndahen në figura të thjeshta, 2) Përdorim metodën e mbledhjes ose zbritjes, 3) Verifikojmë gjithmonë njësitë matëse. Quiz verbal: 'Çfarë është metoda e dekompozimit?' 'Kur përdorim metodën e zbritjes?' Parashikim i orës së ardhshme: do të mësojmë syprinën e trekëndëshit dhe trapezit.",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**DETYRË BAZË:**\nLibri 'Matematika 7', faqe 84: Zgjidhni ushtrimet 1, 2, 3, 4. Llogaritni syprinën e figurave të dhëna duke përdorur metodën e mbledhjes. Shkruajni të gjitha hapat e punës dhe përgjigjen në m².\n\n**DETYRË KRIJUESE:**\nKrijoni planin e dhomës suaj të gjumit në shkallë 1:50 (1cm = 50cm). Ndajeni dhomën në figura të thjeshta gjeometrike dhe llogaritni syprinën totale. Prezantojeni në një poster me ngjyra të ndryshme për çdo figurë përbërëse.\n\n**DETYRË SHTESË (Fakultative):**\nHulumtoni syprinat e 5 objekteve historike në Shqipëri (Kalaja e Krujës, Amfiteatri i Durrësit, etj). Llogaritni sa do të kushtonte restaurimi i një objekti nëse çmimi është 5000 lekë/m². Prezantojeni gjetjet në një tabelë krahasuese.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Matja",
+      "page_or_row": "89"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

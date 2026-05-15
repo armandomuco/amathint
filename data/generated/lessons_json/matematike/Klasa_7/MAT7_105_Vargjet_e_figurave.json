@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_105",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 105,
+  "tema": "Vargjet e figurave",
+  "tematika": "Algjebra",
+  "month": "Prill",
+  "trimester": 3,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës së 7-të në shkollën 'Fan Noli' në Tiranë po organizojnë një ekspozitë të punimeve të tyre artistike për Ditën e Pavarësisë. Ata duhet të rregullojnë tabelat e ekspozitës në forma gjeometrike (trekëndësha, katrorë, pesëkëndësha) dhe të llogaritin sa tavolina do të duhen për çdo formë duke përdorur ligjet e vargut të figurave.",
+  "rezultatet": [
+    "Nxënësi/ja përkufizon konceptin e vargut të figurave dhe identifikon ligjin e formimit",
+    "Nxënësi/ja llogarit termin e n-të të një vargu figurash duke përdorur formulën e përgjithshme",
+    "Nxënësi/ja zgjidh probleme praktike që përfshijnë vargje figurash me objekte konkrete",
+    "Nxënësi/ja demonstron lidhjën midis pozicionit të figurës dhe numrit të elementeve që e përbëjnë",
+    "Nxënësi/ja argumenton saktësinë e ligjit të gjetur duke verifikuar me disa terma të vargut",
+    "Nxënësi/ja konstrukton vargje të reja figurash duke ndjekur një ligj të caktuar"
+  ],
+  "fjalet_kyce": [
+    "vargu i figurave",
+    "termi i n-të (nth term)",
+    "ligji i formimit",
+    "pozicioni (n)",
+    "formula e përgjithshme",
+    "progresion aritmetik",
+    "sekuenca (sequence)",
+    "model gjeometrik"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 4: Vargjet, faqe 52-58",
+    "Kubikë ndërtimi (200 copë), topa ping-pong, shkopinj numërimi",
+    "Fletë pune e përgatitur me 15 vargje figurash për analizim",
+    "Karton A3, marker me ngjyra, vizore dhe laps",
+    "Tablet/laptop për përdorimin e GeoGebra-s nëse disponohet",
+    "Postera të përgatitur me shembuj vargje nga arkitektura shqiptare"
+  ],
+  "lidhja": "Lidhje me Artet Vizuale në krijimin e modeleve dekorative të qilimave traditional shqiptarë, me Arkitekturën në analizimin e motifeve të ndërtesave historike të Krujës dhe Gjirokastrës, me shkencat natyrore në studimin e valëve dhe frekuencave, dhe me jetën e përditshme në organizimin e tavolinave në dasma shqiptare ose rregullimin e pemëve në kopshtet e Tiranës.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nNxënësit do të kuptojnë konceptin e vargut të figurave dhe do të mësojnë të gjejnë ligjin e formimit për të llogaritur çdo term të vargut. Kjo orë synon zhvillimin e aftësive analitike dhe lidhjen e matematikës me situata reale.\n\n**EVOKIMI/HYRJA** (10 minuta)\nMësuesja nis orën duke treguar foto nga Kala e Krujës ku shihen gurët e rregulluar në forma të caktuara. Pyet: 'Sa gurë janë në rreshtin e parë? E në të dytin? E në të tretin?' Nxënësit numërojnë dhe zbulojnë se ka një rregullsi. Pastaj shfaq në tabelë tre vargje figura me shkopinj:\nVargu 1: △ (3 shkopinj)\nVargu 2: ◇ (4 shkopinj) \nVargu 3: ⬟ (5 shkopinj)\nPyet: 'Sa shkopinj do të na duhen për figurën e 10-të?' Kjo pyetje motivuese krijon nevojën për të gjetur një mënyrë sistematike për llogaritjen.\n\n**REALIZIMI I KUPTIMIT** (26 minuta)\nMësuesja shpjegon se vargjet e figurave janë sekuenca ku secila figurë formohet sipas një ligji të caktuar.\n\n**Shembull i Parë - Vargjet me trekëndësha:**\nFigura 1: △ = 3 pika\nFigura 2: △△ në rresht = 6 pika  \nFigura 3: △△△ në rresht = 9 pika\nLigji: Numri i pikave = 3 × n (ku n është pozicioni)\nPër figurën e 10-të: 3 × 10 = 30 pika\n\n**Shembull i Dytë - Vargjet me katrorë:**\nFigura 1: ■ = 4 pika\nFigura 2: ■■ të bashkuara = 7 pika (4 + 3)\nFigura 3: ■■■ të bashkuara = 10 pika (7 + 3)\nLigji: Numri i pikave = 4 + 3(n-1) = 3n + 1\nPër figurën e 10-të: 3(10) + 1 = 31 pika\n\n**Shembull i Tretë - Vargjet me shtëpiza:**\nFigura 1: Shtëpi me 5 shkopinj (katror + trekëndësh)\nFigura 2: Dy shtëpi të bashkuara = 9 shkopinj\nFigura 3: Tri shtëpi të bashkuara = 13 shkopinj\nLigji: Numri i shkopinjve = 5 + 4(n-1) = 4n + 1\nPër figurën e 10-të: 4(10) + 1 = 41 shkopinj\n\n**Punë në grupe (8 minuta):**\nNdajimi në 4 grupe, secila grup merr një seri figurash me kubikë dhe duhet të:\n1. Ndërtojë 4 figurat e para\n2. Numërojë elementet në secilën figurë\n3. Gjejë ligjin e formimit\n4. Parashikojë figurën e 8-të\n\n**PRAKTIKA** (8 minuta)\n\na) **Niveli bazë:**\n- Gjeni termin e 6-të nëse ligji është 2n + 1\n- Gjeni termin e 5-të nëse ligji është 3n - 1  \n- Nëse figura e parë ka 5 elemente dhe rritet me 2 çdo herë, sa elemente ka figura e 4-të?\n\nb) **Niveli mesatar:**\n- Një varg figurash ka termat: 7, 11, 15, 19... Gjeni ligjin dhe termin e 12-të\n- Nëse termi i n-të është 5n - 2, gjeni pozicionin ku termi bëhet 48\n\nc) **Niveli i avancuar:**\n- Krijoni një varg figurash ku ligji të jetë n² + 3 dhe shpjegoni pse kjo formë ndodh në natyrë\n\n**MBYLLJA** (5 minuta)\n**Përmbledhje e pikave kryesore:**\n1. Vargjet e figurave ndjekin ligje matematikore të caktuara\n2. Ligji na lejon të gjejmë çdo term pa ndërtuar të gjitha figurat\n3. Formula e përgjithshme është shprehja algjebrike e ligjit\n\n**Quiz verbal:** 'Nëse një varg fillon me 4 dhe rritet me 3 çdo herë, cili është ligji?' (Përgjigja: 3n + 1)\n\n**Parashikimi:** Ora e ardhshme do të punojmë me vargje më kompleksë ku elementet rriten me shpejtësi të ndryshme, duke përfshirë edhe vargjet e numrave të plotë katrorë.",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**NIVELI BAZË (për të gjithë nxënësit):**\n1. Gjeni tre termat e ardhshëm: 6, 9, 12, 15, ___, ___, ___\n2. Nëse ligji është 4n - 1, llogaritni termat për n = 3, 5, 7\n3. Një varg ka termat 8, 13, 18, 23... Sa është termi i 10-të?\n4. Ndërtoni me laps figurat e para 4 të një vargu që fillon me 2 pika dhe rritet me 3 pika çdo herë\n\n**NIVELI KRIJUES:**\nKrijojeni një projekt të shkurtër: 'Vargjet në arkitekturën shqiptare'. Fotografoni ose vizatoni 3 shembuj të vargeve të figurave që shihni në ndërtesa të lagjes suaj (dritare, ballkone, ornamente). Për çdo shembull, shkruani ligjin matematik që i përshkruan.\n\n**NIVELI SHTESË (fakultativ për nxënës të avancuar):**\nHulumtoni vargjet Fibonacci në natyrë. Gjeni 5 shembuj ku kjo sekuencë (1,1,2,3,5,8,13...) shfaqet në lulet, guazkat e bellurave apo formacionet e tjera natyrore. Shpjegoni pse natyra përdor këto modele matematikore.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Algjebra",
+      "page_or_row": "105"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

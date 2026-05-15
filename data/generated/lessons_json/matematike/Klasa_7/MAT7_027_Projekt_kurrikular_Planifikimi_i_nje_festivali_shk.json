@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_027",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 27,
+  "tema": "Projekt kurrikular - Planifikimi i një festivali shkollor",
+  "tematika": "Projekt interdisiplinar",
+  "month": "Tetor",
+  "trimester": 1,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës 7B të shkollës '28 Nëndori' në Tiranë duhet të organizojnë festivalin vjetor të shkollës. Ata duhet të planifikojnë buxhetin për dekorime (kostot për materiale, fitimin nga shitja e biletave), të llogaritin hapësirën e nevojshme në sallën e gimnastikës (240 m²), të përcaktojnë kohën e përformanseve (12 numra artistikë, secili 8 minuta), dhe të analizojnë statistikat e pjesëmarrjes së familjeve (350 prindër të ftuar).",
+  "rezultatet": [
+    "Nxënësi/ja llogarit me saktësi koston totale të projektit duke përdorur operacionet me numra dhjetorë",
+    "Nxënësi/ja përkufizon dhe përdor përqindjet për të llogaritur fitimin e pritur nga shitja e biletave",
+    "Nxënësi/ja demonstron aftësinë për të llogaritur sipërfaqet dhe perimetrat e hapësirave të ndryshme",
+    "Nxënësi/ja argumenton zgjedhjet e bëra duke përdorur të dhëna statistikore dhe grafikë",
+    "Nxënësi/ja zgjidh probleme të kohës dhe të organizimit duke përdorur proporcione",
+    "Nxënësi/ja analizon dhe interpreton të dhënat e mbledhura në tabela dhe diagrame"
+  ],
+  "fjalet_kyce": [
+    "buxhet (budget)",
+    "përqindje (%)",
+    "kosto totale",
+    "fitim neto",
+    "sipërfaqe (m²)",
+    "përqindje pjesëmarrjeje",
+    "proporcione",
+    "statistika dhe diagrame"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 4 (Numrat dhjetorë), faqe 78-85",
+    "Libri 'Matematika 7' - Kapitulli 6 (Përqindjet), faqe 112-125",
+    "Kalkulatore shkencor, vizore, busull, fletë milimetrike",
+    "Fletë pune e përgatitur 'Planifikimi i projektit'",
+    "Kompjuter me Excel ose Google Sheets për tabela",
+    "Materiale për poster (karton A3, ngjyra, vizore)"
+  ],
+  "lidhja": "Projekti lidhet ngushtë me Edukimin Qytetar (organizimi demokratik, marrja e vendimeve), me Gjuhën Shqipe (prezantimet gojore, raporti i shkruar), me Artet (dizajni i posterave, kreativiteti vizual), me Gjeografinë (përdorimi i hartave të shkollës, orientimi hapësinor), dhe me jetën praktike duke simuluar situata reale të biznesit të vogël, planifikimit të eventeve familjare, dhe menaxhimit të buxhetit personal që nxënësit do të përballen në të ardhmen.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nKjo orë synon që nxënësit të integrojnë njohuritë matematikore të fituara gjatë trimestrit të parë për të zgjidhur një problem real dhe kompleks - organizimin e një festivali shkollor. Nxënësit do të punojnë në grupe për të zhvilluar aftësitë e planifikimit, llogaritjes dhe prezantimit.\n\n**EVOKIMI/HYRJA** (10 minuta)\nMësuesja fillon me një video të shkurtër 3-minutëshe nga festivali i vitit të kaluar të shkollës. Pastaj pyet: 'Sa kushtoi organizimi i festivalit të kaluar? Si mendoni se mund ta bëjmë më ekonomik këtë vit?' Shkruan në tabelë të dhënat bazë: 'Buxheti i disponueshëm: 45,000 lekë, Prindër të ftuar: 350, Koha e disponueshme: 2.5 orë, Salla: 240 m²'. Ndan klasën në 5 grupe dhe shpjegon se çdo grup do të jetë përgjegjës për një aspekt të projektit: Grup 1 - Buxheti, Grup 2 - Hapësira, Grup 3 - Koha, Grup 4 - Statistikat, Grup 5 - Prezantimi final.\n\n**REALIZIMI I KUPTIMIT** (28 minuta)\n\n**Shembulli 1 - Llogaritja e kostos (8 minuta):**\nMësuesja demonstron në tabelë: 'Dekorime: 15,000 lekë, Aparaturë audio: 12,000 lekë, Refreshment: 8,500 lekë, Materiale të ndryshme: 4,200 lekë. Kosto totale = 15,000 + 12,000 + 8,500 + 4,200 = 39,700 lekë. Mbeten: 45,000 - 39,700 = 5,300 lekë rezervë.'\n\n**Shembulli 2 - Llogaritja e përqindjeve (7 minuta):**\n'Nëse shesim bileta me çmim 200 lekë për person dhe vijnë 280 prindër nga 350 të ftuar, sa është përqindja e pjesëmarrjes?' Zgjidh: (280 ÷ 350) × 100 = 80%. 'Sa të ardhura kemi? 280 × 200 = 56,000 lekë. Fitimi neto: 56,000 - 39,700 = 16,300 lekë.'\n\n**Shembulli 3 - Llogaritja e hapësirës (8 minuta):**\n'Salla ka sipërfaqe 240 m². Nëse çdo person ka nevojë për 0.8 m² hapësirë, sa persona mund të strehojmë?' Llogarit: 240 ÷ 0.8 = 300 persona. 'A mjafton për 350 të ftuar? Jo, duhet të gjejmë zgjidhje alternative ose të kufizojmë numrin.'\n\n**Punë në grupe (5 minuta):**\nÇdo grup merr një fletë pune specifike me detyrat e tyre. Grup 1 llogarit variante të ndryshme buxhetore, Grup 2 planifikon organizimin hapësinor, Grup 3 krijon orar të detajuar, Grup 4 analizon të dhënat e pjesëmarrjes, Grup 5 përgatit strukturën e prezantimit.\n\n**PRAKTIKA** (10 minuta)\n\n**a) Niveli bazë (3 minuta):**\n1. Llogaritni: 23,500 + 15,200 + 8,750 = ?\n2. Gjeni 25% të 120,000 lekëve\n3. Nëse një sallë ka 180 m² dhe çdo person zë 0.6 m², sa persona mund të strehojë?\n\n**b) Niveli mesatar (4 minuta):**\n1. Një shkollë ka buxhet 80,000 lekë. Harxhon 35% për dekorime dhe 28% për ushqim. Sa lekë mbeten?\n2. Një performans zgjat 12 minuta. Nëse kemi 15 performansa dhe 20 minuta pushim mes tyre, sa zgjat eventi?\n\n**c) Niveli i avancuar (3 minuta):**\nNjë shkollë organizon festival. Bileta kushton 300 lekë. Nëse vijnë 75% e 480 të ftuarve dhe kostoja është 85,000 lekë, llogaritni fitimin. Pastaj përcaktoni se sa duhet të jetë çmimi i biletës që fitimi të jetë 40,000 lekë.\n\n**MBYLLJA** (5 minuta)\nMësuesja përmbledh tri pikat kryesore: '1) Matematika na ndihmon të planifikojmë projekte reale, 2) Duhet të konsiderojmë të gjitha kostot dhe të ardhurat, 3) Statistikat na ndihmojnë të marrim vendime të arsyeshme.' Bën një quiz të shpejtë verbal: 'Çfarë operacioni përdorim për përqindjet? Si llogarihet fitimi?' Njofton se orën e ardhshme do të prezantojnë projektet e tyre dhe do të votojnë për planin më të mirë të festivalit.",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**1. DETYRË BAZË:** Zgjidhni ushtrimet 15-20 nga faqja 89 të librit (llogaritje me numra dhjetorë dhe përqindje të thjeshta). Llogaritni koston për të organizuar një festë ditëlindjeje për 25 persona: torta 3,500 lekë, pijet 2,800 lekë, dekorimi 1,200 lekë, zbavitja 4,000 lekë.\n\n**2. DETYRË KRIJUESE:** Përgatisni një plan të plotë për organizimin e një eventi në lagjen tuaj (panairi i librit, turneu sportiv, apo ekspozitë). Përdorni të paktën 10 llogaritje matematikore dhe krijoni një poster A4 me grafik që tregon ndarjen e buxhetit. Prezantoni planin tuaj në 2 faqe me hyrje, zhvillim dhe përfundim.\n\n**3. DETYRË SHTESË (FAKULTATIVE):** Hulumtoni çmimet reale të organizimit të eventeve në Tiranë duke intervistuar 3 organizatorë të ndryshëm (restorante, salla eventesh, kompani organizimi). Krahasoni çmimet dhe krijoni një analizë statistikore me mesatare, moda dhe mediane të çmimeve. Shkruani një raport 1-faqesh me rekomandimet tuaja për organizimin më ekonomik të eventeve.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Projekt",
+      "page_or_row": "27"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

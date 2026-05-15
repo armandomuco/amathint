@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_077",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 77,
+  "tema": "Kuboidët",
+  "tematika": "Gjeometria në hapësirë",
+  "month": "Shkurt",
+  "trimester": 2,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e shkollës 'Fan Noli' në Tiranë duhet të llogaritin sa kuti karton nevojiten për të paketuar 200 libra matematike për një shkollë në Shkodër. Çdo libër ka përmasat 25cm x 18cm x 3cm, ndërsa kutitë e disponueshme janë kuboide me përmasat 50cm x 36cm x 15cm. Gjithashtu duhet të llogaritin koston e transportit bazuar në vëllimin total të paketave.",
+  "rezultatet": [
+    "Nxënësi/ja përkufizon kuboidin dhe identifikon elementet e tij (brinjët, kulmet, faqet)",
+    "Nxënësi/ja llogarit saktësisht sipërfaqen e përgjithshme të kuboidit duke përdorur formulën S = 2(ab + ac + bc)",
+    "Nxënësi/ja demonstron llogaritjen e vëllimit të kuboidit duke përdorur formulën V = a × b × c",
+    "Nxënësi/ja zgjidh probleme praktike që përfshijnë llogaritjen e vëllimit dhe sipërfaqes së kuboidëve",
+    "Nxënësi/ja analizon marrëdhëniet midis përmasave të kuboidit dhe ndikimin në vëllim dhe sipërfaqe",
+    "Nxënësi/ja argumenton zgjidhjen e problemave komplekse që përfshijnë disa kuboide"
+  ],
+  "fjalet_kyce": [
+    "kuboid (cuboid)",
+    "vëllimi V = a × b × c",
+    "sipërfaqja e përgjithshme S = 2(ab + ac + bc)",
+    "brinjët (gjatësia, gjerësia, lartësia)",
+    "kulmet (8 kulme)",
+    "faqet (6 faqe drejtkëndëshe)",
+    "cm³ (centimetra kub)",
+    "drejtkëndësh (rectangle)"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 8: Gjeometria në hapësirë, faqe 142-148",
+    "Vizore, busull, laps, gomë fshirëse",
+    "Kuti karton të ndryshme për demonstrim praktik",
+    "Fletë pune e përgatitur me 12 probleme kuboidi",
+    "Kalkulatore për llogaritje komplekse",
+    "Poster me format kuboidësh dhe elementët e tyre"
+  ],
+  "lidhja": "Arte: projektimi i paketimeve dhe kutive dekorative për produkte shqiptare. Gjeografi: llogaritja e vëllimit të ujit në liqenet e Shqipërisë (Ohrid, Prespa). Fizikë: koncepti i dendësisë dhe marrëdhënia me vëllimin. Ekonomi familjare: optimizimi i hapësirës së ruajtjes në shtëpi dhe llogaritja e kostos së materialeve ndërtimi.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nKjo orë synon që nxënësit të kuptojnë konceptin e kuboidit si formë gjeometrike tredimensionale dhe të zotërojnë llogaritjen e vëllimit dhe sipërfaqes së tij përmes shembujve praktikë nga jeta e përditshme.\n\n**EVOKIMI/HYRJA** (10 minuta)\nMësuesi sjell në klasë kuti të ndryshme (kuti kripe, kuti sapuni, libra) dhe pyet: 'Çfarë kanë të përbashkët këto objekte?' Nxënësit vëzhgojnë dhe diskutojnë. Pyetje orientuese: 'Sa faqe ka kjo kuti? Sa kulme? Sa brinjë?' Mësuesi demonstron me një kuti transparente dhe tregon se si mund të 'hapim' kuboidin për të parë faqet. Lidhet me orën e kaluar për drejtkëndëshin: 'Nëse drejtkëndëshi është figurë dypërmasore, çfarë është kuboidi?'\n\n**REALIZIMI I KUPTIMIT** (26 minuta)\nMësuesi shpjegon se kuboidi është formë tredimensionale me 6 faqe drejtkëndëshe, 12 brinjë dhe 8 kulme. Tregon formulat bazë:\n\n**Shembulli 1**: Kuti buke me përmasat 30cm × 20cm × 12cm\n- Vëllimi: V = 30 × 20 × 12 = 7,200 cm³\n- Sipërfaqja: S = 2(30×20 + 30×12 + 20×12) = 2(600 + 360 + 240) = 2,400 cm²\n\n**Shembulli 2**: Dhomë klase me përmasat 8m × 6m × 3m\n- Vëllimi: V = 8 × 6 × 3 = 144 m³ (sa ajër përmban dhoma)\n- Sipërfaqja: S = 2(8×6 + 8×3 + 6×3) = 2(48 + 24 + 18) = 180 m²\n\n**Shembulli 3**: Akuarium me përmasat 50cm × 30cm × 40cm\n- Vëllimi: V = 50 × 30 × 40 = 60,000 cm³ = 60 litra ujë\n- Sipërfaqja: S = 2(50×30 + 50×40 + 30×40) = 2(1500 + 2000 + 1200) = 9,400 cm²\n\nNxënësit organizohen në grupe 4-ish dhe çdo grup merr kuti të ndryshme për të matur përmasat dhe llogaritur vëllimin dhe sipërfaqen. Çdo grup prezanton gjetjet në tabelë.\n\n**PRAKTIKA** (10 minuta)\n**Niveli bazë** (3 ushtrime):\na) Gjeni vëllimin e kuboidit me përmasat 5cm × 4cm × 3cm\nb) Llogaritni sipërfaqen e kuboidit me përmasat 10cm × 8cm × 6cm\nc) Një kuti ka gjatësi 15cm, gjerësi 12cm dhe lartësi 8cm. Sa është vëllimi?\n\n**Niveli mesatar** (2 ushtrime):\na) Një rezervuar uji ka formë kuboidi me përmasat 2m × 1.5m × 1.2m. Sa litra ujë nxit?\nb) Një dhomë ka sipërfaqen totale 94m². Nëse gjatësia është 6m dhe gjerësia 4m, gjeni lartësinë.\n\n**Niveli i avancuar** (1 problemë sfiduese):\nNjë kompani prodhon kuti për eksport me vëllim 1000 cm³. Nëse gjatësia është dy herë gjerësia dhe lartësia është 10cm, gjeni përmasat e kutisë dhe llogaritni sa kartoni nevojitet për 100 kuti.\n\n**MBYLLJA/REFLEKTIMI** (4 minuta)\nPërmbledhje: 1) Kuboidi ka 6 faqe, 12 brinjë, 8 kulme. 2) Vëllimi llogaritet V = a × b × c. 3) Sipërfaqja llogaritet S = 2(ab + ac + bc). Quiz verbal: 'Çfarë ndryshimi ka midis kuboidit dhe kubik?' Parashikim: 'Orën tjetër do të mësojmë për prizmat dhe cilindrat.'",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**BAZË**: Zgjidhni ushtrimet 1-6 nga libri faqe 147. Llogaritni vëllimin dhe sipërfaqen për kuboide me përmasat: 12×8×5, 15×10×6, 20×12×8, 25×15×10 (njësia cm).\n\n**KRIJUESE**: Matni dhomën tuaj dhe llogaritni sa ajër përmban. Krijoni një poster që tregon 5 objekte nga shtëpia që kanë formë kuboidi, me llogaritjet përkatëse të vëllimit. Fotografoni objektet dhe shkruani përmasat.\n\n**SHTESË (fakultative)**: Hulumtoni se si llogariten përmasat optimale të një kutie për transport që duhet të ketë vëllim 2000 cm³ por të përdorë minimum material (sipërfaqe minimale). Përdorni internetin për të gjetur algoritme optimizimi dhe prezantoni gjetjet.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Gjeometria",
+      "page_or_row": "77"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

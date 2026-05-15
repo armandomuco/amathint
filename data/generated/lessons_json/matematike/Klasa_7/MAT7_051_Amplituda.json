@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_051",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 51,
+  "tema": "Amplituda",
+  "tematika": "Statistika",
+  "month": "Dhjetor",
+  "trimester": 1,
+  "duration_minutes": 45,
+  "situata": "Nxënësit analizojnë temperaturat e regjistruara në qytetin e Tiranës gjatë muajit dhjetor. Meteorologu i shkollës ka mbledhur të dhënat për 15 ditët e para të dhjetorit: temperaturat maksimale variojnë nga 5°C deri në 18°C, ndërsa temperaturat minimale nga -2°C deri në 8°C. Nxënësit duhet të llogaritjnë amplitudën për të kuptuar sa shumë ndryshojnë temperaturat në qytetin tonë.",
+  "rezultatet": [
+    "Nxënësi/ja përkufizon konceptin e amplitudës në statistikë si ndryshimi midis vlerës më të madhe dhe vlerës më të vogël",
+    "Nxënësi/ja identifikon vlerën maksimale dhe minimale në një grup të dhënash numerike",
+    "Nxënësi/ja llogarit saktësisht amplitudën e një serie të dhënash duke përdorur formulën A = Vmax - Vmin",
+    "Nxënësi/ja interpreton kuptimin praktik të amplitudës në kontekste të ndryshme të jetës së përditshme",
+    "Nxënësi/ja krahason amplitude të ndryshme dhe argumenton për variabilitetin e të dhënave",
+    "Nxënësi/ja zgjidh probleme të përbëra që përfshijnë llogaritjen e amplitudës në situata praktike"
+  ],
+  "fjalet_kyce": [
+    "Amplituda (A)",
+    "Vlera maksimale (Vmax)",
+    "Vlera minimale (Vmin)",
+    "Formula A = Vmax - Vmin",
+    "Variabiliteti i të dhënave",
+    "Shpërndarja statistikore",
+    "Intervali i vlerave",
+    "Matja e shpërndarjes"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 4: Statistika, faqe 78-82",
+    "Fletë pune e përgatitur me 15 seri të dhënash për temperaturat, notat, dhe çmimet",
+    "Kalkulatore shkentimore për llogaritje të shpejta",
+    "Termometra për demonstrimin praktik të temperaturave",
+    "Tabelë e madhe për shënimin e të dhënave dhe demonstrimeve",
+    "Kartela me probleme të ndryshme për punën në grupe"
+  ],
+  "lidhja": "Lidhje me Gjeografinë në studimin e klimës dhe temperaturave në rajone të ndryshme të Shqipërisë (Alpet, bregdeti, fusha). Lidhje me shkencat natyrore në matjen e temperaturës dhe shkallët celsius. Lidhje me jetën e përditshme: analiza e çmimeve në tregun e Tiranës, notat e nxënësve, lartësitë e shokëve të klasës, kohëzgjatja e udhëtimit nga shtëpia në shkollë.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\n\nKjo orë synon që nxënësit të kuptojnë konceptin e amplitudës si mjet për të matur sa shumë ndryshojnë të dhënat në një grup. Ata do të mësojnë të llogaritjnë amplitudën dhe të interpretojnë kuptimin e saj praktik.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\n\nMësuesi fillon me një lojë: 'Cili është më i gjati dhe cili më i shkurti në klasë?' Matet lartësia e 5 nxënësve: 145cm, 138cm, 152cm, 141cm, 149cm. Pyetje orientuese: 'Sa është dallimi midis më të gjatit dhe më të shkurtit?' Nxënësit llogaritin: 152-138=14cm. Mësuesi shpjegon se ky dallim quhet amplituda. Lidhja me orën e kaluar: 'Javën e shkuar mësuam mesataren, sot do të mësojmë se sa shumë ndryshojnë të dhënat nga njëra-tjetra.'\n\n**REALIZIMI I KUPTIMIT/ZHVILLIMI** (25-28 minuta)\n\nMësuesi shpjegon: 'Amplituda tregon se sa e madhe është dallimi midis vlerës më të madhe dhe më të vogël në një grup të dhënash. Formula është: A = Vmax - Vmin'\n\n**Shembulli 1 - Temperaturat në Tiranë:**\nTë dhënat: 12°C, 8°C, 15°C, 5°C, 18°C, 10°C, 13°C\nVmax = 18°C (temperatura më e lartë)\nVmin = 5°C (temperatura më e ulët)\nA = 18°C - 5°C = 13°C\nKuptimi: Temperaturat ndryshojnë me 13°C gjatë kësaj periudhe.\n\n**Shembulli 2 - Notat e një testi:**\nTë dhënat: 6, 8, 4, 9, 7, 5, 8, 6, 9, 4\nVmax = 9 (nota më e lartë)\nVmin = 4 (nota më e ulët)\nA = 9 - 4 = 5\nKuptimi: Ka një dallim prej 5 pikësh midis notës më të lartë dhe më të ulët.\n\n**Shembulli 3 - Çmimet e bukës në disa dyqane:**\nTë dhënat: 80 lekë, 75 lekë, 90 lekë, 85 lekë, 70 lekë, 88 lekë\nVmax = 90 lekë (çmimi më i lartë)\nVmin = 70 lekë (çmimi më i ulët)\nA = 90 - 70 = 20 lekë\nKuptimi: Çmimi i bukës ndryshon deri në 20 lekë midis dyqaneve.\n\n**Punë në grupe (10 minuta):** Çdo grup merr një kartë me të dhëna të ndryshme (lartësi nxënësish, kohë udhëtimi, çmime frutash) dhe llogarit amplitudën. Prezantimi i rezultateve në tabelë.\n\n**PRAKTIKA/USHTRIME** (8-10 minuta)\n\n**a) Niveli bazë:**\n1. Gjeni amplitudën: 12, 8, 15, 10, 6 (A = 15-6 = 9)\n2. Llogaritni A për: 25, 30, 22, 28, 24 (A = 30-22 = 8)\n3. Çfarë amplitude ka seria: 7, 4, 9, 5, 8? (A = 9-4 = 5)\n\n**b) Niveli mesatar:**\n1. Në një javë çmimet e benzinës ishin: 174, 176, 172, 175, 173, 177, 174 lekë/litër. Sa është amplituda?\n2. Nëse amplituda e një grupi notash është 4 dhe nota më e lartë është 9, sa është nota më e ulët?\n\n**c) Niveli i avancuar:**\n1. Një fabrikë prodhon produkte me peshë që varion midis 485g dhe 515g. Nëse amplituda duhet të jetë maksimumi 25g, a është brenda standardeve?\n\n**MBYLLJA/REFLEKTIMI** (3-5 minuta)\n\nPërmbledhje me tre pika kryesore: 1) Amplituda mat variabilitetin e të dhënave, 2) Llogaritet si A = Vmax - Vmin, 3) Na ndihmon të kuptojmë se sa të ndryshme janë të dhënat. Quiz verbal: 'Nëse kam notaet 5, 7, 9, 6, sa është amplituda?' Parashikimi: 'Orën e ardhshme do të mësojmë për frekuencën e të dhënave.'",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**1. DETYRË BAZË:**\nZgjidhni ushtrimet 1-4 nga faqja 81 të librit. Llogaritni amplitudën për këto seri:\na) 15, 12, 18, 10, 16, 14\nb) 23, 19, 25, 21, 18, 24\nc) 8.5, 7.2, 9.1, 6.8, 8.9\nd) 45, 52, 38, 49, 41, 55\n\n**2. DETYRË KRIJUESE:**\nBëni një mini-hulumtim në familje: Matni lartësinë e të gjithë anëtarëve të familjes dhe llogaritni amplitudën. Krijoni një tabelë dhe shpjegoni me 2-3 fjali çfarë tregon amplituda për familjen tuaj. Prezantoni rezultatet me një vizatim.\n\n**3. DETYRË SHTESË (Fakultative):**\nHulumtoni çmimet e të njëjtit produkt në 8 dyqane të ndryshme në lagjen tuaj. Llogaritni amplitudën dhe shkruani një paragraf se çfarë mendoni për ndryshimin e çmimeve. Si do të përdornit këtë informacion nëse do të blinin atë produkt?",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Statistika",
+      "page_or_row": "51"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

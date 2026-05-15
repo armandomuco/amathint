@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_088",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 88,
+  "tema": "Syprina e trekëndëshit",
+  "tematika": "Matja",
+  "month": "Shkurt",
+  "trimester": 2,
+  "duration_minutes": 45,
+  "situata": "Komuna e Tiranës planifikon të ndërtojë një park të ri në formë trekëndëshi në lagjen 'Dëshmorët e Kombit'. Planifikuesit kanë hartën e zonës dhe duhet të llogaritin saktësisht syprinën e parkut për të përcaktuar koston e ndërtimit, sasinë e barit që duhet mbjellë dhe numrin e pemëve që mund të plantohen. Një metër katror bar kushton 150 lekë, ndërsa secila pemë ka nevojë për 25 m² hapësirë.",
+  "rezultatet": [
+    "Nxënësi/ja përkufizon syprinën e trekëndëshit si madhësinë e sipërfaqes së mbyllur nga tre brinjët",
+    "Nxënësi/ja identifikon elementet e trekëndëshit të nevojshme për llogaritjen e syprinës (baza dhe lartësia)",
+    "Nxënësi/ja llogarit syprinën e trekëndëshit duke përdorur formulën S = (b × h)/2",
+    "Nxënësi/ja zgjidh probleme praktike që kërkojnë llogaritjen e syprinës së trekëndëshit",
+    "Nxënësi/ja demonstron se syprina e trekëndëshit është gjysma e syprinës së paralelogramit me të njëjtën bazë dhe lartësi",
+    "Nxënësi/ja argumenton përse formula e syprinës është e njëjtë për të gjitha llojet e trekëndëshave"
+  ],
+  "fjalet_kyce": [
+    "syprina (S)",
+    "baza (b)",
+    "lartësia (h)",
+    "formula S = (b × h)/2",
+    "metër katror (m²)",
+    "trekëndësh kënddrejtë",
+    "trekëndësh i çfarëdoshëm",
+    "njësi matëse"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 4, faqe 78-83",
+    "Vizore 30 cm, busull, laps, goma fshirëse",
+    "Fletë milimetrike dhe fletë të bardha A4",
+    "Kartela karton me figura gjeometrike të prerë",
+    "Kalkulatore ose telefon për llogaritje",
+    "Posterë me shembuj problemesh nga jeta reale"
+  ],
+  "lidhja": "Lidhje me Gjeografinë në llogaritjen e syprinave të vendeve dhe kontinenteve, me Artet vizuale në krijimin e kompozimeve gjeometrike, me shkencat natyrore në llogaritjen e shtypjes mbi sipërfaqe trekëndore, me Historinë në studimin e piramidave egjiptiane dhe arkitekturës shqiptare si kalaja e Krujës. Aplikime praktike në ndërtim, bujqësi për llogaritjen e sipërfaqeve të tokave, në dizajnin e flamurit shqiptar dhe në planifikimin urban të qyteteve shqiptare.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nKjo orë synon që nxënësit të mësojnë të llogaritin syprinën e trekëndëshit duke përdorur formulën themelore dhe ta aplikojnë këtë njohuri në zgjidhjen e problemeve praktike nga jeta e përditshme.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\nMësuesi nis me një lojë interaktive: në tabelë vizaton një hartë të thjeshtuar të Tiranës dhe tregon se komuna dëshiron të ndërtojë tre parqe të rinj në forma trekëndore në zona të ndryshme. Nxënësit pyeten: 'Cili park do të jetë më i madhi?' dhe 'Si mund ta dimë pa i matur fizikisht?' Mësuesi tregon kartela me trekëndësha të ndryshëm dhe pyet: 'A janë të gjithë të së njëjtës syprinë?' Lidh me orën e kaluar duke rikujtuar llogaritjen e syprinës së drejtkëndëshit: 'Çfarë formule përdorim për drejtkëndëshin?' (S = a × b). Shkruan në tabelë pyetjen kyçe: 'Si llogarisim syprinën e trekëndëshit?'\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\nMësuesi shpjegon konceptin duke filluar nga marrëdhënia midis trekëndëshit dhe drejtkëndëshit. Vizaton në tabelë një drejtkëndësh 6×4 cm dhe e ndan me diagonale, duke treguar se formohen dy trekëndësha të barabartë. Demonstron se syprina e çdo trekëndëshi është gjysma e syprinës së drejtkëndëshit.\n\n**Shembull 1**: Trekëndësh me bazë b = 8 cm, lartësi h = 6 cm\nS = (b × h)/2 = (8 × 6)/2 = 48/2 = 24 cm²\nShpjegon hap pas hapi: identifikojmë bazën, matim lartësinë pingul me bazën, shumëzojmë dhe ndajmë me 2.\n\n**Shembull 2**: Parku trekëndor në Tiranë me bazë 120 m dhe lartësi 80 m\nS = (120 × 80)/2 = 9600/2 = 4800 m²\nLlogarit koston e barit: 4800 × 150 lekë = 720,000 lekë\n\n**Shembull 3**: Trekëndësh kënddrejtë me katete a = 5 m dhe b = 12 m\nS = (a × b)/2 = (5 × 12)/2 = 60/2 = 30 m²\nShpjegon se në trekëndëshin kënddrejtë, njëri katet është baza dhe tjetri lartësia.\n\nOrganizimin e punës në grupe: Nxënësit ndahen në grupe 4-5 persona. Çdo grup merr kartela me trekëndësha të ndryshëm dhe duhet të matë dimensionet, të llogaritë syprinën dhe të prezantojë zgjidhjen. Mësuesi qarkuton dhe ndihmon grupet, duke siguruar që të gjithë të kuptojnë hapat.\n\n**PRAKTIKA/USHTRIME** (8-10 minuta)\na) **Niveli bazë**: \n1. Llogaritni syprinën e trekëndëshit me b = 10 cm, h = 6 cm\n2. Gjeni syprinën kur b = 14 m, h = 8 m\n3. Trekëndëshi ka syprinë 36 cm² dhe bazë 9 cm. Sa është lartësia?\n\nb) **Niveli mesatar**:\n1. Një copë tokë trekëndore ka brinjë 30 m, 40 m, 50 m. Llogaritni syprinën (përdorim formulën e Heronit ose metodën e lartësisë)\n2. Sa pemë mund të plantohen në parkun 4800 m² nëse çdo pemë ka nevojë për 25 m²?\n\nc) **Niveli i avancuar**:\nNjë trekëndësh ka syprinë 120 m². Nëse baza rritet me 50% dhe lartësia zvogëlohet me 20%, si ndryshon syprina e re?\n\n**MBYLLJA/REFLEKTIMI** (3-5 minuta)\nPërmbledhja e pikave kryesore: Formula S = (b × h)/2 vlen për të gjitha trekëndëshat, duhet të identifikojmë bazën dhe lartësinë pingul, syprina matet në njësi katror. Quiz verbal: 'Çfarë është syprina?' 'Si e llogarisim?' 'Përse ndajmë me 2?' Parashikimi i orës së ardhshme: 'Orën tjetër do të mësojmë rreth syprinës së paralelogramit dhe do të krahasojmë me trekëndëshin.'",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**DETYRAT PËR NË SHTËPI**\n\n**1. Detyrë bazë**: Zgjidhni ushtrimet 15-19 nga libri, faqja 82. Llogaritni syprinën për trekëndëshat me dimensione: (b=12cm, h=8cm), (b=15m, h=10m), (b=20mm, h=14mm), (b=6dm, h=9dm).\n\n**2. Detyrë krijuese**: Krijoni një poster me temë 'Trekëndëshat në arkitekturën shqiptare'. Gjeni 3 ndërtesa ose monumente shqiptare që përmbajnë forma trekëndore (si kulmi i shtëpive tradicionale, kalaja e Krujës, flamuri kombëtar). Fotografoni ose vizatoni, matni dimensionet aproximative dhe llogaritni syprinën.\n\n**3. Detyrë shtesë (fakultative)**: Hulumtoni për trekëndëshin e Bermudës dhe llogaritni syprinën e tij duke përdorur të dhënat nga interneti. Krahasojeni me syprinën e Shqipërisë (28,748 km²). Shkruani një paragraf rreth gjetjeve tuaja.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Matja",
+      "page_or_row": "88"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_073",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 73,
+  "tema": "Ndërtimi i drejtëzave pingule",
+  "tematika": "Gjeometria",
+  "month": "Janar",
+  "trimester": 2,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës VII në shkollën 'Fan S. Noli' në Tiranë duhet të ndërtojnë një kopsht shkollor drejtkëndor. Ata duhet të sigurohen që të katër këndet e kopshtit të jenë të drejta (90°) duke përdorur metoda gjeometrike për të ndërtuar drejtëza pingule. Projekti kërkon që të përdorin busull dhe vizore për të krijuar kënde të drejta të sakta në terren.",
+  "rezultatet": [
+    "Nxënësi/ja përkufizon drejtëzat pingule si drejtëza që priten nën kënd 90°",
+    "Nxënësi/ja ndërton drejtëza pingule duke përdorur busull dhe vizore",
+    "Nxënësi/ja identifikon drejtëzat pingule në objekte dhe forma gjeometrike",
+    "Nxënësi/ja demonstron që këndi midis drejtëzave pingule është 90°",
+    "Nxënësi/ja zgjidh problemë praktike që kërkojnë ndërtimin e drejtëzave pingule",
+    "Nxënësi/ja argumenton saktësinë e ndërtimit të drejtëzave pingule duke verifikuar me matje"
+  ],
+  "fjalet_kyce": [
+    "drejtëza pingule (perpendicular lines)",
+    "kënd i drejtë (90°)",
+    "busull (compass)",
+    "vizore",
+    "perpendikulare",
+    "bisektore",
+    "rrezja e rrethit",
+    "hark (arc)"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 4: Gjeometria, faqe 78-85",
+    "Busull geometrik për çdo nxënës",
+    "Vizore 30 cm dhe katrore",
+    "Fletë milimetrike dhe fletë të bardha A4",
+    "Fletë pune e përgatitur me 8 ushtrime për ndërtimin e drejtëzave pingule",
+    "Postera me shembuj të drejtëzave pingule në arkitekturën shqiptare"
+  ],
+  "lidhja": "Lidhje me Artet Vizuale në studimin e arkitekturës shqiptare (Kalaja e Krujës, Qyteti i Vjetër i Gjirokastrës) ku drejtëzat pingule përdoren në ndërtesa. Lidhje me Gjeografinë në leximin e hartave dhe koordinatave. Lidhje me shkencat natyrore në konceptin e forcave që veprojnë pingul. Aplikime në jetën e përditshme: ndërtimi i shtëpive, planifikimi i rrugëve në Tiranë, krijimi i kopshteve dhe parqeve.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nNxënësit do të mësojnë të ndërtojnë drejtëza pingule duke përdorur mjete gjeometrike dhe do të kuptojnë rëndësinë e tyre në jetën e përditshme dhe arkitekturë.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\nMësuesi tregon foto të ndërtesave të njohura në Tiranë (Pallati i Kulturës, Kulla e Sahatit) dhe pyet: 'Çfarë vëzhgoni te këndet e këtyre ndërtesave?' Nxënësit diskutojnë dhe identifikojnë këndet e drejta. Mësuesi demonstron me dy lapse si formohet këndi 90° dhe pyet: 'Si mund ta matim këtë kënd?' Aktivitet motivues: Loja 'Gjej këndin e drejtë' - nxënësit kërkojnë kënde 90° në klasë (tavolina, dritare, libra). Lidhja me orën e kaluar: 'Javën e shkuar mësuam të matnim këndet. Sot do të mësojmë të ndërtojmë një lloj të veçantë këndi.'\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\nMësuesi shpjegon: 'Drejtëzat pingule janë drejtëza që priten nën kënd 90°'. Demonstron në tabelë me vizore katrore.\n\nShembull 1: Ndërtimi i pingules me busull dhe vizore\n- Hapi 1: Vizatoj drejtëzën AB\n- Hapi 2: Marr pikën P në drejtëzë\n- Hapi 3: Me busull, hap 3cm, qendër P, vizatoj hark që pret drejtëzën në M dhe N\n- Hapi 4: Me hap më të madh (5cm), qendër M, vizatoj hark lart\n- Hapi 5: Me të njëjtin hap, qendër N, vizatoj hark që pret harku e mëparshëm në Q\n- Hapi 6: Lidh PQ - kjo është pingule me AB\n- Verifikoj me katroren: këndi është 90°\n\nShembull 2: Ndërtimi i pingules në skajin e drejtëzës\n- Hapi 1: Kam drejtëzën CD dhe duhet pingule në C\n- Hapi 2: Me busull, qendër C, vizatoj gjysmërreth\n- Hapi 3: Zgjedh pikën E në gjysmërreth\n- Hapi 4: Me busull, qendër E, vizatoj hark\n- Hapi 5: Me të njëjtin hap, nga prerja e parë, vizatoj hark që pret harku e mëparshëm\n- Hapi 6: Lidh C me pikën e prerjes\n\nShembull 3: Verifikimi i saktësisë\n- Mati këndin me raportor: duhet të jetë 90°\n- Kontrollo me vizore katrore\n- Mati gjatësitë në trekëndësh për të verifikuar teoremën e Pitagorës\n\nPunë në grupe (3-4 nxënës): Çdo grup merr një detyrë:\n- Grupi 1: Ndërtoni pingule në mes të drejtëzës\n- Grupi 2: Ndërtoni pingule në skaj të drejtëzës\n- Grupi 3: Ndërtoni katror duke përdorur pingule\n- Grupi 4: Gjeni sa pingule mund të ndërtoni në një drejtëz\n\nDemonstrim interaktiv: Nxënës dalin në tabelë dhe ndërtojnë pingule me ndihmën e klasës.\n\n**PRAKTIKA** (8-10 minuta)\na) Niveli bazë:\n1. Ndërtoni pingule në pikën M të drejtëzës AB\n2. Ndërtoni pingule në skajin A të drejtëzës AB\n3. Verifikoni me raportor që këndi është 90°\n\nb) Niveli mesatar:\n1. Ndërtoni katror me brinjë 4cm duke përdorur vetëm busull dhe vizore\n2. Ndërtoni drejtkëndësh me gjatësi 6cm dhe gjerësi 4cm\n\nc) Niveli i avancuar:\n1. Ndërtoni trekëndësh kënddrejtë me katete 3cm dhe 4cm, pastaj matni hipotenuzën dhe verifikoni me teoremën e Pitagorës (3² + 4² = 5²)\n\n**MBYLLJA/REFLEKTIMI** (3-5 minuta)\nPërmbledhje e tri pikave kryesore:\n1. Drejtëzat pingule formojna kënd 90°\n2. Përdoren busull dhe vizore për ndërtim të saktë\n3. Aplikohen në arkitekturë dhe jetë të përditshme\n\nQuiz verbal: 'Sa është këndi midis drejtëzave pingule?' '90°', 'Çfarë mjeti përdorim për ndërtim?' 'Busull dhe vizore', 'Jepni një shembull nga jeta e përditshme' 'Këndet e dhomës, rruga që pret rrugën tjetër'\n\nParashikim: 'Orën e ardhshme do të mësojmë të ndërtojmë bisektoren e këndit - drejtëzën që ndan këndin në dy pjesë të barabarta.'",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**BAZË:**\n1. Zgjidhni ushtrimet 1-4, faqe 82: Ndërtoni pingule në pika të dhëna\n2. Ndërtoni pingule në skajin e tre drejtëzave të ndryshme\n3. Matni me raportor për të verifikuar që këndet janë 90°\n4. Vizatoni katror me brinjë 5cm duke përdorur pingule\n\n**KRIJUESE:**\nKrijoni hartë të thjeshtë të lagjes suaj ku të tregoni rrugët që priten pingul. Përdorni busull dhe vizore për të siguruar saktësinë. Shkruani një paragraf të shkurtër për rëndësinë e drejtëzave pingule në planifikimin urban të Tiranës.\n\n**SHTESË (fakultative):**\nHulumtoni metodën e ndërtimit të pingules që përdorin inxhinierët në terren (metoda 3-4-5). Provoni ta aplikoni në oborrin e shkollës dhe shkruani raportin tuaj. Bonus: Gjeni sa metoda të ndryshme ekzistojnë për të ndërtuar pingule.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Gjeometria",
+      "page_or_row": "73"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

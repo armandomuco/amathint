@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_030",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 30,
+  "tema": "Thyesat e barabarta",
+  "tematika": "Numri",
+  "month": "Tetor",
+  "trimester": 1,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës së 7-të të shkollës 'Fan Noli' në Tiranë organizojnë një treg shkollor për të mbledhur fonde për ekskursionin në Butrint. Ata duhet të ndajnë fitimin nga shitja e ëmbëlsirave në mënyrë të barabartë mes 24 nxënësve të klasës, duke përdorur thyesa të ndryshme për të shprehur pjesët e fitimit që merr çdo nxënës (1/4, 2/8, 6/24). Kjo situatë u jep mundësinë të kuptojnë se thyesat e ndryshme mund të kenë vlerën e njëjtë matematikore.",
+  "rezultatet": [
+    "Nxënësi/ja përkufizon konceptin e thyesave të barabarta dhe jep shembuj konkretë",
+    "Nxënësi/ja identifikon thyesat e barabarta duke përdorur metodën e shumëzimit të kryqëzuar",
+    "Nxënësi/ja llogarit thyesa të barabarta duke shumëzuar ose pjesëtuar numëruesin dhe emëruesin me të njëjtin numër",
+    "Nxënësi/ja demonstron barazi mes thyesave duke përdorur figura gjeometrike dhe vizatime",
+    "Nxënësi/ja zgjidh probleme praktike që përfshijnë thyesa të barabarta në kontekste të jetës së përditshme",
+    "Nxënësi/ja argumenton pse thyesa të ndryshme mund të kenë vlerën e njëjtë numerike"
+  ],
+  "fjalet_kyce": [
+    "thyesa të barabarta",
+    "numëruesi (numerator)",
+    "emëruesi (denominator)",
+    "shumëzimi i kryqëzuar",
+    "thjeshtimi i thyesave",
+    "zgjerimi i thyesave",
+    "përpjesëtimi i barabartë",
+    "simboli = (barazimi)"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 2, faqe 32-38",
+    "Fletë pune e përgatitur me 15 thyesa për krahasim",
+    "Rrathë dhe drejtkëndësha prej kartoni për demonstrime vizuale",
+    "Kalkulatore për verifikimin e llogaritjeve",
+    "Tabelë magnetike me numra dhe simbole matematikore",
+    "Flipchart me shembuj të thyesave të barabarta"
+  ],
+  "lidhja": "Lidhje me Artet Vizuale përmes krijimit të diagrameve dhe figurave gjeometrike për paraqitjen vizuale të thyesave. Lidhje me Gjeografinë duke përdorur thyesa për të shprehur shkallën e hartave të Shqipërisë (1:50000, 2:100000). Lidhje me jetën e përditshme përmes llogaritjes së çmimeve të produkteve në tregun e Tiranës kur blihen në sasi të ndryshme (1/2 kg, 2/4 kg domate).",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nKjo orë synon që nxënësit të kuptojnë konceptin fundamental të thyesave të barabarta dhe të zhvillojnë aftësinë për të identifikuar, krijuar dhe përdorur thyesa që kanë vlerën e njëjtë numerike në situata konkrete të jetës së përditshme.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\nMësuesja fillon orën duke shfaqur në tabelë dy pjata me biskota: njëra e ndarë në 4 pjesë ku janë ngrënë 2 pjesë, tjetra e ndarë në 8 pjesë ku janë ngrënë 4 pjesë. Pyet: 'Cila pjatë ka më pak biskota?' Nxënësit diskutojnë dhe zbulojnë se të dyja kanë të njëjtën sasi. Mësuesja shkruan në tabelë 2/4 dhe 4/8, duke pyetur: 'A janë këto thyesa të njëjta?' Aktiviteti vazhdojnë me shembuj të tjerë vizualë: 'Nëse në klasën tonë prej 24 nxënësve, 6 janë djem dhe 18 janë vajza, çfarë thyese tregon vajzat? Po nëse themi 12 prej 24?' Kjo lidhet me orën e kaluar ku morën thyesat themelore.\n\n**REALIZIMI I KUPTIMIT/ZHVILLIMI** (25-28 minuta)\nMësuesja prezanton konceptin e thyesave të barabarta: 'Thyesat e barabarta janë thyesa që kanë vlerën e njëjtë numerike, edhe pse numëruesi dhe emëruesi mund të jenë të ndryshëm.'\n\nShembull 1 (i zgjidhur në tabelë):\nA janë të barabarta 3/4 dhe 6/8?\nZgjidhje: Shumëzojmë në kryq: 3 × 8 = 24 dhe 4 × 6 = 24\nMeqë 24 = 24, thyesat janë të barabarta.\nVerifikim: 3/4 = 0.75 dhe 6/8 = 0.75\n\nShembull 2 (i zgjidhur në tabelë):\nGjeni një thyese të barabartë me 2/5\nZgjidhje: Shumëzojmë numëruesin dhe emëruesin me 3:\n2×3/5×3 = 6/15\nVerifikim: 2×15 = 30 dhe 5×6 = 30, prandaj 2/5 = 6/15\n\nShembull 3 (i zgjidhur në tabelë):\nThjeshtoni thyesën 12/18\nZgjidhje: Gjejmë pjesëtuesin më të madh të përbashkët: PPMP(12,18) = 6\n12÷6/18÷6 = 2/3\nVerifikim: 12×3 = 36 dhe 18×2 = 36, prandaj 12/18 = 2/3\n\nPunë në grupe (3-4 nxënës): Çdo grup merr një fletë pune me 8 çifte thyesash. Detyra është të përcaktojnë cilat janë të barabarta duke përdorur dy metoda: shumëzimin e kryqëzuar dhe konvertimin në numra dhjetorë. Grupet prezantojnë zgjidhjet para klasës dhe shpjegojnë arsyetimin.\n\nDemonstrim interaktiv: Mësuesja përdor rrathë prej kartoni të ndarë në pjesë të ndryshme për të treguar vizualisht pse 1/2 = 2/4 = 4/8. Nxënësit vizatojnë në fletore figurat përkatëse.\n\n**PRAKTIKA/USHTRIME** (8-10 minuta)\na) Niveli bazë (2-3 ushtrime):\n- A janë të barabarta 1/3 dhe 3/9? (Po, 1×9 = 3×3)\n- Gjeni një thyese të barabartë me 3/7 (Përgjigje: 6/14, 9/21, etj)\n- Thjeshtoni 8/12 (Përgjigje: 2/3)\n\nb) Niveli mesatar (2 ushtrime):\n- Një recetë kërkojn 3/4 gota miell. Sa gota duhen për 2/3 e recetës?\n- Nëse 5/8 e nxënësve të klasës janë 15 nxënës, sa nxënës ka gjithsej klasa?\n\nc) Niveli i avancuar (1 problemë sfiduese):\n- Gjeni vlerën e x-it: (2x+1)/(3x-2) = 3/4\n\nNxënësit punojnë individualisht, pastaj krahasojnë përgjigjet me shokun e bankës. Mësuesja qarkullon dhe ndihmon ata që kanë vështirësi.\n\n**MBYLLJA/REFLEKTIMI** (3-5 minuta)\nPërmbledhja e tre pikave kryesore: 1) Thyesat e barabarta kanë vlerën e njëjtë numerike, 2) Mund t'i gjejmë duke shumëzuar ose pjesëtuar me të njëjtin numër, 3) Metoda e shumëzimit të kryqëzuar na ndihmon t'i identifikojmë. Quiz verbal: 'Çfarë do të thotë që dy thyesa janë të barabarta?' dhe 'Si mund të krijojmë një thyese të barabartë me 2/3?' Parashikimi i orës së ardhshme: 'Nesër do të mësojmë si të krahasojmë thyesa që nuk janë të barabarta.'",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "1. BAZË: Zgjidhni ushtrimet 12-18, faqe 36 nga libri. Përcaktoni cilat nga këto çifte thyesash janë të barabarta: a) 2/6 dhe 1/3, b) 3/9 dhe 1/4, c) 4/10 dhe 2/5, d) 6/15 dhe 2/5. Gjeni nga dy thyesa të barabarta për: 1/4, 3/5, 7/8.\n\n2. KRIJUESE: Krijoni një poster vizual që tregon 5 mënyra të ndryshme për të shprehur thyesën 1/2 (përdorni figura, rrathë, drejtkëndësha, etj). Shkruani një paragraf të shkurtër që shpjegon pse thyesat 2/4, 3/6, 5/10 janë të gjitha të barabarta me 1/2.\n\n3. SHTESË (fakultative): Hulumtoni konceptin e 'golden ratio' (raporti i artë) dhe zbuloni pse thyesa 1.618/1 konsiderohet një nga thyesat më të bukura në natyrë. Gjeni shembuj të golden ratio në arkitekturën shqiptare ose në natyrë.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Numri",
+      "page_or_row": "30"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

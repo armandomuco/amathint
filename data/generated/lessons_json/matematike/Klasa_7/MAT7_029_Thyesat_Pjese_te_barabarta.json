@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_029",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 29,
+  "tema": "Thyesat - Pjesë të barabarta",
+  "tematika": "Numri",
+  "month": "Tetor",
+  "trimester": 1,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës së 7-të në shkollën 'Fan Noli' në Tiranë organizojnë një treg shkollor ku do të shesin ëmbëlsira dhe pije për të mbledhur fonde për ekskursion. Ata duhet të ndajnë tortën e çokollatës në pjesë të barabarta për blerës të ndryshëm dhe të llogaritin sa copë do të marrë secili blerës kur torta ndahet në 8, 12 ose 16 pjesë. Gjithashtu, duhet të përcaktojnë se çfarë thyese përbën çdo pjesë dhe si ta shprehin atë matematikisht.",
+  "rezultatet": [
+    "Nxënësi/ja përkufizon thyesën si një mënyrë për të shprehur pjesë të barabarta të një tërësie",
+    "Nxënësi/ja identifikon numëruesin dhe emëruesin në një thyesë dhe shpjegon kuptimin e tyre",
+    "Nxënësi/ja llogarit vlerën e thyesave të njësisë dhe i përfaqëson grafiku me diagrame",
+    "Nxënësi/ja demonstron konceptin e pjesëve të barabarta duke përdorur objekte konkrete dhe figura gjeometrike",
+    "Nxënësi/ja zgjidh probleme praktike që përfshijnë ndarjen e objekteve në pjesë të barabarta",
+    "Nxënësi/ja argumenton pse dy thyesa janë të barabarta duke përdorur përfaqësime vizuale"
+  ],
+  "fjalet_kyce": [
+    "thyesë (fraction)",
+    "numëruesi (numerator)",
+    "emëruesi (denominator)",
+    "pjesë të barabarta",
+    "thyesë e njësisë",
+    "tërësi (whole)",
+    "diagram circular",
+    "a/b (shkrimi simbolik i thyesës)"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 4 'Thyesat', faqe 78-85",
+    "Kartela me figura gjeometrike të ndara në pjesë (rrathë, drejtkëndësha, trekëndësha)",
+    "Fletë pune e përgatitur me 15 diagrame për vizualizimin e thyesave",
+    "Plastika dhe laps ngjyrues për ngjyrosjen e diagrameve",
+    "Kalkulatore për verifikimin e rezultateve",
+    "Poster i madh me thyesat kryesore të njësisë (1/2, 1/3, 1/4, 1/5, 1/6, 1/8)"
+  ],
+  "lidhja": "Tema lidhet me lëndën e Arteve Vizuale nëpërmjet krijimit të diagrameve me ngjyra dhe modeleve artistike. Në Gjeografi përdoret për të llogaritur pjesë të sipërfaqeve të kontinenteve ose vendeve. Në jetën e përditshme, thyesat përdoren në kuzhinë për përgatitjen e recetave (1/2 filxhan miell, 1/4 lugë kripë), në tregti për llogaritin e zbritjeve (1/3 e çmimit), dhe në kohë (1/4 e orës = 15 minuta).",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nKjo orë synon që nxënësit të kuptojnë konceptin themelor të thyesave si pjesë të barabarta të një tërësie, të mësojnë të lexojnë dhe shkruajnë thyesa të thjeshta, dhe të aplikojnë njohuritë në situata konkrete të jetës së përditshme.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\nMësimdhënësi fillon me një pyetje motivuese: 'Sa copë tortë do të merrni nëse një tortë ndahet në 8 pjesë të barabarta dhe ju merrni 3 copa?' Demonstron duke ndarë një rreth letre në 8 pjesë të barabarta dhe ngjyros 3 prej tyre. Pyetje orientuese: 'Sa është gjysma e 10? Sa është një e katërta e 16? Nëse kemi 12 mollë dhe i ndajmë në 4 grupe të barabarta, sa mollë ka çdo grup?' Lidh me orën e kaluar për numrat natyrorë duke theksuar se thyesat na ndihmojnë të përshkruajmë sasitë që nuk janë numra të plotë.\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\nShpjegimi i konceptit fillon me përkufizimin: 'Thyesa është një numër që tregon sa pjesë të barabarta të një tërësie kemi marrë.' Paraqet strukturën a/b ku 'a' është numëruesi dhe 'b' është emëruesi.\n\nShembull 1: Ndarjen e një drejtkëndëshi në 4 pjesë të barabarta dhe ngjyrosjen e 3 prej tyre. Shkruan 3/4 dhe shpjegon: 'Numëruesi 3 tregon sa pjesë kemi marrë, emëruesi 4 tregon në sa pjesë të barabarta është ndarë tërësia.' Llogaritja: 3 ÷ 4 = 0.75\n\nShembull 2: Një rreth i ndarë në 8 pjesë ku janë ngjyrosur 5 pjesë. Shkruan 5/8 dhe demonstron se kjo do të thotë '5 nga 8 pjesë të barabarta'. Llogaritja: 5 ÷ 8 = 0.625\n\nShembull 3: Problem praktik - 'Në një klasë me 24 nxënës, 18 prej tyre janë djem. Çfarë thyese të klasës përbëjnë djemtë?' Zgjidhja: 18/24, e cila mund të thjeshtohet në 3/4. Llogaritja: 18 ÷ 24 = 0.75 = 75%\n\nPunë në grupe me 4-5 nxënës: Çdo grup merr kartela me figura të ndryshme (rrathë, katrorë, trekëndësha) dhe duhet të krijojë 5 thyesa të ndryshme duke ngjyrosur pjesë të figurave. Instruksionet specifike: 'Krijoni thyesat 1/2, 1/3, 2/3, 1/4, 3/4 duke përdorur figurat tuaja.' Demonstrim në tabelë me vizatimin e diagrameve dhe shkrimin e thyesave përkatëse.\n\n**PRAKTIKA** (8-10 minuta)\na) Nivel bazë - 3 ushtrime: 'Shkruani thyesën që përfaqëson pjesën e ngjyrosur në çdo figurë (jepen 3 diagrame me pjesë të ngjyrosuara)'\nb) Nivel mesatar - 2 ushtrime: 'Një libër ka 120 faqe. Ana ka lexuar 80 faqe. Çfarë thyese të librit ka lexuar?' dhe 'Në një kuti me 15 bonbona, 9 janë me çokollatë. Çfarë thyese përbëjnë bonbonat me çokollatë?'\nc) Nivel i avancuar - 1 problemë sfiduese: 'Një fermë ka 360 kafshë. 2/5 e tyre janë lopë, 1/3 janë dele dhe pjesa tjetër janë dhia. Sa dhia ka ferma?'\n\n**MBYLLJA** (3-5 minuta)\nPërmbledhje në tre pika kryesore: 1) Thyesat tregojnë pjesë të barabarta të një tërësie, 2) Numëruesi tregon sa pjesë kemi marrë, emëruesi tregon në sa pjesë është ndarë tërësia, 3) Thyesat përdoren çdo ditë në jetën tonë. Quiz verbal: 'Çfarë tregon numëruesi në thyesën 7/10? Çfarë tregon emëruesi?' Parashikim i orës së ardhshme: 'Orën e ardhshme do të mësojmë të krahasojmë thyesa dhe të gjejmë thyesa të barabarta.'",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**TRE NIVELE DETYRASH:**\n\n**1. BAZË:** Zgjidhni ushtrimet 1-6 në faqen 83 të librit. Krijoni diagrame për thyesat: 1/2, 1/4, 3/4, 2/3 duke përdorur një fletë dhe duke vizatuar katrorë që i ndani në pjesë të barabarta. Shkruani me fjalë çfarë do të thotë secila thyesë.\n\n**2. KRIJUESE:** Krijoni një poster me temën 'Thyesat në jetën time' ku do të ilustroni 8 situata nga jeta e përditshme ku përdoren thyesat (p.sh. kohë, receta kuzhine, rezultate sportive, nota shkollore). Përdorni diagrame dhe ngjyra për secilën situatë.\n\n**3. SHTESË (Fakultative):** Hulumtoni dhe zbuloni 5 thyesa që janë të barabarta me 1/2 (p.sh. 2/4, 3/6, 4/8, etj.) dhe shpjegoni pse janë të barabarta. Krijoni një lojë me karta thyesash për familjen tuaj ku duhet të gjenden thyesat e barabarta.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Numri",
+      "page_or_row": "29"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

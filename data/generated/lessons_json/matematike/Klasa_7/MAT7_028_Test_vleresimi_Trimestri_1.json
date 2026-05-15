@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_028",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 28,
+  "tema": "Test vlerësimi - Trimestri 1",
+  "tematika": "Test",
+  "month": "Tetor",
+  "trimester": 1,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës së 7-të të shkollës 'Naim Frashëri' në Tiranë do të kryejnë testin e parë trimestral të matematikës. Testi përfshin konceptet e mësuara gjatë tetorit: numrat racionalë (thyesat dhe numrat dhjetorë), veprimet me to, si dhe gjeometrinë në plan me llogaritjen e sipërfaqes së figurave të thjeshta. Nxënësit do të zgjidhin probleme praktike duke përdorur shembuj nga jeta e përditshme në Shqipëri.",
+  "rezultatet": [
+    "Nxënësi/ja llogarit saktësisht mbledhjen dhe zbritjen e thyesave me emërues të njëjtë dhe të ndryshëm",
+    "Nxënësi/ja kthen thyesat e rregullta në numra dhjetorë dhe anasjelltas",
+    "Nxënësi/ja zgjidh probleme me proporcionalitet të drejtë duke përdorur rregullën e tri të thjeshtë",
+    "Nxënësi/ja llogarit sipërfaqen e drejtkëndëshit, katrorit dhe trekëndëshit duke aplikuar formulat përkatëse",
+    "Nxënësi/ja identifikon dhe përdor njësitë e matjes së gjatësisë, sipërfaqes dhe vëllimit",
+    "Nxënësi/ja argumenton zgjidhjen e problemave duke shpjeguar hapat e ndjekur"
+  ],
+  "fjalet_kyce": [
+    "thyesë (fraction)",
+    "numri dhjetor (decimal number)",
+    "proporcionaliteti i drejtë",
+    "rregulla e tri së thjeshtës",
+    "sipërfaqe (S = a × b, S = a², S = (a × h)/2)",
+    "njësitë e matjes (mm, cm, dm, m, km)",
+    "emëruesi dhe numëruesi",
+    "kthimi i thyesave në numra dhjetorë"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 1-3, faqe 15-65",
+    "Fletë testi e përgatitur me 20 pyetje dhe probleme",
+    "Kalkulatore shkentore për kontrollin e llogaritjeve",
+    "Vizore dhe busull për matjet gjeometrike",
+    "Tabela me formulat kryesore të sipërfaqes",
+    "Letër shkrimit dhe stilolaps për zgjidhjet e hollësishme"
+  ],
+  "lidhja": "Matematika lidhet me shkencat natyrore në matjen e madhësive (gjatësia, sipërfaqja, vëllimi), me Gjeografinë në llogaritjen e distancave midis qyteteve shqiptare, me Artet vizuale në krijimin e figurave gjeometrike, dhe me jetën e përditshme në llogaritjen e çmimeve të produkteve në tregjet e Tiranës, Durrësit apo Shkodrës. Konceptet e proporcionalitetit përdoren në gatim për përshtatjen e recetave tradicionale shqiptare.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\n\nKjo orë testi synon të vlerësojë shkallën e përvetësimit të koncepteve matematikore të mësuara gjatë trimestrит të parë, duke përfshirë veprimet me numra racionalë dhe llogaritjet gjeometrike bazë. Nxënësit do të demonstrojnë aftësinë për zgjidhjen e problemave praktike.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\n\nMësuesja fillon me një aktivitet çlodhës: 'Çfarë mësova këtë trimester?' - nxënësit në çifte diskutojnë 2 minuta për konceptet kryesore. Më pas, paraqiten në tabelë 3 pyetje orientuese:\n- Sa është 3/4 + 2/3? (Përgjigje: 17/12)\n- Si llogaritim sipërfaqen e një dhome 4m × 3m? (Përgjigje: S = 12 m²)\n- Nëse 5 mollë kushtojnë 200 lekë, sa kushtojnë 8 mollë? (Përgjigje: 320 lekë)\nMësuesja shpjegon strukturën e testit dhe rregullat: 90 minuta kohë, 20 pyetje, detyrimi të tregohen të gjitha hapat e zgjidhjes.\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\n\nDistributohet fletë testi. Mësuesja lexon me zë të lartë udhëzimet dhe sqaron 3 shembuj të ngjashëm me pyetjet e testit:\n\n**Shembulli 1 - Veprime me thyesat:**\nLlogarit: 2/3 + 5/6 - 1/4\nHapi 1: Gjej emëruesin e përbashkët → EPM(3,6,4) = 12\nHapi 2: Kthej thyesat → 8/12 + 10/12 - 3/12\nHapi 3: Krye veprimet → (8+10-3)/12 = 15/12 = 5/4\n\n**Shembulli 2 - Problemi me proporcionalitet:**\nNëse 3 kg domate kushtojnë 240 lekë, sa kushtojnë 7 kg?\nHapi 1: Vendos proporcionalitetin → 3 kg : 240 lekë = 7 kg : x lekë\nHapi 2: Apliko rregullën e tri → x = (7 × 240) ÷ 3 = 1680 ÷ 3 = 560 lekë\n\n**Shembulli 3 - Sipërfaqja e trekëndëshit:**\nGjej sipërfaqen e një trekëndëshi me bazë 8 cm dhe lartësi 6 cm.\nHapi 1: Apliko formulën → S = (a × h)/2\nHapi 2: Zëvendëso → S = (8 × 6)/2 = 48/2 = 24 cm²\n\nNxënësit fillojnë testin nën mbikëqyrje. Mësuesja qarkullon në klasë dhe u përgjigjet pyetjeve procedurale, por jo përmbajtësore.\n\n**PRAKTIKA** (8-10 minuta)\n\nKjo fazë realizohet gjatë testit kur nxënësit aplikojnë njohuritë në tre nivele vështirësie:\na) Niveli bazë: Veprime të thjeshta me thyesat (4 pyetje) - Shembull: 1/2 + 1/4, 3/5 - 1/10\nb) Niveli mesatar: Probleme me proporcionalitet dhe gjeometri (8 pyetje) - Shembull: Llogaritje çmimesh, sipërfaqesh\nc) Niveli i avancuar: Probleme komplekse që kombinojnë konceptet (3 pyetje) - Shembull: Problem me llogaritjen e materialit për rinovimin e një dhome\n\n**MBYLLJA/REFLEKTIMI** (3-5 minuta)\n\nPas përfundimit të testit, mësuesja mbledh fletët dhe realizon një reflektim të shkurtër:\n- Cilat ishin pyetjet më të vështira? (Diskutim 2 minuta)\n- Si e ndiheni për performancën tuaj? (Vlerësim personal)\n- Çfarë do të studiojmë javën e ardhshme? (Parashikim: Fuqitë me eksponent natyror)\nMësuesja njofton se rezultatet do të jepen të premten dhe se do të analizohen gabimet më të shpeshta në orën e ardhshme.",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**1. DETYRË BAZË:**\nRistudioni kapitujt 1-3 dhe zgjidhi ushtrimet që nuk i bëtë në klasë:\n- Faqe 28: ushtrimet 1-6 (veprime me thyesat)\n- Faqe 41: ushtrimet 3-8 (kthimi thyesa-numra dhjetorë)\n- Faqe 55: ushtrimet 2-5 (sipërfaqja e figurave)\n- Përsëritni formulat kryesore dhe mësoni përmendsh: S = a×b, S = a², S = (a×h)/2\n\n**2. DETYRË KRIJUESE:**\nKrijo një 'Librin tim të Formulave' duke përdorur karton dhe ngjyra:\n- Faqja 1: Formulat e sipërfaqes me vizatime\n- Faqja 2: Rregulla për veprimet me thyesat\n- Faqja 3: Rregulla e tri së thjeshtës me një shembull nga jeta\nDekoroje librin dhe silleni në klasë për t'ua treguar shokëve.\n\n**3. DETYRË SHTESË (Fakultative për nxënësit e avancuar):**\nHulumto dhe zgjidh këtë problem sfidues:\n'Një fermer ka një fushë drejtkëndore me gjatësi 150m dhe gjerësi 80m. Ai do ta ndajë në 6 parcela të barabarta për të mbjellë kultura të ndryshme. Sa do të jetë sipërfaqja e secilës parcelë dhe sa metra gardh do t'i duhen për të rrethuar të gjithë fushën?' Shpjego zgjidhjen me vizatime dhe llogaritje të detajuara.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Test",
+      "page_or_row": "28"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

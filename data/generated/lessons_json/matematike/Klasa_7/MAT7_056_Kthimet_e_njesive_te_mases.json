@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_056",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 56,
+  "tema": "Kthimet e njësive të masës",
+  "tematika": "Matja",
+  "month": "Dhjetor",
+  "trimester": 1,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës së 7-të në shkollën 'Fan Noli' në Tiranë organizojnë një treg bamirësie për të ndihmuar familjet në nevojë përpara festave të fundvitit. Ata duhet të blejnë dhe të shesin produkte të ndryshme duke përdorur njësi të ndryshme mase: mish nga tregti në kg, sheqer në paketa nga 500g, miell në çanta nga 2kg, dhe arra të thatë nga 250g. Për të llogaritur çmimet dhe fitimet e saktë, nxënësit duhet të dinë si të kthejnë njësitë e masës nga kg në g, nga g në kg, dhe nga ton në kg.",
+  "rezultatet": [
+    "Nxënësi/ja përkufizon njësitë themelore dhe nënmultiple të masës (kg, g, mg, ton)",
+    "Nxënësi/ja identifikon marrëdhëniet matematikore midis njësive të ndryshme të masës",
+    "Nxënësi/ja llogarit me saktësi kthimet nga kg në g dhe anasjelltas",
+    "Nxënësi/ja zgjidh probleme praktike që përfshijnë kthime të njësive të masës",
+    "Nxënësi/ja demonstron përdorimin e faktorëve të kthimit 1000, 0.001 dhe 1000000",
+    "Nxënësi/ja argumenton zgjedhjen e njësive të përshtatshme për matje të ndryshme"
+  ],
+  "fjalet_kyce": [
+    "kilogram (kg)",
+    "gram (g)",
+    "miligram (mg)",
+    "ton (t)",
+    "faktor kthimi",
+    "njësi themelore",
+    "nënmultiple",
+    "dekagram (dag)"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 4: Matja, faqet 62-68",
+    "Peshore elektronike dhe peshore mekanike",
+    "Fletë pune me tabela kthimesh dhe 15 ushtrime të nivelizuara",
+    "Produkte të ndryshme për matje: miell, sheqer, fasule (simulim tregu)",
+    "Poster me tabelën e njësive të masës dhe faktorët e kthimit",
+    "Kalkulatora për verifikimin e llogaritjeve"
+  ],
+  "lidhja": "Tema lidhet ngushtë me Gjeografinë përmes matjes së masave të kontinenteve dhe shteteve (popullsia e Shqipërisë 2.8 milionë banorë), me Shkencat Natyrore në matjen e masës së trupit dhe eksperimentet, me Edukimin për Jetën përmes blerjes në treg dhe leximit të etiketave të produkteve shqiptare, si dhe me Gjuhën Shqipe në përdorimin e saktë të termave teknike dhe njësive matëse në komunikimin e përditshëm.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\n\nKjo orë synon që nxënësit të zotërojnë teknikat e kthimit të njësive të masës dhe të aplikojnë këto njohuri në situata konkrete të jetës së përditshme, duke përdorur faktorët matematikë të kthimit dhe duke zgjedhur njësitë e përshtatshme për matje të ndryshme.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\n\nMësuesja hyn në klasë me një qese me produkte nga tregu: një pako miell 2kg, sheqer 500g, dhe kos 200g. Pyet: \"Sa gram miell kam? Sa kilogram sheqer kam gjithsej nëse blej 4 paketa? Nëse gjyshja ime dëshiron të bëjë byrek për 20 persona dhe ka nevojë për 3kg miell, por në dyqan gjeti vetëm paketa nga 500g, sa paketa duhet të blejë?\" Nxënësit përgjigjen spontanisht dhe mësuesja shkruan në tabelë përgjigjet e tyre. Pastaj lidh me orën e kaluar: \"Javën e kaluar mësuam të matim gjatësitë. Sot do të mësojmë të matim masën dhe të kthejmë njësitë.\"\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\n\nMësuesja prezanton tabelën e njësive të masës në tabelë: ton (t) - kilogram (kg) - gram (g) - miligram (mg). Shpjegon se njësia themelore është kilogrami.\n\n**Shembull 1**: Kthimi nga kg në g\n\"Blerta ka blerë 2.5 kg mollë. Sa gram mollë ka blerë?\"\nZgjidhja: 2.5 kg = 2.5 × 1000 g = 2500 g\nShpjegimi: Çdo kilogram ka 1000 gram, prandaj shumëzojmë me 1000.\n\n**Shembull 2**: Kthimi nga g në kg\n\"Ardit ka 3500g miell në shtëpi. Sa kilogram miell ka?\"\nZgjidhja: 3500 g = 3500 ÷ 1000 kg = 3.5 kg\nShpjegimi: Për të kaluar nga gramat në kilogram, ndajmë me 1000.\n\n**Shembull 3**: Punë me ton\n\"Një kamion transporti ka ngarkesë 2.8 ton grurë. Sa kilogram grurë transporton?\"\nZgjidhja: 2.8 t = 2.8 × 1000 kg = 2800 kg\nShpjegimi: Një ton ka 1000 kilogram.\n\nPastaj nxënësit ndahen në grupe prej 4 personash. Çdo grup merr produkte të ndryshme dhe duhet të plotësojë një tabelë me konvertime. Grupi 1: produktet e qumështit, Grupi 2: drithërat, Grupi 3: perimet, Grupi 4: mishin. Secili grup punon 8 minuta dhe pastaj paraqet zgjidhjet në tabelë.\n\n**PRAKTIKA** (8-10 minuta)\n\na) **Niveli bazë**:\n1. Ktheni 3kg në gram: 3kg = 3000g\n2. Ktheni 2500g në kilogram: 2500g = 2.5kg\n3. Ktheni 1.2kg në gram: 1.2kg = 1200g\n\nb) **Niveli mesatar**:\n1. Një dyqan ka 15 paketa sheqer nga 750g secila. Sa kilogram sheqer ka gjithsej?\n   Zgjidhja: 15 × 750g = 11250g = 11.25kg\n2. Nëse 1kg mollë kushton 150 lekë, sa kushton 1800g mollë?\n   Zgjidhja: 1800g = 1.8kg; 1.8 × 150 = 270 lekë\n\nc) **Niveli i avancuar**:\nNë një fabrikë prodhohen 3.5 ton miell në ditë. Mielli paketohet në çanta nga 2kg. Sa çanta miell prodhohen në një javë pune (5 ditë)?\nZgjidhja: 3.5t = 3500kg/ditë; 3500 ÷ 2 = 1750 çanta/ditë; 1750 × 5 = 8750 çanta në javë\n\n**MBYLLJA** (3-5 minuta)\n\nPërmbledhje e tri pikave kryesore:\n1. Njësia themelore e masës është kilogrami (kg)\n2. Për të kaluar nga kg në g shumëzojmë me 1000, për të kaluar nga g në kg ndajmë me 1000\n3. 1 ton = 1000 kg\n\nQuiz verbal: \"Sa gram ka një kilogram? Sa kilogram ka një ton? Si kthejmë 2.3kg në gram?\"\nParashikim: \"Orën tjetër do të mësojmë njësitë e vëllimit dhe do të lidhim me njësitë e masës.\"",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**BAZË**: Zgjidhni ushtrimet 1-8 nga libri, faqe 65: Ktheni në gram: 2kg, 0.5kg, 1.25kg, 3.8kg. Ktheni në kilogram: 1500g, 2300g, 750g, 4200g.\n\n**KRIJUESE**: Krijoni një 'menu të peshës' për një restorant imagjinar. Zgjidhni 8 produkte shqiptare (byrek, tavë kosi, qofte, baklava etj.) dhe shkruani peshën e tyre si në gram ashtu edhe në kilogram. Bëni një poster të bukur me vizatime.\n\n**SHTESË (fakultative)**: Hulumtoni sa është masa mesatare e kafshëve të egra shqiptare (ariu kafe, ujku, lynx) në kg dhe kthejini në gram. Krahasoni me masën tuaj dhe shkruani një raport 1-faqe me të dhënat e mbledhura nga interneti.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Matja",
+      "page_or_row": "56"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

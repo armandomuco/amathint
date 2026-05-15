@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_121",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 121,
+  "tema": "Kthimi thyesë-përqindje",
+  "tematika": "Numri",
+  "month": "Maj",
+  "trimester": 3,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës së 7-të të shkollës 'Fan Noli' në Tiranë po planifikojnë një udhëtim në Sarandë për ditën e Europës. Ata kanë mbledhur 25,000 lekë dhe duhet të llogarisin përqindjen e çmimit të biletave të autobusit (12,500 lekë), ushqimit (7,500 lekë) dhe aktiviteteve (5,000 lekë) nga totali i parave të mbledhura. Gjithashtu duhet të krahasojnë ofertat e tre kompanive të ndryshme që japin zbritje të ndryshme si thyesa dhe përqindje.",
+  "rezultatet": [
+    "Nxënësi/ja kthen thyesat e thjeshta (me emërues 2, 4, 5, 8, 10, 20, 25, 50, 100) në përqindje",
+    "Nxënësi/ja llogarit përqindjen që përfaqëson një thyesë e caktuar",
+    "Nxënësi/ja identifikon thyesën ekuivalente të një përqindjeje të dhënë",
+    "Nxënësi/ja zgjidh probleme praktike duke kthyer thyesa në përqindje dhe anasjelltas",
+    "Nxënësi/ja argumenton cila mënyrë e shprehjes (thyesë apo përqindje) është më praktike në situata të ndryshme",
+    "Nxënësi/ja demonstron kthimin e thyesave periodike të thjeshta në përqindje"
+  ],
+  "fjalet_kyce": [
+    "thyesë (fraction)",
+    "përqindje (%)",
+    "numëruesi",
+    "emëruesi",
+    "thyesë dhjetore",
+    "thyesë ekuivalente",
+    "kthim thyesë-përqindje",
+    "formula bazë: (numëruesi ÷ emëruesi) × 100"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 4 'Thyesat dhe Përqindjet', faqe 78-85",
+    "Kalkulatore për verifikimin e llogaritjeve",
+    "Fletë pune e përgatitur me 15 thyesa dhe përqindje për kthim",
+    "Kartela me thyesa dhe përqindje për lojën e njëjtësimit",
+    "Tabela e konvertimit thyesë-përqindje në poster A3",
+    "Materiale të shtypura me probleme praktike nga tregu shqiptar"
+  ],
+  "lidhja": "Lidhje me Ekonominë Familjare (llogaritja e zbritjeve në dyqane si Conad, Big Market), me Gjeografinë (statistikat e popullsisë në qarqe të Shqipërisë), me Artet (proporcioni i ngjyrave në pikturë), me Sportin (përqindja e golave të shënuara nga ekipi kombëtar), me Kiminin (përqjetësia e tretsirave), dhe me jetën e përditshme në planifikimin e buxhetit familjar dhe kursimeve.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\n\nNxënësit do të mësojnë të kthejnë thyesat në përqindje dhe anasjelltas, duke përdorur formula dhe teknika praktike për të zgjidhur probleme konkrete nga jeta e përditshme në kontekstin shqiptar.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\n\nFilloj me një lojë motivuese: 'Tregu i Tiranës'. Nxënësve u jap kartela me çmimet e produkteve dhe zbritjet e shprehura si thyesa (1/2, 1/4, 3/4) dhe si përqindje (25%, 50%, 75%). Pyesim: 'Cili është më i lirë: produkti me zbritje 1/2 apo ai me zbritje 45%?' Kjo krijon debat dhe kurreshtje. Pastaj lidhemi me orën e kaluar: 'Javën e kaluar mësuam të gjejmë thyesat ekuivalente. Sot do të mësojmë si thyesat lidhen me përqindjet që shohim çdo ditë në dyqane.' Shkruaj në tabelë: 1/2 = ? dhe 50% = ?, duke krijuar tension kognitiv.\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\n\nShpjegoj konceptin themeltar: 'Përqindja do të thotë nga 100'. Demonstroj formulën bazë në tabelë: (numëruesi ÷ emëruesi) × 100 = %.\n\n**Shembull 1:** Kthimi i 3/4 në përqindje\n- 3 ÷ 4 = 0.75\n- 0.75 × 100 = 75%\n- Verifikim: 75/100 = 3/4 ✓\n\n**Shembull 2:** Kthimi i 2/5 në përqindje\n- 2 ÷ 5 = 0.4\n- 0.4 × 100 = 40%\n- Kontroll: 40/100 = 2/5 ✓\n\n**Shembull 3:** Kthimi i 35% në thyesë\n- 35% = 35/100\n- Thjeshtojmë: 35/100 = 7/20\n- Verifikim: 7 ÷ 20 = 0.35 = 35% ✓\n\nOrganizoj punën në grupe prej 4 nxënësish. Çdo grupi merr një 'Skenar Biznesi': Grupi 1 - Dyqani i këpucëve (llogarit zbritjet), Grupi 2 - Restorant (llogarit përqindjen e klientëve), Grupi 3 - Shkollë (përqindja e notave), Grupi 4 - Transport (përqindja e biletave të shitura). Çdo grup ka 6 detyra specifike për t'u zgjidhur dhe prezantuar. Unë qarkulloj dhe ndihmoj grupet, duke bërë pyetje orientuese si: 'Si e llogaritët 3/8?', 'Çfarë do të thotë 62.5%?'\n\n**PRAKTIKA/USHTRIME** (8-10 minuta)\n\n**Niveli bazë** (2-3 ushtrime):\na) Ktheni në përqindje: 1/2, 1/4, 3/4\nb) Ktheni në thyesë: 25%, 50%, 75%\nc) Plotësoni: 1/5 = __% dhe 60% = __/100\n\n**Niveli mesatar** (2 ushtrime):\na) Një dyqan në rrugën 'Myslym Shyri' jep zbritje 3/8. Sa përqindje është kjo?\nb) Nëse 40% e nxënësve të shkollës janë djem, çfarë thyesë përfaqësojnë vajzat?\n\n**Niveli i avancuar** (1 problemë sfiduese):\nNjë kompani në Tiranë ka 120 punonjës. 2/5 janë gra, 1/3 janë mbi 30 vjeç, dhe 25% punojnë në marketing. Gjeni përqindjen e grave, përqindjen e të rinjve (nën 30 vjeç), dhe numrin e punonjësve të marketingut.\n\n**MBYLLJA/REFLEKTIMI** (3-5 minuta)\n\nPërmbledh tre pikat kryesore: (1) Formula: (numëruesi ÷ emëruesi) × 100, (2) Përqindja është thyesë me emërues 100, (3) Kthimi bëhet në të dyja drejtimet. Bëj quiz verbal: 'Sa është 1/2 në përqindje?' (50%), 'Sa është 25% si thyesë?' (1/4), 'Pse na nevojiten përqindjet në jetë?' (Për krahasime, statistika, zbritje). Parashikoj orën e ardhshme: 'Nesër do të mësojmë të llogarisim përqindjen e një numri - për shembull, sa është 30% e 200 lekëve?'",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**NIVELI BAZË:**\n1. Ktheni thyesat në përqindje: 1/10, 3/10, 7/10, 9/10\n2. Ktheni përqindjet në thyesa: 20%, 30%, 70%, 90%\n3. Plotësoni tabelën: 1/8=__%, 5/8=__%, 12.5%=__/8, 37.5%=__/8\n4. Zgjidhni: Nëse 3/4 e nxënësve të klasës preferojnë futbollin, sa përqindje preferojnë sporte të tjera?\n\n**NIVELI KRIJUES:**\nKrijoni një poster 'Statistikat e Shkollës Sonë' ku do të hulumtoni dhe paraqisni si thyesa dhe përqindje: sa nxënës kanë sy kafe/blu, sa preferojnë matematikën/gjuhën, sa vijnë me autobus/këmbë në shkollë. Intervistoni 20 nxënës dhe paraqitni rezultatet në dy mënyra.\n\n**NIVELI SHTESË (fakultativ):**\nHulumtoni dhe zbuloni pse thyesat 1/3, 1/6, 1/7 japin përqindje me dhjetore të pafundme (periodike). Gjeni një mënyrë për t'i rrumbullakosur këto përqindje në situata praktike dhe jepni shembuj nga biznesi shqiptar.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Numri",
+      "page_or_row": "121"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

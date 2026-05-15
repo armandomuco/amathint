@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_094",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 94,
+  "tema": "Formulat - Hyrje",
+  "tematika": "Algjebra",
+  "month": "Mars",
+  "trimester": 2,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës së 7-të të shkollës 'Fan Noli' në Tiranë duhet të organizojnë një treg shkollor për Ditën e Tokës. Ata duhet të llogaritsin koston totale të materialeve, fitimin nga shitja e produkteve dhe shumën që do të dhurojnë për një projekt mjedisor. Për këtë qëllim, do të përdorin formula matematikore për të llogaritur vlerësimet e shpenzimeve, të ardhurave dhe përqindjet e fitimit.",
+  "rezultatet": [
+    "Nxënësi/ja përkufizon konceptin e formulës matematikore dhe identifikon komponentët e saj",
+    "Nxënësi/ja llogarit vlerën e një formule të thjeshtë duke zëvendësuar vlerat numerike",
+    "Nxënësi/ja krijon formula të thjeshta për situata praktike nga jeta e përditshme",
+    "Nxënësi/ja interpreton kuptimin e variablave dhe konstanteve në një formulë",
+    "Nxënësi/ja zgjidh probleme konkrete duke përdorur formula bazë",
+    "Nxënësi/ja argumenton pse përdorimi i formulave është më efikas se llogaritjet e përsëritura"
+  ],
+  "fjalet_kyce": [
+    "Formulë (formula)",
+    "Variabël (x, y, a, b)",
+    "Konstante",
+    "Zëvendësim numerik",
+    "Shprehje algjebrike",
+    "Koeficient",
+    "Vlerësim i formulës",
+    "Operatorë matematikore (+, -, ×, ÷)"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 5 'Hyrje në Algjebër', faqe 89-94",
+    "Fletë pune e përgatitur me 15 shembuj praktikë për zëvendësim në formula",
+    "Kalkulatrice shkkencore për kontrollin e llogaritjeve",
+    "Kartela me formula bazë të shkruara (P=2a+2b, S=a×b, etj)",
+    "Poster i madh për tabelën ku të shkruhen formula të reja",
+    "Lapsa me ngjyra të ndryshme për ndarjen e variablave dhe konstanteve"
+  ],
+  "lidhja": "Lidhje me shkencat natyrore për llogaritjen e shpejtësisë (v=s/t), me Gjeografinë për llogaritjen e shkallës së hartës, me Artet për llogaritjen e sipërfaqes së figurave gjeometrike në vizatim, dhe me jetën e përditshme për llogaritjen e çmimeve në tregun e Tiranës, kostot e transportit dhe planifikimin e buxhetit familjar.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nKjo orë synon të prezantojë nxënësit me konceptin bazë të formulave matematikore dhe të zhvillojë aftësinë e tyre për të përdorur formula në situata praktike nga jeta e përditshme.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\nMësuesi fillon me një aktivitet motivues: 'Imagjinoni se duhet të blini materiale për klasën. Një fletore kushton 50 lekë, një stilolaps 30 lekë. Sa do të kushtojnë 5 fletore dhe 3 stilolapse?' Nxënësit llogaritjn: 5×50 + 3×30 = 250 + 90 = 340 lekë. Pastaj pyetja orientuese: 'Çfarë do të ndodhte sikur të kishim 10 fletore dhe 7 stilolapse? A ka ndonjë mënyrë më të shpejtë për ta llogaritur këtë pa e bërë gjithmonë të njëjtën llogaritje?' Kjo çon në diskutimin se si mund të shkruajmë një formulë: Kosto totale = Numri i fletoreve × 50 + Numri i stilolapsave × 30. Mësuesi lidh me orën e kaluar për shprehjet numerike.\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\nMësuesi shpjegon konceptin e formulës si një rregull matematikor që na tregon si të llogaritim diçka. Pastaj demonstron tre shembuj konkretë:\n\nShembull 1 - Formula e perimetrit të drejtkëndëshit:\nP = 2a + 2b, ku P=perimetri, a=gjatësia, b=gjerësia\nNëse a = 8m dhe b = 5m, atëherë P = 2×8 + 2×5 = 16 + 10 = 26m\n\nShembull 2 - Formula e sipërfaqes së drejtkëndëshit:\nS = a × b\nNëse a = 12cm dhe b = 7cm, atëherë S = 12 × 7 = 84 cm²\n\nShembull 3 - Formula për llogaritjen e moshës pas disa vitesh:\nMosha e re = Mosha tani + Numri i viteve\nNëse Ani është 13 vjeç tani, pas 5 vitesh do të jetë: 13 + 5 = 18 vjeç\n\nNxënësit ndahen në grupe prej 4 vetësh. Çdo grup merr një fletë pune me 5 situata të ndryshme ku duhet të krijojnë formula (çmimi i biletave të kinemas, llogaritja e notës mesatare, kosto e telefonatës, etj). Grupet punojnë 8 minuta dhe pastaj prezantojnë zgjidhjet në tabelë.\n\n**PRAKTIKA** (8-10 minuta)\na) Niveli bazë - Zëvendësim në formula të dhëna:\n- P = 4a, gjeni P nëse a = 6\n- S = πr², gjeni S nëse r = 3 (π ≈ 3.14)\n- T = 2×(a+b), gjeni T nëse a = 7 dhe b = 4\n\nb) Niveli mesatar:\n- Krijoni formulën për të llogaritur koston e 'n' kilogramë mollë në 120 lekë/kg\n- Përdorni formulën C = 5n + 150 për të gjetur koston kur n = 8\n\nc) Niveli i avancuar:\n- Një taksist në Tiranë merr 300 lekë fillestare plus 80 lekë për çdo kilometër. Krijoni formulën dhe llogaritni koston për një udhëtim 12 km.\n\n**MBYLLJA** (3-5 minuta)\nPërmbledhja e tre pikave kryesore: 1) Formula është një rregull matematikor, 2) Variablat mund të marrin vlera të ndryshme, 3) Konstantet mbeten gjithmonë të njëjta. Quiz verbal: 'Në formulën A = l×w, cilat janë variablat?' Parashikimi: 'Orën e ardhshme do të mësojmë si të kthejmë fjalët në formula më komplekse.'",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "1. BAZË: Zgjidhni ushtrimet 1-6 nga libri, faqe 92. Zëvendësoni vlerat në formulat e dhëna: P=2(a+b), S=ab, V=abc. Llogaritni me vlerat: a=5, b=3, c=2.\n\n2. KRIJUESE: Krijoni një poster me të paktën 5 formula që përdoren në jetën e përditshme (p.sh. llogaritja e faturës së dritës, kosto e karburantit, etj). Shkruani formulën, shpjegoni secilën variabël dhe jepni një shembull numerik.\n\n3. SHTESË (fakultative): Hulumtoni dhe shkruani 3 formula të famshme nga shkencat natyrore ose gjeometria që nuk i kemi mësuar ende (p.sh. E=mc², V=4/3πr³). Shpjegoni shkurt çka llogarit secila formulë.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Algjebra",
+      "page_or_row": "94"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

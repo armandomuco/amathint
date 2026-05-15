@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_127",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 127,
+  "tema": "Përpjesëtimi i zhdrejtë",
+  "tematika": "Numri",
+  "month": "Maj",
+  "trimester": 3,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës së 7-të organizojnë një fushatë për pastrimin e parkut të Tiranës. Ata vërejnë se sa më shumë nxënës të punojnë në grupe, aq më pak kohë i duhet çdo grupi për të pastruar një sipërfaqe të caktuar. Nëse 4 nxënës pastrojnë një sipërfaqe në 6 orë, sa kohë do t'u duhet 8 nxënësve për të pastruar të njëjtën sipërfaqe? Kjo situatë i ndihmon nxënësit të kuptojnë konceptin e përpjesëtimit të zhdrejtë në kontekstin e jetës së përditshme.",
+  "rezultatet": [
+    "Nxënësi/ja përkufizon saktësisht konceptin e përpjesëtimit të zhdrejtë dhe dallon atë nga ai i drejtë",
+    "Nxënësi/ja identifikon situatat e jetës reale ku zbatohet përpjesëtimi i zhdrejtë",
+    "Nxënësi/ja llogarit vlerat e panjohura në problemat e përpjesëtimit të zhdrejtë duke përdorur metodën e produktit të kryqëzuar",
+    "Nxënësi/ja argumenton pse dy madhësi janë në përpjesëtim të zhdrejtë bazuar në kushtin themelor",
+    "Nxënësi/ja zgjidh probleme të ndryshme praktike që përfshijnë përpjesëtimin e zhdrejtë",
+    "Nxënësi/ja demonstron të kuptojë se në përpjesëtimin e zhdrejtë produkti i dy madhësive mbetet konstant"
+  ],
+  "fjalet_kyce": [
+    "përpjesëtim i zhdrejtë (inverse proportion)",
+    "madhësi të zhdrejta proporcionale",
+    "konstanta e përpjesëtimit k",
+    "produkti i kryqëzuar",
+    "formula y = k/x",
+    "kushti themelor x₁ × y₁ = x₂ × y₂",
+    "përpjesëtim i drejtë vs i zhdrejtë",
+    "koeficient i përpjesëtimit"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 4 'Përpjesëtimet', faqe 78-85",
+    "Fletë pune e përgatitur me 15 probleme përpjesëtimi të zhdrejtë",
+    "Vizore, laps, fletë shënimesh për nxënësit",
+    "Tabela e madhe për demonstrime me kolonat x, y dhe produktin xy",
+    "Kalkulatore për verifikimin e llogaritjeve",
+    "Video edukative 5-minutëshe për përpjesëtimin e zhdrejtë"
+  ],
+  "lidhja": "Tema lidhet me shkencat natyrore përmes ligjit të Ohm-it (tensioni dhe rrymi), me Gjeografinë në llogaritjen e densitetit të popullsisë (sa më e madhe sipërfaqja, aq më i vogël densiteti për një popullsi konstante), me Ekonominë familjare në shpërndarjen e shpenzimeve (sa më shumë anëtarë familje, aq më pak harxhon secili për një buxhet konstant), dhe me Artet vizore në përpjestimin e figurave në vizatim.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\n\nKjo orë synon që nxënësit të kuptojnë konceptin e përpjesëtimit të zhdrejtë, të dallojnë situatat ku zbatohet ai, dhe të zgjidhin probleme konkrete duke përdorur metodën e produktit të kryqëzuar.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\n\nFilloj me një lojë praktike: 'Ndarja e punës'. I nda nxënësit në grupe dhe u jap detyrën të ndajnë 24 karamele në kuti. Grupi i parë ka 2 nxënës, i dyti ka 4, i treti ka 6. Pyes: 'Sa karamele do të marrë secili nxënës në çdo grup?' Nxënësit zbulojnë se: 2 nxënës → 12 karamele secili, 4 nxënës → 6 karamele secili, 6 nxënës → 4 karamele secili. Pyes: 'Çfarë vëzhgoni? A rritet apo ulet numri i karameleve kur rritet numri i nxënësve?' Shkruaj në tabelë: Numri i nxënësve (x): 2, 4, 6; Karamelet për person (y): 12, 6, 4. Pyes: 'Sa është 2×12? 4×6? 6×4?' Të gjitha japin 24! Njoftoj: 'Sot do të mësojmë për përpjesëtimin e zhdrejtë!'\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\n\n**Shpjegimi teorik (8 minuta):**\nShpjegoj se dy madhësi x dhe y janë në përpjesëtim të zhdrejtë nëse produkti i tyre është konstant: x × y = k (konstante). Kur njëra rritet, tjetra ulet. Formula është y = k/x. Në shembullin tonë: x (nxënës) × y (karamele) = 24.\n\n**Shembuj numerikë të zgjidhur (12 minuta):**\n\n*Shembulli 1:* Në një fshat, 6 lopë konsumojnë ushqimin e magazinuar për 20 ditë. Sa ditë do të zgjasë i njëjti ushqim për 8 lopë?\nZgjidhja: x₁ = 6 lopë, y₁ = 20 ditë; x₂ = 8 lopë, y₂ = ?\nKushti: x₁ × y₁ = x₂ × y₂\n6 × 20 = 8 × y₂\n120 = 8 × y₂\ny₂ = 120/8 = 15 ditë\n\n*Shembulli 2:* Për të ndërtuar një mur, 4 punëtorë punojnë 12 orë. Sa orë do të punojnë 6 punëtorë për të ndërtuar të njëjtin mur?\nZgjidhja: x₁ = 4 punëtorë, y₁ = 12 orë; x₂ = 6 punëtorë, y₂ = ?\n4 × 12 = 6 × y₂\n48 = 6 × y₂\ny₂ = 48/6 = 8 orë\n\n*Shembulli 3:* Një makinë me shpejtësi 60 km/h arrin në destinacion në 4 orë. Sa orë do t'i duhen nëse ecën me 80 km/h?\nZgjidhja: x₁ = 60 km/h, y₁ = 4 orë; x₂ = 80 km/h, y₂ = ?\n60 × 4 = 80 × y₂\n240 = 80 × y₂\ny₂ = 240/80 = 3 orë\n\n**Puna në grupe (5 minuta):**\nNdaj klasën në 4 grupe. Çdo grup zgjidhë një problem të ngjashëm dhe prezanton zgjidhjen. Grupi 1: 3 printerë printojnë 1200 faqe në 8 minuta, sa kohë për 4 printerë? Grupi 2: 5 rubineta mbushin një pishinë në 6 orë, sa kohë për 3 rubineta? Grupi 3: 8 nxënës pastrojnë oborrin në 3 orë, sa kohë për 12 nxënës? Grupi 4: 2 motorra konsumojnë benzinë për 15 ditë, sa ditë për 5 motorra?\n\n**PRAKTIKA/USHTRIME** (8-10 minuta)\n\n**a) Niveli bazë (3 ushtrime):**\n1. 4 qen hanë ushqimin për 6 ditë. Sa ditë për 3 qen?\n2. 5 libra kushtojnë 2500 lekë. Sa kushton 1 libër?\n3. 6 nxënës mbarojnë detyrën në 4 orë. Sa orë për 8 nxënës?\n\n**b) Niveli mesatar (2 ushtrime):**\n1. Një autobus me 40 pasagjerë konsumon karburant për 12 ditë. Nëse pasagjerët bëhen 60, sa ditë do të zgjasë karburanti?\n2. 15 punëtorë ndërtojnë një rrugë në 20 ditë. Sa punëtorë duhen për ta ndërtuar në 12 ditë?\n\n**c) Niveli i avancuar (1 problemë sfiduese):**\nNjë kompani prodhon T-shirt. Me 8 makineri, plotëson një porosi për 15 ditë. Nëse 2 makineri prishen, sa ditë shtesë do t'i duhen për të përfunduar porositë e ardhshme të së njëjtës madhësi?\n\n**MBYLLJA/REFLEKTIMI** (3-5 minuta)\n\n**Përmbledhje:** Tre pikat kryesore: 1) Përpjesëtimi i zhdrejtë: kur njëra madhësi rritet, tjetra ulet; 2) Kushti: x₁ × y₁ = x₂ × y₂; 3) Formula: y = k/x ku k = konstante.\n\n**Quiz verbal:** 'Nëse 3 miq hanë një piceë për 20 minuta, sa kohë për 4 miq?' (Përgjigja: 15 minuta)\n\n**Parashikimi:** Ora e ardhshme do të mësojmë 'Grafikun e përpjesëtimit të zhdrejtë' - si duket forma e kurbës hiperbole y = k/x.",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**BAZË:** Zgjidhni ushtrimet 1-6 nga libri, faqja 82. Këto përfshijnë: llogaritje të kohës së punës me numra të ndryshëm punëtorësh, llogaritje të shpejtësisë dhe kohës, dhe shpërndarja e sasisë së ushqimit për numra të ndryshëm kafshësh.\n\n**KRIJUESE:** Krijoni një poster të ilustruar me 3 situata nga jeta e përditshme në Shqipëri ku zbatohet përpjesëtimi i zhdrejtë. Për çdo situatë shkruani një problem me të dhëna konkrete dhe zgjidheni atë. Përdorni ngjyra dhe vizatime për ta bërë tërheqës.\n\n**SHTESË (fakultative):** Hulumtoni dhe shkruani një paragraf 100-fjalësh rreth aplikimit të përpjesëtimit të zhdrejtë në fizikë (Ligji i Ohm-it: V = I × R, kur rezistenca është konstante, tensioni dhe rrymi janë në përpjesëtim të drejtë, por kur tensioni është konstant, rrymi dhe rezistenca janë në përpjesëtim të zhdrejtë). Jepni një shembull numerik.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Numri",
+      "page_or_row": "127"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

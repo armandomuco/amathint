@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_113",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 113,
+  "tema": "Projekt kurrikular - Matja",
+  "tematika": "Projekt",
+  "month": "Prill",
+  "trimester": 3,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës së 7-të në shkollën 'Fan Noli' në Tiranë do të organizojnë një treg bamirësie për të mbledhur fonde për rinovimin e bibliotekës së shkollës. Ata duhet të matjnë sipërfaqen e oborrit të shkollës për të planifikuar vendosjen e tezgave (çdo tezgë ka gjatësi 2.5 m dhe gjerësi 1.2 m), të llogaritjnë çmimet e produkteve (byrek 150 lekë, pije 100 lekë, ëmbëlsira 200 lekë), dhe të përcaktojnë fitimin e pritur nëse shesin 120 byrekë, 80 pije dhe 60 ëmbëlsira gjatë një dite.",
+  "rezultatet": [
+    "Nxënësi/ja llogarit saktësisht sipërfaqen e formave gjeometrike duke përdorur formulat përkatëse (drejtkëndësh: S = a × b, katror: S = a², trekëndësh: S = (a × h)/2)",
+    "Nxënësi/ja identifikon njësitë e matjes më të përshtatshme për madhësi të ndryshme (mm, cm, m, km për gjatësi dhe mm², cm², m², km² për sipërfaqe)",
+    "Nxënësi/ja zgjidh probleme praktike të përbëra që përfshijnë matjen, llogaritjen e çmimeve dhe fitimit në kontekste të jetës reale",
+    "Nxënësi/ja demonstron teknika matjeje duke përdorur mjete të ndryshme (vizore, metër, busull, raportor) me saktësi deri në 1 cm",
+    "Nxënësi/ja argumenton zgjedhjen e metodës më efikase të matjes për situata të ndryshme praktike",
+    "Nxënësi/ja krijon tabela dhe grafike për të paraqitur të dhënat e matjes dhe të bëjë krahasimet përkatëse"
+  ],
+  "fjalet_kyce": [
+    "sipërfaqe (area)",
+    "perimetër (perimeter)",
+    "njësi matëse (m, cm, mm, m², cm²)",
+    "formula S = a × b, S = a², S = (a × h)/2",
+    "matje direkte dhe indirekte",
+    "saktësi dhe gabim në matje (±)",
+    "shkallë (scale) 1:100, 1:500",
+    "kosto dhe fitim (profit/loss)"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 8 'Matja', faqe 156-172",
+    "Libri i mësuesit 'Matematika 7' - Udhëzime për projekte, faqe 89-95",
+    "Vizore metalike 30 cm, metër rrobaqepësie, busull, raportor, kalkulatore",
+    "Fletë milimetrike A3, markera me ngjyra, ngjitës, gërshërë, karton i bardhë",
+    "Tabela digjitale dhe projektor për prezantimet e grupeve",
+    "GeoGebra software për vizualizimin e formave gjeometrike"
+  ],
+  "lidhja": "Projekti lidhet me Gjeografinë në leximin e hartave dhe shkallëve, me shkencat natyrore në konceptin e matjes së saktë dhe gabimit, me Artet në projektimin e posterave dhe prezantimeve vizuale, me teknologjine në përdorimin e Excel për tabela dhe grafike, me Edukimin Qytetar në organizimin e aktiviteteve bamirëse dhe punën në grup. Lidhje e fortë me jetën e përditshme të nxënësve në Shqipëri: llogaritja e sipërfaqes së shtëpisë, planifikimi i kopshtit, blerja me kurs valutor, leximi i faturave të dritës.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nKjo orë projekti ka për qëllim që nxënësit të integrojnë njohuritë e matjes në një situatë praktike të jetës reale, duke organizuar një treg bamirësie. Ata do të zhvillojnë aftësitë e punës në grup, prezantimit dhe zgjidhjes së problemeve të përbëra.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\nMësuesi prezanton situatën motivuese: 'Drejtoresha e shkollës ka miratuar organizimin e tregut bamirës për bibliotekën. Çfarë duhet të dimë për ta organizuar me sukses?' Aktiviteti hyrës: Nxënësit në grupe prej 4 personash marrin nga një letër A4 dhe duhet të gjejnë sa letra të tilla nevojiten për të mbuluar sipërfaqen e tavolinës së tyre. Pyetje orientuese: 'Sa është sipërfaqja e tavolinës tuaj në cm²? Sa lekë do të na duhen për të blerë 50 byrekë? Nëse çdo tezgë zë 3 m², sa tezga mund të vendosim në një sipërfaqe 24 m²?' Lidhja me orët e kaluara: rikujtojmë formulat e sipërfaqes së drejtkëndëshit, katrorit dhe trekëndëshit.\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\nShpjegimi i projektit me tre shembuj të plotë:\n\n*Shembull 1 - Matja e sipërfaqes:*\nOborri ka formë drejtkëndëshi me gjatësi 15 m dhe gjerësi 12 m.\nSipërfaqja = gjatësia × gjerësia = 15 m × 12 m = 180 m²\nÇdo tezgë zë sipërfaqe: 2.5 m × 1.2 m = 3 m²\nNumri i tezgave: 180 m² ÷ 3 m² = 60 tezga maksimum\nDuke lënë hapësirë për lëvizje, mund të vendosim 40 tezga.\n\n*Shembull 2 - Llogaritja e kostos dhe fitimit:*\nKosto për 120 byrekë: 120 × 80 lekë = 9,600 lekë\nShitja e byrekëve: 120 × 150 lekë = 18,000 lekë\nFitimi nga byrekët: 18,000 - 9,600 = 8,400 lekë\n\n*Shembull 3 - Fitimi total:*\nFitimi nga byrekët: 8,400 lekë\nFitimi nga pijet: 80 × (100-60) = 3,200 lekë\nFitimi nga ëmbëlsirat: 60 × (200-120) = 4,800 lekë\nFitimi total: 8,400 + 3,200 + 4,800 = 16,400 lekë\n\nPunimi në grupe (15 minuta): Çdo grup merr një detyrë specifike:\n- Grupi 1: Mat oborrin dhe planifikon vendosjen e tezgave\n- Grupi 2: Llogarit koston dhe çmimin e shitjes për produktet\n- Grupi 3: Përgatit planin e marketingut dhe reklamave\n- Grupi 4: Llogarit fitimin e pritur dhe shpërndarjen e tij\n- Grupi 5: Projekton posterët dhe materialin vizual\n\n**PRAKTIKA** (8-10 minuta)\na) *Niveli bazë:*\n- Gjeni sipërfaqen e një drejtkëndëshi 8m × 6m\n- Llogaritni koston për 30 byrekë me çmim 80 lekë secili\n- Sa është fitimi nëse blejmë diçka 100 lekë dhe e shesim 150 lekë?\n\nb) *Niveli mesatar:*\n- Një kopësht ka formë L me dimensione: drejtkëndësh 12m × 8m minus katror 4m × 4m. Gjeni sipërfaqen.\n- Llogaritni fitimin total nëse shesni 80 produkte me kosto 120 lekë dhe çmim shitjeje 180 lekë.\n\nc) *Niveli i avancuar:*\n- Projektoni optimizimin: Si të vendosni tezgat në një sipërfaqe 200 m² që të maksimizoni numrin e tyre duke lënë të paktën 1.5 m hapësirë kalimi?\n\n**MBYLLJA/REFLEKTIMI** (3-5 minuta)\nPërmbledhja e tri pikave kryesore: 1) Matja e saktë kërkon zgjedhjen e njësisë së duhur, 2) Projektet praktike kërkojnë planifikim të detajuar, 3) Matematika na ndihmon të marrim vendime të bazuara në të dhëna. Vlerësimi i shkurtër: Quiz me 3 pyetje: 'Çfarë formule përdorim për sipërfaqen e drejtkëndëshit?', 'Si llogaritim fitimin?', 'Pse është e rëndësishme matja e saktë?' Parashikimi: Orën e ardhshme do të prezantojmë projektet dhe do të diskutojmë zgjidhjet kreative të secilit grup.",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**1. DETYRË BAZË:**\n- Matni dhomën tuaj dhe llogaritni sipërfaqen në m²\n- Llogaritni koston për të blerë 4 m² pllaka me çmim 2,500 lekë/m²\n- Zgjidhni ushtrimet 1-6 në faqen 168 të librit\n- Krijoni një tabelë me 5 produkte, kostot dhe çmimet e shitjes\n\n**2. DETYRË KRIJUESE:**\n- Projektoni një treg në shkallë 1:100 në fletë milimetrike, duke treguar vendosjen e tezgave, rrugët e kalimit dhe zonat e pushimit\n- Intervistoni një tregtar lokal dhe pyetni si llogarit ai fitimin dhe humbjet\n- Krijoni një prezantim PowerPoint me të paktën 8 slide për projektin tuaj\n\n**3. DETYRË SHTESË (fakultative):**\n- Hulumtoni çmimet e produkteve në tre tregje të ndryshme në qytetin tuaj dhe krahasojini ato\n- Llogaritni sa metra katrorë pllaka nevojiten për të mbuluar një dhomë me forma të parregullta\n- Projektoni një aplikacion të thjeshtë në Excel për llogaritjen automatike të fitimit",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Projekt",
+      "page_or_row": "113"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

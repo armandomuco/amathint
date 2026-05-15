@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_039",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 39,
+  "tema": "Ushtrime - Thyesat",
+  "tematika": "Numri",
+  "month": "Nëntor",
+  "trimester": 1,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës së 7-të në shkollën 'Fan Noli' në Tiranë planifikojnë të organizojnë një treg bamirësie për të ndihmuar familjet në nevojë. Ata duhet të llogaritin se çfarë pjese të fondeve të mbledhura do t'i japin çdo organizate: 1/3 për Kryqin e Kuq Shqiptar, 1/4 për qendrën e fëmijëve jetimë, dhe pjesën e mbetur për blerjen e librave për shkollat rurale.",
+  "rezultatet": [
+    "Nxënësi/ja llogarit saktësisht shumën dhe ndryshimin e thyesave me emërues të njëjtë dhe të ndryshëm",
+    "Nxënësi/ja shumëzon dhe ndan thyesat duke aplikuar rregullat e mësuara",
+    "Nxënësi/ja zgjidhë probleme praktike që përfshijnë thyesat në situata të përditshme",
+    "Nxënësi/ja krahas thyesat dhe i rendis ato në rend rritës apo zbritës",
+    "Nxënësi/ja shndërron thyesat e përziera në thyesa të çrregullta dhe anasjelltas",
+    "Nxënësi/ja argumenton zgjidhjen e problemave me thyesa duke shpjeguar hapat e ndjekur"
+  ],
+  "fjalet_kyce": [
+    "thyesë (fraction)",
+    "numrues (numerator)",
+    "emërues (denominator)",
+    "thyesë e çrregullt (improper fraction)",
+    "thyesë e përzier (mixed number)",
+    "emërues i përbashkët (common denominator)",
+    "thjeshtim thyesash (simplifying fractions)",
+    "EPMD (Emëruesi i Përbashkët Më i Madh)"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 2, faqe 38-45",
+    "Fletë pune me 15 ushtrime thyesash të përgatitura",
+    "Kartela me thyesa të shkruara për aktivitete në grupe",
+    "Tabelë interaktive ose projektor për shfaqjen e ushtrimeve",
+    "Kalkulatore për kontrollin e rezultateve",
+    "Posterë me formulat kryesore të veprimeve me thyesa"
+  ],
+  "lidhja": "Lidhja me Artet vizuale në krijimin e posterëve për tregun bamirës, me Gjeografinë në llogaritjen e distancave dhe përqindjeve të sipërfaqes së Shqipërisë, me Edukimin qytetar në ndarjen e drejtë të fondeve bamirëse, dhe me jetën e përditshme në tregtinë, gatuarjen (matja e përbërësve) dhe planifikimin e buxhetit familjar.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nKjo orë ka për qëllim të forcojë aftësitë e nxënësve në zgjidhjen e ushtrimeve me thyesa përmes problemave praktike. Nxënësit do të praktikojnë të gjitha veprimet themelore me thyesa dhe do të zhvillojnë strategji për zgjidhjen e problemave komplekse.\n\n**EVOKIMI/HYRJA** (10 minuta)\nMësuesi fillon orën duke prezantuar situatën e tregjit bamirës: 'Klasa jonë ka mbledhur 12.000 lekë nga shitja e ëmbëlsirave. Si do t'i ndajmë këto para sipas planit? Sa lekë do të marrin Kryqi i Kuq (1/3), qendra e jetimëve (1/4), dhe sa do të mbeten për librat?' Nxënësit diskutojnë në çifte dhe propozojnë strategji. Mësuesi shkruan në tabelë: 'A mund të mbledhim 1/3 + 1/4 direkt? Çfarë duhet të bëjmë më parë?' Lidhet me orën e kaluar duke kujtuar rregullat e shumëzimit të thyesave.\n\n**REALIZIMI I KUPTIMIT** (27 minuta)\nMësuesi shpjegon konceptin duke zgjidhur tre shembuj numerikë:\n\nShembull 1 - Mbledhja me emërues të ndryshëm:\n1/3 + 1/4 = ? \nGjejmë EPMD(3,4) = 12\n1/3 = 4/12, 1/4 = 3/12\n4/12 + 3/12 = 7/12\nPra nga 12.000 lekë: 7/12 × 12.000 = 7.000 lekë për bamirësi\nMbeten: 12.000 - 7.000 = 5.000 lekë për libra\n\nShembull 2 - Shumëzimi thyesash:\nNëse çdo libër kushton 2/3 të një libri mesatar (800 lekë), sa kushton?\n2/3 × 800 = (2 × 800)/3 = 1600/3 = 533⅓ lekë ≈ 533 lekë\n\nShembull 3 - Ndarja thyesash:\nAgroni ka 3¾ kg mollë dhe i ndan në pako të 1/2 kg. Sa pako mund të bëjë?\n3¾ ÷ 1/2 = 15/4 ÷ 1/2 = 15/4 × 2/1 = 30/4 = 7½ = 7 pako të plota\n\nPunë në grupe: Nxënësit organizohen në grupe 4-she. Çdo grup merr një kartë me problemë të ndryshme për tregun (llogaritja e çmimit të biskotave, ndarje të fitimit, llogaritja e sasisë së ingredientëve). Grupet prezantojnë zgjidhjet dhe shpjegojnë strategjitë.\n\n**PRAKTIKA** (10 minuta)\na) Niveli bazë (2-3 ushtrime):\n- Llogaritni: 2/5 + 1/3\n- Gjeni: 3/4 × 2/7\n- Sa është 2¼ - 1⅔?\n\nb) Niveli mesatar (2 ushtrime):\n- Një recetë kërkon 2/3 gota miell për 4 persona. Sa miell duhet për 10 persona?\n- Mira ka lexuar 3/8 të një libri. Nëse ka lexuar 120 faqe, sa faqe ka gjithsej libri?\n\nc) Niveli i avancuar (1 problemë sfiduese):\n- Një rezervuar uji mbushet nga 3 tuba: i pari e mbush në 1/4 ore, i dyti në 1/6 ore, i treti në 1/3 ore. Nëse të tre tubat punojnë së bashku, në sa kohë do ta mbushin rezervuarin?\n\n**MBYLLJA/REFLEKTIMI** (5 minuta)\nPërmbledhje tre pikash kryesore: 1) Për të mbledhur thyesa me emërues të ndryshëm, gjejmë emëruesin e përbashkët; 2) Shumëzojmë thyesat duke shumëzuar numruesit me numruesit dhe emëruesit me emëruesit; 3) Ndajmë thyesat duke e kthyer pjesëtuesin dhe shumëzuar.\nQuiz verbal: 'Çfarë bëjmë kur duam të mbledhim 1/4 + 1/6?' Parashikim: 'Orën tjetër do të punojmë me thyesat dhjetore dhe përqindjet.'",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**BAZË**: Zgjidhni ushtrimet 1-8 nga libri, faqja 44: llogaritni shuma, ndryshime, shumëzime dhe ndarja e thyesave të thjeshta. Shembull: 3/5 + 1/4, 2/3 × 3/8, 4⅔ - 2¼, 5/6 ÷ 2/3.\n\n**KRIJUESE**: Krijoni një plan për një festë klase ku duhet të llogaritni: Sa ushqim duhet për 24 nxënës nëse çdo recetë është për 8 persona? Si do të ndani koston midis nxënësve? Përdorni të paktën 5 veprime me thyesa dhe prezantoni planin me ilustrime.\n\n**SHTESË (fakultative)**: Hulumtoni thyesat e vazhdueshme (continued fractions) dhe shkruani numrin π = 22/7 si thyesë të vazhdueshme. Gjeni tre thyesa të tjera që afrohen me π-në dhe krahasoni saktësinë e tyre.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Numri",
+      "page_or_row": "39"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

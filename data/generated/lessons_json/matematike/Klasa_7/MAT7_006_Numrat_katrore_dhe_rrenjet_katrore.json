@@ -1,0 +1,63 @@
+{
+  "id": "MAT7_006",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "III",
+  "lesson_number": 6,
+  "tema": "Numrat katrorë dhe rrënjët katrore",
+  "tematika": "Numri",
+  "month": "Shtator",
+  "trimester": 1,
+  "duration_minutes": 45,
+  "situata": "Nxënësit eksplorojnë pllakat katrore të oborrit të shkollës. Duke numëruar pllakat në secilën anë dhe gjithsej, ata zbulojnë lidhjen midis brinjës dhe syprinës së katrorit.",
+  "rezultatet": [
+    "Nxënësi/ja përcakton numrin katror si produkt i një numri me veten",
+    "Nxënësi/ja gjen rrënjën katrore të numrave katrorë të përsosur deri në 400",
+    "Nxënësi/ja përdor simbolin √ dhe kupton kuptimin e tij",
+    "Nxënësi/ja vlerëson rrënjën katrore të numrave jo të përsosur"
+  ],
+  "fjalet_kyce": [
+    "Numër katror",
+    "Katror i përsosur",
+    "Rrënjë katrore",
+    "√",
+    "Fuqi e dytë",
+    "Vlerësim"
+  ],
+  "burimet": [
+    "Libri i matematikës klasa 7, fq. 33-38",
+    "Rrjeta katrore",
+    "Kalkulator shkencor",
+    "Kube për ndërtim katrorësh",
+    "Tabela e katrorëve 1-20"
+  ],
+  "lidhja": "Lidhje me Gjeometrinë: syprina e katrorit = brinjë². Lidhje me Artin: motivet katrore. Lidhje me Arkitekturën: llogaritja e sipërfaqeve.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "QËLLIMI: Nxënësit do të mësojnë konceptin e numrave katrorë dhe rrënjës katrore, dhe do të aplikojnë në probleme praktike.\n\nHYRJA (6 min):\n• Aktivitet: Ndërtoni katrore me kube: 1×1=1, 2×2=4, 3×3=9, 4×4=16\n• Pyetje: Çfarë vini re? Numrat 1, 4, 9, 16, 25... quhen numra KATRORË.\n• Pse? Sepse mund të paraqiten si katrore!\n\nZHVILLIMI (26 min):\n• Përkufizim: n² = n × n (lexohet 'n në katror')\n• Shembuj: 5² = 25, 7² = 49, 10² = 100, 12² = 144\n• Tabela e katrorëve: 1, 4, 9, 16, 25, 36, 49, 64, 81, 100, 121, 144, 169, 196, 225...\n• RRËNJA KATRORE: Veprimi i kundërt!\n  - Nëse 5² = 25, atëherë √25 = 5\n  - √49 = 7, √81 = 9, √144 = 12\n• Vërejtje: √ jep vetëm vlerën pozitive (rrënja kryesore)\n• Vlerësimi i rrënjëve jo të përsosura:\n  - √50 = ? Është midis √49=7 dhe √64=8, pra √50 ≈ 7.07\n  - √20 = ? Midis √16=4 dhe √25=5, pra √20 ≈ 4.47\n• Aktivitet: Përdorni kalkulatorin për të verifikuar.\n\nPRAKTIKA (10 min):\n• Ushtrim 1: Llogaritni: 8², 11², 15², 20²\n• Ushtrim 2: Gjeni: √64, √121, √196, √400\n• Ushtrim 3: Vlerësoni midis cilave numra të plotë: √30, √75, √150\n• Problem: Një kopsht katror ka syprinë 169 m². Sa është brinja?\n\nMBYLLJA (3 min):\n• Lidhja: katror ↔ rrënjë katrore janë veprime të kundërta\n• Memorizoni: √1=1, √4=2, √9=3, √16=4, √25=5...",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "1. Plotësoni tabelën: n=1-20, n², √n²\n2. Gjeni: √225, √289, √324, √361\n3. Vlerësoni me një shifër dhjetore: √40, √60, √90, √110\n4. Problem: Syprina e një katrori është 256 cm². Gjeni perimetrin.\n5. Sfidë: A ka numër katror midis 200 dhe 210? Po midis 220 dhe 230?",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Numri",
+      "page_or_row": "6"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

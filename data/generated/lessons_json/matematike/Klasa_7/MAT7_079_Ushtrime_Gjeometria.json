@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_079",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 79,
+  "tema": "Ushtrime - Gjeometria",
+  "tematika": "Gjeometria",
+  "month": "Shkurt",
+  "trimester": 2,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës së 7-të planifikojnë të ndërtojnë një kopsht geometrik në oborrin e shkollës në Tiranë. Ata duhet të llogaritjë sipërfaqen e kopsht-it katror me brinjë 8 metra, perimetrin e kufirit që do të rrethojnë me tuba metalikë, si dhe të përcaktojnë këndiet e përgjithshme ku do të vendosin lule të ndryshme në forma trekëndore dhe katror.",
+  "rezultatet": [
+    "Nxënësi/ja llogarit saktësisht sipërfaqen e figurave të rrafshëta (katror, drejtkëndësh, trekëndësh)",
+    "Nxënësi/ja përcakton perimetrin e figurave gjeometrike duke përdorur formulat përkatëse",
+    "Nxënësi/ja identifikon llojet e këndeve (të drejta, të mprehta, të buta) dhe i mat me busull",
+    "Nxënësi/ja demonstron se shuma e këndeve të brendshme të trekëndëshit është 180°",
+    "Nxënësi/ja zgjidh probleme praktike duke përdorur njohuritë e gjeometrisë",
+    "Nxënësi/ja argumenton zgjidhjen e problemave gjeometrike me hapa logjikë"
+  ],
+  "fjalet_kyce": [
+    "sipërfaqe (S = a × b për drejtkëndësh)",
+    "perimetër (P = 2a + 2b për drejtkëndësh)",
+    "kënd i brendshëm (interior angle)",
+    "kënd i jashtëm (exterior angle)",
+    "180° (shuma e këndeve të trekëndëshit)",
+    "busull (compass)",
+    "paralelogram",
+    "diagonale"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 4: Gjeometria e Rrafshët, faqe 78-92",
+    "Busull, vizore, laps dhe gomë",
+    "Fletë milimetrike A4 për çdo nxënës",
+    "Fletë pune e përgatitur me 15 ushtrime të graduar",
+    "Kalkulatore shkentërore për llogaritjet",
+    "Postera me figurat gjeometrike bazë dhe formulat"
+  ],
+  "lidhja": "Lidhje me Artet Vizuale për krijimin e modeleve gjeometrike dekorative, me shkencat natyrore për matjen e këndeve dhe distancave, si dhe me Gjeografinë për leximin e hartave dhe llogaritin e shkallëve. Në jetën e përditshme në Shqipëri përdoret për llogaritjen e sipërfaqes së apartamenteve (m²), planifikimin e kopshteve dhe parkingut, si dhe në ndërtimtari për llogaritin e materialeve.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nKjo orë ka për qëllim të përforcojë dhe të thellojë njohuritë e nxënësve në gjeometrinë e rrafshët përmes ushtrimeve praktike. Nxënësit do të zgjidhin probleme konkrete që lidhen me llogaritjen e sipërfaqes dhe perimetrit të figurave, si dhe me përcaktimin e këndeve.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\nFilloj orën me një aktivitet motivues: \"Loja e Arkitektit të Vogël\". Tregoj një foto të Sheshit Skënderbej në Tiranë dhe pyes: \"Sa metra katrorë mendoni se është sipërfaqja e këtij sheshi?\" Nxënësit japin vlerësime të ndryshme. Pastaj them: \"Sot do të mësojmë të llogaritim saktësisht sipërfaqen e formave të ndryshme\". Pyes: \"Kush kujton formulën për sipërfaqen e katrorit? Dhe të drejtkëndëshit?\" Shkruaj në tabelë formulat: S = a² (katror), S = a × b (drejtkëndësh), P = 4a (katror), P = 2(a+b) (drejtkëndësh). Lidh me orën e kaluar: \"Javën e kaluar mësuam figurat gjeometrike, sot do të punojmë me to\".\n\n**REALIZIMI I KUPTIMIT/ZHVILLIMI** (25-28 minuta)\nShpjegoj konceptin me tre shembuj të zgjidhur hap pas hapi:\n\n**Shembull 1 - Katrori**: \"Një kopsht katror ka brinjë 6 metra. Sa është sipërfaqja dhe perimetri?\"\nZgjidhje: S = a² = 6² = 36 m²; P = 4a = 4 × 6 = 24 m\n\n**Shembull 2 - Drejtkëndëshi**: \"Një klasë ka gjatësi 8 metra dhe gjerësi 5 metra. Sa është sipërfaqja dhe perimetri?\"\nZgjidhje: S = a × b = 8 × 5 = 40 m²; P = 2(a+b) = 2(8+5) = 26 m\n\n**Shembull 3 - Trekëndëshi**: \"Një trekëndësh ka bazë 4 metra dhe lartësi 3 metra. Sa është sipërfaqja?\"\nZgjidhje: S = (b × h)/2 = (4 × 3)/2 = 6 m²\n\nOrganizoj punën në grupe prej 4 nxënësish. Çdo grup merr një detyrë specifike:\n- Grupi 1: Llogarit sipërfaqen e dhomat së tyre\n- Grupi 2: Gjen perimetrin e oborrit të shkollës\n- Grupi 3: Mat këndët e një trekëndëshi me busull\n- Grupi 4: Krahason sipërfaqen e figurave të ndryshme\n\nDemonstroj në tabelë se si të përdorim busullin për të matur këndët dhe konfirmoj se shuma e këndeve të trekëndëshit është gjithmonë 180°.\n\n**PRAKTIKA/USHTRIME** (8-10 minuta)\n**a) Niveli bazë** (2-3 ushtrime):\n- Gjeni sipërfaqen e një katrori me brinjë 4 metra\n- Llogaritni perimetrin e një drejtkëndëshi 3m × 7m\n- Sa është shuma e këndeve të një trekëndëshi?\n\n**b) Niveli mesatar** (2 ushtrime):\n- Një kopsht drejtkëndor ka sipërfaqe 24 m² dhe gjerësi 4 metra. Sa është gjatësia?\n- Një trekëndësh ka këndë 60° dhe 70°. Sa është kënd i tretë?\n\n**c) Niveli i avancuar** (1 problemë sfiduese):\n- Një drejtkëndësh ka perimetër 20 metra dhe gjatësia është 2 herë më e madhe se gjerësia. Gjeni dimensionet dhe sipërfaqen.\n\n**MBYLLJA/REFLEKTIMI** (3-5 minuta)\nPërmbledh tre pikat kryesore:\n1. Formulat për sipërfaqen dhe perimetrin e figurave\n2. Përdorimi i busullit për matjen e këndeve\n3. Shuma e këndeve të trekëndëshit = 180°\n\nBëj një quiz verbal: \"Çfarë formule përdorim për sipërfaqen e katrorit? Sa është shuma e këndeve të trekëndëshit?\" Parashikoj orën e ardhshme: \"Javën e ardhshme do të mësojmë rreth rrethit dhe llogaritjen e perimetrit të tij\".",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**1. BAZË** (3-4 ushtrime konkrete):\n- Llogaritni sipërfaqen e një katrori me brinjë 5 metra\n- Gjeni perimetrin e një drejtkëndëshi me dimensione 6m × 9m\n- Një trekëndësh ka këndë 45° dhe 95°. Sa është kënd i tretë?\n- Llogaritni sipërfaqen e një trekëndëshi me bazë 8m dhe lartësi 6m\n\n**2. KRIJUESE** (Projekt i shkurtër):\nKrijoni një hartë të dhomës suaj duke matur dimensionet reale me metër. Llogaritni sipërfaqen e dhomës dhe perimetrin e saj. Vizatoni hartën në shkallë 1:100 dhe prezantoni të gjeturat tuaja me një poster të vogël.\n\n**3. SHTESË/FAKULTATIVE** (Për nxënës të avancuar):\nHulumtoni dhe zgjidhni këtë problem: Një fermër ka një copë tokë në formë paralelogrami me bazë 15 metra dhe lartësi 8 metra. Ai do të ndajë tokën në dy pjesë të barabarta me një gardh të drejtë. Sa metra gardh do t'i duhen dhe sa do të jetë sipërfaqja e secilës pjesë?",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Gjeometria",
+      "page_or_row": "79"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

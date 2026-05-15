@@ -1,0 +1,69 @@
+{
+  "id": "MAT7_129",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 129,
+  "tema": "Test vlerësimi - Kapitujt 15, 16, 17",
+  "tematika": "Test",
+  "month": "Maj",
+  "trimester": 3,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës së 7-të në shkollën 'Naim Frashëri' në Tiranë do të testohen mbi njohuritë e tyre të mësuara në tre kapitujt e fundit: ekuacionet me një të panjohur, thyesat dhe përqindjet, dhe gjeometrinë e rrethit. Testi do të përfshijë probleme praktike si llogaritja e çmimeve me zbritje në tregun e Tiranës, gjetja e perimetrit të kopshtit të shkollës, dhe zgjidhja e ekuacioneve që lidhen me moshën e anëtarëve të familjes shqiptare.",
+  "rezultatet": [
+    "Nxënësi/ja zgjidh ekuacione të thjeshta me një të panjohur duke përdorur veprimet e kundërta",
+    "Nxënësi/ja llogarit saktësisht mbledhjen dhe zbritjen e thyesave me emërues të njëjtë dhe të ndryshëm",
+    "Nxënësi/ja kthen thyesat në përqindje dhe anasjelltas në probleme praktike të jetës së përditshme",
+    "Nxënësi/ja përllogarit perimetrin dhe sipërfaqen e rrethit duke përdorur formulat e duhura",
+    "Nxënësi/ja identifikon elementet kryesore të rrethit: qendra, rreze, diametër, hark",
+    "Nxënësi/ja argumenton zgjidhjen e problemave me hapa logjikë dhe të qartë"
+  ],
+  "fjalet_kyce": [
+    "ekuacion (equation)",
+    "thyesë (fraction)",
+    "përqindje (%)",
+    "rreth (circle)",
+    "perimetër (P = 2πr)",
+    "sipërfaqe (S = πr²)",
+    "rreze (radius - r)",
+    "diametër (diameter - d = 2r)",
+    "π (pi ≈ 3.14)"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 15, 16, 17, faqe 178-215",
+    "Fletë testi e printuar me 20 pyetje",
+    "Busull dhe vizore për konstruksimet gjeometrike",
+    "Kalkulatore për llogaritjet me numra dhjetorë",
+    "Libër shënimesh për draft-in",
+    "Orë për matjen e kohës së testit (90 minuta)"
+  ],
+  "lidhja": "Testi lidhet me shkencat natyrore përmes llogaritjes së sipërfaqeve dhe vëllimeve, me Gjeografinë në matjen e distancave dhe shkallëve në harta, me Edukimin Qytetar në llogaritjen e taksave dhe çmimeve të produkteve shqiptare, dhe me Artet në krijimin e modeleve gjeometrike dekorative që përdoren në arkitekturën tradicionale shqiptare si motivi i qilimave të Korçës.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nOrganizimi dhe realizimi i testit përfundimtar për kapitujt 15, 16, 17 me qëllim vlerësimin objektiv të njohurive të fituara nga nxënësit rreth ekuacioneve, thyesave dhe gjeometrisë së rrethit.\n\n**EVOKIMI/HYRJA** (10 minuta)\nMësuesi fillon me një rishikim të shkurtër: 'Sot do të testoni njohuritë tuaja për tre temat e rëndësishme. Le të kujtojmë së bashku: Si zgjidhet ekuacioni 3x + 5 = 14? Çfarë është 2/3 + 1/4? Sa është perimetri i një rrethi me rreze 7 cm?' Nxënësit përgjigjen verbalisht për të aktivizuar memorien. Më pas shpërndahet materiali i testit dhe jepen instruksionet: 'Testi ka 20 pyetje të ndara në tre seksione. Koha 90 minuta. Lexoni me kujdes çdo pyetje, tregoni të gjitha hapat e punës.' Kontrollohen mjetet e nevojshme: laps, gome, busull, vizore, kalkulatore.\n\n**REALIZIMI I KUPTIMIT** (70 minuta)\n**SEKSIONI A: Ekuacionet (25 minuta)**\nPyetjet 1-7 përfshijnë:\n- Pyetja 1: Zgjidhni ekuacionin x + 8 = 15 (x = 7)\n- Pyetja 2: Zgjidhni 3x = 21 (x = 7) \n- Pyetja 3: Zgjidhni 2x - 5 = 9 (x = 7)\n- Pyetja 4: Problemë praktike: 'Ani ka 3 vjet më shumë se Beni. Bashkë janë 23 vjeç. Sa vjeç është secili?' (Beni = 10, Ani = 13)\n- Pyetja 5-7: Ekuacione më komplekse\n\n**SEKSIONI B: Thyesat dhe përqindjet (25 minuta)**\nPyetjet 8-14 përfshijnë:\n- Pyetja 8: 1/2 + 1/3 = 3/6 + 2/6 = 5/6\n- Pyetja 9: 3/4 - 1/6 = 9/12 - 2/12 = 7/12\n- Pyetja 10: Ktheni 0.75 në thyesë (3/4)\n- Pyetja 11: Sa është 25% e 80? (20)\n- Pyetja 12: Problemë: 'Në një dyqan në Tiranë, një këpucë kushton 4000 lekë. Jepet zbritje 20%. Sa është çmimi i ri?' (3200 lekë)\n- Pyetja 13-14: Probleme të tjera praktike me përqindje\n\n**SEKSIONI C: Gjeometria e rrethit (20 minuta)**\nPyetjet 15-20 përfshijnë:\n- Pyetja 15: Gjeni perimetrin e rrethit me r = 5 cm (P = 2π × 5 = 31.4 cm)\n- Pyetja 16: Gjeni sipërfaqen e rrethit me r = 4 cm (S = π × 4² = 50.24 cm²)\n- Pyetja 17: Konstruktoni rreth me diametër 8 cm duke përdorur busull\n- Pyetja 18: Emërtoni elementet e rrethit në figurë\n- Pyetja 19-20: Probleme praktike me rreth\n\nGjatë testit, mësuesi qarkuton në klasë, vëzhgon punën e nxënësve, përgjigjet pyetjeve procedurale por jo ato të përmbajtjes.\n\n**MBYLLJA** (5 minuta)\nNxënësit dorëzojnë punimet. Mësuesi jep një vlerësim të përgjithshëm: 'Testi mbuloi të gjitha temat kryesore. Rezultatet do t'i keni të hënën e ardhshme.' Njoftohet se ora e ardhshme do të jetë rishikim dhe diskutim i gabimeve të zakonshme.",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**BAZË:** Përgatituni për korrigjimin e testit duke rishikuar kapitujt 15, 16, 17. Lexoni përsëri shembujt kryesorë nga libri faqe 178, 189, 201. Zgjidh sërish ushtrimet 1, 3, 5 nga çdo kapitull.\n\n**KRIJUESE:** Krijoni një fletëpalosje (broshurë) me temën 'Matematika në jetën tonë të përditshme' ku do të tregoni se si përdoren ekuacionet, thyesat dhe gjeometria në punë të ndryshme në Shqipëri (ndërtim, tregti, bujqësi). Përdorni foto ose vizatime.\n\n**SHTESË (fakultative):** Hulumtoni dhe shkruani një paragraf për secilin nga këta matematikanë: Al-Khwarizmi (babai i algjebrës), Eratosthenes (i pari që mati perimetrin e Tokës), dhe një matematikan bashkëkohor shqiptar. Përfshini kontributet e tyre në fushat që mësuam.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Test",
+      "page_or_row": "129"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_119",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 119,
+  "tema": "Thyesa si pjesë e së tërës",
+  "tematika": "Numri",
+  "month": "Maj",
+  "trimester": 3,
+  "duration_minutes": 45,
+  "situata": "Familja e Erionit në Korçë ka një kopsht me sipërfaqe 240 m² dhe duan ta ndajnë në parcela për kultivimin e perimeve të ndryshme. 1/4 e kopshtit do të përdoret për domate, 3/8 për kastraveca, 1/6 për qepë, dhe pjesa tjetër për lule. Nxënësit duhet të llogaritin sipërfaqen për çdo kulturë dhe të kuptojnë se si thyesat përfaqësojnë pjesë të një sasie të caktuar.",
+  "rezultatet": [
+    "Nxënësi/ja përkufizon thyesën si raport midis pjesës dhe së tërës duke dhënë shembuj konkretë",
+    "Nxënësi/ja identifikon në jetën e përditshme situata ku thyesat përfaqësojnë pjesë të objekteve apo sasisë",
+    "Nxënësi/ja llogarit vlerën numerike të thyesës kur njihet sa tërësia dhe pjesa e kërkuar",
+    "Nxënësi/ja demonstron përmes vizatimit se si thyesa shpreh pjesën në raport me të tërën",
+    "Nxënësi/ja zgjidh probleme praktike ku duhet të gjejë pjesën e një sasie duke përdorur thyesa",
+    "Nxënësi/ja argumenton pse shuma e të gjitha pjesëve të një tërësie është e barabartë me 1"
+  ],
+  "fjalet_kyce": [
+    "thyesë (fraction)",
+    "numëruesi (numerator)",
+    "emëruesi (denominator)",
+    "pjesa (part)",
+    "e tëra (whole)",
+    "raporti a/b",
+    "njësia 1",
+    "përqindje (%)"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 4, faqe 52-58",
+    "Vizore, busull, laps me ngjyra, gjerës",
+    "Fletë pune me figura gjeometrike për ndarje",
+    "Kartela me thyesa dhe përfaqësimet grafike",
+    "Kalkulatore për verifikimin e llogaritjeve",
+    "Postera me shembuj thyesash nga jeta e përditshme"
+  ],
+  "lidhja": "Lidhje me Gjeografinë në llogaritjen e sipërfaqeve dhe shkallëve të hartës, me shkencat natyrore në matjet dhe njësitë, me Artet në përpjestimin dhe dizajnin, me Biologjinë në përqindjen e elementëve në organizëm, dhe me jetën e përditshme në blerjet në treg (1/2 kg mollë, 3/4 litra qumësht), ndarjen e kohës (1/3 e ditës për gjumë), dhe planifikimin bujqësor në fshatrat shqiptare.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nKjo orë synon që nxënësit të kuptojnë konceptin e thyesës si një mënyrë për të shprehur pjesën në raport me të tërën, duke përdorur shembuj konkretë nga jeta e përditshme dhe situata praktike nga konteksti shqiptar.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\nMësuesja sjell në klasë një bukë të prerë në 8 pjesë të barabarta dhe pyet: 'Nëse haj 3 copë bukë, sa pjesë të bukës kam ngrënë?' Nxënësit diskutojnë dhe arrijnë te përgjigja 3/8. Pastaj prezanton problemën e kopshtit të familjes së Erionit: 'Nëse kopsht ka 240 m² dhe duan të përdorin 1/4 për domate, sa metra katror do të zënë domatet?' Kjo lidhet me orën e kaluar ku morën thyesat e thjeshta dhe tani do të shohin aplikimin e tyre praktik.\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\nMësuesja shpjegon se thyesa është një numër që tregon sa pjesë kemi marrë nga e tëra, ku numëruesi tregon numrin e pjesëve të marra dhe emëruesi numrin total të pjesëve.\n\n**Shembulli 1:** Kopsht 240 m², gjeni 1/4 për domate\nZgjidhja hap pas hapi:\n- Ndajmë kopshtin në 4 pjesë të barabarta: 240 ÷ 4 = 60 m²\n- Marrim 1 pjesë: 1 × 60 = 60 m²\n- Prandaj 1/4 e 240 m² = 60 m²\n\n**Shembulli 2:** Po për 3/8 të kopshtit për kastraveca?\nZgjidhja hap pas hapi:\n- Ndajmë kopshtin në 8 pjesë të barabarta: 240 ÷ 8 = 30 m²\n- Marrim 3 pjesë: 3 × 30 = 90 m²\n- Prandaj 3/8 e 240 m² = 90 m²\n\n**Shembulli 3:** Për 1/6 të kopshtit për qepë?\nZgjidhja hap pas hapi:\n- Ndajmë kopshtin në 6 pjesë të barabarta: 240 ÷ 6 = 40 m²\n- Marrim 1 pjesë: 1 × 40 = 40 m²\n- Prandaj 1/6 e 240 m² = 40 m²\n\nPunë në grupe (10 minuta): Çdo grup merr një problem të ngjashëm me parcela toke në fshatrat e tyre dhe duhet të llogaritë se sa hektar zë secila kulturë. Grupi 1 punon me 180 m², Grupi 2 me 300 m², etj.\n\nDemonstrim në tabelë: Mësuesja vizaton drejtkëndëshin që përfaqëson kopshtin dhe e ndan në pjesë sipas thyesave, duke ngjyrosur secilën kulturë me ngjyrë të veçantë.\n\n**PRAKTIKA/USHTRIME** (8-10 minuta)\na) **Niveli bazë (2-3 ushtrime):**\n- Gjeni 1/3 e 90 lekëve\n- Gjeni 2/5 e 50 nxënësve të shkollës\n- Gjeni 3/4 e 80 kilometrave rrugë Tiranë-Elbasan\n\nb) **Niveli mesatar (2 ushtrime):**\n- Një fermer në Fier ka 360 rrënjë pemësh. 2/9 janë mollë, 1/4 janë dardha, pjesa tjetër janë pjeshkë. Sa pemë të çdo lloji ka?\n- Në një autobus që kalon nga Shkodra për Tiranë ka 48 udhëtarë. 5/12 zbresin në Lezhë, 1/6 në Krujë. Sa udhëtarë mbeten?\n\nc) **Niveli i avancuar (1 problemë sfiduese):**\n- Një sipërfaqe toke 1200 m² ndahet në 3 parcela. Parcela e parë zë 2/5 të sipërfaqes, parcela e dytë 1/3, dhe parcela e tretë pjesën që mbetet. Nëse çdo metra katror kushton 500 lekë, sa kushton çdo parcelë?\n\n**MBYLLJA/REFLEKTIMI** (3-5 minuta)\nPërmbledhje e tre pikave kryesore: 1) Thyesa tregon pjesën e së tërës, 2) Për ta gjetur vlerën, ndajmë të tërën me emëruesin dhe shumëzojmë me numëruesin, 3) Shuma e të gjitha pjesëve bën 1 ose të tërën. Quiz verbal: 'Çfarë do të thotë 3/7?' dhe 'Si gjejmë 2/3 e 120?' Parashikimi i orës së ardhshme: Do të mësojmë të krahasojmë thyesat dhe të gjejmë thyesën më të madhe.",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**DETYRË BAZË:** Zgjidhni ushtrimet 1-6 në faqen 56 të librit. Gjeni: 1/5 e 75 lekëve, 3/8 e 64 nxënësve, 2/7 e 91 ditëve, 4/9 e 108 faqeve të librit.\n\n**DETYRË KRIJUESE:** Krijoni një poster që tregon ndarjen e orarit tuaj ditor duke përdorur thyesa. Sa pjesë të ditës i kushtoni gjumit, shkollës, lojës, ushqimit, etj. Përdorni figura dhe ngjyra të ndryshme për çdo aktivitet.\n\n**DETYRË SHTESË (fakultative):** Hulumtoni sa thyesa zënë kulturat bujqësore në rrethin tuaj (p.sh. grurë, misër, patate). Intervistoni një fermer ose kërkoni të dhëna në internet. Prezantoni gjetjet tuaja me një grafik rrethash në orën e ardhshme.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Numri",
+      "page_or_row": "119"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

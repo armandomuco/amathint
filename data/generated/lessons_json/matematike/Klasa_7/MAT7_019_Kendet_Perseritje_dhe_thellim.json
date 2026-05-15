@@ -1,0 +1,63 @@
+{
+  "id": "MAT7_019",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "III",
+  "lesson_number": 19,
+  "tema": "Këndet - Përsëritje dhe thellim",
+  "tematika": "Gjeometria",
+  "month": "Tetor",
+  "trimester": 1,
+  "duration_minutes": 45,
+  "situata": "Nxënësit vëzhgojnë këndet në ndërtesat rreth shkollës dhe zbulojnë llojet e ndryshme të këndeve dhe marrëdhëniet midis tyre.",
+  "rezultatet": [
+    "Nxënësi/ja klasifikon këndet sipas masës (të ngushtë, të drejtë, të gjerë, të shtrirë)",
+    "Nxënësi/ja identifikon këndet plotësuese dhe suplementare",
+    "Nxënësi/ja mat dhe ndërton kënde me raportor",
+    "Nxënësi/ja zgjidh probleme që përfshijnë marrëdhëniet e këndeve"
+  ],
+  "fjalet_kyce": [
+    "Kënd",
+    "Kënd i ngushtë",
+    "Kënd i drejtë",
+    "Kënd i gjerë",
+    "Plotësues",
+    "Suplementar"
+  ],
+  "burimet": [
+    "Libri i matematikës klasa 7, fq. 107-113",
+    "Raportor",
+    "Vizore",
+    "Letër me rrjetë",
+    "Modele këndesh"
+  ],
+  "lidhja": "Lidhje me Artin: perspektiva në vizatim. Lidhje me Arkitekturën: dizajni i ndërtesave. Lidhje me Sportin: këndet e gjuajtjes.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "QËLLIMI: Rikujtim dhe thellim i njohurive mbi këndet dhe marrëdhëniet e tyre.\n\nHYRJA (6 min):\n• 'Gjuetia e këndeve': Gjeni kënde të ndryshme në klasë\n  - Këndi i tavolinës (90°)\n  - Këndi i çatisë (~45°)\n  - Dera e hapur (~120°)\n• Rikujtim i klasifikimit të këndeve.\n\nZHVILLIMI (26 min):\n• KLASIFIKIMI I KËNDEVE:\n  - Kënd i ngushtë: 0° < α < 90°\n  - Kënd i drejtë: α = 90°\n  - Kënd i gjerë: 90° < α < 180°\n  - Kënd i shtrirë: α = 180°\n  - Kënd refleks: 180° < α < 360°\n\n• MARRËDHËNIET E KËNDEVE:\n  - Kënde PLOTËSUESE: shuma = 90°\n    Nëse α = 35°, plotësuesi β = 90° - 35° = 55°\n  - Kënde SUPLEMENTARE: shuma = 180°\n    Nëse α = 110°, suplementari β = 180° - 110° = 70°\n  - Kënde NË KULM: të barabartë\n\n• MATJA ME RAPORTOR:\n  - Vendosni qendrën e raportorit në kulmin e këndit\n  - Rreshtoni njërën anë me 0°\n  - Lexoni masën në anën tjetër\n\n• NDËRTIMI I KËNDEVE:\n  - Vizatoni një gjysmëdrejtëz\n  - Vendosni raportorin, shënoni pikën në masën e dëshiruar\n  - Bashkoni kulmin me pikën\n\n• SHEMBUJ:\n  1. Dy kënde plotësuese kanë ndryshim 20°. Gjeni masat.\n     α + β = 90°, α - β = 20°\n     2α = 110° → α = 55°, β = 35°\n\n  2. Një kënd është 4 herë më i madh se suplementari. Gjeni këndin.\n     α + β = 180°, α = 4β\n     4β + β = 180° → 5β = 180° → β = 36°, α = 144°\n\nPRAKTIKA (10 min):\n• Ushtrim 1: Klasifikoni: 25°, 90°, 135°, 180°, 270°\n• Ushtrim 2: Gjeni plotësuesin: 40°, 67°, 12°\n• Ushtrim 3: Gjeni suplementarin: 95°, 30°, 148°\n• Ushtrim 4: Matni këndet e dhëna me raportor.\n\nMBYLLJA (3 min):\n• Skemë e marrëdhënieve të këndeve\n• Truk: Plotësues → mendoni 90°, Suplementar → mendoni 180°",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "1. Klasifikoni këndet: 82°, 90°, 115°, 180°, 200°, 45°\n2. Gjeni plotësuesin dhe suplementarin: 38°, 72°, 15°, 89°\n3. Problem: Dy kënde plotësuese janë në raport 2:3. Gjeni masat.\n4. Problem: Një kënd është 20° më i vogël se suplementari. Gjeni këndin.\n5. Ndërtoni me raportor: 35°, 90°, 145°",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Gjeometria",
+      "page_or_row": "19"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

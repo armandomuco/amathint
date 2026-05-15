@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_055",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 55,
+  "tema": "Njësitë e masës",
+  "tematika": "Matja",
+  "month": "Dhjetor",
+  "trimester": 1,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e shkollës 'Fan Noli' në Tiranë organizojnë një treg bamirësie për të ndihmuar familjet në nevojë. Ata duhet të blejnë dhe të shesin produkte të ndryshme si fruta, perime dhe ëmbëlsira. Për të llogaritur çmimin e saktë, nxënësit duhet të kuptojnë dhe të përdorin njësi të ndryshme mase si kilogram, gram, ton dhe të kryejnë konvertime mes tyre. Për shembull, duhet të dinë se sa gram ka 1 kg mollë ose sa kilogram janë 2.5 ton patate.",
+  "rezultatet": [
+    "Nxënësi/ja identifikon njësitë kryesore të masës (mg, g, kg, t) dhe relacionet mes tyre",
+    "Nxënësi/ja konverton saktësisht masën nga njësia më e madhe në të voglin dhe anasjelltas",
+    "Nxënësi/ja llogarit shumën dhe ndryshimin e masave të shprehura në njësi të ndryshme",
+    "Nxënësi/ja zgjidh probleme praktike që përfshijnë matjen dhe konvertimin e masës",
+    "Nxënësi/ja argumenton zgjedhjen e njësisë së përshtatshme të masës për objekte të ndryshme",
+    "Nxënësi/ja demonstron përdorimin e pesores dhe interpretimin e rezultateve"
+  ],
+  "fjalet_kyce": [
+    "masë (mass)",
+    "kilogram (kg)",
+    "gram (g)",
+    "miligram (mg)",
+    "ton (t)",
+    "konvertim",
+    "pesore",
+    "njësi matëse"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 4: Matja, faqe 62-68",
+    "Pesore elektronike dhe mekanike të ndryshme",
+    "Objekte për matje: libra, fruta, çanta shkollore, monedha",
+    "Fletë pune e përgatitur me tabela konvertimi",
+    "Poster me njësitë e masës dhe relacionet",
+    "Kalkulatore për llogaritje të shpejta"
+  ],
+  "lidhja": "Kjo temë lidhet ngushtë me shkencat natyrore (koncepti i masës vs. peshës), Kimia (masa e substancave në eksperimente), Gjeografia (masa e kontinenteve, oqeaneve), Bujqësia (prodhimi i ushqimit në Shqipëri), Gatuarja (recetat dhe masat e përbërësve), Sportin (pesha e atletëve), dhe aktivitetet e përditshme si blerjet në treg, matja e bagazheve në aeroport, dozimi i barnave sipas peshës trupore.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nQëllimi i kësaj ore është që nxënësit të kuptojnë konceptin e masës dhe të zotërojnë njësitë kryesore të matjes së masës. Ata do të mësojnë të kryejnë konvertime mes njësive të ndryshme dhe të zgjidhin probleme praktike nga jeta e përditshme.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\nMësuesi nis orën duke sjellë objekte të ndryshme: një mollë, një libër matematike, një çantë shkollore dhe një shishe ujë. Pyet nxënësit: 'Çfarë kanë të përbashkët këto objekte?' Pas diskutimit, mësuesi pyet: 'Si mund t'i krahasojmë këto objekte nga ana e rëndësisë?' Nxënësit propozojnë përdorimin e pesores. Mësuesi demonstron matjen e secilit objekt duke lexuar rezultatet: mollë 150g, libri 400g, çanta 2kg, shishja 500g. Pyet: 'Vini re diçka të veçantë te njësitë?' Lidh me orën e kaluar rreth matjes së gjatësisë dhe njësive të saj.\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\nMësuesi prezanton njësitë kryesore të masës duke i shkruajtur në tabelë: miligram (mg), gram (g), kilogram (kg), ton (t). Shpjegon relacionet themelore: 1kg = 1000g, 1g = 1000mg, 1t = 1000kg.\n\n**Shembull 1**: Konvertimi nga kg në g\nProblema: Sa gram janë 3.5 kg?\nZgjidhja: 3.5 kg = 3.5 × 1000g = 3500g\nSpjegimi: Kur kalojmë nga njësia më e madhe (kg) në të voglin (g), shumëzojmë me 1000.\n\n**Shembull 2**: Konvertimi nga g në kg \nProblema: Sa kilogram janë 2500g?\nZgjidhja: 2500g = 2500 ÷ 1000 kg = 2.5kg\nSpjegimi: Kur kalojmë nga njësia më e vogël (g) në të madhën (kg), ndajmë me 1000.\n\n**Shembull 3**: Problem i përbërë\nProblema: Në tregun e Tiranës, Joni bleu 2kg mollë, 500g portokaj dhe 1.2kg banane. Sa është masa totale në gram?\nZgjidhja: \n- Mollë: 2kg = 2000g\n- Portokaj: 500g\n- Banane: 1.2kg = 1200g\n- Totali: 2000g + 500g + 1200g = 3700g\n\nNxënësit ndahen në grupe prej 4 vetash. Secili grup merr një set objektesh dhe një pesore. Detyra e tyre është të matë 5 objekte, të regjistroj rezultatet dhe të kryej konvertime të thjeshta sipas udhëzimeve të dhëna në fletën e punës.\n\n**PRAKTIKA** (8-10 minuta)\na) **Niveli bazë**: \n   - Konvertoni: 4kg në gram, 3000g në kg\n   - Gjeni masën totale: 2.5kg + 800g (në kg)\n\nb) **Niveli mesatar**:\n   - Ana ka 3 kuti biskota me masë 250g secila dhe 2 pako çokollatë me masë 0.4kg secila. Sa është masa totale në gram?\n   - Konvertoni 0.002t në kg dhe pastaj në gram\n\nc) **Niveli i avancuar**:\n   - Një fermë në Fier prodhon 15 ton grurë. Nëse çdo thes përmban 50kg, sa thesa duhen për të paketuar të gjithë grurin?\n\n**MBYLLJA/REFLEKTIMI** (3-5 minuta)\nMësuesi përmbledh pikat kryesore: (1) Njësitë e masës janë mg, g, kg, t; (2) Konvertimi bëhet duke shumëzuar ose ndarë me 1000; (3) Duhet të zgjedhim njësinë e përshtatshme për secilën situatë. Kryen një quiz të shkurtër verbal: 'Sa gram janë 2kg?', 'Çfarë njësie përdorim për masën e një makine?'. Njofton se ora e ardhshme do të trajtoj njësitë e sipërfaqes.",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**BAZË**: Zgjidhni ushtrimet 1-8 nga faqja 65 të librit. Konvertoni: a) 5kg në g, b) 4000g në kg, c) 0.5t në kg, d) Gjeni masën totale të 3kg + 1500g (shpreheni në kg).\n\n**KRIJUESE**: Krijoni një poster A3 ku do të paraqisni 10 objekte të ndryshme nga shtëpia juaj (ushqime, libra, rroba, etj). Matini ato dhe paraqitini masat në 3 njësi të ndryshme. Për shembull: Libri i historisë = 350g = 0.35kg = 350,000mg.\n\n**SHTESË (Fakultative)**: Hulumtoni dhe shkruani një ese 1 faqe rreth masës së kafshëve të egra që gjenden në Shqipëri (ariu kafe, ujku, etj.). Krahasojini me masën tuaj dhe masën e objekteve të përditshme. Përdorni të paktën 5 konvertime të ndryshme mes njësive.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Matja",
+      "page_or_row": "55"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

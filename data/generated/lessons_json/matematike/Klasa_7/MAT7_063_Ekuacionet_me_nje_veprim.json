@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_063",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 63,
+  "tema": "Ekuacionet me një veprim",
+  "tematika": "Algjebra",
+  "month": "Janar",
+  "trimester": 2,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës së 7-të në shkollën 'Fan Noli' në Tiranë planifikojnë të organizojnë një treg shkollor për të mbledhur fonde për ekskursionin në Ohër. Ata duhet të llogaritsin se sa libra duhet të shesin nëse çdo libër kushton 800 lekë dhe kanë nevojë të mbledhin gjithsej 24,000 lekë. Gjithashtu duhet të përcaktojnë çmimin e biletave për spektaklin teatror nëse kanë 120 ulëse dhe duan të mbledhin 18,000 lekë.",
+  "rezultatet": [
+    "Nxënësi/ja përkufizon ekuacionin si një barazi që përmban të panjohur",
+    "Nxënësi/ja identifikon të panjohurin dhe koeficientin në ekuacionet e thjeshta",
+    "Nxënësi/ja llogarit vlerën e të panjohurit në ekuacionet e mbledhjes dhe zbritjes",
+    "Nxënësi/ja zgjidh ekuacionet e shumëzimit dhe pjesëtimit duke përdorur veprimet e kundërta",
+    "Nxënësi/ja demonstron hapat e zgjidhjes së ekuacionit duke përdorur vetitë e barazisë",
+    "Nxënësi/ja formulon probleme të jetës reale që zgjidhen me ekuacione me një veprim"
+  ],
+  "fjalet_kyce": [
+    "ekuacion (equation)",
+    "të panohur (x, y, z)",
+    "barazi matematikore",
+    "koeficient",
+    "veprime të kundërta",
+    "zgjidhje e ekuacionit",
+    "kontroll i zgjidhjes",
+    "vetitë e barazisë"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 4 'Algjebra', faqe 78-85",
+    "Tabelë interaktive ose tabelë e zakonshme me markues",
+    "Fletë pune e përgatitur me 15 ekuacione të graduar sipas vështirësisë",
+    "Kalkulatore për kontroll të zgjidhjes",
+    "Kartela me situata problemore nga jeta reale",
+    "Postera me hapat e zgjidhjes së ekuacioneve"
+  ],
+  "lidhja": "Lënda lidhet ngushtë me shkencat natyrore për llogaritjen e shpejtësisë (s = v×t), me Gjeografinë për llogaritjen e shkallës së hartës (1:x), me Ekonominë familjare për llogaritjen e kostos dhe fitimit në tregti, dhe me Sportit për llogaritjen e pikëve të nevojshme për të fituar kampionatin. Nxënësit përdorin këto njohuri për të zgjidhur probleme praktike si llogaritja e shpenzimeve për ekskursione shkollore, planifikimi i buxhetit familjar dhe llogaritja e distancave midis qyteteve shqiptare.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\n\nKjo orë synon që nxënësit të kuptojnë konceptin e ekuacionit si një barazi me të panohur dhe të mësojnë të zgjidhin ekuacionet e thjeshta me një veprim duke përdorur veprimet e kundërta. Nxënësit do të lidhin këtë koncept me situata konkrete nga jeta e përditshme.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\n\nMësuesi fillon me një lojë motivuese: 'Gjej numrin e fshehtë'. Thotë: 'Mendova një numër, i shtova 15 dhe më doli 32. Cili është numri që mendova?' Nxënësit përpiqen të gjejnë përgjigjen intuitivisht. Pastaj pyetet: 'A ka mënyrë më sistematike për ta zgjidhur këtë problem?' Mësuesi shënon në tabelë: x + 15 = 32 dhe shpjegon se kjo është një ekuacion. Lidhet me orën e kaluar duke kujtuar veprimet me numrat pozitivë dhe negativë, që do të nevojiten sot.\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\n\nMësuesi shpjegon se ekuacioni është një barazi që përmban të panjohur (zakonisht x). Prezanton katër llojet kryesore të ekuacioneve me një veprim:\n\n**Shembulli 1 - Mbledhja:** x + 12 = 25\nHapi 1: Identifikoj të panjohurin (x) dhe konstantet (12, 25)\nHapi 2: Për të izoluar x-in, zbrit 12 nga të dyja anët\nHapi 3: x + 12 - 12 = 25 - 12\nHapi 4: x = 13\nHapi 5: Kontroll: 13 + 12 = 25 ✓\n\n**Shembulli 2 - Shumëzimi:** 4x = 48\nHapi 1: Identifikoj koeficientin (4) dhe të panjohurin (x)\nHapi 2: Për të izoluar x-in, pjesëtoj të dyja anët me 4\nHapi 3: 4x ÷ 4 = 48 ÷ 4\nHapi 4: x = 12\nHapi 5: Kontroll: 4 × 12 = 48 ✓\n\n**Shembulli 3 - Zbritja:** x - 18 = 35\nHapi 1: Për të izoluar x-in, shto 18 në të dyja anët\nHapi 2: x - 18 + 18 = 35 + 18\nHapi 3: x = 53\nHapi 4: Kontroll: 53 - 18 = 35 ✓\n\nPastaj nxënësit ndahen në grupe prej 4 personash. Çdo grup merr një kartelë me situatë problemore: 'Ana ka kursyer disa lekë. Nëse shpenzon 2500 lekë për libra, do t'i mbeten 4800 lekë. Sa lekë ka kursyer Ana gjithsej?' Grupet duhet të formulojnë ekuacionin (x - 2500 = 4800) dhe ta zgjidhin. Mësuesi qarkullon dhe ndihmon grupet.\n\n**PRAKTIKA** (8-10 minuta)\n\n**Niveli bazë:**\na) x + 8 = 23\nb) 5x = 35\nc) x - 12 = 19\n\n**Niveli mesatar:**\na) 3x + 0 = 27 (që është 3x = 27)\nb) x + 25 = 8 (përgjigje negative)\n\n**Niveli i avancuar:**\nProblemë sfiduese: 'Në një autobus në Tiranë ka disa pasagjerë. Në stacionin e parë zbresin 8 pasagjerë dhe ngjiten 15 të rinj. Tani ka 42 pasagjerë. Sa pasagjerë kishte fillimisht?' (x - 8 + 15 = 42, pra x + 7 = 42)\n\n**MBYLLJA/REFLEKTIMI** (3-5 minuta)\n\nPërmbledhje me tre pika kryesore: 1) Ekuacioni është barazi me të panohur, 2) Përdorim veprime të kundërta për ta zgjidhur, 3) Gjithmonë kontrollojmë zgjidhjen. Quiz verbal: 'Çfarë veprimi duhet për të zgjidhur x + 7 = 20?' Parashikim i orës së ardhshme: do të mësojmë ekuacionet me dy veprime.",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**BAZË:** Zgjidhni ekuacionet nga libri faqe 82, ushtrimet 1-6:\n1) x + 15 = 28\n2) x - 9 = 17\n3) 6x = 42\n4) x ÷ 4 = 12\n\n**KRIJUESE:** Krijoni 3 problema nga jeta e përditshme që zgjidhen me ekuacion me një veprim. Për shembull: 'Sa kosten librat nëse...' Shkruani problemin, ekuacionin dhe zgjidhjen e plotë.\n\n**SHTESË (fakultative):** Hulumtoni dhe zgjidhni ekuacionet që përmbajnë thyesa të thjeshta si: x/3 = 8 ose 2x/5 = 6. Përpiquni të gjeni rregullin e përgjithshëm.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Algjebra",
+      "page_or_row": "63"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

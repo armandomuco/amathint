@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_130",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 130,
+  "tema": "Formulari i grumbullimit të të dhënave",
+  "tematika": "Statistika",
+  "month": "Maj",
+  "trimester": 3,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës së 7-të duhet të organizojnë një hulumtim për të mbledhur të dhëna rreth sporteve të preferuara të nxënësve në shkollën e tyre në Tiranë. Për këtë qëllim, ata duhet të krijojnë një formular të strukturuar që do të përdoret për të mbledhur informacione nga 200 nxënës të shkollës. Formulari duhet të jetë i organizuar dhe efikas për të lehtësuar analizën e mëvonshme të të dhënave.",
+  "rezultatet": [
+    "Nxënësi/ja identifikon elementet kryesore të një formulari të grumbullimit të të dhënave",
+    "Nxënësi/ja krijon një formular të strukturuar me pyetje të qarta dhe të precizuara",
+    "Nxënësi/ja përdor lloje të ndryshme pyetjesh (të hapura, të mbyllura, me zgjedhje të shumëfishta)",
+    "Nxënësi/ja organizon të dhënat e mbledhura në tabela dhe grafikë",
+    "Nxënësi/ja argumenton përse një formular është i mirëorganizuar dhe efikas",
+    "Nxënësi/ja demonstron mënyrën e plotësimit korrekt të formularit"
+  ],
+  "fjalet_kyce": [
+    "formular (questionnaire)",
+    "pyetje të mbyllura (closed questions)",
+    "pyetje të hapura (open questions)",
+    "shkallë vlerësimi (rating scale)",
+    "mostra (sample)",
+    "populacion (population)",
+    "të dhëna primare (primary data)",
+    "tabelë frekuence (frequency table)"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 8 'Statistika', faqe 156-162",
+    "Fletë pune e përgatitur me 3 modele formularësh",
+    "Kartela me shembuj pyetjesh të ndryshme",
+    "Laptop/tablet për krijimin e formularëve dixhitalë",
+    "Clipboard dhe stilolaps për punë praktike",
+    "Postera të mëdha për demonstrim në klasë"
+  ],
+  "lidhja": "Lidhje me teknologji për krijimin e formularëve dixhitalë në Microsoft Forms ose Google Forms. Lidhje me Edukatën Qytetare për kuptimin e rëndësisë së mendimit kritik dhe grumbullimit të informacionit të saktë. Lidhje me Gjuhën Shqipe për formulimin e pyetjeve të qarta dhe gramatikisht korrekte. Lidhje me jetën e përditshme në Shqipëri përmes shembujve konkretë si hulumtime për preferencat e konsumatorëve në tregjet lokale, anketat e kënaqësisë në restorante, ose grumbullimi i të dhënave për transportin publik në Tiranë.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nKjo orë synon që nxënësit të kuptojnë strukturën dhe rëndësinë e formularëve për grumbullimin e të dhënave, të mësojnë të krijojnë formulare efektive dhe të praktikojnë përdorimin e tyre në situata konkrete.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\nMësuesi fillon orën duke treguar një skenar: 'Imagjinoni që drejtori i shkollës dëshiron të dijë cilat aktivitete jashtëshkollore preferon më shumë nxënësit. Si mund t'i mbledhim këto informacione nga 300 nxënës në mënyrë të organizuar?' Trego disa shembuj formularësh që nxënësit i kanë takuar (formulari i regjistrimit për gara sportive, anketa për ushqimin në mensë). Pyetje orientuese: 'Çfarë përmban një formular i mirë? A keni plotësuar ndonjëherë një formular? Cilat ishin vështirësitë?' Lidhja me orën e kaluar: kujtoj konceptin e të dhënave dhe mënyrat e mbledhjes së tyre.\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\nShpjegim i konceptit me 3 shembuj konkretë:\n\n**Shembull 1 - Formulari i preferencave muzikore:**\nKrijoni një formular me 5 pyetje:\n1. Mosha: ☐ 12 vjeç ☐ 13 vjeç ☐ 14+ vjeç\n2. Gjinia: ☐ Mashkull ☐ Femër\n3. Zhanri i preferuar: ☐ Pop ☐ Hip-hop ☐ Folk ☐ Rock ☐ Tjetër\n4. Sa orë dëgjoj muzikë në ditë: ☐ 0-1 orë ☐ 2-3 orë ☐ 4+ orë\n5. Cilat janë 3 këngëtarët e tu të preferuar? ________________\n\n**Shembull 2 - Formulari për transportin në shkollë:**\n1. Si vini në shkollë? ☐ Në këmbë ☐ Me autobus ☐ Me makinë ☐ Me biçikletë\n2. Sa kohë ju merr rruga? ☐ 0-15 min ☐ 15-30 min ☐ 30+ min\n3. Jeni të kënaqur me transportin? ☐ Shumë ☐ Mesatarisht ☐ Pak ☐ Aspak\n4. Çfarë do të përmirësonit? ________________________\n\n**Shembull 3 - Formulari i ushqimit të shëndetshëm:**\n1. Sa fruta konsumoni në ditë? ☐ 0 ☐ 1-2 ☐ 3-4 ☐ 5+\n2. Sa herë hani fast-food në javë? ☐ 0 ☐ 1-2 ☐ 3-4 ☐ 5+\n3. Pini ujë të mjaftueshëm? ☐ Po ☐ Jo ☐ Ndonjëherë\n4. Cilat janë ushqimet tuaja të preferuara? _______________\n\nPunë në grupe (12 minuta): Ndajeni klasën në 4 grupe. Çdo grup merr një temë (sportet, hobiet, teknologjia, mjedisi) dhe krijon një formular me 6 pyetje. Instruksione specifike: 3 pyetje të mbyllura, 2 me zgjedhje të shumëfishta, 1 pyetje e hapur. Çdo grup prezanton formularin e tij dhe grupi tjetër jep sugjerime për përmirësim.\n\n**PRAKTIKA** (8-10 minuta)\nTre nivele ushtrimesh:\n\na) **Niveli bazë:**\n- Identifikoni 3 gabime në formularin e dhënë\n- Plotësoni një formular të thjeshtë për preferencat e ngjyrave\n- Renditni 5 elementet kryesorë të një formulari të mirë\n\nb) **Niveli mesatar:**\n- Krijoni një formular 4-pyetjesh për preferencat e filmave\n- Analizoni një formular të dhënë dhe sugjeroni 3 përmirësime\n\nc) **Niveli i avancuar:**\n- Dizajnoni një formular komplet për hulumtim mbi përdorimin e internetit nga adoleshentët, duke përfshirë pyetje për privatësinë dhe sigurinë online\n\n**MBYLLJA/REFLEKTIMI** (3-5 minuta)\nPërmbledhje me 3 pika kryesore:\n1. Formulari duhet të ketë qëllim të qartë\n2. Pyetjet duhet të jenë të kuptueshme dhe jo të njëanshme\n3. Duhet të kombinojmë pyetje të mbyllura dhe të hapura\n\nQuiz verbal: 'Cili lloj pyetjeje është më i mirë për të matur kënaqësinë - e hapur apo e mbyllur? Pse?' Parashikim i orës së ardhshme: 'Orën tjetër do të mësojmë si të organizojmë të dhënat e mbledhura në tabela frekuence dhe të krijojmë grafikë nga to.'",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**DETYRË BAZË:**\n1. Plotësoni ushtrimet 1-4 në faqen 159 të librit (krijimi i pyetjeve të mbyllura)\n2. Hartoni një formular 5-pyetjesh për preferencat e librave të nxënësve\n3. Identifikoni 3 dobësi në formularin e dhënë si shembull në libër\n4. Shkruani 3 rregulla për krijimin e pyetjeve të mira\n\n**DETYRË KRIJUESE:**\nKrijoni një hulumtim të plotë për temën 'Përdorimi i telefonave celularë nga bashkëmoshatarët'. Hartoni një formular me minimum 8 pyetje (4 të mbyllura, 2 me shkallë vlerësimi 1-5, 2 të hapura). Intervistoni 5 persona dhe paraqitni rezultatet në një tabelë të organizuar.\n\n**DETYRË SHTESË (fakultative):**\nHulumtoni online formularët që përdorin kompani të mëdha si Google, Facebook, apo McDonald's për të mbledhur feedback nga klientët. Analizoni strukturën e tyre dhe shkruani një raport 200-fjalësh mbi teknikat më efektive që ata përdorin. Krahasoni me formularin që keni krijuar ju dhe sugjeroni përmirësime.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Statistika",
+      "page_or_row": "130"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

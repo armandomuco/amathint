@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_097",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 97,
+  "tema": "Gjetja e vlerës së një shkronje",
+  "tematika": "Algjebra",
+  "month": "Mars",
+  "trimester": 2,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e shkollës 'Fan Noli' në Tiranë organizojnë një treg shkollor për të shitur libra të vjetër. Ata kanë vendosur që çmimi i çdo libri të jetë i njëjtë (le të jetë x lekë), por nuk e dinë ende sa do të jetë. Nëse Ana shet 5 libra dhe merr 1000 lekë, Mira shet 3 libra dhe merr 600 lekë, ndërsa Andi shet 7 libra dhe merr 1400 lekë, nxënësit duhet të gjejnë vlerën e x-it për të përcaktuar çmimin e saktë të çdo libri.",
+  "rezultatet": [
+    "Nxënësi/ja përkufizon çfarë është një shprehje algjebrike dhe identifikon shkronjën e panjohur",
+    "Nxënësi/ja zgjidh ekuacione të thjeshta lineare me një të panjohur duke përdorur veprimet e kundërta",
+    "Nxënësi/ja llogarit vlerën e shkronjës në ekuacione të tipit ax = b dhe x + a = b",
+    "Nxënësi/ja verifikojnë saktësinë e zgjidhjes duke zëvendësuar vlerën e gjetur në ekuacionin origjinal",
+    "Nxënësi/ja argumenton pse një vlerë e caktuar është zgjidhja e saktë e ekuacionit",
+    "Nxënësi/ja formulon ekuacione të thjeshta nga situata të jetës së përditshme"
+  ],
+  "fjalet_kyce": [
+    "variabël (variable)",
+    "ekuacion linear",
+    "shkronja e panjohur",
+    "veprime të kundërta",
+    "zëvendësim",
+    "verifikim i zgjidhjes",
+    "shprehje algjebrike",
+    "balancim i ekuacionit"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' nga Albas - Kapitulli 4: Algjebra, faqe 78-85",
+    "Tabelë e bardhë dhe markera me ngjyra",
+    "Fletë pune e përgatitur me 15 ekuacione të niveleve të ndryshme",
+    "Kalkulatore për verifikim",
+    "Kartela me shkronja dhe numra për aktivitete në grupe",
+    "Peshore didaktike për demonstrimin e balancimit të ekuacioneve"
+  ],
+  "lidhja": "Lidhje me shkencat natyrore në llogaritjen e shpejtësisë (v = s/t), me Gjeografinë në llogaritjen e shkallës së hartave dhe distancave reale, me Ekonominë në problemet e çmimeve dhe fitimit, si dhe me jetën e përditshme në blerje-shitje, planifikimin e buxhetit familjar dhe llogaritjen e kohës së nevojshme për udhëtime mes qyteteve shqiptare.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\n\nQëllimi i kësaj ore është që nxënësit të kuptojnë konceptin e shkronjës së panjohur në algjebër dhe të mësojnë metodat bazike për gjetjen e vlerës së saj përmes zgjidhjes së ekuacioneve të thjeshta lineare.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\n\nMësuesi fillon orën me një lojë të thjeshtë: 'Cila është shifra e fshehur?' - tregon në tabelë: 5 + ? = 12. Pyet nxënësit çfarë numri duhet vendosur në vend të pikëpyetjes. Pastaj shkruan të njëjtën gjë duke përdorur shkronjën x: 5 + x = 12. Shpjegon se kjo është mënyra se si matematikanët shkruajnë numrat e panjohur. Lidh me orën e kaluar për veprimet me numrat e plotë dhe pyet: 'A mbani mend si llogaritnim distancën nga Tirana në Shkodër? Sot do të mësojmë si të gjejmë madhësi të panjohura në probleme të ngjashme.'\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\n\nMësuesi prezanton konceptin e shkronjës së panjohur dhe shpjegon se x, y, z janë shkronja që përdoren për të treguar numra që nuk i dimë ende. Demonstron tre shembuj konkretë:\n\nShembull 1: x + 7 = 15\nHapi 1: Shkruajmë ekuacionin: x + 7 = 15\nHapi 2: Për të gjetur x-in, zbresim 7 nga të dy anët: x + 7 - 7 = 15 - 7\nHapi 3: Thjeshtojmë: x = 8\nHapi 4: Verifikojmë: 8 + 7 = 15 ✓\n\nShembull 2: 3x = 21\nHapi 1: Shkruajmë ekuacionin: 3x = 21\nHapi 2: Për të gjetur x-in, pjesëtojmë të dy anët me 3: 3x ÷ 3 = 21 ÷ 3\nHapi 3: Thjeshtojmë: x = 7\nHapi 4: Verifikojmë: 3 × 7 = 21 ✓\n\nShembull 3: x - 4 = 9\nHapi 1: Shkruajmë ekuacionin: x - 4 = 9\nHapi 2: Për të gjetur x-in, shtojmë 4 në të dy anët: x - 4 + 4 = 9 + 4\nHapi 3: Thjeshtojmë: x = 13\nHapi 4: Verifikojmë: 13 - 4 = 9 ✓\n\nPastaj nxënësit ndahen në grupe prej 4 vetësh. Çdo grup merr 3 kartela me ekuacione të ndryshme dhe duhet t'i zgjidhin duke ndjekur hapat e mësuar. Një përfaqësues i secilit grup del në tabelë të shpjegojë zgjidhjen. Mësuesi korrigjon dhe jep sqarime shtesë sipas nevojës.\n\n**PRAKTIKA** (8-10 minuta)\n\nTre nivele ushtrimesh:\n\na) Niveli bazë (për të gjithë): \n- Zgjidhni: x + 5 = 12\n- Zgjidhni: 2x = 18\n- Zgjidhni: x - 3 = 7\n\nb) Niveli mesatar:\n- Zgjidhni: 4x + 1 = 17\n- Nëse Ana ka x lekë dhe bleu një stilolaps për 50 lekë, ajo ka mbetur me 200 lekë. Sa lekë kishte fillimisht?\n\nc) Niveli i avancuar:\n- Brenda një kutie ka x top. Nëse shtojmë 5 topa të tjerë dhe pastaj marrim 3 topa, mbeten 15 topa. Sa topa kishte fillimisht kutia?\n\n**MBYLLJA** (3-5 minuta)\n\nMësuesi përmbledh tre pikat kryesore: (1) Shkronja x tregon një numër të panjohur, (2) Për ta gjetur atë përdorim veprimet e kundërta, (3) Gjithmonë verifikojmë zgjidhjen. Bën një quiz të shkurtër verbal: 'Në ekuacionin x + 6 = 10, sa është x?' Njofton se në orën e ardhshme do të mësojnë ekuacione më të vështira me dy veprime.",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**DETYRË BAZË:**\nZgjidhni ekuacionet dhe verifikoni zgjidhjen:\n1. x + 8 = 15\n2. x - 6 = 4  \n3. 4x = 28\n4. x + 12 = 20\n\n**DETYRË KRIJUESE:**\nKrijoni një problem real për familjen tuaj ku duhet të gjeni një madhësi të panjohur. Shkruajeni si ekuacion dhe zgjidheni. Shembull: 'Babai im bleu x kg mollë. Pasi hëngrëm 2 kg, na mbetën 5 kg. Sa kg mollë bleu babai?'\n\n**DETYRË SHTESË (fakultative):**\nHulumtoni në internet për matematikanin Al-Khwarizmi dhe shkruani 5 rreshta për kontributin e tij në algjebër. Zgjidhni këto ekuacione më sfiduese: 2x + 3 = 11 dhe 3x - 5 = 16.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Algjebra",
+      "page_or_row": "97"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_060",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 60,
+  "tema": "Përsëritje për tremujorin e parë",
+  "tematika": "Përsëritje",
+  "month": "Janar",
+  "trimester": 2,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës së 7-të në shkollën 'Naim Frashëri' në Tiranë janë duke përgatitur një ekspozitë shkollore për Ditën e Pavarësisë. Ata duhet të llogaritin sipërfaqen e sallës për të përcaktuar sa postera mund të vendosin, të gjejnë përqindjen e nxënësve që marrin pjesë në aktivitet dhe të përdorin ekuacione për të llogaritur kostot e materialeve decorative. Kjo situatë kërkon përdorimin e të gjitha koncepteve të mësuara në tremujorin e parë.",
+  "rezultatet": [
+    "Nxënësi/ja llogarit saktësisht shumën dhe ndryshesën e numrave të plotë pozitivë dhe negativë",
+    "Nxënësi/ja gjën vlerat e thyesave dhe numrave dhjetorë në shprehje të thjeshta matematikore",
+    "Nxënësi/ja zgjidh ekuacione të shkallës së parë me një të panjohur",
+    "Nxënësi/ja llogarit përqindjen dhe zgjidh probleme praktike me përqindje",
+    "Nxënësi/ja përcakton sipërfaqen dhe perimetrin e figurave gjeometrike të thjeshta",
+    "Nxënësi/ja demonstron lidhjen midis koncepteve të ndryshme matematikore në situata reale"
+  ],
+  "fjalet_kyce": [
+    "numra të plotë (integer numbers)",
+    "thyesa (fractions)",
+    "numra dhjetorë (decimal numbers)",
+    "ekuacione (equations)",
+    "përqindje (%)",
+    "sipërfaqe (m²)",
+    "perimetër (perimeter)",
+    "variabla (x, y)"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 1-4, faqe 8-85",
+    "Kalkulatore shkencore për llogaritje të shpejta",
+    "Fletë pune e përgatitur me 15 probleme përsëritëse",
+    "Vizore, busull dhe transportues për gjeometri",
+    "Tabela me formula kryesore të tremujorit",
+    "Kartela me shembuj nga jeta e përditshme në Shqipëri"
+  ],
+  "lidhja": "Matematika lidhet ngushtësisht me shkencat natyrore në llogaritjen e masave dhe distancave, me Gjeografinë në leximin e hartave dhe llogaritin e shkallëve, me Artet në krijimin e modeleve gjeometrike për postera, dhe me Gjuhën Shqipe në përkthimin e problemave fjalë në shprehje matematikore. Në jetën e përditshme, konceptet përdoren në tregun e Pazarit të Ri për llogaritin e çmimeve, në planifikimin e udhëtimeve Tiranë-Durrës dhe në administrimin e buxhetit familjar.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nKjo orë synon që nxënësit të konsolidojnë të gjitha njohuritë e fituara në tremujorin e parë përmes zgjidhjes së problemave të integruara që kombinojnë numrat e plotë, thyesat, numrat dhjetorë, ekuacionet, përqindjet dhe gjeometrinë.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\nMësuesi nis me një lojë motivuese: 'Tregu i Pazarit të Ri'. Vendos në tabelë çmimet e disa produkteve:\n- Mollë: 120 lekë/kg\n- Portokall: 150 lekë/kg  \n- Banane: 180 lekë/kg\nPyet: 'Nëse Ana ka 500 lekë dhe dëshiron të blejë 2 kg mollë dhe 1 kg portokall, a i mjaftojnë paratë? Sa para i mbeten?' Nxënësit diskutojnë në çifte. Më pas lidh me mësimin: 'Sot do të përsërisim të gjitha llojet e llogaritjeve që na duhen për të zgjidhur probleme të tilla komplekse.'\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\n**Shpjegimi me tre shembuj të zgjidhur:**\n\n**Shembulli 1 - Numra të plotë dhe thyesa:**\nProblema: Temperatura në Tiranë në mëngjes ishte -3°C, në drekë u rrit me 8°C, dhe në mbrëmje ra me 2.5°C. Gjeni temperaturën finale.\nZgjidhja: -3 + 8 - 2.5 = 5 - 2.5 = 2.5°C\n\n**Shembulli 2 - Ekuacione dhe përqindje:**\nProblema: Në një shkollë me 600 nxënës, 40% janë meshkuj. Sa vajza ka më shumë se meshkuj?\nZgjidhja: \nMeshkuj = 40% × 600 = 0.4 × 600 = 240\nVajza = 600 - 240 = 360\nDallimi = 360 - 240 = 120 vajza më shumë\n\n**Shembulli 3 - Gjeometri dhe llogaritje:**\nProblema: Një dhomë ka formë drejtkëndëshi me gjatësi 6m dhe gjerësi 4m. Duam të vendosim pllaka 30cm × 30cm. Sa pllaka na duhen?\nZgjidhja:\nSipërfaqja e dhomës = 6 × 4 = 24 m²\nSipërfaqja e një pllakë = 0.3 × 0.3 = 0.09 m²\nNumri i pllakave = 24 ÷ 0.09 = 267 pllaka (rrumbullakosur lart)\n\n**Puna në grupe (10 minuta):**\nFormoj 4 grupe, secila merr një situatë të ndryshme:\n- Grupi 1: Organizimi i një feste (llogaritje kostoje)\n- Grupi 2: Planifikimi i një udhëtimi (distanca, koha, kostot)\n- Grupi 3: Dizajnimi i një kopshti (sipërfaqe, perimetër)\n- Grupi 4: Administrimi i një dyqani (fitim, humbje, përqindje)\n\n**PRAKTIKA** (8-10 minuta)\n**a) Niveli bazë:**\n1. Llogaritni: (-5) + (+8) - (-3) =\n2. Gjeni 25% të 240\n3. Zgjidhni: 2x + 5 = 13\n\n**b) Niveli mesatar:**\n1. Një drejtkëndësh ka perimetër 24cm dhe gjerësi 5cm. Gjeni sipërfaqen.\n2. Çmimi i një produkti u rrit nga 800 lekë në 920 lekë. Sa përqind u rrit çmimi?\n\n**c) Niveli i avancuar:**\nNë një shkollë, numri i nxënësve të klasës 7A është 3/5 i numrit të nxënësve të klasës 7B. Nëse në 7A ka 24 nxënës, dhe gjithsej në të dyja klasat ka 64 nxënës, a është e saktë kjo informacion?\n\n**MBYLLJA** (3-5 minuta)\nPërmbledhja e tre pikave kryesore:\n1. Numrat negativë dhe pozitivë kombinohen sipas rregullave të njohura\n2. Përqindjet janë thyesa me emërues 100 dhe përdoren gjerësisht në jetë\n3. Gjeometria na ndihmon të llogarisim hapësirat reale\nQuiz verbal: 'Tregoni një shembull nga jeta juaj ku përdorni përqindjet!' \nParashikim: 'Javën tjetër fillojmë me putat dhe rrënjët.'",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**BAZË:** Zgjidhni ushtrimet 1-8 nga faqja 85 (llogaritje të thjeshta me numra të plotë, thyesa dhe përqindje). Llogaritni perimetrin dhe sipërfaqen e dhomës suaj. Përcaktoni 20% të moshës suaj.\n\n**KRIJUESE:** Krijoni një projekt 'Buxheti im javor' ku do të listoni të gjitha shpenzimet e javës (transport, ushqim, argëtim) dhe do t'i shprehni si përqindje të totalit. Përdorni ngjyra të ndryshme për kategori të ndryshme shpenzimesh.\n\n**SHTESË (fakultative):** Hulumtoni çmimet e apartamenteve në Tiranë (për m²) dhe llogaritni koston totale për një apartament 80m². Krahasoni me një qytet tjetër shqiptar. Shkruani një raport 1 faqe me grafikë të thjeshtë.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Përsëritje",
+      "page_or_row": "60"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

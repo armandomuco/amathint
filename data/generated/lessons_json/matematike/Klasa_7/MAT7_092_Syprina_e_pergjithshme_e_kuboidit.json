@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_092",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 92,
+  "tema": "Syprina e përgjithshme e kuboidit",
+  "tematika": "Matja",
+  "month": "Mars",
+  "trimester": 2,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klases 7 në shkollën 'Dëshmorët e Kombit' në Tiranë duhet të llogaritin sa lekë do të kushtojë bojatisja e dhomës së tyre të klasës. Dhoma ka formën e një kuboidi me gjatësi 8m, gjerësi 6m dhe lartësi 3m. Dyqani 'Materiale Ndërtimi Tirana' në Kombinat shet bojë që mbulon 10m² me çmimin 800 lekë për litër.",
+  "rezultatet": [
+    "Nxënësi/ja identifikon elementet e kuboidit: gjatësinë, gjerësinë dhe lartësinë",
+    "Nxënësi/ja llogarit saktësisht syprinën e çdo faqeje të kuboidit duke përdorur formulën S = gjatësi × gjerësi",
+    "Nxënësi/ja demonstron formulën e syprinës së përgjithshme: S = 2(ab + bc + ac)",
+    "Nxënësi/ja zgjidh problemat praktike të lidhura me kuboidin në kontekstin shqiptar",
+    "Nxënësi/ja argumenton pse kuboidi ka 6 faqe dhe arsyeton llogaritjen e syprinës totale",
+    "Nxënësi/ja përdor njësitë matëse shqiptare (m², cm², dm²) në llogaritjet e syprinës"
+  ],
+  "fjalet_kyce": [
+    "kuboid (cuboid)",
+    "syprina e përgjithshme",
+    "formula S = 2(ab + bc + ac)",
+    "faqet e kuboidit",
+    "gjatësia (a), gjerësia (b), lartësia (c)",
+    "njësia matëse m²",
+    "paralelipip drejtkëndësh",
+    "dimensionet e kuboidit"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 5: Gjeometria në hapësirë, faqe 78-83",
+    "Vizore 30cm, laps, goma, busull për vizatim",
+    "Fletë pune e përgatitur me 8 problemat e kuboidit",
+    "Materiale konkrete: kuti të ndryshme (sapuni, libra, çantash) për matje",
+    "Kalkulatore për llogaritjet komplekse",
+    "Poster i madh me formulën e syprinës së kuboidit"
+  ],
+  "lidhja": "Lidhje me Artet Vizuale në projektimin e dhomave dhe dekorimit, me Gjeografinë në llogaritjen e sipërfaqeve të tokës bujqësore në Shqipëri, me shkencat natyrore për konceptin e vëllimit dhe densitetit, dhe me jetën praktike në llogaritjen e kostove të bojatisjes dhe tapetimit të dhomave të shtëpisë.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nKjo orë synon që nxënësit të kuptojnë konceptin e syprinës së përgjithshme të kuboidit, të zotërojnë formulën përkatëse dhe të zgjidhin probleme praktike të lidhura me jetën e përditshme në Shqipëri.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\nMësuesja sillet në klasë me tre kuti të ndryshme: një kuti sapuni 'Palmolive', një kuti libri dhe një çantë shkollore. Pyet: 'Çfarë kemi të përbashkët midis këtyre objekteve?' Pas diskutimit, tregon se të gjitha kanë formën e kuboidit. Organizon lojën 'Gjej kuboide në klasë' - nxënësit identifikojnë 10 objekte kuboide (tavolina, librat, dritaret). Pyet: 'Nëse duam të mbështjellim këto objekte me letër dhurate, sa letër na duhet?' Kjo pyetje orienton drejt konceptit të syprinës së përgjithshme. Lidh me orën e kaluar duke kujtuar llogaritjen e syprinës së drejtkëndëshit.\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\nMësuesja shpjegon se kuboidi ka 6 faqe - 3 çifte faqesh të barabarta. Demonstron me një kuti të hapur duke numëruar faqet. Në tabelë vizaton një kuboid me dimensione dhe shënon: a = gjatësia, b = gjerësia, c = lartësia.\n\n**Shembulli 1:** Kuboid me a = 5cm, b = 3cm, c = 2cm\n- Faqja e përparme dhe e prapme: S₁ = a × c = 5 × 2 = 10cm² (2 faqe = 20cm²)\n- Faqja e majtë dhe e djathtë: S₂ = b × c = 3 × 2 = 6cm² (2 faqe = 12cm²)\n- Faqja e sipërme dhe e poshtme: S₃ = a × b = 5 × 3 = 15cm² (2 faqe = 30cm²)\n- Syprina e përgjithshme: S = 20 + 12 + 30 = 62cm²\n\n**Shembulli 2:** Dhoma e klasës: a = 8m, b = 6m, c = 3m\n- S₁ = 2(8 × 3) = 48m²\n- S₂ = 2(6 × 3) = 36m²  \n- S₃ = 2(8 × 6) = 96m²\n- S = 48 + 36 + 96 = 180m²\n\n**Shembulli 3:** Kuti televizori: a = 120cm, b = 80cm, c = 15cm\n- Duke përdorur formulën: S = 2(ab + bc + ac) = 2(120×80 + 80×15 + 15×120) = 2(9600 + 1200 + 1800) = 2(12600) = 25200cm² = 2.52m²\n\nNxënësit punojnë në grupe prej 4 vetash. Çdo grup merr një objekt konkret, e mat dhe llogarit syprinën e tij. Grupi 1: kuti libri, Grupi 2: çantë shkollore, Grupi 3: kuti lapsi, etj. Çdo grup prezanton llogaritjet e tyre.\n\n**PRAKTIKA** (8-10 minuta)\n**a) Niveli bazë:**\n1. Kuboid me a=4cm, b=3cm, c=2cm. Gjeni syprinën.\n2. Kuboid me a=6m, b=4m, c=5m. Gjeni syprinën.\n3. Sa m² është syprina e një dhome me dimensione 5m×4m×2.5m?\n\n**b) Niveli mesatar:**\n1. Një rezervuar uji ka formë kuboidi me gjatësi 3m, gjerësi 2m dhe lartësi 1.5m. Sa do të kushtojë të lyhet nëse 1m² kushton 500 lekë?\n2. Dëshirojmë të vendosim pllaka në muret e një dhome 4m×3m×2.8m. Nëse dritarja është 1.5m×1.2m dhe dera 2m×0.9m, sa m² pllaka na duhen?\n\n**c) Niveli i avancuar:**\nNjë kompani prodhon kuti për eksport me dimensione të brendshme a×b×c dhe trashësi materiali 2cm. Nëse dimensionet e brendshme janë 40cm×30cm×25cm, llogaritni syprinën e jashtme të kutisë.\n\n**MBYLLJA** (3-5 minuta)\nPërmbledh tre pikat kryesore: 1) Kuboidi ka 6 faqe - 3 çifte të barabarta, 2) Formula është S = 2(ab + bc + ac), 3) Përdoret në shumë situata praktike si bojatisja dhe tapetimi. Bën quiz verbal: 'Sa faqe ka kuboidi? Çfarë llogaritim për çdo faqe? Si e gjejmë syprinën totale?' Paralajmëron se ora e ardhshme do të mësojë vëllimin e kuboidit - 'Sa ujë nxë rezervuari i shkollës?'",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**1. DETYRË BAZË:**\nZgjidhni ushtrimet 1-6 nga libri, faqe 82:\n- Llogaritni syprinën e kuboideve me dimensione: 7×4×3cm, 10×8×6m, 15×12×5dm, 2.5×1.8×1.2m\n\n**2. DETYRË KRIJUESE:**\nMasani një dhomë në shtëpinë tuaj (dhoma e gjumit ose salloni). Vizatoni skicën me dimensionet e matura dhe llogaritni sa do të kushtojë bojatisja e mureve (pa dyert dhe dritaret). Hulumtoni çmimet e bojës në tre dyqane të ndryshme në lagjen tuaj dhe krahasoni kostot.\n\n**3. DETYRË SHTESË (fakultative):**\nHulumtoni dhe llogaritni syprinën e përgjithshme të 5 objekteve kuboide në shkollën tonë: klasa, biblioteka, mensa, gimnastika dhe laboratori. Krijoni një tabelë krahasuese dhe përcaktoni cila hapësirë ka syprinën më të madhe për t'u bojatur.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Matja",
+      "page_or_row": "92"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

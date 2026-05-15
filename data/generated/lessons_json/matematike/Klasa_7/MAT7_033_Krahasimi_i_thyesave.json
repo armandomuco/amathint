@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_033",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 33,
+  "tema": "Krahasimi i thyesave",
+  "tematika": "Numri",
+  "month": "Nëntor",
+  "trimester": 1,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës së 7të të shkollës 'Faik Konica' në Tiranë organizojnë një ekspozitë ushqimore për Ditën e Pavarësisë. Ata duhet të krahasojnë sasitë e produkteve që kanë sjellë nga shtëpia: Ana ka sjellë 3/4 kg mjaltë nga Korça, Beni ka sjellë 5/8 kg djathë nga Dibra, dhe Klara ka sjellë 2/3 kg reçel nga Përmeti. Për të organizuar ekspozitën, duhet të vendosin cilët produkte janë më shumë dhe si t'i rendisin ato sipas peshës për prezantimin e tyre.",
+  "rezultatet": [
+    "Nxënësi/ja krahas thyesat me emërues të njëjtë duke përdorur numëruesit",
+    "Nxënësi/ja identifikon emëruesin e përbashkët më të vogël (EPVV) për thyesa të ndryshme",
+    "Nxënësi/ja kthen thyesat në forma ekuivalente me emërues të njëjtë",
+    "Nxënësi/ja rendit thyesat në rend rritës ose zbritës",
+    "Nxënësi/ja zgjidh probleme praktike duke krahasuar thyesa",
+    "Nxënësi/ja argumenton rezultatin e krahasimit duke përdorur simbolet <, > dhe ="
+  ],
+  "fjalet_kyce": [
+    "thyesë (fraction)",
+    "numërues (numerator)",
+    "emërues (denominator)",
+    "EPVV - Emëruesi i Përbashkët më i Vogël",
+    "thyesa ekuivalente",
+    "krahasim (<, >, =)",
+    "renditje (rend rritës/zbritës)",
+    "formë e thjeshtuar"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 2, faqe 38-44",
+    "Fletë pune e përgatitur me 12 ushtrime krahasimi",
+    "Kartela me thyesa të shkruara për lojën e renditjes",
+    "Vizore dhe laps për vizatimet në vijë numerike",
+    "Kalkulatore për llogaritjet e EPVV-së",
+    "Postera me shembuj thyesash nga jeta e përditshme"
+  ],
+  "lidhja": "Lënda e Arteve: krijimi i diagrameve me thyesa për prezantim vizual. Gjeografia: llogaritja e shkallës së hartës (1:25000 = 1/25000). Fizika: matja e densitetit (masa/vëllimi). Ekonomia familjare: krahasimi i çmimeve në treg (1/2 kg vs 3/4 kg produkt). Sporti: llogaritja e përqindjes së golave të shënuara (8/12 vs 5/9).",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nKjo orë synon që nxënësit të mësojnë të krahasojnë thyesat duke gjetur emëruesin e përbashkët dhe të zgjidhin probleme praktike nga jeta e përditshme. Nxënësit do të fitojnë aftësinë për të renditur thyesat dhe për të argumentuar rezultatet e tyre.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\nMësuesja fillon me një lojë: \"Cili nga ju ha më shumë pica?\". Në tabelë vizaton 3 pica të ndara në pjesë të ndryshme: Ardi ha 2/3, Besa ha 3/4, Ceni ha 5/8. Pyet: \"Cili ha më shumë? Si mund ta gjejmë?\" Nxënësit diskutojnë në çifte dhe japin mendime. Mësuesja lidh me orën e kaluar: \"Kemi mësuar të shumëzojmë thyesat. Sot do mësojmë t'i krahasojmë ato.\"\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\n**Koncepti kryesor:** Për të krahasuar thyesa, duhet t'i kthejmë në forma ekuivalente me emërues të njëjtë.\n\n**Shembulli 1:** Krahasojmë 3/4 dhe 5/6\n- Gjejmë EPVV për 4 dhe 6: shumëfishat e 4: 4, 8, 12, 16...; shumëfishat e 6: 6, 12, 18... → EPVV = 12\n- Kthejmë: 3/4 = (3×3)/(4×3) = 9/12; 5/6 = (5×2)/(6×2) = 10/12\n- Krahasojmë: 9/12 < 10/12, prandaj 3/4 < 5/6\n\n**Shembulli 2:** Krahasojmë 7/10 dhe 2/5\n- EPVV për 10 dhe 5: 10 (sepse 10 pjesëtohet me 5)\n- Kthejmë: 7/10 mbetet 7/10; 2/5 = (2×2)/(5×2) = 4/10\n- Krahasojmë: 7/10 > 4/10, prandaj 7/10 > 2/5\n\n**Shembulli 3:** Renditim thyesash: 1/3, 5/12, 1/4\n- EPVV për 3, 12, 4: 12\n- Kthejmë: 1/3 = 4/12; 5/12 = 5/12; 1/4 = 3/12\n- Rendis: 3/12 < 4/12 < 5/12, prandaj 1/4 < 1/3 < 5/12\n\n**Puna në grupe** (8 minuta): Çdo grup merr 4 thyesa dhe duhet t'i rendisin nga më e vogla te më e madhja. Grupi 1: 2/3, 3/5, 7/10, 4/6; Grupi 2: 1/2, 3/8, 2/3, 5/12; etj. Çdo grup prezanton zgjidhjen në tabelë.\n\n**PRAKTIKA/USHTRIME** (8-10 minuta)\n**a) Niveli bazë:**\n1. Krahasoni: 2/5 dhe 3/7\n2. Krahasoni: 4/9 dhe 1/3\n3. Cila është më e madhe: 5/8 apo 7/12?\n\n**b) Niveli mesatar:**\n1. Rendisni nga më e vogla: 2/3, 5/9, 1/2\n2. Plotësoni me <, > ose =: 8/15 ___ 4/9\n\n**c) Niveli i avancuar:**\n1. **Problemë sfiduese:** Tre shoqe kanë ndarë një tortë: Ami mori 2/7, Bora mori 3/8, Dita mori 5/14. Cila mori pjesën më të madhe dhe sa më shumë mori ajo krahasuar me atë që mori më pak?\n\n**MBYLLJA/REFLEKTIMI** (3-5 minuta)\n**Përmbledhja:** Tre hapat për krahasimin e thyesave: 1) Gjejmë EPVV-në; 2) Kthejmë thyesat në forma ekuivalente; 3) Krahasojmë numëruesit.\n**Quiz verbal:** \"Si krahasojmë 3/5 dhe 4/7?\" - 3 nxënës përgjigjen me hapa.\n**Parashikimi:** \"Orën e ardhshme do mësojmë të mbledhim thyesa me emërues të ndryshëm - do përdorim të njëjtat aftësi!\"",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**1. BAZË (të gjithë nxënësit):**\n- Ushtrimet 1-6, faqe 42: Krahasoni thyesat dhe plotësoni me <, > ose =\n- Ushtrimet 7-9, faqe 43: Rendisni thyesat në rend rritës\n- Problem praktik: Mama ka blerë 3/4 kg mollë dhe 2/3 kg banane. Cili produkt ka blerë më shumë?\n\n**2. KRIJUESE:**\nKrijoni një poster me titull \"Thyesat në jetën time\" duke përdorur 8 thyesa nga aktivitete të përditshme (sport, ushqim, koha). Rendisni ato dhe krahasoni të paktën 4 çifte. Përdorni vizatime ose figura për ta bërë më tërheqës.\n\n**3. SHTESË (fakultative - për nxënës të avancuar):**\nHulumtoni dhe zgjidhni: Si mund të krahasojmë thyesa të përziera (numra të përzier) si 2¾ dhe 2⅝? Gjeni 3 shembuj dhe shpjegoni metodën tuaj. Përgjigjuni me 1 faqe të shkruar dorë.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Numri",
+      "page_or_row": "33"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "MAT7_005",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "III",
+  "lesson_number": 5,
+  "tema": "Ushtrime - Shumëfishat, faktorët, numrat e thjeshtë",
+  "tematika": "Numri",
+  "month": "Shtator",
+  "trimester": 1,
+  "duration_minutes": 45,
+  "situata": "Nxënësit aplikojnë njohuritë e fituara për shumëfishat, faktorët dhe numrat e thjeshtë në zgjidhjen e problemave të ndryshme dhe përgatiten për vlerësimin e njësisë.",
+  "rezultatet": [
+    "Nxënësi/ja zgjidh ushtrime të kombinuara që përfshijnë shumëfishat dhe faktorët",
+    "Nxënësi/ja përdor numrat e thjeshtë për faktorizimin e numrave",
+    "Nxënësi/ja argumenton zgjidhjet matematikisht",
+    "Nxënësi/ja identifikon gabimet dhe i korrigjon"
+  ],
+  "fjalet_kyce": [
+    "Shumëfish",
+    "Faktor",
+    "Numër i thjeshtë",
+    "SHVP",
+    "FMP",
+    "Faktorizim"
+  ],
+  "burimet": [
+    "Libri i matematikës klasa 7, fq. 29-32",
+    "Fletë pune me ushtrime",
+    "Tabela e numrave të thjeshtë",
+    "Kalkulator për verifikim",
+    "Tabelë për punë në grup"
+  ],
+  "lidhja": "Aplikim në probleme të jetës reale: ndarja e barabartë, planifikimi i orareve, organizimi i ngjarjeve. Lidhje me logjikën dhe arsyetimin matematik.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "QËLLIMI: Konsolidimi i njohurive mbi shumëfishat, faktorët dhe numrat e thjeshtë përmes ushtrimeve të larmishme.\n\nHYRJA (5 min):\n• Kuiz i shpejtë (gojor):\n  - 3 shumëfishat e parë të 7? (7,14,21)\n  - Faktorët e 18? (1,2,3,6,9,18)\n  - A është 29 i thjeshtë? (Po)\n• Paraqitja e objektivave të orës.\n\nZHVILLIMI (28 min):\n• BLLOKU A - Shumëfishat (8 min):\n  1. Gjeni M(8) ∩ M(12) për numrat deri në 100.\n     Zgjidhje: M(8)={8,16,24,32,40,48,56,64,72,80,88,96}\n     M(12)={12,24,36,48,60,72,84,96}\n     Të përbashkët: {24,48,72,96}\n  2. SHVP(8,12) = 24\n\n• BLLOKU B - Faktorët (8 min):\n  1. Gjeni F(72).\n     72=1×72, 72=2×36, 72=3×24, 72=4×18, 72=6×12, 72=8×9\n     F(72)={1,2,3,4,6,8,9,12,18,24,36,72}\n  2. Gjeni FMP(48,60).\n     F(48)={1,2,3,4,6,8,12,16,24,48}\n     F(60)={1,2,3,4,5,6,10,12,15,20,30,60}\n     Të përbashkët: {1,2,3,4,6,12}, FMP=12\n\n• BLLOKU C - Numrat e thjeshtë (7 min):\n  1. Faktorizoni 84 në numra të thjeshtë.\n     84=2×42=2×2×21=2×2×3×7=2²×3×7\n  2. Verifikoni: 91 i thjeshtë? 91=7×13, JO.\n\n• Punë në grupe (5 min): Problem i kombinuar\n  Problem: Tre semaforë ndizen: i pari çdo 40 sek, i dyti çdo 60 sek, i treti çdo 90 sek. Pas sa sekondash ndizen të tre së bashku?\n  Zgjidhja: Duhet SHVP(40,60,90)\n  40=2³×5, 60=2²×3×5, 90=2×3²×5\n  SHVP=2³×3²×5=8×9×5=360 sekonda=6 minuta\n\nPRAKTIKA (9 min):\n• Punë individuale - 4 ushtrime me shkallë vështirësie.\n• Shkëmbim fletësh dhe korrigjim i ndërsjellë.\n\nMBYLLJA (3 min):\n• Çfarë ishte më e vështirë? Diskutim.\n• Përgatitje për testin e njësisë.",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "1. Gjeni SHVP dhe FMP për: a) 36,48  b) 24,40,60  c) 15,25,35\n2. Faktorizoni në numra të thjeshtë: 120, 180, 252\n3. Problem: Tre autobus nisen nga stacioni në 6:00. I pari kthehet çdo 20 min, i dyti çdo 30 min, i treti çdo 45 min. Kur do të jenë të tre përsëri në stacion?\n4. Gjeni numrin më të vogël që ka faktorë 2, 3, 5 dhe 7.\n5. Sfidë: Vërtetoni që çdo numër i përbërë ka të paktën një faktor të thjeshtë më të vogël se rrënja katrore e tij.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Numri",
+      "page_or_row": "5"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

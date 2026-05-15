@@ -1,0 +1,63 @@
+{
+  "id": "MAT7_004",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "III",
+  "lesson_number": 4,
+  "tema": "Numrat e thjeshtë",
+  "tematika": "Numri",
+  "month": "Shtator",
+  "trimester": 1,
+  "duration_minutes": 45,
+  "situata": "Nxënësit zbulojnë 'numrat e veçantë' që kanë vetëm dy faktorë: veten dhe 1. Ata përdorin Sitën e Eratostenit për të gjetur numrat e thjeshtë deri në 100.",
+  "rezultatet": [
+    "Nxënësi/ja përcakton numrin e thjeshtë si numër me saktësisht dy faktorë",
+    "Nxënësi/ja dallon numrat e thjeshtë nga numrat e përbërë",
+    "Nxënësi/ja përdor Sitën e Eratostenit për të gjetur numrat e thjeshtë",
+    "Nxënësi/ja argumenton pse 1 nuk është numër i thjeshtë"
+  ],
+  "fjalet_kyce": [
+    "Numër i thjeshtë",
+    "Numër i përbërë",
+    "Faktor",
+    "Sita e Eratostenit",
+    "Pjesëtueshmëri",
+    "Dy faktorë"
+  ],
+  "burimet": [
+    "Libri i matematikës klasa 7, fq. 23-28",
+    "Rrjetë numrash 1-100",
+    "Ngjyra/thekësa",
+    "Fletë pune me Sitën",
+    "Video për Eratostenin"
+  ],
+  "lidhja": "Lidhje me Historinë: Eratosteni i Kirenës (276-194 p.e.s.). Lidhje me teknologji: algoritmet e kriptografisë përdorin numrat e thjeshtë. Lidhje me Natyrën: ciklet e cikadave (13 ose 17 vjet).",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "QËLLIMI: Nxënësit do të mësojnë përkufizimin e numrave të thjeshtë, do të përdorin Sitën e Eratostenit, dhe do të kuptojnë rëndësinë e tyre.\n\nHYRJA (7 min):\n• Lojë 'Gjej intrusin': Nga numrat 2, 3, 5, 7, 9, 11 - cili nuk i përket grupit?\n• Diskutim: Çfarë kanë të përbashkët 2, 3, 5, 7, 11?\n• Kontrollojmë faktorët:\n  - F(2)={1,2}, F(3)={1,3}, F(5)={1,5}, F(7)={1,7}, F(11)={1,11}\n  - F(9)={1,3,9} - ka 3 faktorë!\n\nZHVILLIMI (25 min):\n• Përkufizim: Numri i thjeshtë ka SAKTËSISHT dy faktorë: 1 dhe veten.\n• Përkufizim: Numri i përbërë ka MË SHUMË se dy faktorë.\n• Pyetje: A është 1 numër i thjeshtë? JO! F(1)={1} - vetëm 1 faktor.\n• Sita e Eratostenit (aktivitet i drejtuar):\n  1. Shkruani numrat 2-100 në rrjetë\n  2. Rrethoni 2, fshini shumëfishat e 2 (4,6,8...)\n  3. Rrethoni 3, fshini shumëfishat e 3 (6,9,12...)\n  4. Rrethoni 5, fshini shumëfishat e 5\n  5. Rrethoni 7, fshini shumëfishat e 7\n  6. Numrat e mbetur janë të thjeshtë!\n• Rezultati: 25 numra të thjeshtë deri në 100:\n  2,3,5,7,11,13,17,19,23,29,31,37,41,43,47,53,59,61,67,71,73,79,83,89,97\n• Vërejtje: 2 është i vetmi numër i thjeshtë çift!\n\nPRAKTIKA (10 min):\n• Ushtrim 1: Klasifikoni: të thjeshtë apo të përbërë? 23, 27, 31, 35, 41, 49\n• Ushtrim 2: Gjeni numrat e thjeshtë midis 50 dhe 70.\n• Ushtrim 3: Pse 51 nuk është i thjeshtë? (51=3×17)\n• Sfidë: Gjeni dy numra të thjeshtë që shuma e tyre është 100.\n\nMBYLLJA (3 min):\n• 'Exit ticket': Shkruani 3 numra të thjeshtë dhe 3 të përbërë.\n• Kuriozitet: Numrat e thjeshtë përdoren për të mbrojtur fjalëkalimet në internet!",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "1. Përdorni Sitën për të gjetur numrat e thjeshtë 100-150.\n2. Shkruani 10 numrat e parë të thjeshtë dhe 10 të parët e përbërë.\n3. Verifikoni: A janë këta të thjeshtë? 91, 97, 101, 111, 113\n4. Problem: Gjeni dy numra të thjeshtë që ndryshimi i tyre është 2 (quhen 'binjakë').\n5. Hulumtim: Pse numrat e thjeshtë janë të rëndësishëm në kriptografi?",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Numri",
+      "page_or_row": "4"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "MAT7_076",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 76,
+  "tema": "Trupat gjeometrikë - Hyrje",
+  "tematika": "Gjeometria",
+  "month": "Shkurt",
+  "trimester": 2,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës së 7-të janë duke planifikuar ndërtimin e një maket të çeltës së Krujës për ekspozitën shkollore të Ditës së Pavarësisë. Ata duhet të identifikojnë dhe të llogaritsin dimensionet e formave gjeometrike tredimensionale (kub, kuboide, prizmë, cilindër) që do të përdorin për të krijuar elementët e ndryshëm të kalasë, murit mbrojtës dhe kullës kryesore.",
+  "rezultatet": [
+    "Nxënësi/ja identifikon dhe përkufizon karakteristikat kryesore të 5 trupave gjeometrikë bazë (kub, kuboide, prizmë, cilindër, sferë)",
+    "Nxënësi/ja dallon mes figurave të sheshta (2D) dhe trupave gjeometrikë (3D) duke dhënë minimumi 3 shembuj për secilën",
+    "Nxënësi/ja llogarit numrin e skajeve, brinjëve dhe faqeve të kuboidit dhe prizmës trekëndore duke përdorur formulën e Eulerit",
+    "Nxënësi/ja demonstron në praktikë mënyrën e hapjes së një trupi gjeometrik në zhvillim të sheshtë",
+    "Nxënësi/ja argumenton zgjedhjen e një trupi gjeometrik për një qëllim praktik të caktuar",
+    "Nxënësi/ja zgjidh probleme praktike duke përdorur vetitë e trupave gjeometrikë në situata të jetës reale"
+  ],
+  "fjalet_kyce": [
+    "trup gjeometrik (3D - three dimensional)",
+    "skaje (vertex - vertices)",
+    "brinjë (edge)",
+    "faqe (face)",
+    "kub (cube)",
+    "kuboide (cuboid)",
+    "prizmë (prism)",
+    "cilindër (cylinder)",
+    "sferë (sphere)",
+    "zhvillim i sheshtë (net)",
+    "Formula e Eulerit: V + F - E = 2"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 8: Gjeometria në hapësirë, faqe 142-148",
+    "Modele gjeometrike prej druri ose kartoni (kub, kuboide, prizmë, cilindër, sferë)",
+    "Fletë milimetrike për skicim dhe matje",
+    "Vizore, busull, shirit matës, gërshërë",
+    "Fletë pune e përgatitur me skica të 8 trupave gjeometrikë",
+    "PowerPoint prezantimi 'Trupat gjeometrikë në arkitekturën shqiptare' me foto nga Kruja, Gjirokastra"
+  ],
+  "lidhja": "Arte: Skicimi dhe pikturimi i objekteve tredimensionale, perspektiva. Gjeografi: Format reliefore të Shqipërisë (malet si prizma, kodrat si sferat e thyer). Historia: Arkitektura e kallave shqiptare (Kruja, Gjirokastra) ku përdoren forma të ndryshme gjeometrike. Fizika: Vëllimi dhe masa e objekteve. Jeta e përditshme: Paketimi i produkteve në treg (kutia e qumështit si kuboide, konservat si cilindra, topat si sfera).",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nKjo orë synon që nxënësit të identifikojnë trupat gjeometrikë bazë dhe t'i dallon ata nga figurat e sheshta. Nxënësit do të mësojnë të numërojnë skaje, brinjë dhe faqe duke përdorur modele konkrete.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\nMësuesi hyn në klasë me një çantë plot objekte: kuti qumështi, top futbolli, konserva domate, kub Rubiku, dhe një foto e çeltës së Krujës. Pyetet: \"Çfarë kanë të përbashkët këto objekte me çeltën e Krujës?\" Nxënësit vëzhgojnë dhe diskutojnë. Mësuesi shfaq foton e çeltës dhe pyet: \"Si mund ta ndërtojmë një maket të tillë? Çfarë formash duhen?\" Nxënësit identifikojnë forma të ndryshme. Lidhja me orën e kaluar: \"Javën e shkuar studiuam figurat e sheshta - trekëndëshin, katror, rreth. Sot do të shohim se si këto figura formojnë objekte që mund t'i preknim.\"\n\n**REALIZIMI I KUPTIMIT/ZHVILLIMI** (25-28 minuta)\nMësuesi paraqet konceptin: \"Trupat gjeometrikë janë forma tredimensionale që kanë gjatësi, gjerësi dhe lartësi.\" Demonstron me model:\n\n**Shembulli 1 - Kubi (kuti Rubiku):**\n- Skaje: 8 (numëron së bashku me nxënësit)\n- Brinjë: 12 (përdor shirit ngjyrash për të dalluar)\n- Faqe: 6 (çdo faqe është katror)\n- Të gjitha brinjët janë të barabarta\n\n**Shembulli 2 - Kuboidja (kuti qumështi):**\n- Skaje: 8 (si kubi)\n- Brinjë: 12 (por jo të barabarta)\n- Faqe: 6 (drejtkëndësha, jo katrore)\n- Formula: gjatësia × gjerësia × lartësia\n\n**Shembulli 3 - Cilindri (konserva):**\n- 2 faqe rrethore (sipër dhe poshtë)\n- 1 faqe kavisore (anëshore)\n- Pa skaje, pa brinjë të drejta\n\nPunë në grupe (10 minuta): Çdo grup merr nga 2 modele dhe plotëson tabelën:\n- Grupi 1: Kubi dhe prizma trekëndore\n- Grupi 2: Kuboidja dhe cilindri\n- Grupi 3: Sfera dhe koni (si shtesë)\n\nÇdo grup paraqet gjetjet në tabelë dhe verifikon me formulën e Eulerit: V + F - E = 2\n\nDemonstrimi i zhvillimit të sheshtë: Mësuesi hap një kuboide të bërë prej kartoni dhe tregon se si një trup 3D mund të shndërrohet në figurë 2D.\n\n**PRAKTIKA/USHTRIME** (8-10 minuta)\n\n**a) Niveli bazë:**\n1. Identifikoni tipin e trupit: kub apo kuboide për një kuti mjaltit me përmasa 8cm × 8cm × 8cm\n2. Numëroni skajet e një prizme katërkëndore\n3. Sa faqe ka një cilindër?\n\n**b) Niveli mesatar:**\n1. Një kuti biskotash ka përmasa 20cm × 15cm × 8cm. Llogaritni numrin e skajeve, brinjëve dhe faqeve.\n2. Verifikoni formulën e Eulerit për një prizmë trekëndore me V=6, E=9, F=?\n\n**c) Niveli i avancuar:**\n1. Projektoni zhvillimin e sheshtë të një kutie për tortën e ditëlindjes me formë kuboidje që ka volumin 1000 cm³ dhe lartësinë 10 cm.\n\n**MBYLLJA/REFLEKTIMI** (3-5 minuta)\nPërmbledhja e tri pikave kryesore:\n1. Trupat gjeometrikë janë forma 3D me skaje, brinjë dhe faqe\n2. Kubi ka të gjitha brinjët e barabarta, kuboidja - jo\n3. Formula e Eulerit: V + F - E = 2\n\nQuiz verbal: \"Emëroni 3 objekte nga shtëpia që janë kuboide\" (frigoriferi, televizori, dritarja). \"Çfarë forme ka topi i futbollit?\" (sferë).\n\nParashikimi: \"Orën e ardhshme do të mësojmë të llogarisim sipërfaqen e trupave gjeometrikë për të ditur sa karton na duhet për maketen e çeltës së Krujës.\"",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**1. BAZË:** Zgjidhni ushtrimet 1-6 nga faqja 145 të librit. Identifikoni 5 objekte nga shtëpia tuaj dhe klasifikoni si kub, kuboide, cilindër ose sferë. Numëroni skajet dhe brinjët e secilës.\n\n**2. KRIJUESE:** Krijoni një poster me foto ose skica të 10 objekteve nga qyteti juaj që përfaqësojnë trupa gjeometrikë të ndryshëm. Shkruani emrin e objektit, tipin e trupit gjeometrik dhe një fjalë shpjeguese. Shembull: Çelësa e Krujës - kuboide dhe prizma.\n\n**3. SHTESË (fakultative):** Hulumtoni arkitekturën e një qyteti historik shqiptar (Gjirokastra, Berati, Shkodra) dhe identifikoni të paktën 8 trupa gjeometrikë të ndryshëm të përdorur në ndërtesa. Krijoni një prezantim të shkurtër me foto dhe shpjegime.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Gjeometria",
+      "page_or_row": "76"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

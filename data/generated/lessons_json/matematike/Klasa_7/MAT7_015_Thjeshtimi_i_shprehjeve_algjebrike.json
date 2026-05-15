@@ -1,0 +1,63 @@
+{
+  "id": "MAT7_015",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "III",
+  "lesson_number": 15,
+  "tema": "Thjeshtimi i shprehjeve algjebrike",
+  "tematika": "Algjebra",
+  "month": "Shtator",
+  "trimester": 1,
+  "duration_minutes": 45,
+  "situata": "Nxënësit zbulojnë se shprehja 3x + 2x + 5x mund të shkruhet më thjeshtë si 10x. Ata mësojnë të bashkojnë termat e ngjashëm dhe të thjeshtojnë shprehjet.",
+  "rezultatet": [
+    "Nxënësi/ja identifikon termat e ngjashëm në një shprehje",
+    "Nxënësi/ja bashkon termat e ngjashëm duke ruajtur koeficientët",
+    "Nxënësi/ja thjeshton shprehje me shumë terma",
+    "Nxënësi/ja verifikon thjeshtimin duke zëvendësuar vlera"
+  ],
+  "fjalet_kyce": [
+    "Terma të ngjashëm",
+    "Bashkim",
+    "Thjeshtim",
+    "Koeficient",
+    "Shprehje e thjeshtuar",
+    "Verifikim"
+  ],
+  "burimet": [
+    "Libri i matematikës klasa 7, fq. 85-90",
+    "Pllaka algjebrike",
+    "Kartela termash",
+    "Fletë pune",
+    "Ngjyra për klasifikim"
+  ],
+  "lidhja": "Lidhje me organizimin: grupimi i objekteve të ngjashme. Lidhje me financat: mbledhja e të ardhurave të njëjta.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "QËLLIMI: Nxënësit do të mësojnë të identifikojnë termat e ngjashëm dhe të thjeshtojnë shprehjet algjebrike.\n\nHYRJA (6 min):\n• Analogji: Në një shportë ke 3 mollë + 2 dardha + 4 mollë + 1 dardhë.\n  - Gjithsej: 7 mollë + 3 dardha (bashkuam të ngjashmet!)\n  - Jo 10 fruta të përziera!\n• E njëjta logjikë vlen për termat algjebrike!\n\nZHVILLIMI (26 min):\n• TERMA TË NGJASHËM:\n  - Kanë të njëjtat variabla me të njëjtat fuqi\n  - 3x dhe 5x janë të ngjashëm ✓\n  - 2x² dhe 7x² janë të ngjashëm ✓\n  - 4x dhe 4y NUK janë të ngjashëm ✗\n  - 3x dhe 3x² NUK janë të ngjashëm ✗\n\n• RREGULLA E BASHKIMIT:\n  - Mblidhen vetëm koeficientët, variablat mbeten\n  - 3x + 5x = 8x\n  - 7y² - 3y² = 4y²\n  - 2ab + 5ab = 7ab\n\n• SHEMBUJ TË PLOTË:\n  1. 4x + 3 + 2x - 5\n     = (4x + 2x) + (3 - 5)\n     = 6x - 2\n\n  2. 3x² + 2x - 5x² + 4x - 3\n     = (3x² - 5x²) + (2x + 4x) - 3\n     = -2x² + 6x - 3\n\n  3. 5a - 3b + 2a + 4b - a\n     = (5a + 2a - a) + (-3b + 4b)\n     = 6a + b\n\n• VERIFIKIMI: Për x=2, shprehja 4x+3+2x-5 dhe 6x-2:\n  - 4(2)+3+2(2)-5 = 8+3+4-5 = 10\n  - 6(2)-2 = 12-2 = 10 ✓\n\nPRAKTIKA (10 min):\n• Ushtrim 1: Identifikoni termat e ngjashëm: 5x, 3y, -2x, 4y², 7x, -y\n• Ushtrim 2: Thjeshtoni: a) 8m-3m+m  b) 2x+5-3x+2  c) 4a²-2a+3a²+5a\n• Ushtrim 3: Verifikoni thjeshtimin për x=3: 5x+2-3x+4 = 2x+6\n\nMBYLLJA (3 min):\n• Truk: Nënvizoni termat e ngjashëm me të njëjtën ngjyrë\n• Gabim i zakonshëm: 3x+2y ≠ 5xy!",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "1. Thjeshtoni: a) 9p-4p+p  b) 3x+7-5x-2  c) 2y²+3y-y²+4y-5\n2. Thjeshtoni: a) 5a-3b+2a-b+4  b) x²-2xy+3y²+4xy-2x²\n3. Verifikoni për x=2, y=-1: 3x+2y-x+4y = 2x+6y\n4. Problem: Perimetri i drejtkëndëshit me përmasa (2x+3) dhe (x-1). Thjeshtoni shprehjen.\n5. Sfidë: Gjeni a dhe b nëse (3x+a)+(bx-2) = 5x+4",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Algjebra",
+      "page_or_row": "15"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

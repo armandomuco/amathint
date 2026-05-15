@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_099",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 99,
+  "tema": "Simetria boshtore",
+  "tematika": "Shndërrimet",
+  "month": "Mars",
+  "trimester": 2,
+  "duration_minutes": 45,
+  "situata": "Nxënësit studiojnë arkitekturën e xhamisë së Et'hem Beut në Tiranë dhe vërejnë se fasada e saj ka një vijë simetrie që e ndan në dy pjesë identike. Ata duhet të identifikojnë elementet simetrike në ndërtesa të tjera të njohura shqiptare si Kulla e Sahatit dhe të krijojnë modele të tyre simetrike për projektin e klasës.",
+  "rezultatet": [
+    "Nxënësi/ja përkufizon saktësisht konceptin e simetrisë boshtore dhe identifikon bosht simetrie",
+    "Nxënësi/ja ndërton figurën simetrike të një pike në raport me një drejtëz të dhënë duke përdorur busull dhe vizore",
+    "Nxënësi/ja identifikon se cilat figura kanë simetri boshtore dhe përcakton numrin e boshteve të simetrisë",
+    "Nxënësi/ja llogarit distancën e një pike nga boshti i simetrisë dhe verifikon se distancat janë të barabarta",
+    "Nxënësi/ja demonstron se pika dhe imazhi i saj simetrik janë ekuidistante nga boshti i simetrisë",
+    "Nxënësi/ja zgjidh probleme praktike duke përdorur vetitë e simetrisë boshtore në situata të ndryshme"
+  ],
+  "fjalet_kyce": [
+    "simetri boshtore (axial symmetry)",
+    "boshti i simetrisë",
+    "imazh simetrik",
+    "ekuidistance",
+    "drejtëz simetrie",
+    "shndërrim geometrik",
+    "distancë nga boshti",
+    "perpendikulare"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 8 'Shndërrimet', faqe 156-163",
+    "Busull, vizore, laps, gomë, shenjues me ngjyra",
+    "Fletë milimetrike dhe fletë të bardha A4",
+    "Kartela me figura të ndryshme për identifikimin e simetrisë",
+    "Postera të mëdhenj me ndërtesa shqiptare (Xhamia e Et'hem Beut, Kulla e Sahatit)",
+    "GeoGebra software në kompjuter/tablet për demonstrime interaktive"
+  ],
+  "lidhja": "Lidhje me Artet: studimi i elementeve simetrike në arkitekturën tradicionale shqiptare dhe në motive të qëndismeve popullore. Lidhje me Gjeografinë: orientimi i ndërtesave në raport me pikat kardinale. Lidhje me Historinë: rëndësia e simetrisë në arkitekturën osmane dhe atë moderne në Shqipëri. Aplikime në jetën e përditshme: dizajni i logove, dekorimeve, planimetria e shtëpive dhe kopshteve.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\n\nKjo orë synon që nxënësit të kuptojnë konceptin fundamental të simetrisë boshtore dhe të mësojnë të ndërtojnë figura simetrike duke përdorur mjete gjeometrike. Nxënësit do të zbulojnë se simetria është kudo rreth nesh dhe do të fitojnë aftësi praktike për të punuar me shndërrimet gjeometrike.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\n\nMësuesja fillon orën duke shfaqur fotografitë e Xhamisë së Et'hem Beut dhe Kullës së Sahatit në Tiranë: 'Çfarë vëreni të veçantë në këto ndërtesa?' Nxënësit diskutojnë dhe vërejnë se janë të ndarë simetrikisht. Mësuesja thotë: 'Nëse do të palosnim një fotografi të xhamisë në mes, a do të përputhen të dy anët?' Demonstron duke prerë një zemër nga letra dhe e palos për të treguar se të dy anët përputhen. Lidh me orën e kaluar: 'Jemi mësuar me lëvizjen dhe rrotullimin e figurave, sot do të mësojmë një shndërrim tjetër - simetrinë boshtore.' Shkruan në tabelë: 'Çfarë është simetria boshtore?' dhe pret përgjigje nga nxënësit.\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\n\nMësuesja shpjegon: 'Simetria boshtore është një shndërrim ku çdo pikë e figurës korrespondon me një pikë tjetër në anën tjetër të një drejtëze të quajtur boshti i simetrisë.' Demonstron në tabelë me tre shembuj praktikë:\n\n**Shembuju 1**: Ndërton pikën A(2,3) simetrike në raport me boshtin y. Tregon hap pas hapi: 'Pika A është 2 njësi djathtas boshtit y. Pika simetrike A' do të jetë 2 njësi majtas boshtit y, në të njëjtin nivel vertikal. Pra A'(-2,3).' Vizaton dhe mat distancat: AA' = 4 njësi, dhe boshti y ndan këtë distancë në mes.\n\n**Shembuju 2**: Merr trekëndëshin me kulmet B(1,2), C(3,1), D(2,4) dhe e ndërton simetrikun në raport me drejtëzën x=5. Llogarit: 'B është 4 njësi majtas drejtëzës x=5, pra B' do të jetë 4 njësi djathtas: B'(9,2). C është 2 njësi majtas, pra C'(7,1). D është 3 njësi majtas, pra D'(8,4).' Vizaton të dy trekëndëshat dhe tregon se janë identikë.\n\n**Shembuju 3**: Merr shkronjën 'M' dhe e ndërton simetrikën në raport me një drejtëz vertikale. Tregon se secila pikë karakteristike e shkronjës ka imazhën e saj simetrike në distancë të barabartë nga boshti.\n\nNxënësit ndahen në grupe prej 4 vetash. çdo grup merr kartela me figura të ndryshme dhe duhet të: 1) Identifikojë nëse figura ka simetri boshtore, 2) Gjejë numrin e boshteve të simetrisë, 3) Vizatojë boshtet me laps ngjyre. Grupi 1 punon me gjashtëkëndëshit, Grupi 2 me shkronja, Grupi 3 me kafshë, Grupi 4 me lule. Mësuesja qarkulllon dhe ndihmën, duke bërë pyetje orientuese: 'Sa boshte simetrie ka një rreth?' (pafund), 'A ka simetri një gjashtëkëndësh i rregullt?' (6 boshte).\n\n**PRAKTIKA** (8-10 minuta)\n\na) **Niveli bazë** (2-3 ushtrime):\n- Gjeni imazhit simetrik të pikës P(3,1) në raport me boshtin x\n- Gjeni imazhit simetrik të pikës Q(-2,4) në raport me boshtin y  \n- Vizatoni imazhit simetrik të një katrori me brinjë 2 cm në raport me një drejtëz\n\nb) **Niveli mesatar** (2 ushtrime):\n- Trekëndëshi ABC ka kulme A(1,3), B(4,2), C(2,5). Gjeni kulmet e trekëndëshit simetrik në raport me drejtëzën x=3\n- Një drejtkëndësh ka qendër në (0,0) dhe përmasa 4×2. Gjeni kooridinatat e të katër kulmeteve pas simetrisë në raport me drejtëzën y=x\n\nc) **Niveli i avancuar** (1 problemë sfiduese):\n- Një kopsht ka formë drejtkëndëshi 20m×15m. Duam ta ndajmë me një shteg simetrik në të dy anët e një drejtëze që kalon nga qendra. Sa do të jetë gjatësia e shtegut nëse ai formon kënd 30° me gjatësinë?\n\n**MBYLLJA/REFLEKTIMI** (3-5 minuta)\n\nMësuesja përmbledh tre pikat kryesore: '1) Simetria boshtore është shndërrim që ruan distancat dhe format, 2) Boshti i simetrisë është ekuidistant nga pika dhe imazhi i saj, 3) Mund të kemi zero, një ose më shumë boshte simetrie.' Organizon quiz të shpejtë verbal: 'Sa boshte simetrie ka shkronja H?' (2), 'A ka simetri shkronja P?' (jo), 'Çfarë ndodh me koordinatat kur bëjmë simetri në raport me boshtin x?' (y-ja ndryshon shenjë). Paralajmëron orën e ardhshme: 'Nesër do të mësojmë simetrinë qendrore dhe do të krahasojmë me simetrinë boshtore.'",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**DETYRË BAZË**: Zgjidhni ushtrimet 1-6 në faqen 159 të librit. Gjeni imazhit simetrik të pikave: A(2,5), B(-3,1), C(0,4) në raport me boshtin x, pastaj me boshtin y. Vizatoni një trekëndësh dhe ndërtoni simetrikun e tij në raport me një drejtëz të zgjedhur prej jush.\n\n**DETYRË KRIJUESE**: Krijoni një poster me tema 'Simetria në arkitekturën shqiptare'. Fotografoni ose vizatoni 5 ndërtesa të njohura shqiptare, identifikoni boshtet e simetrisë dhe shpjegoni pse arkitektët përdorin simetrinë. Përfshini Kalanë e Krujës, Xhaminë e Plumbit, Teatrin e Operas, etj.\n\n**DETYRË SHTESË (fakultative)**: Hulumtoni simetrinë në natyrë - gjeni 10 shembuj të simetrisë boshtore tek kafshët, lulet, gjethet. Shkruani një ese 1 faqe duke shpjeguar pse natyra 'zgjedh' simetrinë. Përdorni burime nga interneti ose enciklopedia dhe listoni referencat.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Shndërrimet",
+      "page_or_row": "99"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_066",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 66,
+  "tema": "Ekuacionet me x në të dy anët",
+  "tematika": "Algjebra",
+  "month": "Janar",
+  "trimester": 2,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës VII të shkollës 'Naim Frashëri' në Tiranë organizojnë një treg bamirësie për të ndihmuar familjet në nevojë. Ata kanë vendosur të shesin libra të përdorur me çmim 200 lekë dhe fletore me çmim 50 lekë. Klasa ka një buxhet fillestare prej 5000 lekësh dhe duan të llogaritin sa libra dhe fletore duhet të shesin për të arritur objektivin prej 15000 lekësh.",
+  "rezultatet": [
+    "Nxënësi/ja identifikon ekuacionet me x në të dy anët dhe i dallon nga ekuacionet e thjeshta",
+    "Nxënësi/ja zgjidh saktësisht ekuacione të tipit ax + b = cx + d duke përdorur vetitë e barazimit",
+    "Nxënësi/ja llogarit vlerën e panjohures në ekuacione me variabla në të dy anët e barazimit",
+    "Nxënësi/ja demonstron hapat e zgjidhjes së ekuacioneve duke shpjeguar çdo transformim",
+    "Nxënësi/ja argumenton validitetin e zgjidhjes duke verifikuar rezultatin në ekuacionin fillestar",
+    "Nxënësi/ja formulon dhe zgjidh probleme të jetës reale duke përdorur ekuacione me x në të dy anët"
+  ],
+  "fjalet_kyce": [
+    "ekuacion (equation)",
+    "variabël (variable) - x",
+    "anë e majtë dhe e djathtë e barazimit",
+    "koeficient",
+    "transformim ekuivalent",
+    "verifikim i zgjidhjes",
+    "izolim i variablës",
+    "shpërndarje (distributive property)"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 4 'Ekuacionet', faqe 82-89",
+    "Tabelë interaktive ose tabelë tradicionale me markera me ngjyra",
+    "Fletë pune e përgatitur me 12 ekuacione të nivelit të ndryshëm",
+    "Kalkulatorë shkollore për verifikim",
+    "Kartela me ushtrime të graduara sipas vështirësisë",
+    "Postera me rregullat e transformimeve të ekuacioneve"
+  ],
+  "lidhja": "Lidhje me shkencat natyrore në llogaritjen e shpejtësisë dhe distancës (v = s/t). Në Gjeografi përdoret për llogaritjen e shkallës së hartave. Në jetën e përditshme aplikohet për llogaritjen e çmimeve në tregjet shqiptare, planifikimin e buxhetit familjar, dhe llogaritjen e tarifave të transportit publik në Tiranë (autobus, taksi). Lidhje me teknologji në programimin e ekuacioneve në Excel.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\n\nNxënësit do të mësojnë të zgjidhin ekuacione ku variabla x gjendet në të dy anët e barazimit, duke aplikuar rregullat e transformimeve ekuivalente dhe duke u fokusuar në izolimin e variablës në njërën anë.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\n\nMësuesi fillon me një aktivitet motivues: 'Loja e balancës së drejtësisë'. Përdor një balancë të thjeshtë ose vizaton një në tabelë. Vendos objekte të njëjta në të dy anët dhe pyet: 'Si mbetet e balancuar?' Pastaj heton një situatë praktike: 'Nëse Ali ka 3x + 5 lekë dhe Beni ka 2x + 15 lekë, dhe ata kanë të njëjtën shumë parash, si mund ta gjejmë vlerën e x?' Lidh me orën e mëparshme: 'Në orën e kaluar mësuam ekuacione të tipit 2x + 3 = 11. Sot do të shohim raste ku x gjendet në të dy anët, si 3x + 5 = 2x + 15.'\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\n\nMësuesi shpjegon konceptin duke theksuar: 'Ekuacion me x në të dy anët është kur variabla gjendet si në anën e majtë ashtu edhe në anën e djathtë të barazimit.'\n\n**Shembull 1:** 3x + 4 = 2x + 10\nHapi 1: Zbritim 2x nga të dy anët: 3x - 2x + 4 = 2x - 2x + 10 → x + 4 = 10\nHapi 2: Zbritim 4 nga të dy anët: x + 4 - 4 = 10 - 4 → x = 6\nVerifikim: 3(6) + 4 = 18 + 4 = 22; 2(6) + 10 = 12 + 10 = 22 ✓\n\n**Shembull 2:** 5x - 3 = 3x + 7\nHapi 1: Zbritim 3x nga të dy anët: 5x - 3x - 3 = 3x - 3x + 7 → 2x - 3 = 7\nHapi 2: Shtojmë 3 në të dy anët: 2x - 3 + 3 = 7 + 3 → 2x = 10\nHapi 3: Ndajmë me 2: x = 5\nVerifikim: 5(5) - 3 = 25 - 3 = 22; 3(5) + 7 = 15 + 7 = 22 ✓\n\n**Shembull 3:** 4(x + 2) = 2x + 12\nHapi 1: Shpërhajmë: 4x + 8 = 2x + 12\nHapi 2: Zbritim 2x: 4x - 2x + 8 = 12 → 2x + 8 = 12\nHapi 3: Zbritim 8: 2x = 4 → x = 2\nVerifikim: 4(2 + 2) = 4(4) = 16; 2(2) + 12 = 4 + 12 = 16 ✓\n\nAktivitet grupi: Nxënësit ndahen në grupe prej 4 personash. Çdo grup merr 3 kartela me ekuacione të ndryshme dhe duhet t'i zgjidhë duke ndjekur hapat e treguar. Një përfaqësues i secilit grup shpjegon zgjidhjen në tabelë.\n\n**PRAKTIKA** (8-10 minuta)\n\na) **Niveli bazë** (2-3 ushtrime):\n- 2x + 3 = x + 8\n- 4x - 5 = 2x + 1\n- 3x + 2 = x + 10\n\nb) **Niveli mesatar** (2 ushtrime):\n- 2(x + 3) = x + 12\n- 5x - 7 = 3x + 5\n\nc) **Niveli i avancuar** (1 problemë sfiduese):\n- Në një dyqan në Tiranë, çmimi i një produkti plus 20% TVSH është i barabartë me çmimin fillestar plus 50 lekë. Gjeni çmimin fillestar të produktit.\n\n**MBYLLJA/REFLEKTIMI** (3-5 minuta)\n\nPërmbledhje e tre pikave kryesore:\n1. Identifikimi i ekuacioneve me x në të dy anët\n2. Hapat për izolimin e variablës\n3. Rëndësia e verifikimit të zgjidhjes\n\nQuiz verbal: 'Cili është hapi i parë për të zgjidhur ekuacionin 3x + 5 = x + 11?' Parashikim: 'Nesër do të mësojmë ekuacione me kllapa dhe thyesa.'",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**NIVELI BAZË:** Zgjidhni ekuacionet e mëposhtme dhe verifikoni rezultatet:\n1. 3x + 1 = 2x + 7\n2. 5x - 4 = 3x + 6  \n3. 2x + 8 = x + 12\n4. 4x - 3 = 2x + 9\n\n**DETYRA KRIJUESE:** Krijoni një problem të jetës reale që zgjidhet me një ekuacion me x në të dy anët. Shembull: Situata e një tregtari në Pazarin e Ri të Tiranës që shet produkte me çmime të ndryshme. Shkruani problemin, ekuacionin dhe zgjidhjen e plotë.\n\n**DETYRA SHTESË (fakultative):** Hulumtoni dhe zgjidhni ekuacione më komplekse me kllapa në të dy anët:\n- 2(x + 4) = 3(x - 1) + 5\n- 4(2x - 1) = 2(3x + 2) + 6\nShkruani një ese të shkurtër rreth rëndësisë së ekuacioneve në profesione të ndryshme në Shqipëri (inxhinier, ekonomist, arkitekt).",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Algjebra",
+      "page_or_row": "66"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

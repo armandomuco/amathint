@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_108",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 108,
+  "tema": "Gjetja e probabilitetit",
+  "tematika": "Probabiliteti",
+  "month": "Prill",
+  "trimester": 3,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës së 7-të organizojnë një lotari bamirëse për shkollën në Tiranë. Ata duhet të llogarisin shanset për fitim të çmimeve të ndryshme: nga 100 bileta, 10 janë fitues (5 me çmim të vogël, 3 me çmim mesatar, 2 me çmim të madh). Para se të shesin biletat, klasa duhet të dijë saktësisht sa mundësi ka secili për të fituar dhe si të llogaritë probabilitetin për situata të ndryshme.",
+  "rezultatet": [
+    "Nxënësi/ja përkufizon konceptin e probabilitetit si raport midis rezultateve të favorshme dhe mundësive totale",
+    "Nxënësi/ja llogarit probabilitetin e një ngjarjeje të thjeshtë duke përdorur formulën P(A) = rezultate të favorshme / rezultate të mundshme totale",
+    "Nxënësi/ja identifikon dallimet midis ngjarjeve të sigurta, të pamundura dhe të mundshme",
+    "Nxënësi/ja shpreh probabilitetin në forma të ndryshme: thyesë, dhjetorë dhe përqindje",
+    "Nxënësi/ja zgjidh probleme praktike të probabilitetit me objekte konkrete si zarë, monedha dhe karta loje",
+    "Nxënësi/ja argumenton arsyeshmërinë e rezultateve të probabilitetit në situata reale"
+  ],
+  "fjalet_kyce": [
+    "probabilitet (probability)",
+    "ngjarje (event)",
+    "rezultat i favorshëm",
+    "hapësira e mostrës",
+    "P(A) - probabiliteti i ngjarjes A",
+    "ngjarje e sigurtë (P = 1)",
+    "ngjarje e pamundur (P = 0)",
+    "përqindje probabiliteti (%)"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 8: Probabiliteti, faqe 134-142",
+    "Dy zara, 20 monedha 5 lekë, leta karte loje standarde",
+    "Fletë pune e përgatitur 'Llogaritja e probabilitetit' me 15 ushtrime",
+    "Kutia me 50 topa me ngjyra të ndryshme (20 të kuq, 15 të blu, 10 të gjelbër, 5 të verdhë)",
+    "Kalkulatore për llogaritjet e thyesave dhe përqindjeve",
+    "PowerPoint prezantim 'Probabiliteti në jetën e përditshme'"
+  ],
+  "lidhja": "Lidhje me shkencat natyrore në studimin e lëvizjes së rastësishme dhe eksperimentet. Me Gjeografinë në parashikim të motit (probabiliteti i shiut në Shqipëri). Me Edukatën Qytetare në analizimin e sondazheve dhe statistikave zgjedhore. Me Gjuhën Shqipe në interpretimin e teksteve me të dhëna statistikore në gazeta dhe revista.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nNxënësit të kuptojnë konceptin bazik të probabilitetit dhe të mësojnë të llogaritinP mundësinë që një ngjarje të ndodhë në situata praktike. Kjo orë do të vendosë themelet për kuptimin e koncepteve më komplekse të probabilitetit.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\nMësuesi sjell një qese me 10 topa: 6 të kuq dhe 4 të blu. Pyet: 'Nëse nxjerr një top pa parë, sa mendoni që është mundësia të jetë i kuq?' Nxënësit japin mendime të ndryshme. Mësuesi thotë: 'Le ta testojmë!' Nxjerr 20 herë (duke e kthyer topin) dhe numëron sa herë doli i kuq. Pyet: 'Pse ndonjëherë doli 12 të kuq, ndonjëherë 13? A mund të parashikojmë saktësisht?' Lidh me orën e kaluar për thyesat: 'Si mund të shkruajmë mundësinë si thyesë?'\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\n\nShpjegimi i konceptit: Probabiliteti është një mënyrë për të matur sa e mundshme është që diçka të ndodhë. Formula bazë: P(A) = Numri i rezultateve të favorshme / Numri total i rezultateve të mundshme.\n\nShembull 1 - Hedhja e monedhës:\n'Kemi një monedhë 5 lekëshe. Sa mundësi ka të dalë Kreu?' \nZgjidhje hap pas hapi:\n- Rezultate të mundshme totale: 2 (Kreu ose Stemë)\n- Rezultate të favorshme: 1 (vetëm Kreu)\n- P(Kreu) = 1/2 = 0.5 = 50%\n\nShembull 2 - Hedhja e zarës:\n'Hedhim një zar. Sa mundësi ka të dalë numri 3?'\nZgjidhje:\n- Rezultate të mundshme totale: 6 (numrat 1, 2, 3, 4, 5, 6)\n- Rezultate të favorshme: 1 (vetëm numri 3)\n- P(3) = 1/6 ≈ 0.167 ≈ 16.7%\n\nShembull 3 - Nxjerrja e kartave:\n'Nga një pako me 52 karta, nxjerrim një kartë. Sa mundësi ka të jetë një As?'\nZgjidhje:\n- Rezultate të mundshme totale: 52 karta\n- Rezultate të favorshme: 4 (4 Ass në pako)\n- P(As) = 4/52 = 1/13 ≈ 0.077 ≈ 7.7%\n\nPunë në grupe (10 minuta): Çdo grup merr një kuti me objekte të ndryshme dhe llogarit probabilitetin e nxjerrjes së objekteve specifike. Grupi 1: topa me ngjyra, Grupi 2: pulla të ndryshme, Grupi 3: karta loje. Çdo grup prezanton një llogaritje.\n\n**PRAKTIKA** (8-10 minuta)\n\na) Niveli bazë:\n1. Sa është probabiliteti të dalë 'Stemë' duke hedhur një monedhë?\n2. Sa mundësi ka të nxjerrësh numrin 5 nga një zar?\n3. Nga 10 bileta lotarie, 3 janë fitues. Sa mundësi ka të nxjerrësh një biletuese fituese?\n\nb) Niveli mesatar:\n1. Në një klasë ka 15 vajza dhe 12 djem. Duke zgjedhur një nxënës rastësisht, sa mundësi ka të jetë vajzë?\n2. Nga një kuti me 8 mollë të kuqe dhe 6 të gjelbërta, sa është probabiliteti të nxjerrësh një mollë të gjelbërt?\n\nc) Niveli i avancuar:\n1. Lotaria e shkollës ka 200 bileta: 20 fitojnë çmime të vogla, 5 çmime mesatare, 2 çmime të mëdha. Sa është probabiliteti të fitosh të paktën një çmim?\n\n**MBYLLJA** (3-5 minuta)\nPërmbledhja e tre pikave kryesore:\n1. Probabiliteti matet nga 0 (e pamundur) deri 1 (e sigurt)\n2. Formula: P(A) = Rezultate të favorshme / Rezultate totale\n3. Probabiliteti mund të shprehet si thyesë, dhjetor ose përqindje\n\nQuiz verbal: 'Nëse kam 100 bileta dhe 25 janë fitues, sa është probabiliteti në përqindje?' (25%). Orja e ardhshme: Probabiliteti i ngjarjeve të përbëra.",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**1. BAZË:**\n- Ushtrimet 1-6 nga libri, faqe 138: Llogarit probabilitetin e hedhjes së monedhës dhe zarës\n- Ushtrimet 7-9: Gjej probabilitetin e nxjerrjes së kartave të ndryshme\n- Shkruaj përgjigjet si thyesa, dhjetorë dhe përqindje\n\n**2. KRIJUESE:**\n- Krijo një lojë të thjeshtë probabiliteti për familjen tënde duke përdorur objekte të shtëpisë (pulla, kopsa, etj.)\n- Shkruaj rregullat e lojës dhe llogarit probabilitetin e fitimit\n- Prezanto lojën në klasë javën e ardhshme\n\n**3. SHTESË (fakultative):**\n- Hulumto sa mundësi ka të bjerë shi në Tiranë gjatë muajit prill bazuar në të dhënat 10 vjeçare\n- Gjej probabilitetin që një person i zgjedhur rastësisht në Shqipëri të jetë nga Tirana (përdor të dhënat e popullsisë)\n- Prezanto gjetjet me grafik të thjeshtë",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Probabiliteti",
+      "page_or_row": "108"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

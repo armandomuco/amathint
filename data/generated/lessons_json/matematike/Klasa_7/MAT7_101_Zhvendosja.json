@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_101",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 101,
+  "tema": "Zhvendosja",
+  "tematika": "Shndërrimet",
+  "month": "Mars",
+  "trimester": 2,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës së 7-të të shkollës 'Naim Frashëri' në Tiranë organizojnë një ekspozitë në korridorin e shkollës dhe duhet të lëvizin figurat gjeometrike (trekëndësha, katërkëndësha, rrathë) nga pozicioni fillestar në pozicione të reja pa i rrotulluar ose ndryshuar madhësinë. Ata duhet të përcaktojnë koordinatat e reja të çdo figure dhe të llogaritin distancën e zhvendosjes për çdo pikë të figurës.",
+  "rezultatet": [
+    "Nxënësi/ja përkufizon zhvendosjen si shndërrim gjeometrik që ruajnë formën dhe madhësinë",
+    "Nxënësi/ja identifikon vektorin e zhvendosjes duke përcaktuar drejtimin dhe madhësinë",
+    "Nxënësi/ja llogarit koordinatat e reja të pikave pas zhvendosjes në planin koordinativ",
+    "Nxënësi/ja demonstron se zhvendosja ruan distancat dhe këndet midis pikave",
+    "Nxënësi/ja zgjidh probleme praktike që përfshijnë zhvendosjen e objekteve në jetën e përditshme",
+    "Nxënësi/ja analizon relacionin midis zhvendosjes dhe vektorëve në planin koordinativ"
+  ],
+  "fjalet_kyce": [
+    "zhvendosje (translation)",
+    "vektor zhvendosjeje",
+    "koordinata fillestare (x₁, y₁)",
+    "koordinata përfundimtare (x₂, y₂)",
+    "transformim gjeometrik",
+    "izometri",
+    "plan koordinativ",
+    "distancë d = √[(x₂-x₁)² + (y₂-y₁)²]"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 4: Shndërrimet, faqe 89-95",
+    "Plan koordinativ i madh (poster A1) për demonstrim në tabelë",
+    "Vizore, busull, laps me ngjyra të ndryshme, goma",
+    "Fletë pune e përgatitur me rrjetë koordinative dhe figura",
+    "Kartela me pika dhe vektorë të përgatitur paraprakisht",
+    "GeoGebra software për demonstrime interaktive"
+  ],
+  "lidhja": "Lidhje me Gjeografinë në leximin e hartave dhe koordinatave gjeografike të qyteteve shqiptare, me Artet për lëvizjen e objekteve në kompozicionet artistike, me shkencat natyrore për konceptin e lëvizjes dhe zhvendosjes së trupave në hapësirë, dhe me jetën e përditshme në orientimin urban në rrugët e Tiranës, Durrësit dhe qyteteve të tjera shqiptare.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\n\nKjo orë synon që nxënësit të kuptojnë konceptin e zhvendosjes si shndërrim gjeometrik dhe të mësojnë të llogaritsin koordinatat e reja të pikave pas zhvendosjes në planin koordinativ.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\n\nMësuesi fillon me një lojë praktike: vendos në dysheme katër karrige në pozicione të ndryshme dhe kërkon nga katër nxënës të ulen. Më pas jep instruksione: 'Të gjithë lëvizni 2 metra djathtas dhe 1 metër përpara'. Nxënësit lëvizin karrigjet dhe mësuesi pyet: 'Çfarë ndodhi me formën e figurës që formonit? A ndryshoi madhësia e distancës midis jush?' Më tej prezanton pyetjet orientuese: 'Nëse një makinë në Sheshin Skënderbej duhet të lëvizë nga koordinata (2,3) në koordinatën (5,7), sa është distanca që përshkon? Si mund ta llogarisim këtë zhvendosje matematikisht?' Lidhja me orën e kaluar: 'Javën e shkuar mësuam për rrotullimin - sot do të mësojmë për zhvendosjen që është më e thjeshtë.'\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\n\nMësuesi shpjegon konceptin: 'Zhvendosja është lëvizja e një figure nga një pozicion në tjetrin pa e rrotulluar ose ndryshuar madhësinë.' Demonstron në planin koordinativ të madh në tabelë:\n\n**Shembulli 1:** Pika A(2,1) zhvendoset 3 njësi djathtas dhe 2 njësi lart. Koordinatat e reja: A'(2+3, 1+2) = A'(5,3). Distanca e zhvendosjes: d = √[(5-2)² + (3-1)²] = √[9+4] = √13 ≈ 3.6 njësi.\n\n**Shembulli 2:** Trekëndëshi me kulmet B(1,2), C(4,2), D(2,5) zhvendoset me vektorin (3,-2). Kulmet e reja: B'(1+3, 2-2) = B'(4,0), C'(4+3, 2-2) = C'(7,0), D'(2+3, 5-2) = D'(5,3). Verificim: Distanca BC = 3 njësi, distanca B'C' = 3 njësi (e pandryshuar).\n\n**Shembulli 3:** Katërkëndëshi EFGH me E(0,0), F(2,0), G(2,3), H(0,3) zhvendoset me vektorin (-1,4). Koordinatat e reja: E'(-1,4), F'(1,4), G'(1,7), H'(-1,7). Llogarja: Sipërfaqja fillestare = 2×3 = 6 njësi², sipërfaqja e re = 2×3 = 6 njësi² (e ruajtur).\n\nNdarja në grupe: Çdo grup merr fletën me 3 figura të ndryshme dhe duhet të llogarisë koordinatat e reja pas zhvendosjes me vektorë të ndryshëm. Grupi 1: vektor (2,3), Grupi 2: vektor (-1,2), Grupi 3: vektor (4,-1). Secili grup prezanton një zgjidhje.\n\n**PRAKTIKA** (8-10 minuta)\n\na) **Niveli bazë:** Zhvendosni pikat: P(1,2) me vektor (3,1), Q(4,0) me vektor (2,4), R(-1,3) me vektor (1,-2)\n\nb) **Niveli mesatar:** Zhvendosni trekëndëshin ABC me A(2,1), B(5,1), C(3,4) me vektorin (-2,3) dhe gjeni perimetrin e trekëndëshit të ri. Zhvendosni rrethul me qendër O(3,2) dhe rreze r=2 me vektorin (4,-3).\n\nc) **Niveli i avancuar:** Një figurë zhvendoset nga pozicioni fillestar dhe një kulm kalon nga (2,5) në (7,1). Gjeni vektorin e zhvendosjes dhe përcaktoni pozicionin e ri të tërë figurës nëse ajo ka kulme të tjera në (0,3), (4,3), (2,0).\n\n**MBYLLJA** (3-5 minuta)\n\nPika përmbledhëse: 1) Zhvendosja ruan formën dhe madhësinë, 2) Çdo pikë lëviz me të njëjtin vektor, 3) Koordinatat e reja llogariten duke shtuar komponenetet e vektorit. Quiz verbal: 'Nëse pika (3,4) zhvendoset me vektorin (2,-1), cilat janë koordinatat e reja?' Parashikim: 'Orën e ardhshme do të mësojmë për rrotullimin dhe kombinimin e shndërrimeve.'",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**BAZË:** Zgjidhni ushtrimet 1-6 nga faqja 92: Zhvendosni pikat A(3,2), B(-1,4), C(0,-2), D(5,1) me vektorët (2,3), (-1,2), (4,-1), (1,4). Llogaritni koordinatat e reja dhe vizatoni në plan koordinativ.\n\n**KRIJUESE:** Krijoni një poster që tregon zhvendosjen e një shtëpie (katërkëndësh) me një pemë (trekëndësh) dhe një diell (rreth) nga një pozicion në tjetrin. Përdorni ngjyra të ndryshme për pozicionin fillestar dhe atë përfundimtar. Shkruani koordinatat dhe vektorin e zhvendosjes.\n\n**SHTESË (fakultative):** Hulumtoni si përdoret zhvendosja në dizajnin e qilimave tradicionalë shqiptarë. Analizoni motivet që përsëriten dhe identifikoni vektorët e zhvendosjes. Përgatitni një prezantim 5-minutësh për klasën.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Shndërrimet",
+      "page_or_row": "101"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

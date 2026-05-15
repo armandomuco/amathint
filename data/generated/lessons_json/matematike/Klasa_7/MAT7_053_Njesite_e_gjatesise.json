@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_053",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 53,
+  "tema": "Njësitë e gjatësisë",
+  "tematika": "Matja",
+  "month": "Dhjetor",
+  "trimester": 1,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës VII organizojnë një fushatë për të matur distancat midis qyteteve të Shqipërisë për të krijuar një hartë informative. Ata duhet të kthejnë matjet nga kilometra në metra, centimetra dhe milimetra për të krahasuar distancat Tiranë-Durrës (38 km), Tiranë-Shkodër (116 km) dhe Tiranë-Korçë (181 km), duke përdorur teknika të ndryshme kthimi të njësive.",
+  "rezultatet": [
+    "Nxënësi/ja identifikon njësitë kryesore të gjatësisë (mm, cm, m, km) dhe marrëdhëniet mes tyre",
+    "Nxënësi/ja llogarit saktësisht kthimin nga një njësi gjatësie në tjetrën duke përdorur shumëzimin me 10, 100, 1000",
+    "Nxënësi/ja demonstron përdorimin e dhjetorëve për të shprehur matjet me njësi më të vogla",
+    "Nxënësi/ja zgjidh probleme praktike që përfshijnë kthimin e njësive të gjatësisë në kontekste të ndryshme",
+    "Nxënësi/ja argumenton zgjedhjen e njësisë së përshtatshme për objekte të ndryshme (laps, shtëpi, rrugë)",
+    "Nxënësi/ja analizon gabimet e zakonshme në kthimin e njësive dhe propozon mënyra korrigimi"
+  ],
+  "fjalet_kyce": [
+    "njësi gjatësie (unit of length)",
+    "milimetër (mm)",
+    "centimetër (cm)",
+    "metër (m)",
+    "kilometër (km)",
+    "konvertim/kthim njësish",
+    "faktor kthimi (×10, ×100, ×1000)",
+    "dhjetor decimal (0.1, 0.01, 0.001)"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 4 'Matja dhe Njësitë', faqe 62-67",
+    "Vizore milimetrike, centimetrike dhe metrike",
+    "Fletë pune e përgatitur me 15 probleme kthimi njësish",
+    "Kartelat me objekte të ndryshme për matje (laps, fletë, tavolinë)",
+    "Posteri i madh me tabelën e njësive të gjatësisë",
+    "Kalkulatore shkencore për llogaritje të shpejta"
+  ],
+  "lidhja": "Gjeografi: Matja e distancave në harta dhe llogaritja e shkallës së hartës. Fizikë: Njësitë e gjatësisë në eksperimente dhe matje shkencore. Arte: Matja e proporcioneve në vizatim dhe skulpturë. Jeta praktike: Blerje materiali ndërtimi në dyqane (metra karton, telat), matja e rrobave në konfeksione, llogaritja e distancave për transport publik në Tiranë.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nKjo orë synon që nxënësit të kuptojnë plotësisht sistemin dhjetor të njësive të gjatësisë dhe të zotërojnë teknikat e kthimit nga një njësi në tjetrën përmes shembujve praktikë nga jeta e përditshme shqiptare.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\nMësuesi shfaq tri objekte: një laps (12 cm), një fletë A4 (21 cm) dhe një vizore metreshi (100 cm). Pyet: \"Sa është gjatësia e lapsit në milimetra? E fletës në metra? E vizores në kilometra?\" Nxënësit përpiqen të përgjigjen duke vlerësuar. Më pas mësues tregon video 2-minutëshe për ndërtimin e Rrugës së Kombit (175 km) duke theksuar rëndësinë e matjeve të sakta. Pyet: \"Pse inxhinierët nuk mund të thonë '175,000,000 milimetra' për gjatësinë e rrugës?\" Kjo çon në diskutim për rëndësinë e zgjedhjes së njësisë së përshtatshme.\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\nMësuesi prezanton tabelën e njësive të gjatësisë në tabelë:\nkm → m → cm → mm\n×1000 ×100 ×10\n\n**Shembull 1**: Kthimi nga km në m\nDistanca Tiranë-Durrës = 38 km\n38 km = 38 × 1000 m = 38,000 m\nShpjegim: Çdo kilomter ka 1000 metra, prandaj shumëzojmë me 1000.\n\n**Shembull 2**: Kthimi nga m në cm\nLartësia e një nxënësi = 1.65 m\n1.65 m = 1.65 × 100 cm = 165 cm\nShpjegim: Çdo metër ka 100 centimetra, prandaj shumëzojmë me 100.\n\n**Shembull 3**: Kthimi nga cm në mm\nGjerësia e një libri = 15.5 cm\n15.5 cm = 15.5 × 10 mm = 155 mm\nShpjegim: Çdo centimetër ka 10 milimetra, prandaj shumëzojmë me 10.\n\nPunë në grupe (4 nxënës/grup): Çdo grup merr një detyrë specifike:\n- Grupi 1: Ktheni distancat Tiranë-Shkodër (116 km) në metra dhe centimetra\n- Grupi 2: Ktheni lartësinë e Malit Dajt (1613 m) në kilometra dhe centimetra  \n- Grupi 3: Ktheni gjatësinë e një fushe futbolli (105 m) në centimetra dhe milimetra\n- Grupi 4: Ktheni gjerësinë e një monedhe 1 lek (18.5 mm) në centimetra dhe metra\n\nÇdo grup prezanton zgjidhjen në tabelë me shpjegime.\n\n**PRAKTIKA** (8-10 minuta)\n\na) **Niveli bazë**: \n- Ktheni 5 km në metra\n- Ktheni 250 cm në metra  \n- Ktheni 85 mm në centimetra\n\nb) **Niveli mesatar**:\n- Një makinë udhëton 2.5 km. Sa metra ka udhëtuar?\n- Lartësia e një tavoline është 75 cm. Shpreheni në metra dhe milimetra.\n\nc) **Niveli i avancuar**:\n- Një pistë atletike ka perimetër 400 m. Nëse një atlet vrapon 12 raunde, sa kilometra ka vrapuar gjithsej?\n\n**MBYLLJA** (3-5 minuta)\nPërmbledhje e tre pikave kryesore:\n1. Njësitë e gjatësisë ndërlidhen me faktorin 10, 100, 1000\n2. Për të kaluar nga njësi më e madhe tek më e vogël, shumëzojmë\n3. Zgjedhja e njësisë varet nga madhësia e objektit që matim\n\nQuiz verbal: \"Sa milimetra ka një metër? Sa metra ka një kilometër?\"\nParashikim: \"Orën e ardhshme do të mësojmë njësitë e sipërfaqes - sa metra katrorë ka një hektar?\"",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**1. DETYRA BAZË** (të detyrueshme për të gjithë):\n- Libri 'Matematika 7', faqe 65, ushtrimet 1-6: Kthimi i njësive të thjeshta\n- Plotësoni tabelën: 3 km = ___ m, 45 cm = ___ mm, 1200 m = ___ km, 8.5 m = ___ cm\n- Zgjidhni: Gjatësia e një lapsi është 15 cm. Shpreheni në mm dhe në m.\n\n**2. DETYRA KRIJUESE** (projekt i shkurtër):\nKrijoni një 'Hartë Distancash Shqiptare' ku do të listoni 8 qytete shqiptare dhe distancat mes tyre në km, m dhe cm. Përdorni Google Maps për të gjetur distancat reale dhe bëni llogaritjet tuaja. Prezantoni në një poster A3 me ngjyra dhe vizatime.\n\n**3. DETYRA SHTESË** (fakultative për nxënës të avancuar):\nHulumtoni sa është lartësia e ndërtesave më të larta në Tiranë (p.sh. Twin Towers, Sky Tower) dhe krahasojini me lartësi të tjera të famshme botërore. Kthejini të gjitha matjet në të paktën tre njësi të ndryshme. Shkruani një raport 1-faqe me gjetjet tuaja.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Matja",
+      "page_or_row": "53"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

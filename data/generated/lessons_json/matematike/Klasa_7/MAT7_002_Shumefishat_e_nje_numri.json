@@ -1,0 +1,63 @@
+{
+  "id": "MAT7_002",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "III",
+  "lesson_number": 2,
+  "tema": "Shumëfishat e një numri",
+  "tematika": "Numri",
+  "month": "Shtator",
+  "trimester": 1,
+  "duration_minutes": 45,
+  "situata": "Nxënësit duhet të organizojnë 48 libra në rafte me numër të barabartë librash. Ata eksplorojnë mënyrat e ndryshme të organizimit duke përdorur konceptin e shumëfishave dhe faktorëve.",
+  "rezultatet": [
+    "Nxënësi/ja liston sistematikisht shumëfishat e një numri të dhënë",
+    "Nxënësi/ja përdor notacionin matematik për të shprehur shumëfishat",
+    "Nxënësi/ja dallon shumëfishat e përbashkët të dy numrave",
+    "Nxënësi/ja aplikon shumëfishat në zgjidhjen e problemave praktike"
+  ],
+  "fjalet_kyce": [
+    "Shumëfish",
+    "Bashkësi e shumëfishave",
+    "Shumëfish i përbashkët",
+    "Notacion",
+    "Varg i pafundëm",
+    "Pjesëtueshmëri"
+  ],
+  "burimet": [
+    "Libri i matematikës klasa 7, fq. 13-17",
+    "Diagrama Venn",
+    "Fletë me rrjeta numrash 1-100",
+    "Ngjyra të ndryshme për shënim",
+    "Projektor/tabelë e zgjuar"
+  ],
+  "lidhja": "Lidhje me Artin: krijimi i motiveve që përsëriten çdo n hapa. Lidhje me Muzikën: ritmet që përsëriten në intervale të rregullta. Lidhje me Biologjinë: ciklet e natyrës që ndodhin në intervale të caktuara.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "QËLLIMI: Nxënësit do të thellojnë kuptimin e shumëfishave, do të mësojnë notacionin matematik, dhe do të eksplorojnë shumëfishat e përbashkët të dy numrave.\n\nHYRJA (6 min):\n• Rikujtim: Çfarë është shumëfishi? Jepni 3 shumëfisha të numrit 5.\n• Problem motivues: 'Unë mendoj një numër që është shumëfish i 3 dhe i 4. Cili mund të jetë?'\n• Diskutim: 12, 24, 36... Këta quhen shumëfisha të përbashkët.\n\nZHVILLIMI (26 min):\n• Notacioni: M(n) = bashkësia e shumëfishave të n\n• M(4) = {4, 8, 12, 16, 20, 24, ...}\n• M(6) = {6, 12, 18, 24, 30, 36, ...}\n• Vërejtje: Bashkësia e shumëfishave është e pafundme!\n• Shumëfishat e përbashkët: M(4) ∩ M(6) = {12, 24, 36, 48, ...}\n• Aktivitet me Diagramë Venn: Vizatoni M(3) dhe M(5) deri në 30.\n  - M(3) = {3, 6, 9, 12, 15, 18, 21, 24, 27, 30}\n  - M(5) = {5, 10, 15, 20, 25, 30}\n  - Të përbashkët: {15, 30}\n• Punë në çifte: Gjeni shumëfishat e përbashkët të 4 dhe 5 deri në 50.\n• Diskutim: Cili është shumëfishi më i vogël i përbashkët (SHVP)?\n• SHVP(4,5) = 20 sepse është numri më i vogël që ndodhet në të dyja bashkësitë.\n\nPRAKTIKA (10 min):\n• Ushtrim 1: Shkruani M(8) për 8 elementët e parë.\n• Ushtrim 2: Gjeni M(6) ∩ M(9) për numrat deri në 60.\n• Ushtrim 3: Gjeni SHVP(6, 8).\n• Problem: Dy miq takohen në park. I pari vjen çdo 4 ditë, i dyti çdo 6 ditë. Nëse u takuan sot, pas sa ditësh do të takohen përsëri?\n\nMBYLLJA (3 min):\n• Përmbledhje: Bashkësia e shumëfishave, shumëfishat e përbashkët, SHVP\n• Pyetje: Pse SHVP është i rëndësishëm?\n• Vlerësim i shpejtë: Ngritni dorën nëse kuptuat mirë temën.",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "1. Shkruani M(7) për 12 elementët e parë.\n2. Gjeni M(4) ∩ M(10) për numrat deri në 80.\n3. Gjeni SHVP për çiftet: a) 3 dhe 7  b) 6 dhe 9  c) 8 dhe 12\n4. Problem: Tre llampa ndizen: A çdo 2 sekonda, B çdo 3 sekonda, C çdo 5 sekonda. Pas sa sekondash ndizen të treja së bashku?\n5. Sfidë: A ka numra që janë shumëfisha të çdo numri? Cili është ai numër?",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Numri",
+      "page_or_row": "2"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

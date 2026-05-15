@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_103",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 103,
+  "tema": "Ushtrime - Shndërrimet",
+  "tematika": "Shndërrimet",
+  "month": "Mars",
+  "trimester": 2,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës së 7-të të shkollës 'Fan Noli' në Tiranë duhet të organizojnë një ekspozitë për Ditën e Pavarësisë. Ata kanë në dispozicion një sallë me dimensione 8m x 6m dhe duhet të vendosin tavolina të ndryshme që kanë forma gjeometrike të ndryshme. Për të optimizuar hapësirën, duhet të kryejnë shndërrime të ndryshme të figurave (rrotullime, reflektime, zhvendosje) dhe të llogaritin sipërfaqet e reja pas shndërrimit.",
+  "rezultatet": [
+    "Nxënësi/ja identifikon llojet kryesore të shndërrimeve gjeometrike: translacion, rotacion dhe refleksion",
+    "Nxënësi/ja llogarit koordinatat e pika të reja pas kryerjes së një translacioni me vektor të dhënë",
+    "Nxënësi/ja demonstron rrotullimin e një figure rreth një pike me kënd 90°, 180° dhe 270°",
+    "Nxënësi/ja zgjidh probleme praktike duke përdorur refleksionin sipas boshteve koordinative",
+    "Nxënësi/ja argumenton se shndërrimet gjeometrike ruajnë formën dhe madhësinë e figurave",
+    "Nxënësi/ja përdor kombinimin e shndërrimeve për të zgjidhur ushtrime komplekse"
+  ],
+  "fjalet_kyce": [
+    "Translacion (translation)",
+    "Rotacion (rotation)",
+    "Refleksion (reflection)",
+    "Koordinata (x, y)",
+    "Vektor zhvendosjeje",
+    "Qendër rrotullimi",
+    "Bosht reflektimi",
+    "Transformim izometrik"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 8 'Shndërrimet', faqe 142-158",
+    "Kompas, vizore, transportues, laps me ngjyra të ndryshme",
+    "Letër milimetrike A4 dhe A3 për vizatim",
+    "Fletë pune e përgatitur me 15 ushtrime shndërrimesh",
+    "Figura karton të prerë (trekëndësh, katror, rreth) për manipulim",
+    "GeoGebra në tablet/kompjuter për vizualizim interaktiv"
+  ],
+  "lidhja": "Lidhje me Artet Vizuale në dizajnimin e ornamenteve dhe modeleve të rregullta shqiptare si ato të qilimave të Krujës. Lidhje me Gjeografinë në leximin e hartave dhe orientimin në terren. Lidhje me shkencat natyrore në lëvizjen e trupave dhe simetrinë në natyrë. Përdorim praktik në arkitekturën tradicionale shqiptare ku simetria dhe shndërrimet janë të pranishme në ornamentet e shtëpive të vjetra të Gjirokastrës dhe Beratit.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nQëllimi i kësaj ore është që nxënësit të sistemojnë dhe të thellojnë njohuritë për shndërrimet gjeometrike përmes zgjidhjes së ushtrimeve të ndryshme praktike. Ata do të aplikojnë konceptet e translacionit, rotacionit dhe refleksionit në probleme konkrete matematikore dhe situata të jetës së përditshme.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\nMësuesi fillon me një lojë interaktive 'Gjej figurën e fshehur'. Në tabelë vendoset një grid koordinativ 10x10 dhe tregohen tre figura identike të vendosura në pozicione të ndryshme. Nxënësit duhet të identifikojnë se çfarë shndërrimi është kryer për të kaluar nga figura e parë te e dyta dhe te e treta. Pyetje orientuese: 'Sa njësi është zhvendosur figura djathtas? Sa gradë është rrotulluar? Sipas cilit bosht është reflektuar?' Kjo aktivizon njohuritë e mëparshme dhe krijon kuriozitet për ushtrimet që do të zgjidhen.\n\n**REALIZIMI I KUPTIMIT/ZHVILLIMI** (25-28 minuta)\n\n*Shembull 1 - Translacioni:*\nMësuesi demonstron në tabelë: 'Një trekëndësh ABC ka koordinata A(2,3), B(4,1), C(1,5). Gjeni koordinatat e reja pas translacionit me vektor v(3,-2).' Zgjidhja hap pas hapi:\nA' = (2+3, 3-2) = (5,1)\nB' = (4+3, 1-2) = (7,-1) \nC' = (1+3, 5-2) = (4,3)\nVizatohet figura origjinale dhe e re për të treguar zhvendosjen.\n\n*Shembull 2 - Rotacioni:*\n'Një katror me koordinata A(1,1), B(3,1), C(3,3), D(1,3) rrotullohet 90° në drejtim kundërorar rreth origjinës.' Aplikohet rregulla: (x,y) → (-y,x)\nA' = (-1,1), B' = (-1,3), C' = (-3,3), D' = (-3,1)\nTregohet se forma dhe madhësia ruhen.\n\n*Shembull 3 - Refleksioni:*\n'Një trekëndësh me koordinata P(2,4), Q(5,2), R(1,1) reflektohet sipas boshtit x.' Aplikohet rregulla: (x,y) → (x,-y)\nP' = (2,-4), Q' = (5,-2), R' = (1,-1)\nTregohet se distanca nga boshti ruhet.\n\nPunë në grupe (3-4 anëtarë): Secili grup merr një fletë pune me 4 ushtrime të nivelit mesatar. Grupet punojnë 12 minuta dhe pastaj prezantojnë zgjidhjen e një ushtrimi në tabelë.\n\n**PRAKTIKA/USHTRIME** (8-10 minuta)\n\na) *Niveli bazë:*\n- Gjeni koordinatat pas translacionit me v(2,3): A(1,2) → ?\n- Reflektoni pikën B(4,5) sipas boshtit y\n- Rrotulloni pikën C(3,0) me 180° rreth origjinës\n\nb) *Niveli mesatar:*\n- Një trekëndësh translacionohet me v(-2,4), pastaj reflektohet sipas boshtit x. Gjeni koordinatat finale\n- Gjeni qendrën e rotacionit nëse A(2,1) kalon në A'(1,2) me rrotullim 90°\n\nc) *Niveli i avancuar:*\n- Provoni se kombinimi i dy refleksioneve sipas boshteve të ndryshme jep një rotacion. Gjeni këndin e rotacionit.\n\n**MBYLLJA/REFLEKTIMI** (3-5 minuta)\nMësuesi përmbledh pikat kryesore: 1) Shndërrimet ruajnë formën dhe madhësinë, 2) Çdo shndërrim ka rregullat e veta specifike, 3) Mund të kombinohen shndërrime të ndryshme. Quiz verbal: 'Çfarë ndodh me koordinatat kur reflektojmë sipas boshtit y?' Parashikim: 'Orën e ardhshme do të mësojmë për homotetinë - shndërrim që ndryshon madhësinë por ruan formën.'",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**DETYRË BAZË:**\n1. Libri faqe 145, ushtrimet 1-6 (translacione të thjeshta)\n2. Libri faqe 148, ushtrimet 2, 4, 6, 8 (refleksione sipas boshteve)\n3. Gjeni koordinatat e pikave pas rrotullimit 90°: A(2,3), B(-1,4), C(0,-2)\n4. Vizatoni në letër milimetrike figurën origjinale dhe të transformuar për secilën detyrë\n\n**DETYRË KRIJUESE:**\nKrijoni një 'Galeri Shndërrimesh' në një fletë A3. Zgjidhni një figurë të thjeshtë (zemër, yll, shtëpi) dhe aplikoni të paktën 5 shndërrime të ndryshme. Për secilin shndërrim shkruani koordinatat dhe llojin e transformimit. Shtoni ngjyra të ndryshme për të dalluar figurat. Prezantoni punimet javën e ardhshme.\n\n**DETYRË SHTESË (fakultative):**\nHulumtoni dhe gjeni të paktën 3 shembuj të shndërrimeve gjeometrike në arkitekturën tradicionale shqiptare (xhami, ura, shtëpi të vjetra). Shpjegoni se çfarë lloj shndërrimi është përdorur në ornamente dhe modele. Përdorni foto nga interneti ose bëni vizita në qytetin tuaj.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Shndërrimet",
+      "page_or_row": "103"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_068",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 68,
+  "tema": "Ushtrime - Ekuacionet",
+  "tematika": "Algjebra",
+  "month": "Janar",
+  "trimester": 2,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës së 7-të në shkollën 'Fan Noli' në Tiranë planifikojnë një dalje në Parkun e Liqenit Artificial. Ata duhet të llogaritin koston totale të biletave për autobus, ku çdo bilet kushton 150 lekë, plus taksa hyrje në park 200 lekë për person. Me një buxhet prej 25,000 lekësh nga fondi i klasës, duhet të përdorin ekuacione për të gjetur se sa nxënës mund të marrin pjesë në këtë dalje.",
+  "rezultatet": [
+    "Nxënësi/ja zgjidh ekuacione lineare të tipit ax + b = c me koeficientë të plotë pozitivë dhe negativë",
+    "Nxënësi/ja transformon probleme të jetës reale në ekuacione matematikore duke identifikuar të panjohurën",
+    "Nxënësi/ja aplikon rregullat e transformimit të ekuacioneve për të izoluar të panjohurën",
+    "Nxënësi/ja verifikon saktësinë e zgjidhjes së ekuacionit duke zëvendësuar vlerën e gjetur",
+    "Nxënësi/ja interpreton zgjidhjen e ekuacionit në kontekstin e problemit real dhe jep përgjigje me kuptim",
+    "Nxënësi/ja argumenton hapat e ndjekur në zgjidhjen e ekuacionit duke përdorur terminologjinë matematikore"
+  ],
+  "fjalet_kyce": [
+    "ekuacion linear",
+    "të panjohura (x, y, z)",
+    "koeficient",
+    "term i lirë",
+    "transformim ekuacioni",
+    "verifikim i zgjidhjes",
+    "izolim i të panjohurës",
+    "balancim i ekuacionit"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 4 'Ekuacionet', faqe 52-58",
+    "Fletë pune e përgatitur me 15 ushtrime ekuacionesh në tri nivele vështirësie",
+    "Tabelë e bardhë, marker me ngjyra të ndryshme për vizualizim",
+    "Kartonë me probleme reale nga jeta në Shqipëri (çmimet e produkteve, distancat)",
+    "Kalkulatore shkencore për verifikim",
+    "Postera me rregullat e transformimit të ekuacioneve"
+  ],
+  "lidhja": "Lidhje me shkencat natyrore në llogaritjen e shpejtësisë dhe kohës (v = s/t). Lidhje me Gjeografinë në matjen e distancave midis qyteteve shqiptare. Lidhje me Ekonominë familjare në llogaritjen e shpenzimeve dhe buxhetit familjar. Përdorim në planifikimin e aktiviteteve shkollore dhe llogaritjen e kostove për excursione.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nNxënësit do të forcojnë aftësitë e tyre në zgjidhjen e ekuacioneve lineare përmes ushtrimeve praktike dhe problemeve nga jeta reale. Ata do të mësojnë të transformojnë situata të përditshme në ekuacione matematikore dhe të interpreton zgjidhjet e gjetura.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\nMësuesi nis orën me një lojë motivuese: 'Gjej numrin misterios'. Thotë: 'Mendova një numër, e shumëzova me 3, pastaj i shtova 7, dhe mora rezultatin 22. Cili është numri që mendova?' Nxënësit hedhin ide, pastaj mësuesi shpjegon se kjo është një ekuacion: 3x + 7 = 22. Pyetje orientuese: 'Nëse një bilet autobuzi kushton 100 lekë dhe ju keni 1500 lekë, sa bileta mund të blini? Si mund ta shkruajmë këtë si ekuacion?' Lidhet me orën e kaluar ku mësuam bazat e ekuacioneve.\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\nMësuesi shpjegon rregullat e transformimit të ekuacioneve duke përdorur analogjinë e peshores: 'Çfarë bëjmë në një anë, duhet ta bëjmë edhe në anën tjetër'.\n\n**Shembull 1:** 2x + 5 = 13\n- Heqim 5 nga të dyja anët: 2x + 5 - 5 = 13 - 5\n- Thjeshtojmë: 2x = 8\n- Pjesëtojmë me 2 në të dyja anët: x = 4\n- Verifikimi: 2(4) + 5 = 8 + 5 = 13 ✓\n\n**Shembull 2:** 15 - 3x = 6\n- Heqim 15 nga të dyja anët: -3x = 6 - 15\n- Thjeshtojmë: -3x = -9\n- Pjesëtojmë me -3: x = 3\n- Verifikimi: 15 - 3(3) = 15 - 9 = 6 ✓\n\n**Shembull 3:** Problem nga jeta reale: 'Ana bleu 4 libra të njëjtë dhe pagoi 200 lekë për transport. Gjithsej shpenzoi 1400 lekë. Sa kushton një libër?'\n- Le të jetë x çmimi i një libri\n- Ekuacioni: 4x + 200 = 1400\n- 4x = 1400 - 200 = 1200\n- x = 1200 ÷ 4 = 300 lekë\n- Verifikimi: 4(300) + 200 = 1200 + 200 = 1400 ✓\n\nNxënësit ndahen në grupe prej 4 vetash. Çdo grup merr një kartonë me problem të ndryshëm dhe duhet ta shndërrojë në ekuacion, ta zgjidhë dhe ta verifikojë. Grupet prezantojnë zgjidhjet e tyre në tabelë.\n\n**PRAKTIKA** (8-10 minuta)\na) **Niveli bazë:** \n   - x + 7 = 12\n   - 2x = 16  \n   - x - 5 = 8\n\nb) **Niveli mesatar:**\n   - 3x + 4 = 19\n   - 20 - 2x = 14\n\nc) **Niveli i avancuar:**\n   - 5x + 3 = 2x + 15 (ekuacion me të panjohura në të dyja anët)\n\n**MBYLLJA** (3-5 minuta)\nPërmbledhje e tri pikave kryesore: 1) Çfarë bëjmë në një anë, e bëjmë edhe në tjetrën, 2) Gjithmonë verifikojmë zgjidhjen, 3) Problemet reale shndërrohen në ekuacione. Quiz verbal: 'Nëse 2x + 3 = 11, sa është x?' Parashikimi i orës së ardhshme: do të mësojmë ekuacione me thyesa.",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**BAZË:** Zgjidhni ushtrimet 1-6 nga faqja 56 të librit, që përfshijnë ekuacione të thjeshta të tipit ax + b = c. Ushtrime: x + 4 = 9, 2x = 14, x - 3 = 7, 3x + 2 = 11.\n\n**KRIJUESE:** Krijoni 3 probleme nga jeta juaj e përditshme që mund të zgjidhen me ekuacione (shembull: blerje produktesh në dyqan, llogaritje kohës për udhëtime, ndarje kostove mes shokëve). Shkruani problemin me fjalë, pastaj si ekuacion, dhe zgjidheni.\n\n**SHTESË (fakultative):** Për nxënësit e avancuar: Hulumtoni se si përdoren ekuacionet në profesione të ndryshme (arkitektë, inxhinjerë, ekonomistë). Përgatitni një prezantim 3-minutësh për orën e ardhshme. Zgjidhni ekuacionin sfiduese: 2(x + 3) = 4x - 2.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Algjebra",
+      "page_or_row": "68"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

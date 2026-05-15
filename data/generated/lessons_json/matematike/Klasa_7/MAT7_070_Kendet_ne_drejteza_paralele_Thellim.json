@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_070",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 70,
+  "tema": "Këndet në drejtëza paralele - Thellim",
+  "tematika": "Gjeometria",
+  "month": "Janar",
+  "trimester": 2,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës së 7-të në shkollën 'Fan Noli' në Tiranë duhet të llogaritinë këndet që formohen nga rrugët paralele të qytetit kur priten nga rruga diagonale 'Dëshmorët e Kombit'. Ata do të përdorin hartën e Tiranës për të identifikuar këndet korrespondues, alternativ dhe brenda të njëjtit krah që formohen nga rruga 'Myslym Shyri' dhe bulevardi 'Bajram Curri' kur priten nga bulevardi kryesor.",
+  "rezultatet": [
+    "Nxënësi/ja identifikon saktësisht këndet korrespondues, alternativ dhe brenda të njëjtit krah në dy drejtëza paralele",
+    "Nxënësi/ja llogarit masat e këndeve të panjohura duke përdorur vetitë e këndeve në drejtëza paralele",
+    "Nxënësi/ja demonstron se këndet korrespondues janë të barabartë kur drejtëzat janë paralele",
+    "Nxënësi/ja zgjidh probleme të përbëra ku kombinohen llojet e ndryshme të këndeve",
+    "Nxënësi/ja argumenton përse shuma e këndeve brenda të njëjtit krah është 180°",
+    "Nxënësi/ja konstrukton figura gjeometrike me drejtëza paralele dhe identifikon këndet përkatëse"
+  ],
+  "fjalet_kyce": [
+    "kënde korrespondues (corresponding angles)",
+    "kënde alternativ të brendshëm (alternate interior angles)",
+    "kënde alternativ të jashtëm (alternate exterior angles)",
+    "kënde brenda të njëjtit krah (co-interior angles)",
+    "drejtëza paralele (parallel lines): a ∥ b",
+    "prerëse (transversal)",
+    "shuma 180° për këndet brenda të njëjtit krah",
+    "barazimi i këndeve: ∠α = ∠β"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 4 'Drejtëza paralele', faqe 78-85",
+    "Vizore, busull, raportator për matjen e këndeve",
+    "Fletë pune e përgatitur me 12 ushtrime të ndryshme vështirësie",
+    "Kartela me figura gjeometrike për punën në grupe",
+    "GeoGebra për demonstrimin interaktiv të këndeve",
+    "Harta e Tiranës për shembuj praktikë me rrugë paralele"
+  ],
+  "lidhja": "Lidhje me Gjeografinë përmes leximit të hartave dhe orientimit në hapësirë. Lidhje me shkencat natyrore në studimin e rrezeve të dritës që reflektohen në pasqyra paralele. Lidhje me Artet vizuale në krijimin e perspektivës dhe lineve paralele në vizatim. Aplikime praktike në arkitekturë dhe ndërtim, veçanërisht në rrugët e planifikuara të qyteteve shqiptare si Tirana dhe Durrësi.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**: Kjo orë ka për qëllim të thellojë njohuritë e nxënësve rreth këndeve që formohen kur dy drejtëza paralele priten nga një prerëse, duke u fokusuar në zgjidhjen e problemave komplekse dhe demonstrimin e vetive themelore.\n\n**EVOKIMI/HYRJA** (8-10 minuta):\nMësuesja fillon me lojën 'Gjuetia e këndeve' ku nxënësit duhet të identifikojnë në klasë objekte që formojnë kënde të barabartë (dritaret paralele, këmbët e tryezave). Pastaj tregon fotografinë e rrugëve të Tiranës nga lart dhe pyet: 'Nëse rruga Myslym Shyri dhe bulevardi Bajram Curri janë paralele, dhe bulevardi Dëshmorët i pret të dyja, çfarë mund të themi për këndet që formohen?' Lidh me orën e kaluar duke përsëritur llojet bazë të këndeve: korrespondues (α = 65°), alternativ (β = 65°), brenda të njëjtit krah (γ + δ = 180°).\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta):\nShpjegon konceptin duke filluar me tre shembuj të detajuar:\n\n**Shembulli 1**: Në figurë kemi a ∥ b, prerëse c. Nëse ∠1 = 70°, gjeni të gjithë këndet e tjerë.\nZgjidhja: ∠1 = 70° (i dhënë), ∠5 = 70° (korrespondues), ∠3 = 70° (vertikal me ∠1), ∠7 = 70° (vertikal me ∠5), ∠2 = 110° (plotësues me ∠1), ∠6 = 110° (korrespondues me ∠2), ∠4 = 110° (vertikal me ∠2), ∠8 = 110° (vertikal me ∠6).\n\n**Shembulli 2**: Në drejtëza paralele, ∠A = 3x + 20° dhe ∠B = 5x - 40° janë kënde brenda të njëjtit krah. Gjeni x dhe masat e këndeve.\nZgjidhja: ∠A + ∠B = 180°, (3x + 20°) + (5x - 40°) = 180°, 8x - 20° = 180°, 8x = 200°, x = 25°. Pra ∠A = 95° dhe ∠B = 85°.\n\n**Shembulli 3**: Dy rrugë paralele në Durrës priten nga rruga bregdetare. Nëse kënd i formuar është 45°, gjeni të gjithë këndet e tjerë.\nZgjidhja e plotë me vizatim në tabelë dhe shënime të të gjithë këndeve: 45°, 135°, 45°, 135°, 45°, 135°, 45°, 135°.\n\nOrganizim pune në grupe me 4 nxënës: Çdo grup merr një kartë me situatë të ndryshme (rrugë qyteti, hekurudha paralele, shiritat e fushës së futbollit) dhe duhet të identifikojë dhe llogaritë këndet. Mësuesi demonstron në tabelë me vizatim të saktë si të përdoret raportatori dhe si të shënohen këndet me shkronja greke.\n\n**PRAKTIKA** (8-10 minuta):\na) **Niveli bazë**: Llogaritni: 1) Nëse ∠1 = 60°, gjeni ∠5 (korrespondues = 60°). 2) Nëse ∠2 = 110°, gjeni ∠6 (korrespondues = 110°). 3) Nëse ∠3 = 80°, gjeni ∠7 (korrespondues = 80°).\nb) **Niveli mesatar**: 1) ∠A = 2x + 30° dhe ∠B = 4x - 60° janë alternativ. Gjeni x dhe masat. (x = 35°, ∠A = ∠B = 100°). 2) Në trekëndësh me bazë paralele me drejtëzën e jashtme, një kënd është 75°. Gjeni këndin alternativ.\nc) **Niveli i avancuar**: Në një figurë komplekse me tre drejtëza paralele dhe dy prerëse, nëse jepen dy kënde, gjeni të gjithë këndet e tjerë (16 kënde gjithsej).\n\n**MBYLLJA/REFLEKTIMI** (3-5 minuta):\nPërmbledhja e tri pikave kryesore: 1) Këndet korrespondues janë të barabartë, 2) Këndet alternativ janë të barabartë, 3) Këndet brenda të njëjtit krah plotësojnë 180°. Quiz verbal: 'Nëse kam dy rrugë paralele dhe një rrugë që i pret, sa lloje këndesh mund të formohen?' Parashikim i orës së ardhshme: 'Nesër do të mësojmë si të përdorim këto veti për të gjetur këndet e brendshme të shumëkëndëshave.'",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**DETYRË BAZË**: Zgjidhni ushtrimet 1-6 nga libri, faqe 84. Llogaritni këndet kur jepen: ∠1 = 85° (gjeni ∠5, ∠3, ∠7), ∠2 = 120° (gjeni ∠6, ∠4, ∠8), dhe dy ushtrime me kënde brenda të njëjtit krah ku shuma është 180°.\n\n**DETYRË KRIJUESE**: Krijoni një poster A3 me fotografinë e një vendi në qytetin tuaj ku shihen drejtëza paralele (rrugë, hekurudha, ndërtesa). Vizatoni mbi fotografi këndet që formohen dhe etiketoni me emrat e duhur. Shkruani një paragraf që shpjegon si aplikohen rregullat e këndeve në atë vend konkret.\n\n**DETYRË SHTESË (fakultative)**: Hulumtoni si përdoren drejtëzat paralele dhe këndet në arkitekturën e lashtë shqiptare (kështjellat, urat, xhamitë). Shkruani një ese 200 fjalësh dhe sillni së paku tre fotografi me shembuj konkretë nga monumentet tona kulturore.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Gjeometria",
+      "page_or_row": "70"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

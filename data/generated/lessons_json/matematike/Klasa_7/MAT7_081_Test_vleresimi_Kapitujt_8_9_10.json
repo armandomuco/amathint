@@ -1,0 +1,69 @@
+{
+  "id": "MAT7_081",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 81,
+  "tema": "Test vlerësimi - Kapitujt 8, 9, 10",
+  "tematika": "Vlerësim i njohurive të fituara",
+  "month": "Shkurt",
+  "trimester": 2,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës së 7-të në shkollën 'Naim Frashëri' në Tiranë përgatiten për testin e fundit të tretë muajor që përfshin tri kapitujt e fundit të mësuar: ekuacionet e shkallës së parë, gjeometrinë e rrethit dhe statistikën bazë. Ata duhet të demonstrojnë aftësitë e tyre në zgjidhjen e ekuacioneve që lidhen me situata praktike si llogaritja e çmimeve në tregun e Pazarit të Ri, matjen e sipërfaqeve të rrumbullakëta si parku i liqenit artificial në Tiranë, dhe interpretimin e të dhënave statistikore nga një hulumtim i kryer për preferencat e nxënësve shqiptarë për sportet.",
+  "rezultatet": [
+    "Nxënësi/ja zgjidh saktësisht ekuacione të shkallës së parë me një të panjohur",
+    "Nxënësi/ja llogarit perimetrin dhe sipërfaqen e rrethit duke përdorur formulat e duhura",
+    "Nxënësi/ja interpreton të dhëna statistikore dhe përllogarit mesataren aritmetike",
+    "Nxënësi/ja demonstron hapat e zgjidhjes së problemave me shembuj numerikë konkretë",
+    "Nxënësi/ja argumenton metodat e përdorura në zgjidhjen e ushtrimeve të ndryshme",
+    "Nxënësi/ja identifikon gabimet e zakonshme dhe i korrigjon ato sistematikisht"
+  ],
+  "fjalet_kyce": [
+    "ekuacion i shkallës së parë",
+    "të panjohura (x, y)",
+    "rreth (circle)",
+    "perimetër P = 2πr",
+    "sipërfaqe S = πr²",
+    "rrezja (r) dhe diametri (d)",
+    "statistikë (statistics)",
+    "mesatare aritmetike",
+    "π ≈ 3.14159"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitujt 8, 9, 10, faqe 120-180",
+    "Fletë testi e përgatitur me 25 pyetje të ndryshme",
+    "Busull, vizore dhe kalkulatore shkencore",
+    "Tavolina gjeometrike me figura të rrethit",
+    "Fletë drafti dhe instrumente vizatimi",
+    "Kronometër për kohën e testit (90 minuta)"
+  ],
+  "lidhja": "Testi lidhet me Gjeografinë përmes llogaritjeve të distancave midis qyteteve shqiptare, me shkencat natyrore përmes koncepteve të lëvizjes rrethore, me Teknologjinë përmes përdorimit të kalkulatorëve dhe softuerit matematikor, dhe me jetën e përditshme përmes problemave praktike si llogaritja e çmimeve në treg, planifikimi i kopshteve rrethore në oborret e shkollave, dhe analiza e të dhënave nga anketime sociale në komunitetin shqiptar.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nQëllimi i kësaj ore është që nxënësit të demonstrojnë nivelin e përvetësimit të njohurive dhe aftësive të fituara gjatë tri kapitujve të fundit përmes një testi gjithëpërfshirës që përfshin ekuacionet e shkallës së parë, gjeometrinë e rrethit dhe statistikën bazë.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\nMësuesi fillon orën me një aktivitet relaksues për të ulur ankthit e testit: 'Loja e pyetjeve të shpejta matematikore'. Nxënësit formojnë dy rreshta dhe mësuesi bën pyetje të thjeshta si: 'Sa është 2x + 3 = 9?', 'Çfarë është rrezja e një rrethi me diametër 10 cm?', 'Si llogaritet mesatarja e numrave 5, 7, 9?'. Pyetjet orientuese përfshijnë: 'A kujtoni formulën për sipërfaqen e rrethit?', 'Cilat janë hapat për zgjidhjen e një ekuacioni?', 'Si interpretohen të dhënat statistikore?'. Kjo lidhet me përsëritjen e koncepteve kryesore nga tre kapitujt.\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\nMësuesi bën një përsëritje të shpejtë të koncepteve kryesore me tre shembuj të zgjidhur:\n\n**Shembuj i parë - Ekuacioni**: Një dyqan në Tiranë shet bluza me çmim 2500 lekë secila plus një taksë fikse 500 lekë. Nëse një klient paguan gjithsej 8000 lekë, sa bluza ka blerë?\nZgjidhja: 2500x + 500 = 8000\n2500x = 8000 - 500\n2500x = 7500\nx = 7500 ÷ 2500 = 3 bluza\n\n**Shembulli i dytë - Rrethi**: Parku i ri në lagjen 'Kashar' ka një lulishte rrethore me rreze 15 metra. Sa është perimetri dhe sipërfaqja e kësaj lulishjeje?\nZgjidhja: P = 2πr = 2 × 3.14 × 15 = 94.2 m\nS = πr² = 3.14 × 15² = 3.14 × 225 = 706.5 m²\n\n**Shembulli i tretë - Statistika**: Në një klasë me 25 nxënës, notat në matematikë janë: 8, 7, 9, 6, 8, 7, 9, 8, 6, 7, 9, 8, 7, 8, 9, 7, 8, 6, 9, 8, 7, 8, 9, 7, 8. Gjeni mesataren aritmetike.\nZgjidhja: Shuma = 25 × 7.72 = 193\nMesatarja = 193 ÷ 25 = 7.72\n\nPas shembujve, nxënësit organizohen në grupe nga 4 persona për të diskutuar strategjitë e zgjidhjes dhe për t'u ndihmuar me pyetjet e fundit përpara testit.\n\n**PRAKTIKA** (8-10 minuta)\nTesti ndahet në tre nivele vështirësie:\n\na) **Niveli bazë** (60% e pikëve):\n- Zgjidhni ekuacionin: 3x - 4 = 11\n- Llogaritni perimetrin e një rrethi me rreze 7 cm\n- Gjeni mesataren e numrave: 12, 15, 18\n\nb) **Niveli mesatar** (30% e pikëve):\n- Një fermër ka 120 dele dhe dhi. Nëse delet janë 20 më shumë se dhitë, sa dele ka?\n- Një pishcine rrethore ka sipërfaqe 78.5 m². Gjeni rrezën e saj\n\nc) **Niveli i avancuar** (10% e pikëve):\n- Problematikë komplekse që kombinon të gjitha konceptet në një situatë praktike nga jeta shqiptare\n\n**MBYLLJA/REFLEKTIMI** (3-5 minuta)\nMësuesi përmbledh tre pikat kryesore: 1) Rëndësia e leximit të kujdesshëm të problemave, 2) Aplikimi i formulave të duhura në kontekst, 3) Kontrolli i rezultateve për logjikë. Bëhet një vlerësim i shkurtër verbal: 'Çfarë strategjie do të përdorni për problemat e vështira?' dhe 'Si do të organizoni kohën tuaj gjatë testit?'. Paralajmërohet se ora e ardhshme do të jetë për korrigjimin e testit dhe analizën e gabimeve të zakonshme.",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**BAZË**: Përsëritni formulat kryesore nga tre kapitujt dhe zgjidhni ushtrimet 1-8 nga faqja 181 të librit si përgatitje shtesë. Praktikoni llogaritjet me kalkulatore për të shmangur gabimet aritmetikore.\n\n**KRIJUESE**: Krijoni një poster matematikor që tregon aplikimin e tre kapitujve në jetën e përditshme shqiptare - një shembull për ekuacionet (blerje në dyqan), një për rrethin (objektet rrethore në qytet), dhe një për statistikën (të dhëna demografike).\n\n**SHTESË (fakultative)**: Hulumtoni dhe prezantoni një problem të vërtetë nga jeta shqiptare që kërkon aplikimin e të gjitha tre koncepteve së bashku, si planifikimi i një eventi publik në një shesh rreth që kërkon llogaritje financiare dhe analizë statistikore të pjesëmarrësve.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Test",
+      "page_or_row": "81"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

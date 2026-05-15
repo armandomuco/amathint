@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_026",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 26,
+  "tema": "Ushtrime - Këndet dhe shumëkëndëshat",
+  "tematika": "Gjeometria",
+  "month": "Tetor",
+  "trimester": 1,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës së 7-të në shkollën 'Fan Noli' në Tiranë duhet të projektojnë një kopsht të ri për shkollën. Drejtoresha u ka dhënë një sipërfaqe në formë shumëkëndëshi të çrregullt dhe ata duhet të llogaritin shumën e të gjitha këndeve të brendshme për të vendosur saktësisht vendndodhjen e secilit lule dhe pemë. Gjithashtu, duhet të përdorin busull dhe vizore për të matur këndet e çdo këndi të kopshtit dhe të verifikojnë nëse llogaritjet teorike përputhen me matjet praktike.",
+  "rezultatet": [
+    "Nxënësi/ja llogarit saktësisht shumën e këndeve të brendshme të një shumëkëndëshi duke përdorur formulën (n-2)×180°",
+    "Nxënësi/ja identifikon dhe emërton llojet e këndeve (të ngushtë, të drejta, të gjera, të drejtpërdrejta) në kontekstin e shumëkëndëshave",
+    "Nxënësi/ja demonstron praktikisht matjen e këndeve duke përdorur busull në figura gjeometrike konkrete",
+    "Nxënësi/ja zgjidh probleme të ndryshme që kërkojnë gjetjen e një këndi të panjohur në shumëkëndësh",
+    "Nxënësi/ja argumenton pse shuma e këndeve të jashtme të çdo shumëkëndëshi është gjithmonë 360°",
+    "Nxënësi/ja përkufizon dallimet midis shumëkëndëshave të rregullta dhe të çrregullta duke dhënë shembuj konkretë"
+  ],
+  "fjalet_kyce": [
+    "shumëkëndësh (polygon)",
+    "kënd i brendshëm (interior angle)",
+    "kënd i jashtëm (exterior angle)",
+    "formula (n-2)×180°",
+    "busull (protractor)",
+    "shumëkëndësh i rregullt (regular polygon)",
+    "shumëkëndësh i çrregullt (irregular polygon)",
+    "gradë (°)"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 4: Gjeometria, faqe 78-85",
+    "Busull për matjen e këndeve (një për çift nxënësish)",
+    "Vizore dhe laps për vizatim gjeometrik",
+    "Fletë pune e përgatitur me 8 figura shumëkëndëshash për matje",
+    "Poster i madh me llojet e shumëkëndëshave dhe formulat",
+    "Kalkulatore për llogaritje të shpejta"
+  ],
+  "lidhja": "Tema lidhet drejtpërdrejt me arkitekturën e ndërtesave historike shqiptare si Kala e Rozafës në Shkodër dhe shtëpitë tradicionale në Gjirokastër që përdorin forma shumëkëndëshore. Në Arte vizuese: krijimi i mandalave dhe ornamenteve gjeometrike. Në Gjeografi: leximi i hartave dhe orientimi duke përdorur busull. Në jetën e përditshme: projektimi i kopshteve, mozaikëve të dyshemeve, dhe ndërtimi i çative me kënd të caktuar për kullimin e shiut.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nKjo orë synon të përforcojë njohuritë e nxënësve rreth llogaritjes së këndeve në shumëkëndësha dhe të zhvillojë aftësitë praktike të matjes me busull. Nxënësit do të integrojnë teorinë me praktikën duke zgjidhur probleme reale.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\nMësuesi fillon me një lojë interaktive: \"Sa kënde ka kjo figurë?\" duke treguar objekte të ndryshme në klasë (dritare, dërrasë, orë). Më pas shfaq një imazh të kalasë së Prizrenit me formë shumëkëndëshi dhe pyet: \"Nëse do të ecnim rreth kësaj kale, sa herë do të ktheheshim dhe me çfarë këndi?\" Nxënësit diskutojnë në çifte dhe ndajnë mendimet. Mësuesi lidh me orën e kaluar duke pyetur: \"Çfarë mësuam rreth shumës së këndeve të trekëndëshit?\"\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\nMësuesi shpjegon konceptin përmes tre shembujve konkretë:\n\n**Shembulli 1 - Katërkëndëshi:** \"Le të llogasim shumën e këndeve të një oborri katërkëndor të shkollës. Formula është (n-2)×180° = (4-2)×180° = 2×180° = 360°. Pra, të katër këndet bashkë bëjnë 360°.\"\n\n**Shembulli 2 - Pesëkëndëshi:** \"Një park në Tiranë ka formë pesëkëndëshi. Shuma e këndeve: (5-2)×180° = 3×180° = 540°. Nëse tre këndet janë 108°, 120° dhe 95°, sa janë dy të tjerat bashkë? 540° - (108° + 120° + 95°) = 540° - 323° = 217°.\"\n\n**Shembulli 3 - Gjashtëkëndëshi i rregullt:** \"Një mozaik gjashtëkëndor në dyshemenë e xhamisë. Shuma totale: (6-2)×180° = 720°. Çdo kënd: 720° ÷ 6 = 120°.\"\n\nNxënësit ndahen në grupe 4-she dhe secilit grup i jepet një fletë pune me një shumëkëndësh të vizatuar. Detyra: \"Matni çdo kënd me busull dhe llogaritni shumën. Krahasoni me formulën teorike.\" Çdo grup prezanton gjetjet në 3 minuta.\n\n**PRAKTIKA** (8-10 minuta)\n**Niveli bazë:** \na) Gjeni shumën e këndeve për: trekëndësh, pesëkëndësh, tetëkëndësh\nb) Në një katërkëndësh këndet janë 85°, 90°, 95°. Sa është këndi i katërt?\nc) Sa është çdo kënd i një pesëkëndëshi të rregullt?\n\n**Niveli mesatar:**\na) Një shumëkëndësh ka shumën e këndeve 1080°. Sa brinjë ka?\nb) Në një gjashtëkëndësh pesë këndet janë 115° secili. Sa është këndi i gjashtë?\n\n**Niveli i avancuar:**\n\"Një arkitekt do të ndërtojë një kopsht me formë shumëkëndëshi ku çdo kënd të jetë 135°. Sa brinjë do të ketë kopshti dhe sa do të jetë perimetri nëse çdo brinjë është 8 metra?\"\n\n**MBYLLJA** (3-5 minuta)\nTri pika përmbledhëse: 1) Formula (n-2)×180° na jep shumën e këndeve të brendshme, 2) Shumëkëndëshat e rregullt kanë të gjitha këndet të barabarta, 3) Matja praktike me busull konfirmon teorinë. Quiz verbal: \"Çfarë është shuma e këndeve të një dekagonit (10-këndësh)?\" Përgjigja: 1440°. Ora e ardhshme do të përqendrohet tek këndet e jashtme dhe relacioni mes tyre.",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**DETYRË BAZË:**\n1. Llogaritni shumën e këndeve për: heptagon (7-këndësh), oktagon (8-këndësh), enagon (9-këndësh)\n2. Gjeni çdo kënd të një dekagoni të rregullt (10-këndësh)\n3. Në një pesëkëndësh katër këndet janë: 108°, 112°, 98°, 127°. Sa është këndi i pestë?\n4. Vizatoni një gjashtëkëndësh dhe matni këndet me busull\n\n**DETYRË KRIJUESE:**\nKrijoni një poster \"Shumëkëndëshat në arkitekturën shqiptare\" duke fotografuar ose vizatuar të paktën 5 objekte nga qyteti juaj që kanë forma shumëkëndëshore (dritare, ornamente, mozaikë). Llogaritni shumën teorike të këndeve për secilin dhe shkruani emrin e objektit.\n\n**DETYRË SHTESË (fakultative):**\nHulumtoni dhe zbuloni pse hexagoni (gjashtëkëndëshi) përdoret shpesh në natyrë (kosheret e bletëve, kristalet e akullit). Shkruani një ese 200-fjalëshe rreth \"Matematika në natyrë - Pse bletët zgjedhin gjashtëkëndëshin?\" dhe ilustrojeni me shembuj.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Gjeometria",
+      "page_or_row": "26"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

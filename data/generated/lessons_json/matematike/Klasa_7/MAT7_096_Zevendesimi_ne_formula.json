@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_096",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 96,
+  "tema": "Zëvendësimi në formula",
+  "tematika": "Algjebra",
+  "month": "Mars",
+  "trimester": 2,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës së 7-të në shkollën 'Fan Noli' në Tiranë duhet të llogaritin koston e një udhëtimi shkollor në Berat. Ata përdorin formula matematikore për të gjetur distancën (d = v × t), koston e karburantit (K = d × çmimi/litër × konsum), dhe shpenzimin total për autobus (S = K + taksa). Duke zëvendësuar vlerat konkrete në formula, ata mund të planifikojnë buxhetin e nevojshëm për excursion.",
+  "rezultatet": [
+    "Nxënësi/ja përkufizon çfarë nënkupton zëvendësimi i vlerave në formula algjebrike",
+    "Nxënësi/ja identifikon variablat dhe konstantet në formula të ndryshme matematikore",
+    "Nxënësi/ja llogarit saktësisht vlerën numerike të një formule duke zëvendësuar vlerat e dhëna",
+    "Nxënësi/ja zgjidh problemet praktike duke përdorur zëvendësimin në formula gjeometrike dhe natyrore",
+    "Nxënësi/ja demonstron hapat e zëvendësimit duke respektuar rregullin e veprimeve matematikore",
+    "Nxënësi/ja argumenton pse renditja e veprimeve është e rëndësishme në zëvendësimin me formula"
+  ],
+  "fjalet_kyce": [
+    "variabël (variable)",
+    "konstante (constant)",
+    "formulë algjebrike",
+    "zëvendësim (substitution)",
+    "vlerë numerike",
+    "rregulla e veprimeve (BODMAS/PEMDAS)",
+    "shprehje algjebrike",
+    "përllogaritje"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 4: Algjebra, faqe 78-85",
+    "Kalkulatore shkencore për secilën grup",
+    "Fletë pune e përgatitur me 15 formula të ndryshme",
+    "Tabela e madhe për demonstrim me marker me ngjyra",
+    "Kartela me vlerat numerike për aktivitetin në grup",
+    "Prezantim PowerPoint me shembuj vizualë të zëvendësimit"
+  ],
+  "lidhja": "Lidhje të forta me shkencat natyrore (formula të shpejtësisë, forcës, energjisë), Gjeografinë (llogaritje distancash në hartë, shkallë), Kimia (formula të përqendrimit), Edukimin Financiar (llogaritje interesash, fitimi), dhe jetën e përditshme (recipe gatimi, konvertim monedash, planifikim buxheti familjar). Formula përdoren gjithashtu në ekonominë familjare shqiptare për llogaritjen e faturave të rrymës, ujit, dhe kostove të transportit publik.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\n\nOrë mësimore synon që nxënësit të kuptojnë konceptin e zëvendësimit në formula dhe të aftësohen të zgjidhin problema konkrete duke zëvendësuar vlerat numerike në vend të variablave. Nxënësit do të mësojnë të përdorin formula në kontekste të ndryshme praktike.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\n\nMësuesi hyn në klasë duke mbajtur një kartë SIM dhe një faturë telefoni. Pyet: 'A e dini si llogaritet kostoja e një telefonate? Nëse çdo minutë kushton 15 lekë, sa do të paguajmë për 8 minuta bisedë?' Nxënësit përgjigjen: 15 × 8 = 120 lekë. Pastaj tregon: 'Kjo mund të shkruhet si formulë: K = çmimi × minuta, ose K = c × m'. Pyet: 'Çfarë ndodh nëse zëvendësojmë c = 15 dhe m = 8?' Lidh me orën e kaluar për shprehjet algjebrike: 'Kujtoni kur shkruanim 3x + 5. Sot do të mësojmë të gjejmi vlerën kur x ka një numër konkret.'\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\n\nMësuesi shpjegon në tabelë konceptin e zëvendësimit duke filluar me shembuj të thjeshtë:\n\n**Shembulli 1**: Formula e perimetrit të drejtkëndëshit: P = 2(a + b)\nNëse a = 5 cm dhe b = 8 cm, atëherë:\nP = 2(5 + 8) = 2 × 13 = 26 cm\nShpjegim hap pas hapi: Së pari llogarisim brenda kllapave, pastaj shumëzojmë me 2.\n\n**Shembulli 2**: Formula e sipërfaqes së trekëndëshit: S = (b × h)/2\nNëse baza b = 12 cm dhe lartësia h = 8 cm:\nS = (12 × 8)/2 = 96/2 = 48 cm²\nTregon rëndësinë e respektimit të rregullit të veprimeve.\n\n**Shembulli 3**: Formula e shpejtësisë: v = s/t\nNëse distanca Tiranë-Durrës është s = 38 km dhe koha t = 0.5 orë:\nv = 38/0.5 = 76 km/orë\nShpjegon se si ndryshon rezultati nëse ndryshojmë vlerat.\n\nPas shembujve, organizon punë në grupe (4 nxënës). Secila grup merr kartela me formula të ndryshme dhe vlera për t'i zëvendësuar. Grupet duhet të zgjedhin 3 formula dhe të llogaritin rezultatet. Ndarje grupesh: Grupi 1 - Formula gjeometrike, Grupi 2 - Formula natyrore, Grupi 3 - Formula ekonomike, Grupi 4 - Formula të jetës së përditshme. Çdo grup prezanton një zgjidhje në tabelë.\n\n**PRAKTIKA** (8-10 minuta)\n\n**Niveli Bazë** (2-3 ushtrime):\na) A = l × w, ku l = 6 dhe w = 4. Gjeni A.\nb) P = 4s, ku s = 7. Gjeni P.\nc) I = p × r × t, ku p = 1000, r = 0.05, t = 2. Gjeni I.\n\n**Niveli Mesatar** (2 ushtrime):\na) V = πr²h, ku π = 3.14, r = 3, h = 10. Gjeni V.\nb) F = ma, ku m = 15 kg, a = 9.8 m/s². Gjeni F.\n\n**Niveli i Avancuar** (1 problemë sfiduese):\nKostoja totale e një feste: K = 50n + 200 + 15d, ku n = numri i ftesavetë, d = numri i ditëve. Nëse kemi 40 ftesa dhe festa zgjat 2 ditë, sa është kostoja totale dhe çfarë përfaqëson secili term?\n\n**MBYLLJA/REFLEKTIMI** (3-5 minuta)\n\nPërmbledh tre pikat kryesore: 1) Zëvendësimi do të thotë vendosja e numrave në vend të shkronjave, 2) Duhet të respektojmë rregullin e veprimeve, 3) Formula na ndihmojnë të zgjidhim problema të vërteta. Quiz verbal: 'Nëse kemi y = 3x + 7 dhe x = 4, sa është y?' Përgjigja: y = 3(4) + 7 = 19. Parashikim: 'Orën tjetër do të mësojmë të kriojmë formula tona duke vëzhguar modele numerike.'",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**DETYRAT PËR NË SHTËPI**\n\n**1. DETYRË BAZË**: Zgjidh ushtrimet 15-22 nga faqja 83 në libër. Përfshijnë zëvendësime të thjeshta si: a) y = 5x - 3 ku x = 4, b) A = s² ku s = 9, c) C = 2πr ku r = 7 dhe π = 3.14, d) P = a + b + c ku a = 8, b = 6, c = 10.\n\n**2. DETYRË KRIJUESE**: Krijo një 'Librin tim të Formulave' duke intervistuar familjarët: Pyet nënën për formulat që përdor në gatim (sasiët e përbërësve), babin për formula në punë (llogariţje page, shpenzime), dhe gjyshen për formula tradicionale (matja e drithërave). Shkruaj 5 formula me shembuj konkretë zëvendësimi.\n\n**3. DETYRË SHTESË (Fakultative)**: Hulumto dhe gjen 3 formula të famshme të matematikës (si E = mc², formula e Einsteinit) dhe shpjego çfarë përfaqësojnë shkronjat. Përpiqu të gjesh vlera të vërteta dhe të llogësh rezultate. Krijo një poster informativ për të ekspozuar në klasë.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Algjebra",
+      "page_or_row": "96"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

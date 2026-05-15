@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_075",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 75,
+  "tema": "Ndërtimi i trekëndëshave dhe katërkëndëshave",
+  "tematika": "Gjeometria",
+  "month": "Shkurt",
+  "trimester": 2,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës 7 në shkollën 'Naim Frashëri' në Tiranë duhet të ndërtojnë një kopësht me formë trekëndëshe në oborrin e shkollës dhe një lodër me formë katërkëndëshi për parkun e ri të lagjes së Astirit. Ata do të përdorin busull dhe vizore për të ndërtuar figurat gjeometrike me madhësi të sakta, duke zbatuar rregullat e ndërtimit gjeometrik dhe duke verifikuar vetitë e këndeve.",
+  "rezultatet": [
+    "Nxënësi/ja ndërton trekëndësh duke përdorur tre brinjë të dhëna me busull dhe vizore",
+    "Nxënësi/ja identifikon kushtet për ekzistimin e një trekëndëshi duke zbatuar pabarazinë e trekëndëshit",
+    "Nxënësi/ja llogarit saktësisht shumën e këndeve të brendshme të trekëndëshit (180°)",
+    "Nxënësi/ja demonstron ndërtimin e katërkëndëshave të rregullt dhe jo të rregullt",
+    "Nxënësi/ja argumenton pse shuma e këndeve të brendshme të katërkëndëshit është 360°",
+    "Nxënësi/ja zgjidh probleme praktike duke përdorur vetitë e trekëndëshave dhe katërkëndëshave"
+  ],
+  "fjalet_kyce": [
+    "trekëndësh (triangle)",
+    "katërkëndësh (quadrilateral)",
+    "kënd i brendshëm",
+    "kënd i jashtëm",
+    "shuma e këndeve 180° dhe 360°",
+    "pabarazia e trekëndëshit a + b > c",
+    "busull (compass)",
+    "ndërtim gjeometrik konstruksion"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 5: Gjeometria, faqe 78-95",
+    "Busull, vizore të drejtë, vizore me kënd, laps 2H",
+    "Fletë pune e përgatitur me 12 ushtrime ndërtimi",
+    "Fletë milimetrike A4 për ndërtime të sakta",
+    "Kartela me forma gjeometrike të ndryshme",
+    "Softueri GeoGebra në tablet për verifikim"
+  ],
+  "lidhja": "Lidhje me Artet Vizuale për ndërtimin e formave gjeometrike në vizatim, me Gjeografinë për llogaritjen e distancave në harta të Shqipërisë (Tiranë-Shkodër-Vlorë), me shkencat natyrore për analizimin e forcave në struktura trekëndëshore dhe me Arsimin Teknologjik për projektimin e objekteve me forma gjeometrike në jetën e përditshme shqiptare (çatia e shtëpive, parket, sheshet publike).",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**: Kjo orë synon që nxënësit të mësojnë teknikat e ndërtimit gjeometrik të trekëndëshave dhe katërkëndëshave duke përdorur instrumente gjeometrike, të zbatojnë kushtet për ekzistimin e figurave dhe të llogaritjnë shumat e këndeve të brendshme.\n\n**EVOKIMI/HYRJA** (8-10 minuta):\nMësuesja fillon me një aktivitet motivues praktik: shfaq një model të çatisë së një shtëpie shqiptare tradicionale dhe pyet: 'Çfarë forme gjeometrike shihni këtu?' Nxënësit identifikojnë trekëndësha. Më pas shfaq foton e Pallatit të Kulturës në Tiranë dhe pyet: 'Sa kënd ka kjo ndërtesë?' Shton pyetje orientuese: 'Nëse duam të ndërtojmë një trekëndësh me brinjë 5cm, 3cm dhe 10cm, a mendoni se është e mundur?' dhe 'Sa është shuma e këndeve të trekëndëshit që shihni në çati?' Lidh me orën e kaluar ku mësuan rreth llojeve të këndeve.\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta):\nMësuesja shpjegon konceptin e ndërtimit gjeometrik dhe demonstron në tabelë tre shembuj të plotë:\n\nShembull 1: Ndërtimi i trekëndëshit me brinjë 6cm, 4cm, 5cm\n- Kontrollon pabarazinë: 6+4=10>5 ✓, 6+5=11>4 ✓, 4+5=9>6 ✓\n- Vizaton segmentin AB = 6cm\n- Nga A, hap busullin 4cm dhe vizaton hark\n- Nga B, hap busullin 5cm dhe vizaton hark\n- Pika C është pika ku kryqëzohen harqet\n- Lidh AC dhe BC\n- Mat këndët: ∠A=56°, ∠B=67°, ∠C=57°, Shuma=180°\n\nShembull 2: Tentativë e ndërtimit të trekëndëshit me brinjë 3cm, 4cm, 8cm\n- Kontrollon pabarazinë: 3+4=7<8 ✗\n- Demonstron se harqet nuk kryqëzohen\n- Përfundon: Trekëndëshi nuk mund të ndërtohet\n\nShembull 3: Ndërtimi i katërkëndëshit me brinjë 5cm, 4cm, 3cm, 6cm dhe kënd 90°\n- Vizaton AB = 5cm\n- Nga B, formon kënd 90° dhe vizaton BC = 4cm  \n- Nga C, hap busullin 3cm dhe vizaton hark\n- Nga A, hap busullin 6cm dhe vizaton hark\n- Pika D është kryqëzimi, lidh CD dhe DA\n- Mat këndët: ∠A+∠B+∠C+∠D = 360°\n\nNxënësit punojnë në grupe prej 3 personash. Grupi 1 ndërton trekëndësha me brinjë të dhëna, Grupi 2 teston ekzistimin e trekëndëshave, Grupi 3 ndërton katërkëndësha. Çdo grup prezanton një ndërtim dhe shpjegon hapin pas hapi.\n\n**PRAKTIKA/USHTRIME** (8-10 minuta):\na) Niveli bazë:\n- Ndërtoni trekëndësh me brinjë 7cm, 5cm, 4cm\n- Ndërtoni katërkëndësh me brinjë 6cm, 4cm, 6cm, 4cm\n- Matni shumën e këndeve të trekëndëshit tuaj\n\nb) Niveli mesatar:\n- A mund të ndërtohet trekëndësh me brinjë 8cm, 3cm, 4cm? Argumentoni\n- Ndërtoni katërkëndësh me një kënd 120° dhe verifikoni shumën e këndeve\n\nc) Niveli i avancuar:\n- Ndërtoni trekëndësh barabrinjës me brinjë 6cm dhe llogaritni këndët e tij teoretikisht dhe praktikisht\n\n**MBYLLJA/REFLEKTIMI** (3-5 minuta):\nPërmbledhja e tri pikave kryesore: 1) Pabarazia e trekëndëshit duhet të përmbushet (a+b>c), 2) Shuma e këndeve të trekëndëshit është 180°, 3) Shuma e këndeve të katërkëndëshit është 360°. Quiz verbal: 'Çfarë kontrolli bëjmë para se të ndërtojmë një trekëndësh?' dhe 'Sa është shuma e këndeve të katërkëndëshit?' Parashikon orën e ardhshme: 'Do të mësojmë lloje të veçanta trekëndëshash: barabrinjës, dybrinjënjëshe dhe kënddrejtë.'",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**TRE NIVELE DETYRASH:**\n\n**1. DETYRË BAZË:**\n- Ndërtoni në fletën milimetrike trekëndësha me këto brinjë: a) 8cm, 6cm, 5cm  b) 7cm, 4cm, 9cm  c) 5cm, 5cm, 7cm\n- Matni këndët e çdo trekëndëshi dhe verifikoni që shuma është 180°\n- Ndërtoni një katërkëndësh me brinjë 6cm, 4cm, 5cm, 3cm\n- Zgjidhni ushtrimin 15 dhe 16, faqe 89 në libër\n\n**2. DETYRË KRIJUESE:**\nKrijoni një poster me titullin 'Figurat Gjeometrike në Arkitekturën Shqiptare'. Fotografoni ose vizatoni 5 ndërtesa në qytetin tuaj që përmbajnë trekëndësha dhe katërkëndësha (xhamat, çatitë, dyert). Për çdo figurë shkruani dimensionet e mundshme dhe llogaritni shumën e këndeve. Prezantoni posterin në klasë.\n\n**3. DETYRË SHTESË (fakultative):**\nHulumtoni dhe ndërtoni 'Trekëndëshin e Bermudës' duke përdorur koordinatat gjeografike të Miami, Puerto Rico dhe Bermudës. Llogaritni distancat në km dhe kontrolloni nëse pabarazia e trekëndëshit përmbushet. Përdorni hartat e Google Earth për matje të sakta.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Gjeometria",
+      "page_or_row": "75"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

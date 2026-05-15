@@ -1,0 +1,63 @@
+{
+  "id": "MAT7_009",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "III",
+  "lesson_number": 9,
+  "tema": "Zbritja e numrave të plotë",
+  "tematika": "Numri",
+  "month": "Shtator",
+  "trimester": 1,
+  "duration_minutes": 45,
+  "situata": "Nxënësit llogaritin ndryshimin e temperaturës midis dy qyteteve - njëri me temperaturë pozitive, tjetri me temperaturë negative. Ata zbulojnë se zbritja lidhet me mbledhjen e numrit të kundërt.",
+  "rezultatet": [
+    "Nxënësi/ja shndërron zbritjen në mbledhje të numrit të kundërt",
+    "Nxënësi/ja llogarit ndryshimin midis numrave të plotë",
+    "Nxënësi/ja zgjidh probleme që përfshijnë zbritjen e numrave të plotë",
+    "Nxënësi/ja kupton lidhjen midis mbledhjes dhe zbritjes"
+  ],
+  "fjalet_kyce": [
+    "Zbritje",
+    "Numër i kundërt",
+    "Ndryshim",
+    "Shndërrim",
+    "Mbledhje",
+    "Veprim i kundërt"
+  ],
+  "burimet": [
+    "Libri i matematikës klasa 7, fq. 51-56",
+    "Bosht numerik",
+    "Termometër demonstrimi",
+    "Fletë pune",
+    "Kartela me shembuj"
+  ],
+  "lidhja": "Lidhje me Gjeografinë: ndryshimi i lartësive. Lidhje me Historinë: llogaritja e viteve p.e.s. Lidhje me Sportin: ndryshimi i pikëve.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "QËLLIMI: Nxënësit do të mësojnë të zbrisin numra të plotë duke përdorur rregullin e shndërrimit në mbledhje.\n\nHYRJA (6 min):\n• Problem: Temperatura në Tiranë +15°C, në Korçë -5°C. Sa është ndryshimi?\n• Intuitivisht: Nga +15 tek -5 duhet të zbresësh 20 gradë.\n• Matematikisht: (+15) - (-5) = ?\n• Le të zbulojmë rregullin!\n\nZHVILLIMI (26 min):\n• RREGULLI THEMELTAR: a - b = a + (-b)\n  Zbritja e një numri = Mbledhja e numrit të kundërt\n• Shembuj:\n  - (+8) - (+3) = (+8) + (-3) = +5\n  - (+5) - (-2) = (+5) + (+2) = +7\n  - (-4) - (+6) = (-4) + (-6) = -10\n  - (-3) - (-7) = (-3) + (+7) = +4\n• Verifikim me bosht numerik:\n  (+5) - (-2): Fillo në 5, zbritja e -2 = mbledhja e +2 → lëviz 2 djathtas → 7 ✓\n• Truk për memorizim: 'Minus minus bëhet plus'\n  a - (-b) = a + b\n• Raste të veçanta:\n  - a - a = 0\n  - a - 0 = a\n  - 0 - a = -a\n\nPRAKTIKA (10 min):\n• Ushtrim 1: Shndërroni në mbledhje dhe llogaritni:\n  a) (+9)-(+4)  b) (+6)-(-3)  c) (-5)-(+2)  d) (-8)-(-8)\n• Ushtrim 2: Gjeni ndryshimin: a) 12 dhe -5  b) -7 dhe -3  c) 0 dhe -10\n• Problem: Mali Korab 2764m, Lumi Buna -5m nën nivel deti. Sa është ndryshimi i lartësisë?\n  2764 - (-5) = 2764 + 5 = 2769 m\n• Problem historik: Aleksandri i Madh lindi në 356 p.e.s., vdiq në 323 p.e.s. Sa vjet jetoi?\n  (-323) - (-356) = (-323) + 356 = 33 vjet\n\nMBYLLJA (3 min):\n• Rregulli kryesor: Zbritja → Mbledhja e numrit të kundërt\n• Kontrolli përfundimtar me shembull nga nxënësit",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "1. Llogaritni: a) (+14)-(+8)  b) (+7)-(-9)  c) (-11)-(+5)  d) (-6)-(-13)\n2. Gjeni ndryshimin e temperaturave: Londër +8°C, Moskë -15°C\n3. Problem: Deti i Vdekur -430m, Mali Everest +8849m. Sa është ndryshimi?\n4. Thjeshtoni: a - b + c - d (kur a=5, b=-3, c=-2, d=4)\n5. Sfidë: Për cilat vlera të x, shprehja x - (-5) jep rezultat negativ?",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Numri",
+      "page_or_row": "9"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_083",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 83,
+  "tema": "Diagramet me shtylla",
+  "tematika": "Statistika",
+  "month": "Shkurt",
+  "trimester": 2,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës së 7B të shkollës 'Fan Noli' në Tiranë duhet të organizojnë një treg shkollor për të mbledhur fonde për një ekskursion në Berat. Ata duhet të mbledhin dhe analizojnë të dhënat e shitjes së produkteve të ndryshme (libra të vjetër, ëmbëlsira, pije) gjatë tre ditëve të tregut, dhe të paraqesin rezultatet në diagrame me shtylla për të identifikuar produktin më fitimprurës dhe ditën me të ardhurat më të larta.",
+  "rezultatet": [
+    "Nxënësi/ja identifikon elementet kryesore të një diagrami me shtylla (titulli, boshtet, njësitë matëse, legjenda)",
+    "Nxënësi/ja llogarit saktësisht lartësinë e çdo shtyllë bazuar në të dhënat numerike të dhëna",
+    "Nxënësi/ja ndërton diagrame me shtylla duke përdorur letër grafike për të paraqitur të dhëna të thjeshta",
+    "Nxënësi/ja analizon dhe interpreton informacionin e paraqitur në diagrame me shtylla të ndryshme",
+    "Nxënësi/ja krahason vlerat e paraqitura në diagrame dhe nxjerr përfundime të sakta",
+    "Nxënësi/ja zgjidh problemë praktike duke përdorur të dhënat nga diagramet me shtylla"
+  ],
+  "fjalet_kyce": [
+    "diagram me shtylla (bar chart)",
+    "boshti horizontal (X-axis)",
+    "boshti vertikal (Y-axis)",
+    "frekuenca",
+    "shkalla e vlerave",
+    "interpretim i të dhënave",
+    "krahasim statistikor",
+    "përfundime nga të dhënat"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 8: Statistika, faqe 156-162",
+    "Letër grafike milimetrike (20 fletë për klasën)",
+    "Vizore 30 cm, laps grafiti, goma",
+    "Fletë pune e përgatitur me 8 seri të dhënash për diagrame",
+    "Postera me shembuj diagramesh nga gazeta 'Panorama Sport'",
+    "Kalkulatorë shkollore për llogaritje të shpejta"
+  ],
+  "lidhja": "Diagramet me shtylla lidhen me Gjeografinë kur analizojmë të dhënat e popullsisë së qyteteve shqiptare (Tirana 800,000, Durrësi 175,000, Vlora 130,000 banorë). Në teknologji përdoren në Excel për të krijuar grafiqe automatikisht. Në Biologji për të paraqitur rritjen e bimëve, në Fizikë për matjet e temperaturës në Shkodër, Korçë dhe Sarandë. Në jetën e përditshme përdoren për të krahasuar çmimet në supermarketet Conad, Big Market dhe Carrefour.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nKjo orë synon që nxënësit të mësojnë të ndërtojnë dhe interpretojnë diagrame me shtylla duke përdorur të dhëna nga jeta reale. Nxënësit do të zhvillojnë aftësi për të analizuar informacion statistikor dhe të nxjerrin përfundime të vlefshme.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\nMësuesja paraqet një poster me rezultatet e ndeshjes Shqipëri-Itali: gola të shënuara, faullat, kartonat e verdhë. Pyet: \"Si mund të paraqesim këto të dhëna në mënyrë vizuale?\" Nxënësit diskutojnë në çifte. Mësuesja tregon një diagram të thjeshtë me shtylla për golet e shënuara nga Partizani, Tirana dhe Vllaznia këtë sezon: Partizani 45 gola, Tirana 38 gola, Vllaznia 32 gola. Pyet: \"Cila ekip ka shënuar më shumë?\" dhe \"Sa gola më shumë ka Partizani se Vllaznia?\" Lidh me orën e kaluar për mbledhjen e të dhënave.\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\nMësuesja shpjegon elementet e diagramit me shtylla duke përdorur tabelën në klasë.\n\nShembull 1: Shitjet e librave në librari \"Albas\" gjatë një jave\nE Hënë: 25 libra, E Martë: 35 libra, E Mërkurë: 20 libra, E Enjte: 40 libra, E Premte: 50 libra\nHapur: 1) Vizatojmë dy boshte në letër grafike. 2) Boshti horizontal: ditët e javës. 3) Boshti vertikal: numri i librave (0, 10, 20, 30, 40, 50). 4) Vizatojmë shtyllat: E Hënë 25 njësi lart, E Martë 35 njësi, etj. 5) I japim titull: \"Shitjet javore në librari Albas\".\n\nShembull 2: Temperaturat maksimale në tre qytete shqiptare\nTirana: 28°C, Shkodra: 25°C, Saranda: 32°C\nHapur: 1) Boshti horizontal: emrat e qyteteve. 2) Boshti vertikal: temperatura në gradë Celsius (0°-35°). 3) Shtyllat: Tirana 28 njësi, Shkodra 25, Saranda 32. 4) Titulli: \"Temperaturat maksimale sot\".\n\nShembull 3: Pikat e marra nga 4 nxënës në test\nAna: 85 pikë, Besi: 92 pikë, Cila: 78 pikë, Dani: 90 pikë\nHapur: 1) Përcaktojmë shkallën 70-100 pikë. 2) Vizatojmë shtyllat përkatëse. 3) Analizojmë: Besi ka pikët më të larta (92), diferenca Ana-Cila është 7 pikë.\n\nNxënësit punojnë në grupe nga 4 veta. Secilit grup i jepet një seri të dhënash të ndryshme: çmimet e bukës në 5 furra, numri i turistëve në Butrint në 4 muaj, nota e matematikës së 6 nxënësve. Secili grup ndërton diagramin e vet dhe prezanton para klasës.\n\n**PRAKTIKA** (8-10 minuta)\na) Niveli bazë: \n1) Vizato diagram për sportet e preferuara: futboll 15 nxënës, basketboll 8 nxënës, volejboll 5 nxënës\n2) Sa më shumë pëlqejnë futbollin se volejbollin?\n3) Vizato diagram për moshat: 12 vjeç - 8 nxënës, 13 vjeç - 15 nxënës, 14 vjeç - 2 nxënës\n\nb) Niveli mesatar:\n1) Krahaso të dhënat nga diagrami i dhënë dhe gjej mesataren e shitjeve\n2) Krijo një problem nga diagrami i temperaturave të javës\n\nc) Niveli i avancuar:\nKrijo një diagram që tregon ndryshimin e çmimeve të benzinës në tre muajt e fundit dhe analizo trendin.\n\n**MBYLLJA** (3-5 minuta)\nPërmbledhja e tre pikave kryesore: 1) Diagramet me shtylla na ndihmojnë të krahasojmë të dhëna. 2) Duhet të kemi titull, boshtë të etiketuar dhe shkallë të qartë. 3) Mund të nxjerrim përfundime duke krahasuar lartësinë e shtyllave. Quiz verbal: \"Çfarë tregon boshti vertikal?\" dhe \"Si gjejmë vlerën më të madhe?\". Ora e ardhshme do të mësojmë diagramet rrethore.",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**BAZË:** Zgjidhni ushtrimet 1, 2, 3 dhe 4 nga faqja 160 të librit. Ndërtoni diagram me shtylla për të dhënat: Nota në anglisht - 8, 9, 7, 10, 6. Llogaritni sa pikë diferenca ka nota më e lartë nga më e ulëta.\n\n**KRIJUESE:** Mbledhni të dhëna nga 10 shokë të klasës për lëndën e preferuar dhe krijoni një poster me diagram me shtylla. Shtoni ngjyra dhe zbukurime. Shkruani 3 përfundime nga diagrami juaj.\n\n**SHTESË (fakultative):** Hulumtoni në internet të dhënat e popullsisë së 5 qyteteve më të mëdha të Shqipërisë dhe krijoni një diagram profesional. Krahasoni me të dhënat e vitit 2010 dhe shkruani një paragraf për ndryshimet.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Statistika",
+      "page_or_row": "83"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

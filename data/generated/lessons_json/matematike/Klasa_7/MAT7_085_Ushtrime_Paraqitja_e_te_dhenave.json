@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_085",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 85,
+  "tema": "Ushtrime - Paraqitja e të dhënave",
+  "tematika": "Statistika",
+  "month": "Shkurt",
+  "trimester": 2,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës së 7-të në shkollën 'Fan Noli' në Tiranë kanë kryer një anketë për të mbledhur të dhëna rreth filmave të preferuar të 120 nxënësve të shkollës. Ata kanë regjistruar rezultatet: Drama (25 nxënës), Aksion (35 nxënës), Komedi (40 nxënës), Horror (20 nxënës). Tani duhet të organizojnë dhe paraqesin këto të dhëna duke përdorur tabela frekuence, diagrame me shtylla dhe diagrame rrethore për të prezantuar rezultatet në mbledhjen e këshillit nxënësor.",
+  "rezultatet": [
+    "Nxënësi/ja përkufizon frekuencën absolute dhe relative të një veti statistikore",
+    "Nxënësi/ja llogarit saktësisht frekuencën relative në përqindje për çdo kategori të dhënash",
+    "Nxënësi/ja konstrukton tabela frekuence të plota me të gjitha kolonat e nevojshme",
+    "Nxënësi/ja vizaton diagrame me shtylla duke respektuar shkallëzimin dhe etiketimet",
+    "Nxënësi/ja ndërton diagrame rrethore duke llogaritur saktësisht kënd për çdo sektor",
+    "Nxënësi/ja analizon dhe interpreton informacionin e paraqitur në forma të ndryshme grafike"
+  ],
+  "fjalet_kyce": [
+    "frekuencë absolute",
+    "frekuencë relative",
+    "përqindje (%)",
+    "tabelë frekuence",
+    "diagram me shtylla (bar chart)",
+    "diagram rrethor (pie chart)",
+    "sektor rrethor",
+    "kënd qendror (360°)"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 8: Statistika, faqe 145-152",
+    "Busull, vizore, laps me ngjyra, gome fshirëse",
+    "Fletë milimetrike A4 dhe fletë të bardha për vizatim",
+    "Fletë pune e përgatitur me 8 ushtrime progresive",
+    "Kalkulatore për llogaritje të shpejta përqindjesh",
+    "Postera me shembuj diagramesh nga gazeta dhe revista"
+  ],
+  "lidhja": "Lidhje me Gjeografinë - analiza e të dhënave klimatike të qyteteve shqiptare. Me Biologjinë - regjistrimi i llojeve të bimëve në kopshtin e shkollës. Me Historinë - paraqitja e të dhënave të popullsisë së Shqipërisë në dekada të ndryshme. Me teknologjine - krijimi i diagrameve në Excel. Me Gjuhën Shqipe - interpretimi i teksteve me informacion statistikor në media shqiptare. Në jetën e përditshme: analiza e shpenzimeve familjare, statistikat sportive të ekipeve shqiptare, të dhënat e motit në qytete të ndryshme.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nKjo orë synon që nxënësit të përforcojnë aftësitë për organizimin dhe paraqitjen grafike të të dhënave statistikore. Ata do të zgjidhin ushtrime praktike duke krijuar tabela frekuence dhe diagrame të ndryshme, duke u fokusuar në saktësinë e llogaritjeve dhe interpretimin e rezultateve.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\nMësuesi prezanton një poster me rezultatet e zgjedhjeve për kryetarin e klasës: Ani (12 vota), Beni (8 vota), Dini (5 vota). Pyet: 'Sa nxënës votuan gjithsej? Sa përqind mori Ani?' Nxënësit llogaritin së bashku: Gjithsej 25 vota, Ani mori 12/25 = 48%. Mësuesi lidh me orën e kaluar: 'Sot do të zgjidhim ushtrime të ngjashme me situata reale nga jeta jonë.' Aktivizon njohuritë: 'Çfarë diagrami përdorim për të krahasuar sasitë?' (me shtylla), 'Si llogaritin kënd në diagram rrethor?' (360° × përqindje).\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\n**Shembulli 1 - Tabela frekuence:**\nTë dhënat: Sportet e preferuara - Futboll (15), Basketboll (10), Volejboll (8), Tenis (7). Gjithsej 40 nxënës.\nKrijojmë tabelën:\n- Frekuenca absolute: Futboll (15), Basketboll (10), Volejboll (8), Tenis (7)\n- Frekuenca relative: 15/40=0.375, 10/40=0.25, 8/40=0.2, 7/40=0.175\n- Në përqindje: 37.5%, 25%, 20%, 17.5%\n- Kontrolli: 37.5+25+20+17.5 = 100% ✓\n\n**Shembulli 2 - Diagrami me shtylla:**\nPërdorim të dhënat e sporteve. Në boshtin horizontal shkruajmë sportet, në vertikal numrin e nxënësve (0-20). Vizatojmë shtylla me lartësi: Futboll (15), Basketboll (10), Volejboll (8), Tenis (7). Çdo katror = 1 nxënës.\n\n**Shembulli 3 - Diagrami rrethor:**\nLlogarisin kënd për çdo sport:\n- Futboll: 360° × 37.5% = 135°\n- Basketboll: 360° × 25% = 90°  \n- Volejboll: 360° × 20% = 72°\n- Tenis: 360° × 17.5% = 63°\n- Kontrolli: 135+90+72+63 = 360° ✓\n\n**Punë në grupe (10 min):** Secilit grup i jepen të dhëna të ndryshme (ngjyrat e preferuara, llojet e muzikës, etj). Duhet të krijojnë tabelë frekuence dhe të zgjedhin llojin e diagramit më të përshtatshëm.\n\n**PRAKTIKA/USHTRIME** (8-10 minuta)\n**a) Niveli bazë:**\n1. Krijoni tabelë frekuence për: Qen (12), Mace (8), Peshk (5), Zog (3)\n2. Llogari përqindjen për çdo kafshë\n3. Sa është shuma e të gjitha përqindjeve?\n\n**b) Niveli mesatar:**\n1. Nga të dhënat Blu (45°), Kuq (90°), Gjelbër (135°), Verdhë (?), gjeni këndin për të verdhën\n2. Krijoni diagram me shtylla për vizitimet në muzej: Janar (120), Shkurt (150), Mars (200)\n\n**c) Niveli i avancuar:**\n1. Një shkollë ka 480 nxënës. 35% studiojnë anglisht, 28% gjermanisht, 22% frëngjisht, pjesa tjetër italisht. Sa është kënd për italishtën në diagram rrethor? (Përgjigjja: 15% = 54°)\n\n**MBYLLJA/REFLEKTIMI** (3-5 minuta)\nPërmbledhja e tri pikave kryesore: 1) Frekuenca relative = absolute/totali, 2) Në diagram rrethor kënd = 360° × përqindje, 3) Shuma e përqindjeve = 100%. Quiz verbal: 'Nëse një kategori ka 30% në diagram rrethor, sa është kënd?' (108°). Parashikimi: 'Orën e ardhshme do të mësojmë mesataren aritmetikore dhe do të analizojmë të dhëna më komplekse.'",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**1. DETYRË BAZË:**\nZgjidhni ushtrimet 1-5 nga faqja 150 të librit. Krijoni tabelë frekuence për të dhënat: Libra të lexuar muajin e kaluar - 0 libra (5 nxënës), 1 libër (12 nxënës), 2 libra (8 nxënës), 3+ libra (3 nxënës). Gjeni frekuencën relative në përqindje për çdo kategori.\n\n**2. DETYRË KRIJUESE:**\nKrijo një anketë të shkurtër në familjen tënde rreth temës 'Programet televizive të preferuara'. Merr të dhëna nga të paktën 8 anëtarë familje/fqinjë. Organizoi të dhënat në tabelë frekuence dhe vizato një diagram me shtylla. Shkruaj 3-4 përfundime nga rezultatet e tua.\n\n**3. DETYRË SHTESË (fakultative):**\nHulumto në internet statistikat e popullsisë së 5 qyteteve kryesore të Shqipërisë (Tiranë, Durrës, Vlorë, Shkodër, Elbasan). Krijo një diagram rrethor që tregon përqindjen e çdo qyteti në krahasim me totalin. Llogarit këndet përkatës dhe paraqit punën në një poster A3 me ngjyra.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Statistika",
+      "page_or_row": "85"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

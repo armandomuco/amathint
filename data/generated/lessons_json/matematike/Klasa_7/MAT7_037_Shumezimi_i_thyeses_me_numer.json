@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_037",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 37,
+  "tema": "Shumëzimi i thyesës me numër",
+  "tematika": "Numri",
+  "month": "Nëntor",
+  "trimester": 1,
+  "duration_minutes": 45,
+  "situata": "Klasa 7A e shkollës 'Naim Frashëri' në Tiranë organizon një treg bamirësie për të mbledhur para për fëmijët në nevojë. Çdo nxënës duhet të llogaritë çmimin e produkteve kur një torte kushton 1200 lekë dhe duhen shitur 2/3 e saj, apo kur një paketë biskota me çmim 800 lekë shet vetëm 3/4 e saj. Nxënësit duhet të zotërojnë shumëzimin e thyesës me numër për të llogaritur të ardhurat dhe planifikimin e shitjeve.",
+  "rezultatet": [
+    "Nxënësi/ja përkufizon rregullin e shumëzimit të thyesës me numër të plotë",
+    "Nxënësi/ja llogarit saktësisht produktin e një thyese me numër të plotë duke përdorur algoritmin e duhur",
+    "Nxënësi/ja zgjidh probleme të jetës së përditshme që përfshijnë shumëzimin e thyesës me numër",
+    "Nxënësi/ja demonstron tre mënyra të ndryshme për të shumëzuar thyesen me numër (vizuale, numerike dhe algjebrike)",
+    "Nxënësi/ja argumenton pse rezultati i shumëzimit të thyesës më të vogël se 1 me numër pozitiv është më i vogël se numri fillestar",
+    "Nxënësi/ja identifikon gabimet e zakonshme në shumëzimin e thyesës me numër dhe i korrigjon ato"
+  ],
+  "fjalet_kyce": [
+    "thyesë (fraction)",
+    "numëruesi (numerator)",
+    "emëruesi (denominator)",
+    "shumëzimi (multiplication)",
+    "produkti (product)",
+    "algoritmi: a/b × c = (a × c)/b",
+    "thjeshtimi i thyesës",
+    "numri i plotë (whole number)"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 2: Thyesat, faqet 34-38",
+    "Fletë pune e përgatitur me 15 ushtrime të niveleve të ndryshme",
+    "Kartela me thyesa të shkruara për aktivitetin e grupit",
+    "Kalkulatore për verifikimin e rezultateve",
+    "Poster i madh për demonstrimin vizual të rregullës",
+    "Materiale për tregun simulues: çmime, produkte, monedha të fallso"
+  ],
+  "lidhja": "Lënda lidhet fort me Tregtinë dhe Ekonominë përmes llogaritjes së çmimeve dhe fitimeve në tregun shqiptar. Në Gjeografi përdoret për llogaritjen e shkallës së hartave (1:50000 do të thotë 1 cm = 500 m). Në Fizikë aplikohet për llogaritjen e përqindjes së masës (2/3 e 30 kg = 20 kg). Në jetën e përditshme përdoret për gatim (2/3 e një recete), për kohë (3/4 e një ore = 45 minuta) dhe në blerjet familjare kur produktet janë me ulje çmimi.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nKjo orë synon që nxënësit të zotërojnë plotësisht algoritmin e shumëzimit të thyesës me numër të plotë dhe ta aplikojnë atë në situata praktike të jetës së përditshme në kontekstin shqiptar.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\nNisja me një lojë motivuese: 'Tregu i Matematikës'. Në tabelë shfaq çmimet e produkteve në një treg: Bukë 80 lekë, Qumësht 120 lekë, Vezë 200 lekë (10 copë). Pyes: 'Nëse blini 3 bukë, sa paguani? 3 × 80 = 240 lekë.' Pastaj pyes: 'Por nëse dua vetëm 2/3 e një buke, sa kushton?' Nxënësit mundohen të përgjigjen, por shumica nuk dinë. Shfaq thyesat 1/2, 2/3, 3/4 në tabelë dhe pyes: 'Si mund t'i shumëzojmë këto me numra?' Lidh me orën e kaluar kur mësuan shtimin e thyesave: 'Sot do të mësojmë diçka të re - si të shumëzojmë thyesat me numra.'\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\nShpjegoj rregullën themelore: Për të shumëzuar thyesën me numër, shumëzoj numëruesin me numrin dhe emëruesin e lë njësoj. Shkruaj formulën: a/b × c = (a × c)/b\n\nShembull 1: 2/3 × 6 = (2 × 6)/3 = 12/3 = 4\nShpjegim hap pas hapi: Marr thyesën 2/3, e shumëzoj numëruesin 2 me 6, bëhet 12. Emëruesin 3 e lë njësoj. Kështu kam 12/3. Thjeshtoj: 12 ÷ 3 = 4.\n\nShembull 2: 3/4 × 8 = (3 × 8)/4 = 24/4 = 6\nKontrolli: 3/4 të 8 do të thotë 3 pjesë nga 8 të ndarë në 4 pjesë. 8 ÷ 4 = 2, pastaj 2 × 3 = 6. E njëjta përgjigje!\n\nShembull 3: 5/6 × 12 = (5 × 12)/6 = 60/6 = 10\nShpjegim vizual: Vizatoj 12 katrorë, i ndaj në 6 grupe (çdo grup ka 2 katrorë), marr 5 grupe: 5 × 2 = 10.\n\nPunë në grupe (10 minuta): Çdo grup merr kartela me 4 shumëzime për t'i zgjidhur: Grupi 1: 1/2 × 10, 2/5 × 15, 3/7 × 14, 4/9 × 18. Çdo grup prezanton një shembull dhe shpjegon hapin. Unë i shkruaj të gjitha në tabelë dhe i korrigoj gabimet.\n\nDemonstroj gabimin e zakonshëm: Disa nxënës mund të shumëzojnë edhe emëruesin! Shfaq gabimin: 2/3 × 4 = 8/12 (gabim). Spjegoj pse është gabim: do të thotë 8/12 = 2/3, por ne duam 2/3 të 4-shi, që është më shumë se 2/3.\n\n**PRAKTIKA** (8-10 minuta)\nNiveli bazë (për të gjithë):\na) 1/3 × 9 = ?\nb) 2/5 × 10 = ?\nc) 3/8 × 16 = ?\n\nNiveli mesatar:\na) 7/12 × 24 = ? (përgjigja duhet thjeshtuar)\nb) Një recetë kërkon 2/3 filxhane miell. Sa miell duhet për 6 receta?\n\nNiveli i avancuar (për talentët):\nNëse 3/4 e një shume është 150 lekë, sa është e gjithë shuma? (Këtu duhet të gjejnë se 1/4 = 50, pra shuma = 200)\n\n**MBYLLJA** (3-5 minuta)\nPërmbledhja me 3 pika kryesore: 1) Rregulla: a/b × c = (a × c)/b, 2) Gjithmonë thjeshtoj në fund, 3) Kontrolloj me mendje nëse përgjigja ka kuptim. Quiz verbal: 'Sa është 1/2 × 8?' (4), 'Pse nuk shumëzoj edhe emëruesin?' (sepse do të ndryshonte vlerën e thyesës). Parashikoj orën e ardhshme: 'Nesër do të mësojmë edhe shumëzimin thyesë me thyesë, që është më kompleks.'",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**NIVELI BAZË:**\nZgjidhni ushtrimet 1-6 nga libri, faqe 36:\n1) 1/4 × 8 = ?\n2) 2/7 × 21 = ?\n3) 3/5 × 15 = ?\n4) 5/9 × 18 = ?\n\n**DETYRA KRIJUESE:**\nKrijoni një problem të jetës së përditshme që zgjidhet me shumëzimin e thyesës me numër. Për shembull: 'Familja ime ha 2/3 e një torte çdo ditë. Sa torta do të hajë në 9 ditë?' Zgjidheni problemin tuaj dhe shkruani shpjegimin hap pas hapi.\n\n**DETYRA SHTESË (fakultative):**\nHulumtoni dhe gjeni 3 profesione në Shqipëri ku përdoret shumëzimi i thyesës me numër (arhitekt për shkallë hartash, kuzhinier për receta, tregtar për llogaritje fitimi). Shkruani nga një shembull numerik për secilin profesion.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Numri",
+      "page_or_row": "37"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

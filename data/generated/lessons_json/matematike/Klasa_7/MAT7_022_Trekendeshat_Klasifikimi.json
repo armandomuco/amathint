@@ -1,0 +1,64 @@
+{
+  "id": "MAT7_022",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 22,
+  "tema": "Trekëndëshat - Klasifikimi",
+  "tematika": "Gjeometria",
+  "month": "Tetor",
+  "trimester": 1,
+  "duration_minutes": 45,
+  "situata": "Nxënësit janë duke projektuar një park lojërash në lagjen e tyre dhe duhet të vendosin forma të ndryshme trekëndëshore për shtegjet, lulishtet dhe zonat e lojës. Ata duhet të njohin llojet e trekëndëshave për të planifikuar hapësirën më mirë dhe për të llogaritur materialet e nevojshme.",
+  "rezultatet": [
+    "Nxënësi/ja klasifikon trekëndëshat sipas brinjëve në barinjëshëm, dykrahëshëm dhe trekrahëshëm",
+    "Nxënësi/ja klasifikon trekëndëshat sipas këndeve në kënddrejtë, këndhollë dhe këndmprehtë",
+    "Nxënësi/ja identifikon pronat e veçanta të çdo lloji trekëndëshi",
+    "Nxënësi/ja zgjidh probleme praktike duke përdorur klasifikimin e trekëndëshave",
+    "Nxënësi/ja mat dhe kontrollon llojet e trekëndëshave me mjete konkrete"
+  ],
+  "fjalet_kyce": [
+    "trekëndësh barinjëshëm",
+    "trekëndësh dykrahëshëm",
+    "trekëndësh trekrahëshëm",
+    "trekëndësh kënddrejtë",
+    "trekëndësh këndhollë",
+    "trekëndësh këndmprehtë"
+  ],
+  "burimet": [
+    "Libri i tekstit 'Matematika 7' - Kapitulli 4",
+    "Rregulla dhe kompas për matje",
+    "Kartela me figura trekëndëshore të ndryshme",
+    "Kompjuter/tablet për aplikacionin GeoGebra",
+    "Fletë pune me ushtrime praktike"
+  ],
+  "lidhja": "Lidhje me Artin (forma gjeometrike në pikturë dhe skulpturë), Teknologjinë (projektimi i strukturave), Gjeografinë (llogaritja e distancave në hartë), dhe jetën e përditshme (arkitektura, dizajni i mobiljeve, planifikimi urban).",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "QËLLIMI: Nxënësit të mësojnë të klasifikojnë trekëndëshat sipas brinjëve dhe këndeve, duke i zbatuar këto njohuri në situata praktike.\n\nHYRJA (7 min): Mësuesi prezanton imazhe nga ndërtesa të famshme shqiptare (piramida e Tiranës, ura e Mesit) dhe pyet: 'Çfarë formash trekëndëshore shihni?' Nxënësit identifikojnë forma të ndryshme. Mësuesi tregon 3 trekëndësha të ndërtuar me shkopinj: një me brinjë 5cm, 5cm, 5cm; një tjetër me brinjë 6cm, 6cm, 8cm; dhe një të tretë me brinjë 4cm, 7cm, 9cm. Pyet: 'Si i ndani këta trekëndësha në grupe?'\n\nZHVILLIMI (28 min): Mësuesi shpjegon klasifikimin sipas brinjëve duke përdorur shembuj konkretë: Trekëndëshi barinjëshëm (3 brinjë të barabarta: 6cm, 6cm, 6cm), dykrahëshëm (2 brinjë të barabarta: 5cm, 5cm, 8cm), trekrahëshëm (3 brinjë të ndryshme: 4cm, 6cm, 9cm). Nxënësit në grupe prej 4 personash mat me rregull brinjët e 6 trekëndëshave të dhënë dhe i klasifikojnë. Pastaj mësuesi prezanton klasifikimin sipas këndeve: kënddrejtë (1 kënd 90°), këndhollë (1 kënd mbi 90°), këndmprehtë (3 kënde nën 90°). Demonstron me kompas si të matet një kënd 90° dhe si të identifikohen këndet e mëdha. Aktivitet praktik: çdo grup mat këndet e 4 trekëndëshave me kompas dhe i klasifikon.\n\nPRAKTIKA (8 min): Secili nxënës plotëson një fletë pune me 8 trekëndësha ku duhet të shkruajë llojin sipas brinjëve dhe këndeve. Shembuj: ABC me brinjë 7cm, 7cm, 7cm (barinjëshëm-këndmprehtë), DEF me një kënd 90° dhe brinjë 3cm, 4cm, 5cm (trekrahëshëm-kënddrejtë).\n\nMBYLLJA (5 min): Mësuesi bën një përmbledhje me një skemë në tabelë që tregon të 6 llojet e mundshme të trekëndëshave. Pyet: 'A mund të ekzistojë një trekëndësh barinjëshëm-kënddrejtë?' Nxënësit diskutojnë dhe përfundojnë që po. Vlerësimi: secili nxënës tregon një shembull trekëndëshi nga klasa.",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "DETYRA PËR NË SHTËPI: 1) Gjeni në shtëpinë tuaj 5 objekte që kanë formë trekëndëshore dhe klasifikojini sipas brinjëve dhe këndeve. 2) Vizatoni 3 trekëndësha: një barinjëshëm me brinjë 4cm secili, një dykrahëshëm me 2 brinjë 6cm dhe një 4cm, dhe një kënddrejtë me brinjë 3cm, 4cm, 5cm. 3) Zgjidhni problemin: Një kopsht ka formë trekëndëshi me brinjë 12m, 12m dhe 18m. Çfarë lloji trekëndëshi është? Nëse këndi më i madh është 83°, si e klasifikoni sipas këndeve? 4) Hulumtoni dhe shkruani 3 shembuj të ndërtesave në Shqipëri që përdorin forma trekëndëshore dhe klasifikojini ato.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Gjeometria",
+      "page_or_row": "22"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

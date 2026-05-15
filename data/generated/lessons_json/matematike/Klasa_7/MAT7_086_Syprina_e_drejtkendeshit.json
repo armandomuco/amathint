@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_086",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 86,
+  "tema": "Syprina e drejtkëndëshit",
+  "tematika": "Matja",
+  "month": "Shkurt",
+  "trimester": 2,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e shkollës 'Fan Noli' në Tiranë janë duke planifikuar rinovimin e bibliotekës së shkollës. Ata duhet të llogaritin sipërfaqen e dyshemesë për të blerë pllakat e reja, duke ditur që çmimi është 2500 lekë për metër katror. Biblioteka ka formë drejtkëndëshe me gjatësi 8 metra dhe gjerësi 6 metra.",
+  "rezultatet": [
+    "Nxënësi/ja përkufizon syprinën e drejtkëndëshit si prodhimin e gjatësisë me gjerësinë",
+    "Nxënësi/ja llogarit saktësisht sipërfaqen e drejtkëndëshit duke përdorur formulën S = a × b",
+    "Nxënësi/ja demonstron përdorimin e njësive matëse për sipërfaqe (m², cm², dm²)",
+    "Nxënësi/ja zgjidh probleme praktike që përfshijnë llogaritjen e sipërfaqes së objekteve drejtkëndore",
+    "Nxënësi/ja argumenton zgjedhjen e njësisë matëse të përshtatshme për situata të ndryshme",
+    "Nxënësi/ja identifikon drejtkëndësha në jetën e përditshme dhe mat dimensionet e tyre"
+  ],
+  "fjalet_kyce": [
+    "syprinë (sipërfaqe)",
+    "drejtkëndësh (rectangle)",
+    "gjatësi dhe gjerësi (a × b)",
+    "formulë: S = a × b",
+    "njësi matëse: m², cm², dm²",
+    "dimensione (dimensions)",
+    "perimetri vs sipërfaqja",
+    "matje me vizore dhe metër"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 4 'Matja', faqet 52-58",
+    "Vizore plastike 30 cm, metra matëse, kalkulatore",
+    "Fletë pune e përgatitur me 12 ushtrime për sipërfaqe",
+    "Kartela me forma gjeometrike për demonstrim",
+    "Tabela e konvertimit të njësive matëse",
+    "PowerPoint prezantim me shembuj vizualë nga jeta e përditshme"
+  ],
+  "lidhja": "Lidhje me Artet: llogaritja e sipërfaqes së kanavacës për piktura. Gjeografi: sipërfaqja e territoreve dhe hartave. Fizikë: sipërfaqja në llogaritjen e presionit. Ekonomi familjare: blerja e materialeve ndërtimore (pllaka, bojë, tapiceri) për shtëpinë. Teknologji: planimetria e ndërtesave dhe arkitektura tradicionale shqiptare.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nNxënësit do të mësojnë të llogaritin sipërfaqen e drejtkëndëshit duke përdorur formulën S = a × b dhe ta zbatojnë atë në probleme praktike nga jeta e përditshme në Shqipëri.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\nFilloj orën me një aktivitet motivues: 'Sa kosto ka rinovimi i bibliotekës?' Tregoj një foto të bibliotekës së shkollës dhe pyes: 'Nëse duam të vendosim pllaka të reja në dysheme, sa metër katror duhet të mbulojmë?' Shkruaj në tabelë dimensionet: gjatësi 8m, gjerësi 6m, çmimi i pllakave 2500 lekë/m². Pyes: 'Si mund ta gjejmë sipërfaqen totale?' Lidh me njohuritë e mëparshme: 'Çfarë dimë për perimetrin e drejtkëndëshit?' dhe 'Çfarë dallimi ka perimetri nga sipërfaqja?'\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\nShpjegoj konceptin duke filluar me demonstrim praktik: mat me vizore sipërfaqen e librit të matematikës (20cm × 25cm).\n\n**Shembulli 1:** Biblioteka shkollore\n- Gjatësia: a = 8m\n- Gjerësia: b = 6m\n- Sipërfaqja: S = a × b = 8m × 6m = 48m²\n- Kostoja totale: 48m² × 2500 lekë/m² = 120,000 lekë\n\n**Shembulli 2:** Oborri i shkollës\n- Gjatësia: a = 15m\n- Gjerësia: b = 12m\n- Sipërfaqja: S = 15m × 12m = 180m²\n- Konvertimi: 180m² = 18,000dm² = 1,800,000cm²\n\n**Shembulli 3:** Fletë letre A4\n- Gjatësia: a = 29.7cm\n- Gjerësia: b = 21cm\n- Sipërfaqja: S = 29.7cm × 21cm = 623.7cm²\n\nPunë në grupe (4 grupe me 6-7 nxënës): Çdo grup mat dhe llogarit sipërfaqen e objekteve të ndryshme në klasë (tavolina, libri, tabela, dritarja). Grupet prezantojnë rezultatet dhe shpjegojnë metodën e përdorur.\n\n**PRAKTIKA/USHTRIME** (8-10 minuta)\n\na) **Niveli bazë:**\n1. Gjeni sipërfaqen e një fushe futbolli me gjatësi 100m dhe gjerësi 70m\n2. Sa m² ka një dhomë me dimensione 4m × 5m?\n3. Llogaritni sipërfaqen e një tavoline me a = 1.2m dhe b = 0.8m\n\nb) **Niveli mesatar:**\n1. Një kopsht ka formë drejtkëndore me perimeter 24m. Nëse gjatësia është 8m, sa është sipërfaqja?\n2. Sa kushton lëvizja e një dhome 3m × 4m nëse çmimi i pllakave është 3000 lekë/m²?\n\nc) **Niveli i avancuar:**\nNjë fermë ka formë drejtkëndore me sipërfaqe 240m². Nëse gjerësia është 3/4 e gjatësisë, gjeni dimensionet dhe perimetrin e fermës.\n\n**MBYLLJA/REFLEKTIMI** (3-5 minuta)\nPërmbledh tre pikat kryesore: 1) Formula S = a × b, 2) Rëndësia e njësive matëse, 3) Zbatimi në jetën reale. Quiz verbal: 'Çfarë është sipërfaqja?', 'Si llogaritet?', 'Çfarë njësish përdorim?' Parashikoj orën e ardhshme: 'Nesër do të mësojmë sipërfaqen e katrorit dhe krahasimin me drejtkëndëshin.'",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**DETYRË BAZË:** Zgjidhni ushtrimet 1-6 nga faqja 55 në librin e matematikës. Llogaritni sipërfaqen e dhomës tuaj duke matur dimensionet me metër dhe konvertoni rezultatin në cm². Shkruani procesin e llogaritjes.\n\n**DETYRË KRIJUESE:** Krijoni një poster A3 me temën 'Sipërfaqja në shtëpinë time'. Përfshini të paktën 5 objekte drejtkëndore (dhoma, oborr, tavolina, dritare, dyshek), matni dimensionet reale dhe llogaritni sipërfaqet. Ilustroni me skica dhe foto.\n\n**DETYRË SHTESË (fakultative):** Hulumtoni çmimet e materialeve ndërtimore në tregun e Tiranës (pllaka, tapiceri, ngjyra muri). Krijoni një plan koste për rinovimin e një dhome 4m × 3m duke përfshirë të gjitha materialet e nevojshme dhe llogaritni buxhetin total.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Matja",
+      "page_or_row": "86"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

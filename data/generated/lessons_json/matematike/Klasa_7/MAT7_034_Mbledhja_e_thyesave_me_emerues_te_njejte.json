@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_034",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 34,
+  "tema": "Mbledhja e thyesave me emërues të njëjtë",
+  "tematika": "Numri",
+  "month": "Nëntor",
+  "trimester": 1,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës së 7-të janë duke organizuar një treg shkollor për Ditën e Pavarësisë. Ana ka shitur 3/8 kg mollë dhe 2/8 kg portokaj, ndërsa Beni ka shitur 1/8 kg banane dhe 4/8 kg rrush. Ata duhet të llogaritin sa kilogramë fruta ka shitur secili në total për të përcaktuar çmimin e përgjithshëm dhe fitimin.",
+  "rezultatet": [
+    "Nxënësi/ja identifikon thyesat me emërues të njëjtë dhe shpjegon rolin e emëruesit të përbashkët",
+    "Nxënësi/ja llogarit saktësisht shumën e dy ose më shumë thyesave me emërues të njëjtë",
+    "Nxënësi/ja argumenton pse gjatë mbledhjes së thyesave me emërues të njëjtë mblidhen vetëm numëruesit",
+    "Nxënësi/ja demonstron procedurën e mbledhjes së thyesave me emërues të njëjtë përmes materialesh konkrete",
+    "Nxënësi/ja zgjidh probleme praktike që përfshijnë mbledhjen e thyesave me emërues të njëjtë",
+    "Nxënësi/ja përkufizon kur një thyesë mund të thjeshtohet pas mbledhjes dhe aplikon rregullin"
+  ],
+  "fjalet_kyce": [
+    "thyesë (fraction)",
+    "numërues (numerator)",
+    "emërues (denominator)",
+    "emërues i njëjtë",
+    "vijë thyese",
+    "thyesë e thjeshtueshme",
+    "faktori i përbashkët më i madh (FPMM)",
+    "shumë e thyesave"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 4: Thyesat, faqe 62-67",
+    "Fletë pune e përgatitur me 15 ushtrime të shkallëzuara mbi mbledhjen e thyesave",
+    "Materiale konkrete: disqe kartonit të ndarë në pjesë të barabarta, blloqe Cuisenaire",
+    "Tabelë interaktive ose flipchart me shembuj vizual",
+    "Kalkulatore për verifikim",
+    "Postera me formulën bazë të mbledhjes së thyesave me emërues të njëjtë"
+  ],
+  "lidhja": "Lidhje me Artet përmes llogaritjes së proporteve në pikturë dhe dizajn. Lidhje me Gjeografinë duke llogarit shkallën e hartave (1/8 + 3/8 = 4/8 = 1/2). Lidhje me jetën e përditshme: ndarja e ushqimit në familje, llogaritja e ingredientëve në kuzhinë shqiptare (p.sh. 1/4 kg miell + 3/4 kg miell për byrek), menaxhimi i kohës (1/3 orë + 2/3 orë = 1 orë).",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nKjo orë synon që nxënësit të zotërojnë plotësisht konceptin e mbledhjes së thyesave me emërues të njëjtë dhe të jenë në gjendje të zgjidhin probleme praktike që kërkojnë këtë aftësi.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\nMësuesi nis me një aktivitet motivues duke sjellë një tortë kartonit të ndarë në 8 pjesë të barabarta. Thotë: \"Unë hëngra 2/8 e tortës në mëngjes dhe 3/8 në drekë. Sa kam ngrënë gjithsej?\" Nxënësit diskutojne dhe përpiqen të gjejnë përgjigjen duke përdorur copat e tortës. Mësuesi bën pyetje orientuese: \"Sa është 2+3? Pse emëruesi mbetet 8? Çfarë përfaqëson secili numër në thyesë?\" Lidh me orën e kaluar duke kujtuar përkufizimin e thyesës dhe elementët e saj.\n\n**REALIZIMI I KUPTIMIT/ZHVILLIMI** (25-28 minuta)\nMësuesi shpjegon konceptin duke theksuar se kur thyesat kanë emërues të njëjtë, ne mblidhim vetëm numëruesit dhe emëruesi mbetet i njëjtë.\n\n**Shembulli 1:** Ana bleu 2/7 kg mollë dhe 3/7 kg dardhë. Sa kilogramë fruta bleu gjithsej?\nZgjidhja hap pas hapi:\n- Identifikojmë thyesat: 2/7 dhe 3/7\n- Vërejmë se emëruesit janë të njëjtë: 7\n- Mblidhim numëruesit: 2 + 3 = 5\n- Emëruesi mbetet i njëjtë: 7\n- Përgjigja: 2/7 + 3/7 = 5/7 kg\n\n**Shembulli 2:** Beni lexoi 1/6 të librit të tij të parë dhe 4/6 të librit të dytë. Sa pjesë libri lexoi gjithsej?\nZgjidhja:\n- Thyesat janë: 1/6 dhe 4/6\n- Emëruesit e njëjtë: 6\n- Mblidhet: 1 + 4 = 5\n- Rezultati: 1/6 + 4/6 = 5/6\n\n**Shembulli 3:** Llogaritni: 3/10 + 2/10 + 4/10\nZgjidhja e plotë:\n- Të tre thyesat kanë emërues 10\n- Mblidhim numëruesit: 3 + 2 + 4 = 9\n- Rezultati: 9/10\n\nNxënësit ndahen në grupe prej 4 vetësh dhe secili grup merr materiale konkrete (disqe kartonit) për të demonstruar mbledhjen e thyesave. Çdo grup zgjidh një problem të dhënë dhe pastaj prezanton zgjidhjen para klasës duke përdorur materialet.\n\n**PRAKTIKA/USHTRIME** (8-10 minuta)\na) **Niveli bazë:** Zgjidhni:\n   - 1/5 + 2/5 = ?\n   - 3/8 + 1/8 = ?\n   - 2/9 + 4/9 = ?\n\nb) **Niveli mesatar:** \n   - Liri hëngri 2/12 të pizzës dhe motra e saj 7/12. Sa pizza hëngrën së bashku?\n   - Llogaritni: 1/15 + 3/15 + 8/15 dhe thjeshtozeni nëse është e mundur\n\nc) **Niveli i avancuar:** Mira ka tre shishe me ujë. Në shishen e parë ka 3/16 litra ujë, në të dytën 5/16 litra dhe në të tretën 7/16 litra. Nëse ajo derdh të gjithë ujin në një enë të madhe, a do të ketë më shumë se gjysma e një litri?\n\n**MBYLLJA/REFLEKTIMI** (3-5 minuta)\nMësuesi përmbledh tre pikat kryesore: 1) Thyesat me emërues të njëjtë mblidhen duke mbledhur numëruesit, 2) Emëruesi mbetet i njëjtë, 3) Rezultati mund të thjeshtohet nëse është e mundur. Bën një quiz të shpejtë verbal: \"Si mblidhen thyesat me emërues të njëjtë?\" dhe \"Pse emëruesi nuk ndryshon?\" Parashikon orën e ardhshme: \"Nesër do të mësojmë si të mblidhim thyesa kur emëruesit janë të ndryshëm.\"",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**DETYRË BAZË:** Zgjidhni ushtrimet 1-6 nga libri, faqe 65:\n- 2/7 + 4/7\n- 1/9 + 5/9 + 2/9  \n- 3/11 + 6/11\n- 4/13 + 2/13 + 3/13\n\n**DETYRË KRIJUESE:** Krijoni një problem të shkurtër që ka të bëjë me një situatë reale në familjen tuaj (ndarje ushqimi, koha e kaluar duke bërë detyra, etj.) që zgjidhet me mbledhjen e thyesave me emërues të njëjtë. Shkruajeni problemin dhe zgjidheni atë.\n\n**DETYRË SHTESË (fakultative):** Hulumtoni se çfarë ndodh kur mblidhim thyesa të tilla që shuma e tyre është më e madhe se 1 (p.sh. 5/8 + 6/8). Gjeni të paktën tre shembuj të tillë dhe shpjegoni rezultatin.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Numri",
+      "page_or_row": "34"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

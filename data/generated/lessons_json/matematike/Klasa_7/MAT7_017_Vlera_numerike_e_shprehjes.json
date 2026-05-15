@@ -1,0 +1,63 @@
+{
+  "id": "MAT7_017",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "III",
+  "lesson_number": 17,
+  "tema": "Vlera numerike e shprehjes",
+  "tematika": "Algjebra",
+  "month": "Tetor",
+  "trimester": 1,
+  "duration_minutes": 45,
+  "situata": "Nxënësit punojnë me formulën për syprinën e trapezit S=(a+b)h/2. Ata mësojnë të zëvendësojnë vlerat konkrete dhe të llogarisin rezultatin.",
+  "rezultatet": [
+    "Nxënësi/ja zëvendëson vlera numerike në shprehje algjebrike",
+    "Nxënësi/ja llogarit vlerën e shprehjes duke respektuar radhën e veprimeve",
+    "Nxënësi/ja punon me formula që përmbajnë shumë variabla",
+    "Nxënësi/ja interpreton rezultatin në kontekstin e problemit"
+  ],
+  "fjalet_kyce": [
+    "Vlerë numerike",
+    "Zëvendësim",
+    "Formula",
+    "Llogaritje",
+    "Variabël",
+    "Rezultat"
+  ],
+  "burimet": [
+    "Libri i matematikës klasa 7, fq. 97-101",
+    "Tabela formulash",
+    "Kalkulator",
+    "Fletë pune me formula",
+    "Shembuj praktikë"
+  ],
+  "lidhja": "Lidhje me shkencat natyrore: zëvendësimi në formula (F=ma, v=d/t). Lidhje me Gjeometrinë: formulat e syprinave dhe perimetrave. Lidhje me Kiminë: formulat e përqendrimit.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "QËLLIMI: Nxënësit do të mësojnë të llogarisin vlerën numerike të shprehjeve duke zëvendësuar vlerat e variablave.\n\nHYRJA (5 min):\n• Rikujtim: Formula e syprinës së trekëndëshit S = bh/2\n• Nëse b=6 cm dhe h=4 cm, sa është S?\n• S = (6)(4)/2 = 24/2 = 12 cm²\n• Ky proces quhet ZËVENDËSIM!\n\nZHVILLIMI (27 min):\n• PROCESI I ZËVENDËSIMIT:\n  1. Shkruaj shprehjen\n  2. Zëvendëso çdo variabël me vlerën e saj\n  3. Llogarit duke respektuar radhën e veprimeve\n\n• SHEMBUJ ME NJË VARIABËL:\n  - Nëse x = 3, gjeni 2x² - 5x + 4\n  - = 2(3)² - 5(3) + 4\n  - = 2(9) - 15 + 4\n  - = 18 - 15 + 4 = 7\n\n• SHEMBUJ ME DY VARIABLA:\n  - Nëse a = 2, b = -3, gjeni 3ab - a² + b²\n  - = 3(2)(-3) - (2)² + (-3)²\n  - = -18 - 4 + 9\n  - = -13\n\n• FORMULAT GJEOMETRIKE:\n  - Perimetri i drejtkëndëshit: P = 2(a+b)\n    Nëse a=5, b=3: P = 2(5+3) = 2(8) = 16\n  - Syprina e trapezit: S = (a+b)h/2\n    Nëse a=4, b=6, h=5: S = (4+6)(5)/2 = 50/2 = 25\n\n• FORMULAT FIZIKE:\n  - Shpejtësia: v = d/t\n    Nëse d=150km, t=3h: v = 150/3 = 50 km/h\n  - Energjia kinetike: Ek = mv²/2\n    Nëse m=2kg, v=5m/s: Ek = (2)(5)²/2 = 50/2 = 25 J\n\nPRAKTIKA (10 min):\n• Ushtrim 1: Për x=4, gjeni: a) 3x-7  b) x²+2x-5  c) (x-1)²\n• Ushtrim 2: Për a=-2, b=3, gjeni: a) a+2b  b) a²-b²  c) 2ab+a-b\n• Ushtrim 3: Syprina e rrethit S=πr². Gjeni S kur r=7 (π≈3.14)\n\nMBYLLJA (3 min):\n• Kujdes: Kur zëvendëson numër negativ, përdor kllapa!\n  x² kur x=-3: (-3)² = 9, JO -9!",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "1. Për x=-2, gjeni: a) 4x+9  b) x³-2x²+x  c) |x²-5|\n2. Për p=3, q=-4, gjeni: a) 2p-3q  b) p²+q²  c) (p+q)²-(p-q)²\n3. Syprina e cilindrit: S = 2πr(r+h). Gjeni S kur r=3, h=5, π=3.14\n4. Formula e interesit: I = Prt/100. Nëse P=5000€, r=5%, t=2 vjet, gjeni I.\n5. Sfidë: Për cilën vlerë të x, shprehja x²-4x+3 merr vlerën 0?",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Algjebra",
+      "page_or_row": "17"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

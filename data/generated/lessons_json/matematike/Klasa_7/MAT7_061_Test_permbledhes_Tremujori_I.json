@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_061",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 61,
+  "tema": "Test përmbledhës - Tremujori I",
+  "tematika": "Vlerësim përmbledhës",
+  "month": "Janar",
+  "trimester": 2,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës së 7-të në shkollën 'Fan Noli' në Tiranë po përgatiten për testin e parë tremujor të matematikës. Ata duhet të demonstrojnë njohuritë e fituara gjatë muajve shtator-dhjetor, duke përfshirë operacionet me numra racionalë, ekuacionet lineare të thjeshta, dhe bazat e gjeometrisë analitike që u mësuan përmes shembujve praktikë nga jeta e përditshme shqiptare.",
+  "rezultatet": [
+    "Nxënësi/ja zgjidh operacione me numra racionalë pozitivë dhe negativë me saktësi të paktën 80%",
+    "Nxënësi/ja llogarit vlerat numerike të shprehjeve algjebrike me një të panjohur",
+    "Nxënësi/ja identifikon dhe përdor vetitë e operacioneve për të thjeshtuar llogaritjet",
+    "Nxënësi/ja zgjidh ekuacione lineare të thjeshta të tipit ax + b = c",
+    "Nxënësi/ja demonstron njohuritë për këndjet dhe llogarit masa e këndeve në figura gjeometrike",
+    "Nxënësi/ja analizon dhe interpreton rezultatet e fituara duke argumentuar hapat e zgjidhjes"
+  ],
+  "fjalet_kyce": [
+    "numra racionalë (Q)",
+    "numra negativë dhe pozitivë",
+    "shprehje algjebrike",
+    "ekuacion linear",
+    "të panjohura (x, y)",
+    "kënd i drejtë (90°)",
+    "operacione matematikore (+, -, ×, ÷)",
+    "vlerësim përmbledhës"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 1-3, faqe 15-85",
+    "Teste të përgatitura me 15 ushtrime në tre nivele vështirësi",
+    "Kalkulatore shkencor për kontrollin e rezultateve",
+    "Fletë pune individuale me hapësira për zgjidhje",
+    "Vizore dhe busull për ushtrimet e gjeometrisë",
+    "Kronometër për menaxhimin e kohës së testit"
+  ],
+  "lidhja": "Lidhje me shkencat natyrore përmes llogaritjeve të shpejtësisë dhe distancës (km/h, m/s). Lidhje me Gjeografinë duke përdorur koordinatat dhe distancat midis qyteteve shqiptare. Lidhje me Ekonominë familjare përmes problemave me çmimet e produkteve në tregun shqiptar dhe llogaritjes së fitimit/humbjes. Zhvillim të aftësive analitike që përdoren në të gjitha lëndët shkencore.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\n\nKjo orë ka për qëllim vlerësimin e njohurive dhe aftësive të fituara nga nxënësit gjatë tremujori të parë në matematikë, duke u fokusuar në operacionet me numra racionalë, shprehjet algjebrike dhe bazat e gjeometrisë.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\n\nMësuesi fillon me një aktivitet relaksues për të ulur ankthin e testimit: 'Loja e numrave racionalë' ku nxënësit në çifte thonë nga një numër pozitiv dhe negativ dhe llogaritjnë shumen. Pastaj bëhen pyetje orientuese: 'Sa është temperatura në Tiranë nëse është -3°C në mëngjes dhe rritet me 8°C deri në mesditë?' (Përgjigja: 5°C). 'Nëse Anila ka 150 lekë dhe shpenzon 75 lekë për kafshatë, sa lekë i mbeten?' (75 lekë). Këto pyetje aktivizojnë kujtesën dhe krijojnë atmosferë pozitive para testit. Mësuesi rikujton rregullat e testit dhe shpjegon strukturën: 15 ushtrime në tre nivele vështirësi.\n\n**REALIZIMI I KUPTIMIT/ZHVILLIMI** (25-28 minuta)\n\nKjo është faza kryesore e testit ku nxënësit punojnë individualisht. Testi përmban tri seksione:\n\nSeksioni A (Niveli bazë - 5 ushtrime):\nShembull 1: Llogaritni: (-7) + (+12) - (-3) = -7 + 12 + 3 = 8\nShembull 2: Thjeshtoni: 3x + 5x - 2x = 6x\nShembull 3: Gjeni vlerën e x në ekuacionin: x + 7 = 15, pra x = 8\n\nSeksioni B (Niveli mesatar - 7 ushtrime):\nShembull 1: Një autobus lëviz nga Tirana për në Vlorë me shpejtësi 80 km/h. Nëse distanca është 160 km, sa kohë do të duhet? Zgjidhje: 160 ÷ 80 = 2 orë\nShembull 2: Zgjidhni ekuacionin: 2x - 5 = 11. Zgjidhje: 2x = 16, x = 8\nShembull 3: Llogaritni shumën e këndeve të brendshme të një trekëndëshi. Përgjigja: 180°\n\nSeksioni C (Niveli i avancuar - 3 ushtrime):\nShembull 1: Blerta blen 3 kg mollë me çmim 120 lekë/kg dhe 2 kg portokaj me çmim 150 lekë/kg. Nëse paguan me 1000 lekë, sa kusur do të marrë? Zgjidhje: (3×120) + (2×150) = 360 + 300 = 660 lekë. Kusuri: 1000 - 660 = 340 lekë\n\nGjatë testit, mësuesi qarkuon në klasë, vëzhgon pa ndërhyrë, dhe ofron ndihmë të limituar vetëm për sqarime të pyetjeve.\n\n**PRAKTIKA/USHTRIME** (8-10 minuta)\n\nPas përfundimit të testit, nxënësit që mbarojnë më shpejt marrin ushtrime shtesë për të mbajtur të zënë mendjen:\na) Niveli bazë: Llogaritni 15 + (-8), (-12) × 3, 24 ÷ (-6)\nb) Niveli mesatar: Zgjidhni 3x + 7 = 22, gjeni perimetrin e një drejtkëndëshi me gjatësi 8 cm dhe gjerësi 5 cm\nc) Niveli i avancuar: Probleme me përqindje dhe proporcionalitet direkt\n\n**MBYLLJA/REFLEKTIMI** (3-5 minuta)\n\nMësuesi mbledh testet dhe bën një përmbledhje të shkurtër: 'Sot demonstruat njohuritë për numrat racionalë, ekuacionet dhe gjeometrinë.' Pyetje reflektuese: 'Cili seksion ju duk më i lehtë?' 'Çfarë vështirësish patët?' Informon se rezultatet do të jepen brenda 3 ditëve dhe ora e ardhshme do të jetë analizë e gabimeve dhe përmirësim i dobësive të konstatuara.",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**BAZË:** Rishikoni kapitulin 1-3 të librit, veçanërisht faqet 25-30 për numrat racionalë dhe faqet 45-50 për ekuacionet e thjeshta. Zgjidhni ushtrimet e mbetura nga libri: Nr. 12, 15, 18 në faqen 35 dhe Nr. 8, 11 në faqen 52.\n\n**KRIJUESE:** Krijoni një problem matematik që lidhet me jetën tuaj të përditshme (blerje në dyqan, llogaritje kohe për në shkollë, etj). Problemi duhet të përdorë të paktën një numër negativ dhe një ekuacion të thjeshtë. Shkruani problemin dhe zgjidhjen në një fletë A4 të zbukuruar.\n\n**SHTESË (fakultative):** Për nxënësit që dëshirojnë sfida shtesë: Hulumtoni temën 'Numrat irracionalë' duke lexuar materialin në internet ose enciklopedi. Përgatitur një prezantim 5-minutësh për klasën duke dhënë 3 shembuj të numrave irracionalë dhe shpjegoni pse quhen kështu.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Test",
+      "page_or_row": "61"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

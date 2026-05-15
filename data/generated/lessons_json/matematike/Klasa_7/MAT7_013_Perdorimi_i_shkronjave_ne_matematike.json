@@ -1,0 +1,63 @@
+{
+  "id": "MAT7_013",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "III",
+  "lesson_number": 13,
+  "tema": "Përdorimi i shkronjave në matematikë",
+  "tematika": "Algjebra",
+  "month": "Shtator",
+  "trimester": 1,
+  "duration_minutes": 45,
+  "situata": "Nxënësit zbulojnë se në vend që të shkruajnë '3+3+3+3+3' mund të shkruajnë '5×3'. Po sikur numri i përmbledhjeve të jetë i panjohur? Atëherë na duhet një shkronjë: n×3 ose 3n.",
+  "rezultatet": [
+    "Nxënësi/ja kupton rolin e shkronjave si simbole për numra të panjohur",
+    "Nxënësi/ja shkruan shprehje algjebrike për situata të përshkruara me fjalë",
+    "Nxënësi/ja dallon variablat, konstantet dhe koeficientët",
+    "Nxënësi/ja vlerëson shprehje për vlera të caktuara të variablave"
+  ],
+  "fjalet_kyce": [
+    "Variabël",
+    "Konstante",
+    "Koeficient",
+    "Shprehje algjebrike",
+    "Zëvendësim",
+    "Term"
+  ],
+  "burimet": [
+    "Libri i matematikës klasa 7, fq. 73-78",
+    "Kartela me simbole",
+    "Kutia e misterit",
+    "Fletë pune",
+    "Shembuj nga jeta reale"
+  ],
+  "lidhja": "Lidhje me shkencat natyrore: formulat (v=d/t). Lidhje me Ekonominë: çmimi × sasia = totali. Lidhje me Gjeometrinë: P=2(a+b).",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "QËLLIMI: Nxënësit do të kuptojnë rolin e shkronjave në matematikë dhe do të shkruajnë shprehje algjebrike të thjeshta.\n\nHYRJA (7 min):\n• 'Kutia e misterit': Në kuti ka një numër objekte. Shtojmë 5 objekte të tjera. Sa kemi gjithsej?\n  - Nuk e dimë numrin fillestar, le ta quajmë 'x'\n  - Gjithsej: x + 5\n• Kjo është ALGJEBRA - përdorimi i shkronjave për numra të panjohur!\n\nZHVILLIMI (25 min):\n• TERMAT BAZË:\n  - Variabël: shkronjë që përfaqëson numër të panjohur (x, y, n, a...)\n  - Konstante: numër i njohur (3, -5, 7...)\n  - Koeficient: numri para variablës (në 3x, koeficienti është 3)\n  - Term: pjesë e shprehjes e ndarë me + ose - (në 2x+3y-5, termat janë 2x, 3y, -5)\n\n• SHKRIMI I SHPREHJEVE:\n  - Një numër plus 7: n + 7\n  - Dyfishi i një numri: 2x\n  - 5 më pak se një numër: x - 5\n  - Produkti i dy numrave: xy (ose x×y)\n  - Një numër i ngritur në katror plus 3: x² + 3\n\n• ZËVENDËSIMI:\n  - Nëse x = 4, gjeni 3x + 2\n  - 3(4) + 2 = 12 + 2 = 14\n  - Nëse a = -2, b = 3, gjeni 2a - b + 5\n  - 2(-2) - 3 + 5 = -4 - 3 + 5 = -2\n\n• Aktivitet: Shkruani shprehje algjebrike:\n  1. Mosha ime pas n vitesh: mosha_ime + n\n  2. Çmimi i x mollëve me 50 lekë/copë: 50x\n  3. Perimetri i katrorit me brinjë a: 4a\n\nPRAKTIKA (10 min):\n• Ushtrim 1: Shkruani si shprehje: a) Trefishi i x  b) y pakësuar me 8  c) Shuma e a dhe b\n• Ushtrim 2: Gjeni vlerën kur x=5: a) 4x-3  b) x²+2x  c) 2x²-3x+1\n• Ushtrim 3: Identifikoni variablat, konstantet, koeficientët në: 5x² - 3y + 7\n\nMBYLLJA (3 min):\n• Pse janë të rëndësishme shkronjat në matematikë? Përgjithësim!\n• 'Exit ticket': Shkruani si shprehje: '6 më shumë se dyfishi i një numri'",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "1. Shkruani si shprehje algjebrike: a) Një numër i shtuar me 10  b) Gjysma e një numri  c) Katrori i një numri minus 4  d) Shuma e trefishit të x dhe dyfishit të y\n2. Vlerësoni kur a=3, b=-2: a) 2a+3b  b) a²-b²  c) 3ab+a  d) (a+b)²\n3. Identifikoni termat, koeficientët dhe konstantet: 4x³ - 2x² + 5x - 8\n4. Problem: Në klasë ka d djem dhe v vajza. Shkruani shprehje për: a) Numrin total  b) Ndryshimin  c) Numrin nëse ikin 3 djem\n5. Sfidë: Për cilën vlerë të x, shprehja 2x+5 është e barabartë me 3x-1?",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Algjebra",
+      "page_or_row": "13"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

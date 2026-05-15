@@ -1,0 +1,71 @@
+{
+  "id": "MAT7_072",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 72,
+  "tema": "Ndërtimi i këndeve",
+  "tematika": "Gjeometria",
+  "month": "Janar",
+  "trimester": 2,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e një shkolle në Tiranë duhet të hartojnë planin e oborrit të ri të shkollës. Ata duhet të ndërtojnë kënde të saktë për vendosjen e fushës së futbollit (90°), rrugëzave (kënde 45° dhe 60°) dhe zonave të pushimit. Duke përdorur busull dhe vizore, ata do të krijojnë një plan gjeometrik të saktë për oborrin 50m x 30m.",
+  "rezultatet": [
+    "Nxënësi/ja ndërton saktësisht kënde 30°, 45°, 60°, 90° dhe 120° duke përdorur busull dhe vizore",
+    "Nxënësi/ja identifikon elementet themelore të një këndi: kulmin, anët dhe hapësirën këndore",
+    "Nxënësi/ja llogarit masën e këndeve të ndërtuara duke përdorur tranportuesin",
+    "Nxënësi/ja demonstron procedurën e ndërtimit të një këndi të dhënë hap pas hapi",
+    "Nxënësi/ja argumenton pse një kënd i ndërtuar është i saktë duke krahasuar me masën e kërkuar",
+    "Nxënësi/ja zgjidh probleme praktike që përfshijnë ndërtimin e këndeve në situata të ndryshme"
+  ],
+  "fjalet_kyce": [
+    "kënd (angle)",
+    "kulm (vertex)",
+    "anë e këndit (side of angle)",
+    "busull (compass)",
+    "vizore (ruler)",
+    "transportues (protractor)",
+    "gradë (degree) - simboli °",
+    "kënd i drejtë (90°)",
+    "kënd i mprehtë (< 90°)",
+    "kënd i gjerë (> 90°)"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 4: Gjeometria, faqe 78-85",
+    "Busull individual për çdo nxënës",
+    "Vizore të gjata 30 cm",
+    "Transportues plastik 180°",
+    "Fletë pune e përgatitur me 12 ushtrime ndërtimi",
+    "Fletë milimetrike A4 për çdo nxënës",
+    "Laps të fortë (2H) për vizatim preciz"
+  ],
+  "lidhja": "Ndërton lidhje të forta me Artet Vizuale (vizatim teknik dhe perspektivë), Gjeografinë (leximi i hartave dhe orientimi), shkencat natyrore (rrezet e dritës dhe reflektimi), si dhe me profesionet praktike në Shqipëri si arkitektura (ndërtimi i pallateve në Tiranë), inxhineria (ura mbi Buna dhe Drini) dhe agrokultura (ndarja e parcelave bujqësore në fshatra).",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nKjo orë synon që nxënësit të zotërojnë plotësisht teknikat e ndërtimit të këndeve duke përdorur mjete gjeometrike. Ata do të kuptojnë lidhjen midis masës teorike të një këndi dhe ndërtimit praktik të tij.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\nFilloj orën duke treguar foto të ndërtesave të famshme të Tiranës si Piramida dhe Pallati i Kulturës, duke pyetur: 'Çfarë këndesh shihni në këto ndërtesa?' Demonstroj në tabelë duke përdorur një busull të madh: 'Si mendoni se arkitektët ndërtojnë kënde të sakta 90° për dritaret?' Lidh me orën e kaluar ku mësuam të matim këndet me transportues: 'Sot do të mësojmë të krijojmë vetë këndet që dëshirojmë.' Shpërndaj mjetet dhe kërkoj që çdo nxënës të hapë busullin dhe të vizatojë një vijë të drejtë.\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\nShpjegoj elementet e këndit duke vizatuar në tabelë: kulmi A, anët AB dhe AC, duke theksuar se këndi është hapësira midis dy anëve.\n\n**Shembull 1: Ndërtimi i këndit 60°**\nHap pas hapi në tabelë:\n1. Vizatoj anën e parë AB = 4 cm\n2. Vendos busullin në pikën A me hapje 3 cm\n3. Bëj harqe mbi dhe nën vijën AB\n4. Pa ndryshuar hapjen, vendos busullin në B dhe bëj harqe që priten me të parat\n5. Lidh A me pikën e prerjes - këndi BAC = 60°\n6. Verifikoj me transportues: 60°\n\n**Shembull 2: Ndërtimi i këndit 90°**\nDemonstroj teknikën e përkullmores:\n1. Vizatoj AB = 5 cm\n2. Nga pika A, me busull bëj dy harqe në distanca të barabarta mbi AB\n3. Nga pikat e prerjes, me busull të hapur më shumë, bëj harqe që priten\n4. Lidh A me prerjen - këndi është 90°\n5. Verifikoj me transportues: 90°\n\n**Shembull 3: Ndërtimi i këndit 45°**\nTregoj si të ndaj këndin 90° në dysh:\n1. Ndërtoj kënd 90° si më sipër\n2. Me busull nga kulmi, bëj hark që pret të dy anët e këndit 90°\n3. Lidh kulmin me pikën e mesme të harkut\n4. Verifikoj: 45°\n\nOrganizoj punë në grupe 4-5 nxënës. Çdo grup merr një detyrë: Grupi 1 ndërton 30°, Grupi 2 ndërton 120°, Grupi 3 ndërton 135°. Jap 15 minuta dhe çdo grup paraqet teknikën e tyre në tabelë.\n\n**PRAKTIKA** (8-10 minuta)\na) **Niveli bazë**: Ndërtoni kënde: 60°, 90°, 120°\nb) **Niveli mesatar**: Ndërtoni kënd 75° (60° + 15°) dhe kënd 105° (60° + 45°)\nc) **Niveli i avancuar**: Ndërtoni një trekëndësh me kënde 45°-60°-75° dhe verifikoni që shuma është 180°\n\nKontrolloj punën individual duke lëvizur midis bankave dhe ndihmoj nxënësit që kanë vështirësi.\n\n**MBYLLJA** (3-5 minuta)\nPërmbledh tri pikat kryesore: 1) Çdo kënd mund të ndërtohet me busull dhe vizore, 2) Verifikimi me transportues është i detyrueshëm, 3) Saktësia varet nga preciziteti i matjeve. Quiz verbal: 'Çfarë mjeti përdoret për të ndërtuar kënde?' 'Sa gradë ka këndi i drejtë?' 'Cilat janë tre hapat kryesorë për të ndërtuar një kënd 60°?' Njoftoj se ora e ardhshme do të mësojmë ndërtimin e trekëndëshave duke përdorur këndet e ndërtuara sot.",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**DETYRË BAZË**: Ndërtoni në fletë milimetrike këndet: 30°, 45°, 60°, 90°, 120°, 135°. Për çdo kënd shkruani masën e saktë të matur me transportues. Libri 'Matematika 7', ushtrimet 1-6, faqja 82.\n\n**DETYRË KRIJUESE**: Krijoni një poster me titull 'Këndet në arkitekturën shqiptare'. Fotografoni ose vizatoni 8 ndërtesa të ndryshme nga qyteti juaj dhe identifikoni të paktën 3 lloje këndesh të ndryshëm në çdo ndërtesë. Shënoni gradët e përafërta të këndeve.\n\n**DETYRË SHTESË (fakultative)**: Hulumtoni dhe ndërtoni 'Rozën e Erërave' - një figurë gjeometrike me 8 kënde të barabartë nga 45°. Përdorni busull për të ndërtuar një rreth me rreze 4 cm dhe ndani atë në 8 pjesë të barabarta. Shkruani një ese të shkurtër mbi përdorimin e kësaj figure në navigacion.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Gjeometria",
+      "page_or_row": "72"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "MAT7_024",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 24,
+  "tema": "Katërkëndëshat",
+  "tematika": "Gjeometria",
+  "month": "Tetor",
+  "trimester": 1,
+  "duration_minutes": 45,
+  "situata": "Nxënësit duan të ndërtojnë një kopsht të ri në oborrin e shkollës me formë drejtkëndore. Duhet të llogaritin sipërfaqen dhe perimetrin për të blerë lëndët e duhura dhe të kuptojnë se si forma ndikon në hapësirën e disponueshme.",
+  "rezultatet": [
+    "Nxënësi/ja identifikon dhe klasifikon katërkëndëshat sipas llojeve (drejtkëndor, katror, paralelogram, trapez)",
+    "Nxënësi/ja llogarit perimetrin dhe sipërfaqen e katërkëndëshave duke përdorur formulat e duhura",
+    "Nxënësi/ja zbaton vetitë e katërkëndëshave për të zgjidhur probleme praktike",
+    "Nxënësi/ja dallon katërkëndëshat e rregullt nga të parregulltë dhe argumenton zgjidhjet e tij",
+    "Nxënësi/ja përdor njësitë e matjes për të shprehur rezultatet në kontekstin e problemit"
+  ],
+  "fjalet_kyce": [
+    "katërkëndësh",
+    "drejtkëndor",
+    "paralelogram",
+    "trapez",
+    "diagonale",
+    "sipërfaqe"
+  ],
+  "burimet": [
+    "Libri i tekstit të matematikës për klasën 7",
+    "Fletë pune me ushtrime për katërkëndëshat",
+    "Instrumenta gjeometrikë (vizore, kompas, transportues)",
+    "Materiale konkrete (letra me forma katërkëndore)",
+    "Tabelë me formulat për sipërfaqen dhe perimetrin"
+  ],
+  "lidhja": "Lidhje me artin (modelim dhe dizajn), teknologjinë (ndërtim dhe arkitekturë), jetën e përditshme (planifikimi i hapësirave, bujqësia), dhe edukimin fizik (dimensionet e fushave sportive).",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**Qëllimi:** Nxënësit të kuptojnë konceptin e katërkëndëshave, të dallonjë llojet e tyre dhe të zgjidhin probleme praktike duke llogaritur perimetrin dhe sipërfaqen.\n\n**HYRJA (5-8 min):** Mësuesi prezanton situatën e kopshtit të ri dhe tregon forma të ndryshme katërkëndore (p.sh. libra, dritare, tryeza). Pyet nxënësit: \"Sa lloje katërkëndësha shihni në klasë?\" Nxënësit identifikojnë objekte dhe diskutojnë dallimet.\n\n**ZHVILLIMI (25-30 min):** Mësuesi shpjegon llojet e katërkëndëshave me shembuj konkretë: 1) Katrori: tregon një katror me brinjë 5cm, llogarit perimetrin (P=4×5=20cm) dhe sipërfaqen (S=5²=25cm²). 2) Drejtkëndori: një kopsht 8m×12m, P=2(8+12)=40m, S=8×12=96m². 3) Paralelogrami dhe trapezi me shembuj të thjeshtë. Nxënësit punojnë në grupe prej 4 vetësh: çdo grup mat katërkëndësha të ndryshëm të prerë nga letrat dhe llogarit perimetrin dhe sipërfaqen. Grupi 1 punon me katrorë 6cm×6cm, Grupi 2 me drejtkëndor 4cm×9cm, etj.\n\n**PRAKTIKA (7-10 min):** Ushtrime individuale: 1) Gjeni perimetrin e një drejtkëndori me gjatësi 15cm dhe gjerësi 8cm. 2) Një katror ka sipërfaqe 49cm². Sa është brinja? 3) Një trapez ka bazat 6cm dhe 10cm, lartësi 4cm. Gjeni sipërfaqen.\n\n**MBYLLJA (3-5 min):** Përmbledhje e formulave kryesore dhe diskutim se si mund të aplikohen në kopshtin e shkollës. Vlerësim me pyetje të shpejta: \"Cila është formula për sipërfaqen e drejtkëndorit?\"",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "1) Matni një dhomë në shtëpi (p.sh. dhoma juaj e gjumit) dhe llogartini perimetrin dhe sipërfaqen. 2) Zgjidhni: Një kopsht drejtkëndor ka gjatësi 25m dhe gjerësi 18m. Sa metër gardh duhen për ta rrethuar? Sa m² është sipërfaqja? 3) Një katror ka perimetër 32cm. Gjeni brinjën dhe sipërfaqen. 4) Vizatoni dhe etiketoni 4 lloje katërkëndëshash të ndryshëm. 5) Problemi: Një fermer ka një arë trapezoidale me bazat 50m dhe 80m, dhe lartësi 40m. Sa hektarë është kjo arë? (1 hektar = 10,000 m²)",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Gjeometria",
+      "page_or_row": "24"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

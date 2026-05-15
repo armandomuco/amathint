@@ -1,0 +1,63 @@
+{
+  "id": "MAT7_012",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "III",
+  "lesson_number": 12,
+  "tema": "Ushtrime - Numrat e plotë",
+  "tematika": "Numri",
+  "month": "Shtator",
+  "trimester": 1,
+  "duration_minutes": 45,
+  "situata": "Nxënësit përgatiten për vlerësimin e njësisë duke rishikuar të gjitha konceptet mbi numrat e plotë: veprimet, krahasimin, vlerën absolute dhe radhën e veprimeve.",
+  "rezultatet": [
+    "Nxënësi/ja demonstron zotërim të veprimeve me numra të plotë",
+    "Nxënësi/ja zgjidh probleme të kombinuara me numra të plotë",
+    "Nxënësi/ja identifikon dhe korrigjon gabime të zakonshme",
+    "Nxënësi/ja aplikon njohuritë në situata praktike"
+  ],
+  "fjalet_kyce": [
+    "Numra të plotë",
+    "Veprime",
+    "Vlerë absolute",
+    "Krahasim",
+    "Problem",
+    "Ushtrime"
+  ],
+  "burimet": [
+    "Libri i matematikës klasa 7, fq. 68-72",
+    "Fletë pune përsëritëse",
+    "Test model",
+    "Kalkulator",
+    "Tabela përmbledhëse"
+  ],
+  "lidhja": "Konsolidim i njohurive për aplikim në algjebër, gjeometri dhe lëndë të tjera.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "QËLLIMI: Konsolidimi dhe vlerësimi i njohurive mbi numrat e plotë përmes ushtrimeve të larmishme.\n\nHYRJA (5 min):\n• 'Quiz show': 10 pyetje të shpejta me përgjigje gojore\n• Identifikimi i pikave të dobëta.\n\nZHVILLIMI (27 min):\n• STACIONI 1 - Veprimet bazë (7 min):\n  1. (-8) + (+5) = -3\n  2. (-12) - (-7) = -12 + 7 = -5\n  3. (+6) + (-9) - (-4) = 6 - 9 + 4 = 1\n  4. (-15) + (+15) - (+8) = 0 - 8 = -8\n\n• STACIONI 2 - Vlera absolute dhe krahasim (6 min):\n  1. |-7| + |3| = 7 + 3 = 10\n  2. |-5| - |-8| = 5 - 8 = -3\n  3. Renditni: -8, 5, -2, 0, -6, 3 → -8<-6<-2<0<3<5\n  4. Gjeni x: |x| = 5 → x = 5 ose x = -5\n\n• STACIONI 3 - Radha e veprimeve (7 min):\n  1. -5 + 3² × 2 = -5 + 9 × 2 = -5 + 18 = 13\n  2. (-4)² - 2 × (-3) = 16 - (-6) = 16 + 6 = 22\n  3. (8-12) × (3-7) = (-4) × (-4) = 16\n\n• STACIONI 4 - Probleme praktike (7 min):\n  1. Ashensori: Fillon kati 5, zbret 8 kate, ngjitet 3 kate. Ku është?\n     5 + (-8) + 3 = 0 (përdhesë)\n  2. Temperatura: -7°C në mëngjes, rritet 12°C në drekë, bie 5°C në darkë.\n     -7 + 12 - 5 = 0°C\n  3. Llogari: Ke 200€, tërheq 350€, depoziton 100€. Sa ke?\n     200 - 350 + 100 = -50€ (borxh)\n\nPRAKTIKA (10 min):\n• Test i shkurtër individual (10 ushtrime)\n• Shkëmbim dhe korrigjim në çifte.\n\nMBYLLJA (3 min):\n• Diskutim i gabimeve më të shpeshta\n• Përgatitje për testin e njësisë",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "1. Llogaritni: a) (-9)+4-(-3)  b) -6-(-8)+(-2)  c) (-7)×2+15÷(-3)\n2. Thjeshtoni: |−8|−|−3|+|5−9|\n3. Renditni rritës dhe zbritës: -15, 8, -3, 0, -9, 12, -1\n4. Problem: Temperatura rekord në Shqipëri: max +44°C, min -29°C. Sa është amplituda?\n5. Sfidë: Nëse a×b>0 dhe a+b<0, çfarë mund të themi për shenjat e a dhe b?",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Numri",
+      "page_or_row": "12"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

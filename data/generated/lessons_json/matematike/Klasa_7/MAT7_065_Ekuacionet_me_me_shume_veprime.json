@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_065",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 65,
+  "tema": "Ekuacionet me më shumë veprime",
+  "tematika": "Algjebra",
+  "month": "Janar",
+  "trimester": 2,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës 7B të shkollës \"Fan Noli\" në Tiranë organizojnë një treg bamirësie për të mbledhur para për aktivitete jashtëshkollore. Ata duhet të llogaritin çmimet e produkteve kur shitja përfshin ulje çmimesh, tatim 20%, dhe kosto transporti. Për shembull, një libër kushton x lekë, por pas uljes 30% dhe shtimit të tatimit 20%, çmimi final është 84 lekë. Sa ishte çmimi fillestar i librit?",
+  "rezultatet": [
+    "Nxënësi/ja identifikon ekuacionet me më shumë veprime në probleme konkrete të jetës së përditshme",
+    "Nxënësi/ja zgjidh saktësisht ekuacione që përfshijnë 3-4 veprime aritmetikore dhe kllapa",
+    "Nxënësi/ja demonstron metodën e zgjidhjes duke zbatuar rregullat e renditjes së veprimeve",
+    "Nxënësi/ja argumenton hapat e zgjidhjes dhe kontrollon saktësinë e rezultatit të gjetur",
+    "Nxënësi/ja llogarit vlerat e panjohura në situata reale duke përdorur ekuacione të përbëra",
+    "Nxënësi/ja transformon probleme tekstuale në ekuacione algjebrike me më shumë veprime"
+  ],
+  "fjalet_kyce": [
+    "ekuacion i përbërë",
+    "variabël (x, y)",
+    "veprime të renditura",
+    "kllapa të rrumbullakëta ( )",
+    "anëtarë të ekuacionit",
+    "zgjidhja e ekuacionit",
+    "kontroll i rezultatit",
+    "transformim algjebrik"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 4: Algjebra, faqe 78-85",
+    "Fletë pune e përgatitur me 15 ushtrime me vështirësi të ndryshme",
+    "Kalkulatore për kontroll rezultatesh",
+    "Kartelat me probleme nga jeta e përditshme në Shqipëri",
+    "Tabelë interaktive për demonstrimin e hapave të zgjidhjes",
+    "Materiale konkrete: monedha dhe banknota leku për simulime"
+  ],
+  "lidhja": "Lidhet me shkencat natyrore për llogaritjen e shpejtësisë dhe distancës, me Gjeografinë për llogaritjen e shkallëve në harta dhe distancave reale midis qyteteve shqiptare, me Ekonominë familjare për llogaritjen e çmimeve me zbritje dhe tatim në tregjet e Tiranës, Durrësit apo Shkodrës, si dhe me Artet vizuale për proporcet në vizatim dhe projektimin e posterave.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nKjo orë synon që nxënësit të zotërojnë teknikat e zgjidhjes së ekuacioneve me më shumë veprime duke përdorur shembuj nga jeta e përditshme shqiptare. Nxënësit do të mësojnë të identifikojnë rendin e veprimeve dhe të zgjidhin ekuacione të përbëra sistematikisht.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\nMësuesi prezanton situatën: \"Ju blini një telefon në 'Neptun' me çmim x lekë. Dyqani ju jep 15% zbritje, por duhet të paguani 20% TVSH mbi çmimin e zbritur. Në total paguani 10,200 lekë. Sa ishte çmimi fillestar?\" Nxënësit diskutojnë në çifte: \"Si do ta zgjidhnit këtë problem?\" Mësuesi shkruan në tabelë disa përgjigje dhe pyet: \"A mund ta shndërrojmë këtë në një ekuacion?\" Lidh me orën e kaluar: \"Javën e kaluar mësuam ekuacione të thjeshta si x + 5 = 12. Sot do të mësojmë ekuacione më komplekse.\"\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\nMësuesi shpjegon konceptin duke zgjidhur tre shembuj hap pas hapi:\n\nShembull 1: 2x + 3(x - 4) = 23\n- Hapi 1: Hapin kllapat: 2x + 3x - 12 = 23\n- Hapi 2: Mbledh termat me x: 5x - 12 = 23\n- Hapi 3: Shton 12 në të dy anët: 5x = 35\n- Hapi 4: Pjesëton me 5: x = 7\n- Kontrolli: 2(7) + 3(7-4) = 14 + 9 = 23 ✓\n\nShembull 2: (3x + 6)/2 - 5 = 10\n- Hapi 1: Shton 5: (3x + 6)/2 = 15\n- Hapi 2: Shumëzon me 2: 3x + 6 = 30\n- Hapi 3: Zbret 6: 3x = 24\n- Hapi 4: Pjesëton me 3: x = 8\n- Kontrolli: (3·8 + 6)/2 - 5 = 30/2 - 5 = 15 - 5 = 10 ✓\n\nShembull 3: 4(2x - 3) + 2x = 2(x + 7)\n- Hapi 1: Hapin kllapat: 8x - 12 + 2x = 2x + 14\n- Hapi 2: Mbledh termat: 10x - 12 = 2x + 14\n- Hapi 3: Zbret 2x: 8x - 12 = 14\n- Hapi 4: Shton 12: 8x = 26\n- Hapi 5: Pjesëton me 8: x = 26/8 = 3.25\n\nPunë në grupe (4-5 nxënës): Çdo grup merr një kartelë me një problem nga jeta reale dhe duhet ta shndërrojë në ekuacion dhe ta zgjidh. Grupi 1: çmimet në treg, Grupi 2: distancat në autostradë, Grupi 3: oraret e autobusëve, Grupi 4: llogaritja e pikëve në lojë. Grupet prezantojnë zgjidhjet në tabelë.\n\n**PRAKTIKA** (8-10 minuta)\na) Niveli bazë:\n- 3x + 2(x - 1) = 13\n- 2(x + 4) - 3 = 9\n- (x + 5)/2 + 3 = 8\n\nb) Niveli mesatar:\n- 3(2x - 1) + 4(x + 2) = 25\n- (2x + 6)/3 - (x - 2)/2 = 4\n\nc) Niveli i avancuar:\n- 2[3(x + 1) - 4] = 3(2x - 5) + 7\n\nNxënësit punojnë individualisht, më pas krahasojnë përgjigjet me shokun. Mësuesi kontrollon dhe ndihmon nxënësit me vështirësi.\n\n**MBYLLJA** (3-5 minuta)\nPërmbledhja e tre pikave kryesore: 1) Ekuacionet me më shumë veprime zgjidhen hap pas hapi; 2) Duhet respektuar rendin e veprimeve; 3) Gjithmonë kontrollojmë rezultatin. Quiz verbal: \"Cili është hapi i parë kur kemi kllapa?\" \"Si kontrollojmë nëse x=5 është zgjidhja e duhur?\" Parashikimi: \"Javën e ardhshme do të mësojmë ekuacione me thyesa më komplekse dhe do të zgjidhim probleme nga gjeografia e Shqipërisë.\"",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**BAZË:** Zgjidhni ushtrimet 1-6 nga faqja 83: \n- 2x + 3(x - 2) = 14\n- 4(x + 1) - 2x = 18\n- (x + 3)/2 + 5 = 9\n- 3x - 2(x - 4) = 15\n\n**KRIJUESE:** Krijoni një problem nga jeta juaj e përditshme që zgjidhet me ekuacion me më shumë veprime. Shembull: Sa para keni kursyer nëse çdo muaj kurseni x lekë, por në muajin e tretë harxhoni 2000 lekë shtesë, dhe pas 4 muajsh keni gjithsej 8000 lekë? Shkruani problemin, ekuacionin dhe zgjidhjen.\n\n**SHTESË (fakultative):** Hulumtoni ekuacionet në fizikë dhe zgjidhni këto probleme: Një makinë lëviz me shpejtësi 60 km/h për x orë, pastaj me 80 km/h për (x+1) orë. Nëse ka përshkuar gjithsej 420 km, sa kohë ka udhëtuar me secilën shpejtësi? Prezantoni zgjidhjen me grafik të distancës në kohë.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Algjebra",
+      "page_or_row": "65"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_118",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 118,
+  "tema": "Ekuacionet e drejtëzave",
+  "tematika": "Algjebra",
+  "month": "Maj",
+  "trimester": 3,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e shkollës 'Fan Noli' në Tiranë duhet të llogaritin kostot për organizimin e një festivali shkollor. Ata duhet të përcaktojnë se sa do të kushtojë qiraja e skenës (50,000 lekë fikse) plus kostoja për çdo artist (15,000 lekë për çdo artist). Klasa do të përdorë ekuacionet lineare për të gjetur se sa artistë mund të ftojnë me buxhetin e disponueshëm prej 200,000 lekë.",
+  "rezultatet": [
+    "Nxënësi/ja përkufizon ekuacionin linear të formës y = ax + b dhe identifikon koeficientin këndor dhe termin e lirë",
+    "Nxënësi/ja llogarit vlerat e y-së për vlera të dhëna të x-së në ekuacionet lineare",
+    "Nxënësi/ja interpreton koeficientin këndor si shpejtësinë e ndryshimit të variablit të varur",
+    "Nxënësi/ja zgjidh probleme praktike duke përdorur ekuacionet e drejtëzave",
+    "Nxënësi/ja demonstron se si ndryshimi i koeficientit këndor ndikon në pjerrësinë e drejtëzës",
+    "Nxënësi/ja argumenton për zgjedhjen e modelit matematik më të përshtatshëm për situata të ndryshme"
+  ],
+  "fjalet_kyce": [
+    "ekuacion linear",
+    "koeficient këndor (slope)",
+    "termi i lirë (y-intercept)",
+    "variabli i pavarur (x)",
+    "variabli i varur (y)",
+    "formula y = ax + b",
+    "pjerrësi e drejtëzës",
+    "funksion linear"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 4: Funksionet lineare, faqe 78-85",
+    "Fletë pune e përgatitur me 12 probleme praktike",
+    "Vizore, laps, gumë, lapsa me ngjyra",
+    "Tabela koordinative (sistem koordinativ në letër)",
+    "Kalkulatore për llogaritjet e shpejta",
+    "Postera me grafe të ekuacioneve lineare"
+  ],
+  "lidhja": "Lënda lidhet ngushtë me shkencat natyrore për llogaritjen e shpejtësisë (v = s/t), me Gjeografinë për interpretimin e hartave dhe distancave, me Ekonominë familjare për planifikimin e buxhetit familjar, dhe me Artet për dizajnimin e grafikëve dhe posterave. Në jetën e përditshme në Shqipëri përdoret për llogaritjen e tarifave të telefonisë mobile, kostove të transportit publik sipas distancës, dhe planifikimin e shpenzimeve mujore të familjes.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\n\nKjo orë synon që nxënësit të kuptojnë konceptin e ekuacionit linear y = ax + b, të mësojnë të llogaritjnë vlerat dhe të zgjidhin probleme praktike të lidhura me situata të përditshme.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\n\nMësuesja fillon orën me një lojë interaktive: 'Agjencia e Taksi Tiranë'. Në tabelë shkruan: 'Tarifa bazë: 200 lekë, çdo km shtesë: 80 lekë'. Pyet nxënësit: 'Sa do të paguani për një udhëtim 5 km? 10 km? 15 km?'. Nxënësit llogaritnë: 5 km = 200 + 5×80 = 600 lekë, 10 km = 200 + 10×80 = 1000 lekë, 15 km = 200 + 15×80 = 1400 lekë. Më pas pyet: 'A vini re ndonjë model matematikor këtu? Si mund ta shkruajmë si një formulë të përgjithshme?' Lidh me orën e kaluar për shprehjet algjebrike.\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\n\nMësuesja shpjegon se tarifa e taksisë përcaktohet nga formula y = 80x + 200, ku y është kostoja totale dhe x është distanca në km. Prezanton formulën e përgjithshme y = ax + b ku 'a' është koeficienti këndor (80) dhe 'b' është termi i lirë (200).\n\n**Shembull 1**: Një kompani interneti në Tiranë ka tarifën mujore y = 500x + 2000, ku x është numri i GB-ve. Llogaritni kostën për 10 GB, 20 GB dhe 50 GB.\nZgjidhje: 10 GB: y = 500(10) + 2000 = 7000 lekë\n20 GB: y = 500(20) + 2000 = 12000 lekë\n50 GB: y = 500(50) + 2000 = 27000 lekë\n\n**Shembull 2**: Një dyqan mobiljesh në Shkodër shet tavolina me formulën y = 3000x + 25000, ku x është numri i tavolinave. Sa kushtojnë 4 tavolina? 8 tavolina?\nZgjidhje: 4 tavolina: y = 3000(4) + 25000 = 37000 lekë\n8 tavolina: y = 3000(8) + 25000 = 49000 lekë\n\n**Shembull 3**: Një fermë në Fier shet vezë me formulën y = 15x + 100, ku x është numri i vezëve. Nëse klienti paguan 250 lekë, sa vezë bleu?\nZgjidhje: 250 = 15x + 100, 150 = 15x, x = 10 vezë\n\nNxënësit ndahen në grupe nga 4 persona. Çdo grup merr një kartolë me problem të ngjashëm: grup 1 - restoranti, grup 2 - libraria, grup 3 - farmacia, grup 4 - dyqani i rrobave. Kanë 8 minuta për të diskutuar dhe zgjidhur problemin e tyre.\n\n**PRAKTIKA** (8-10 minuta)\n\na) **Niveli bazë**: \n1. Për y = 2x + 5, llogaritni y kur x = 3, x = 7\n2. Për y = 4x + 10, llogaritni y kur x = 2, x = 5\n3. Për y = 3x + 8, llogaritni y kur x = 4\n\nb) **Niveli mesatar**:\n1. Një dyqan shet libra me formulën y = 800x + 1500. Sa kushtojnë 6 libra?\n2. Nëse y = 5x + 20 dhe y = 85, gjeni vlerën e x-së\n\nc) **Niveli i avancuar**:\n1. Një kompani ka dy plane çmimesh: Plani A: y = 1000x + 3000, Plani B: y = 1200x + 2000. Për sa produkte plani A është më i lirë se plani B?\n\n**MBYLLJA** (3-5 minuta)\n\nMësuesja përmbledh tri pikat kryesore: 1) Ekuacioni linear ka formën y = ax + b, 2) 'a' tregon se sa shtohet y për çdo njësi x, 3) 'b' është vlera fillestare e y. Bën quiz verbal: 'Në formulën y = 6x + 50, çfarë do të thotë numri 6?' Nxënësit përgjigjen. Paralajmëron se ora e ardhshme do të mësojnë të vizatojnë grafikët e këtyre ekuacioneve.",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**BAZË**: Zgjidhni ushtrimet 1-6 nga faqja 82 të librit. Llogaritni vlerat e y-së për ekuacionet: y = 3x + 7 (x = 2, 5, 8), y = 2x + 12 (x = 3, 6, 9), y = 5x + 4 (x = 1, 4, 7).\n\n**KRIJUESE**: Krijoni një biznes plan të shkurtër për një dyqan që doni të hapni në qytetin tuaj. Përcaktoni një ekuacion linear për të llogaritur të ardhurat mujore bazuar në numrin e produkteve të shitura. Përdorni të dhëna reale nga tregtarët lokalë.\n\n**SHTESË (fakultative)**: Hulumtoni si përdoren ekuacionet lineare në ekonomi për të përcaktuar pikën e barazpeshjes (break-even point). Gjeni një shembull nga një kompani shqiptare dhe analizoni kostot fikse dhe të ndryshueshme të saj.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Algjebra",
+      "page_or_row": "118"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

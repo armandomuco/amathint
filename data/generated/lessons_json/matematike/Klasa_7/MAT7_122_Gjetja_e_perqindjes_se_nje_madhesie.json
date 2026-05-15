@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_122",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 122,
+  "tema": "Gjetja e përqindjes së një madhësie",
+  "tematika": "Numri",
+  "month": "Maj",
+  "trimester": 3,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës VII planifikojnë të organizojnë një panair shkollor për të mbledhur fonde për udhëtimin e tyre mësimor në Butrint. Ata duhet të llogaritin sa përqind të çmimit origjinal të produkteve do të jenë zbritjet për të tërhequr më shumë klientë, si dhe sa përqind të të ardhurave totale do të shkojnë për transportin dhe sa për biletat e hyrjes në muze.",
+  "rezultatet": [
+    "Nxënësi/ja përkufizon përqindjen si një raport me 100",
+    "Nxënësi/ja identifikon të dhënat e dhëna dhe të panjohura në problemat me përqindje",
+    "Nxënësi/ja llogarit saktësisht përqindjen e një madhësie duke përdorur formulën p% = (p/100) × a",
+    "Nxënësi/ja zgjidh probleme praktike me përqindje në situata të ndryshme tregtare",
+    "Nxënësi/ja demonstron hapat e zgjidhjes së problemave me përqindje në mënyrë të qartë",
+    "Nxënësi/ja argumenton zgjedhjen e metodës së zgjidhjes për probleme të ndryshme me përqindje"
+  ],
+  "fjalet_kyce": [
+    "përqindje (percentage - %)",
+    "madhësia bazë",
+    "p% = (p/100) × a",
+    "raport me 100",
+    "thyesë dhjetore",
+    "zbritje përqindjeje",
+    "koeficienti i përqindjes",
+    "vlerë absolute dhe relative"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 5: Përqindjet, faqe 89-95",
+    "Kalkulatore shkencore për verifikimin e rezultateve",
+    "Fletë pune e përgatitur me 15 probleme me përqindje",
+    "Kartela me çmimet e produkteve të panirit shkollor",
+    "Tabela e madhe për demonstrim në klasë",
+    "Materiale konkrete për simulimin e tregtimit (para letre, produkte)"
+  ],
+  "lidhja": "Lidhje me Gjeografinë përmes llogaritjes së distancave dhe kostove të udhëtimit Tiranë-Butrint. Lidhje me Edukimin Qytetar në planifikimin e buxhetit të aktiviteteve shkollore. Lidhje me Artet duke llogaritur përqindjen e ngjyrave të përdorura në një pikturë. Lidhje me jetën e përditshme në tregun e Tiranës ku nxënësit mund të vëzhgojnë zbritjet sezonate dhe të kuptojnë matematikën prapa tyre.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nKjo orë synon që nxënësit të kuptojnë konceptin e përqindjes dhe të mësojnë të llogaritin përqindjen e një madhësie në situata praktike. Nxënësit do të zhvillojnë aftësitë për të zgjidhur probleme të ndryshme me përqindje duke përdorur formulën bazë.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\nMësuesi nis orën duke treguar disa produkte me etiketa çmimesh ku shkruhet \"Zbritje 20%\" ose \"Ofertë 15% më lirë\". Pyet nxënësit: \"Çfarë kuptoni nga këto shënime? Nëse një bluze kushton 2000 lekë dhe ka zbritje 20%, sa do të paguani?\". Nxënësit diskutojnë në çifte dhe japin mendime. Mësuesi shkruan në tabelë disa përgjigje dhe pyet: \"Si mund ta llogarisin saktësisht këtë?\". Kjo aktivitet lidhet me orën e kaluar për raportet dhe proporcionet, duke kujtuar se përqindja është një lloj raporti special.\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\nMësuesi shpjegon se përqindja është një raport me 100 dhe shkruan formulën bazë: p% = (p/100) × a, ku 'a' është madhësia bazë dhe 'p' është përqindja.\n\nShembull 1: \"Në një klasë me 25 nxënës, 60% janë vajza. Sa vajza ka në klasë?\"\nZgjidhja: 60% e 25 = (60/100) × 25 = 0.6 × 25 = 15 vajza\n\nShembull 2: \"Çmimi i një çante është 3000 lekë. Në panair aplikohet zbritje 15%. Sa është çmimi i ri?\"\nZgjidhja: 15% e 3000 = (15/100) × 3000 = 0.15 × 3000 = 450 lekë zbritje\nÇmimi i ri = 3000 - 450 = 2550 lekë\n\nShembull 3: \"Distanca Tiranë-Durrës është 40 km. Nëse kemi udhëtuar 30% të rrugës, sa kilometra kemi përshkuar?\"\nZgjidhja: 30% e 40 = (30/100) × 40 = 0.3 × 40 = 12 km\n\nPasi shpjegon shembujt, mësuesi organizon punë në grupe prej 4 nxënësish. Çdo grup merr një skenar të ndryshëm: Grupi 1 llogarit përqindjen e librave shqip në bibliotekën e shkollës, Grupi 2 llogarit sa përqind të orëve mësimore janë matematikë gjatë një jave, Grupi 3 llogarit zbritjen në çmimet e biletave të kinemas për nxënësit. Çdo grup prezanton zgjidhjen e tij në tabelë.\n\n**PRAKTIKA** (8-10 minuta)\na) Niveli bazë:\n- Gjeni 25% të 80\n- Gjeni 10% të 150 \n- Gjeni 50% të 240\n\nb) Niveli mesatar:\n- Një libër kushton 800 lekë. Pas zbritjes 12%, sa kushton tani?\n- Në një shkollë me 600 nxënës, 35% janë djem. Sa vajza ka?\n\nc) Niveli i avancuar:\n- Çmimi i një produkti u rrit 20%, pastaj u ul 15%. Nëse çmimi final është 1020 lekë, sa ishte çmimi fillestar?\n\nNxënësit zgjedhin nivelin sipas mundësive të tyre dhe punojnë individualisht, ndërsa mësuesi qarklon dhe ndihmon.\n\n**MBYLLJA** (3-5 minuta)\nMësuesi përmbledh tre pikat kryesore: 1) Përqindja është raport me 100, 2) Formula: p% = (p/100) × a, 3) Përqindja përdoret gjerësisht në jetën e përditshme. Zhvillon një quiz të shkurtër verbal: \"Sa është 20% e 50?\", \"Çfarë formula përdorim?\", \"Jepni një shembull nga jeta ku përdorim përqindjet\". Paraprakisht njofton se ora e ardhshme do të trajtojë gjetjen e madhësisë bazë kur dihet përqindja.",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**BAZË:** Zgjidhni ushtrimet 1-6 nga faqja 93 të librit: Gjeni 15% të 200, 30% të 150, 8% të 250, 75% të 80. Gjithashtu zgjidhni problemin: 'Një makinë kushton 8000 euro. Sa është çmimi pas zbritjes 18%?'\n\n**KRIJUESE:** Krijoni një mini-hulumtim për çmimet e 5 produkteve të ndryshme në tregun e lagjes suaj. Llogaritin sa do të kushtonin këto produkte nëse do të kishte zbritje 20%. Paraqitni rezultatet në një tabelë të bukur me ngjyra dhe vizatime.\n\n**SHTESË (fakultative):** Për nxënësit e avancuar: Hulumtoni konceptin e 'interesit të thjeshtë' dhe zgjidhni këtë problem: 'Nëse depozitoni 10,000 lekë në bankë me interes 5% në vit, sa para do të keni pas 3 vitesh?' Shpjegoni hapat e zgjidhjes.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Numri",
+      "page_or_row": "122"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

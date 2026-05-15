@@ -1,0 +1,63 @@
+{
+  "id": "MAT7_008",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "III",
+  "lesson_number": 8,
+  "tema": "Mbledhja e numrave të plotë",
+  "tematika": "Numri",
+  "month": "Shtator",
+  "trimester": 1,
+  "duration_minutes": 45,
+  "situata": "Nxënësit simulojnë një llogari bankare ku mund të depozitosh (numra pozitivë) ose të tërheqësh (numra negativë). Ata zbulojnë rregullat e mbledhjes së numrave të plotë.",
+  "rezultatet": [
+    "Nxënësi/ja mbledh numra të plotë me shenja të njëjta",
+    "Nxënësi/ja mbledh numra të plotë me shenja të ndryshme",
+    "Nxënësi/ja aplikon rregullat e mbledhjes në probleme reale",
+    "Nxënësi/ja verifikon rezultatet duke përdorur boshtin numerik"
+  ],
+  "fjalet_kyce": [
+    "Mbledhje",
+    "Numra me shenja të njëjta",
+    "Numra me shenja të ndryshme",
+    "Shuma",
+    "Lëvizje në bosht",
+    "Rezultat"
+  ],
+  "burimet": [
+    "Libri i matematikës klasa 7, fq. 45-50",
+    "Bosht numerik lëvizës",
+    "Chip-e me dy ngjyra (+ dhe -)",
+    "Fletë pune",
+    "Kalkulator për verifikim"
+  ],
+  "lidhja": "Lidhje me Ekonominë: llogaritë bankare, fitimi dhe humbja. Lidhje me shkencat natyrore: forcat që veprojnë në drejtime të kundërta. Lidhje me jetën: borxhi dhe kredia.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "QËLLIMI: Nxënësit do të mësojnë rregullat e mbledhjes së numrave të plotë dhe do t'i aplikojnë në situata praktike.\n\nHYRJA (6 min):\n• Lojë me chip: Çdo chip i kuq = +1, çdo chip blu = -1\n• Çfarë ndodh kur bashkojmë 3 të kuq dhe 2 blu? (+3) + (-2) = ?\n  - 1 i kuq dhe 1 blu anulohen (1 + (-1) = 0)\n  - Mbeten: 1 i kuq = +1\n• Kjo ilustron mbledhjen e numrave me shenja të ndryshme!\n\nZHVILLIMI (26 min):\n• RREGULLI 1: Numra me shenja të njëjta\n  - Mblidhen vlerat absolute, mbahet shenja e përbashkët\n  - (+5) + (+3) = +8\n  - (-4) + (-7) = -11\n• RREGULLI 2: Numra me shenja të ndryshme\n  - Zbritet vlera absolute më e vogël nga më e madhja\n  - Mbahet shenja e numrit me vlerë absolute më të madhe\n  - (+8) + (-3) = +5 (8-3=5, shenja e 8 është +)\n  - (+4) + (-9) = -5 (9-4=5, shenja e 9 është -)\n• Shembuj në bosht numerik:\n  - (-3) + (+7): Fillo në -3, lëviz 7 hapa djathtas → +4\n  - (+2) + (-6): Fillo në +2, lëviz 6 hapa majtas → -4\n• Raste të veçanta:\n  - a + (-a) = 0 (numrat e kundërt)\n  - a + 0 = a (zero neutrale)\n\nPRAKTIKA (10 min):\n• Ushtrim 1: Llogaritni: (+6)+(+4), (-5)+(-8), (+10)+(-3), (-7)+(+12)\n• Ushtrim 2: Gjeni shumën: (-15)+(+15), (+9)+(-9), 0+(-7)\n• Problem bankë: Ke 50€ në llogari. Tërheq 70€. Sa ke tani?\n  50 + (-70) = -20€ (borxh 20€)\n• Problem temperaturë: Në mëngjes -6°C, rritet 10°C. Sa është tani?\n  (-6) + (+10) = +4°C\n\nMBYLLJA (3 min):\n• Përmbledhje e rregullave në skemë\n• Truk: Mendo për paratë - fitim (+) dhe humbje (-)",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "1. Llogaritni: a) (+8)+(-5)  b) (-12)+(+7)  c) (-9)+(-6)  d) (+15)+(-15)\n2. Gjeni vlerën e x: x + (+5) = -3,  x + (-8) = 2\n3. Problem: Ashensori fillon në katin -3, ngjitet 7 kate, zbret 4 kate. Ku ndodhet?\n4. Problem: Temperatura ishte -8°C. U rrit 5°C, pastaj ra 3°C. Sa është tani?\n5. Sfidë: Gjeni tre numra të ndryshëm të plotë që shuma e tyre është -6.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Numri",
+      "page_or_row": "8"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

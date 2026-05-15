@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_078",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 78,
+  "tema": "Vetitë e trupave gjeometrikë",
+  "tematika": "Gjeometria",
+  "month": "Shkurt",
+  "trimester": 2,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës së 7-të në shkollën 'Naim Frashëri' në Tiranë po përgatiten për një ekspozitë shkollore për Ditën e Pavarësisë. Ata duhet të ndërtojnë makete të monumenteve të famshme shqiptare si piramida e Tiranës, kulla e sahatit të Tiranës dhe kubat dekorativë për sallën. Për këtë qëllim, ata duhet të njohin vetitë e trupave gjeometrikë si kubi, prizmi, piramida dhe cilindri për të llogaritur materialin e nevojshëm, sipërfaqen për ngjyrosje dhe vëllimin e çdo makete.",
+  "rezultatet": [
+    "Nxënësi/ja identifikon dhe emërton saktësisht tipet e ndryshme të trupave gjeometrikë (kub, prizmë, piramidë, cilindër, kon, sferë)",
+    "Nxënësi/ja përkufizon dhe dallon karakteristikat kryesore të çdo trupi gjeometrik (brinjë, faqe, kulme, bazë)",
+    "Nxënësi/ja llogarit numrin e faqeve, kulme dhe brinjëve të trupave gjeometrikë duke përdorur formulën e Eulerit",
+    "Nxënësi/ja demonstron marrëdhëniet midis faqeve, kulmeve dhe brinjëve në trupin e dhënë gjeometrik",
+    "Nxënësi/ja zgjidh probleme praktike që lidhen me vetitë e trupave gjeometrikë në kontekste të jetës së përditshme",
+    "Nxënësi/ja argumenton arsyet pse trupi i dhënë gjeometrik përket një kategorie të caktuar bazuar në vetitë e tij"
+  ],
+  "fjalet_kyce": [
+    "trup gjeometrik (3D solid)",
+    "faqe (face) - sipërfaqe të rrafshta që kufizojnë trupin",
+    "kulm (vertex) - pika takimi i tri ose më shumë brinjëve",
+    "brinjë (edge) - vija takimi e dy faqeve",
+    "formula e Eulerit: F + K - B = 2",
+    "polieder - trup me faqe të rrafshta",
+    "bazë - faqja themelore e trupit",
+    "prizmë - trup me dy baza paralele dhe të barabarta"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 8 'Trumat gjeometrikë', faqe 142-158",
+    "Modele konkrete trupash gjeometrikë (kub druri, piramidë plastike, cilindër kartoni)",
+    "Fletë pune e përgatitur me tabela për numërimin e faqeve, kulmeve dhe brinjëve",
+    "Vizore, busull, laps me ngjyra për skicim dhe ndarje",
+    "Karton i fortë dhe biskota për ndërtim modelesh 3D",
+    "Projektor dhe prezantim PowerPoint me animacione 3D të trupave"
+  ],
+  "lidhja": "Lidhje me Artet: projektimi i maketeve dhe zbukurimi estetik i trupave. Lidhje me Gjeografinë: forma gjeometrike të objekteve natyrore shqiptare si shkëmbinjtë e Llogara-së (prizmë) dhe maja e Korabit (piramidë). Lidhje me Historinë: arkitektura e kalasë së Rozafës (cilindra dhe prizmat). Lidhje me jetën e përditshme: kutitë e produkteve në supermarkete (Neptun, Conad), formën e ndërtesave në qendër të Tiranës dhe llogaritjen e hapësirës së banesave.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nQëllimi i kësaj ore është që nxënësit të njohin dhe të dallojnë tipet kryesore të trupave gjeometrikë, të kuptojnë vetitë e tyre themelore dhe të zbatohen këto njohuri për zgjidhjen e problemave praktike. Nxënësit do të mësojnë të përdorin formulën e Eulerit për të verifikuar marrëdhëniet midis faqeve, kulmeve dhe brinjëve.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\nMësimdhënësi hyn në klasë me një qese të mbushur me objekte të ndryshme: një kub rubiku, një kuti e shkronjave të alfabetit, një top futbolli, një kon akulloreje dhe një cilindër konsërvash. Nxënësit ftohen të vëzhgojnë dhe të grupojnë objektet sipas formës. Pyetje orientuese: 'Sa faqe ka kubi i Rubikut? Sa kulme? Sa brinjë?' Nxënësit diskutojnë në çifte dhe japin përgjigje. Mësuesi lidh përgjigjet me orën e kaluar për figurat e rrafshta dhe shpjegon se sot do të studiojmë 'figurat hapësinore' ose trupat gjeometrikë.\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\nMësuesi prezanton konceptin e trupit gjeometrik duke përdorur modelet konkrete. Shpjegon terminologjinë: faqe, kulm, brinjë.\n\n**Shembulli 1 - Kubi:**\nMarrim kubin e Rubikut. Numërojmë së bashku:\n- Faqe: 6 (majta, djathta, përpara, mbrapa, sipër, poshtë)\n- Kulme: 8 (numërojmë çdo cep të kubit)\n- Brinjë: 12 (numërojmë vijat që lidhin kulmet)\nVerifikojmë me formulën e Eulerit: F + K - B = 6 + 8 - 12 = 2 ✓\n\n**Shembulli 2 - Piramida katrore:**\nPërdorim modelin e piramidës së ndërtuar nga kartoni:\n- Faqe: 5 (1 bazë katrore + 4 faqe trekëndore)\n- Kulme: 5 (4 kulme të bazës + 1 kulm i sipërm)\n- Brinjë: 8 (4 brinjë të bazës + 4 brinjë anësore)\nVerifikojmë: F + K - B = 5 + 5 - 8 = 2 ✓\n\n**Shembulli 3 - Prizma trekëndore:**\nTregojmë modelin e prizmës me bazë trekëndore:\n- Faqe: 5 (2 baza trekëndore + 3 faqe drejtkëndore)\n- Kulme: 6 (3 në bazën e sipërme + 3 në bazën e poshtme)\n- Brinjë: 9 (3 në bazën e sipërme + 3 në bazën e poshtme + 3 lidhëse)\nVerifikojmë: F + K - B = 5 + 6 - 9 = 2 ✓\n\nNxënësit organizohen në grupe prej 4 personash. Çdo grup merr një set modelesh dhe plotëson tabelën e përgatitur për 3 trupa të ndryshëm. Secili grup prezanton gjetjet për një trup të caktuar.\n\n**PRAKTIKA/USHTRIME** (8-10 minuta)\n\na) **Niveli bazë:** \n- Një kub ka sa faqe, kulme dhe brinjë?\n- Një cilindër ka sa faqe të rrafshta?\n- Verifikoni formulën e Eulerit për një piramidë me bazë pesëkëndore.\n\nb) **Niveli mesatar:**\n- Një prizmë ka 12 kulme. Sa faqe dhe sa brinjë ka?\n- Nëse një piramidë ka 8 brinjë, sa kulme dhe sa faqe ka?\n\nc) **Niveli i avancuar:**\n- Projektoni një trup gjeometrik të ri që të ketë 10 faqe. Sa kulme dhe brinjë do të ketë?\n\n**MBYLLJA/REFLEKTIMI** (3-5 minuta)\nPërmbledhje me tri pika kryesore: 1) Trupat gjeometrikë kanë faqe, kulme dhe brinjë, 2) Formula e Eulerit F + K - B = 2 vlen për të gjithë poliedrat, 3) Dallimi midis trupave bazhet në numrin dhe formën e faqeve. Quiz verbal: 'Cilat janë tre elementet kryesore të çdo trupi gjeometrik?' Parashikim: Orën e ardhshme do të mësojmë se si të llogaritin sipërfaqen dhe vëllimin e trupave gjeometrikë.",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**DETYRË BAZË:**\n1. Plotësoni tabelën për trupat gjeometrikë - faqe 145, ushtrimi 1-4\n2. Numëroni faqet, kulmet dhe brinjët e 5 objekteve në shtëpinë tuaj (kuti sapuni, kuti qumështi, etj)\n3. Verifikoni formulën e Eulerit për secilin prej tyre\n4. Skiconi një kub dhe një piramidë duke i shënuar të gjitha kulmet\n\n**DETYRË KRIJUESE:**\nKrijoni një 'Atllas i trupave gjeometrikë të Shqipërisë' duke fotografuar ose skicuar 8 objekte nga mjedisi juaj që kanë forma gjeometrike (ndërtesa, monumente, objekte shtëpiake). Për secilin shkruani emrin e trupit gjeometrik dhe numrin e faqeve, kulmeve dhe brinjëve.\n\n**DETYRË SHTESË (fakultative):**\nHulumtoni për poliedrat rregullorë (trupat Platonikë) dhe zbuloni pse janë vetëm 5 lloje. Përgjigjuni pyetjes: A mund të ekzistojë një trup gjeometrik me 7 faqe të barabarta?",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Gjeometria",
+      "page_or_row": "78"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

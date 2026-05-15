@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_114",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 114,
+  "tema": "Projekt kurrikular - Algjebra",
+  "tematika": "Projekt",
+  "month": "Prill",
+  "trimester": 3,
+  "duration_minutes": 45,
+  "situata": "Klasa 7A e shkollës '28 Nëntori' në Tiranë organizon një treg bamirës për të ndihmuar familjet në nevojë. Nxënësit duhet të planifikojnë çmimet, të llogaritin shpenzimet dhe të përcaktojnë fitimin për çdo produkt duke përdorur shprehje algjebrike. Ata do të krijojnë një biznez-plan të thjeshtë ku do të përdorin ndryshore, ekuacione dhe formula për të optimizuar të ardhurat dhe të prezantojnë rezultatet në formë grafikësh dhe tabelash.",
+  "rezultatet": [
+    "Nxënësi/ja përkufizon dhe përdor saktësisht ndryshore algjebrike për të përfaqësuar sasi të panjohura",
+    "Nxënësi/ja llogarit vlerën e shprehjeve algjebrike duke zëvendësuar ndryshore me numra konkretë",
+    "Nxënësi/ja zgjidh ekuacione të thjeshta me një ndryshore duke përdorur veprimet e kundërta",
+    "Nxënësi/ja krijon dhe interpreton formula për llogaritjen e fitimit, kostos dhe të ardhurave",
+    "Nxënësi/ja analizon të dhëna në formë tabelash dhe grafikësh për të marrë vendime biznesi",
+    "Nxënësi/ja prezanton rezultatet e projektit duke argumentuar zgjedhjet matematikore të bëra"
+  ],
+  "fjalet_kyce": [
+    "ndryshore (variable)",
+    "shprehje algjebrike",
+    "ekuacion",
+    "formula",
+    "koeficient",
+    "zëvendësim (substitution)",
+    "term i njëjtë",
+    "fitim = të ardhura - kosto"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 4 'Hyrje në Algjebër', faqe 65-82",
+    "Kalkulatore shkencore, letër grafiku, vizore, markera me ngjyra",
+    "Fletë pune e përgatitur me 15 probleme biznesi dhe tabela për të dhëna",
+    "Kartela me shembuj produktesh dhe çmimet aktuale nga tregu shqiptar",
+    "Program Excel ose GeoGebra për krijimin e grafikëve",
+    "Postera A3 për prezantimin e projekteve të grupeve"
+  ],
+  "lidhja": "Projekti lidhet ngushtë me lëndën e Edukimit Qytetar përmes organizimit të aktiviteteve bamirëse dhe përgjegjësisë sociale. Në Gjeografi nxënësit mund të hulumtojnë kostot e transportit për produkte nga qytete të ndryshme shqiptare. Lidhja me Artet vizuele përmes krijimit të posterave dhe prezantimeve kreative. Në jetën e përditshme, njohuritë aplikohen në blerje në treg, llogaritjen e kursimeve dhe planifikimin e buxhetit familjar.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nKjo orë synon të konsolidojë njohuritë e nxënësve mbi algjebër përmes një projekti praktik që simulon organizimin e një tregu bamirës, ku do të përdorin ndryshore, formula dhe ekuacione për të marrë vendime biznesi të bazuara matematikisht.\n\n**EVOKIMI/HYRJA** (10 minuta)\nMësuesi hyn në klasë me një kuti plot me produkte të ndryshme (çokollatë, pena, libra) dhe pyet: 'Sa do të kushtonin këto produkte nëse çmimi i çdo çokollatë është x lekë, i çdo pene është 2x lekë, dhe i çdo libri është 3x+50 lekë?' Shkruan në tabelë: Kostoja totale = x + 2x + (3x+50) = 6x+50 lekë. Pyet: 'Nëse x=100 lekë, sa është kostoja totale?' (650 lekë). 'Si mund ta përdorim këtë për të planifikuar tregtimet tona?' Lidh me orët e kaluara: 'Cili është ndryshimi mes 6x+50 dhe 6(x+50)?'\n\n**REALIZIMI I KUPTIMIT** (28 minuta)\nMësuesi prezanton situatën e projektit dhe ndan klasën në 5 grupe. Çdo grup do të krijojë një biznes të vogël për tregun bamirës.\n\n**Shembulli 1 - Llogaritja e fitimit:**\nNëse çmimi i shitjes së një produkti është s lekë, dhe kostoja e blerjes është c lekë, atëherë fitimi për n produkte është: F = n(s-c)\nShembull konkret: Blejnë 20 llokume me 30 lekë secili, i shesin me 45 lekë. F = 20(45-30) = 20×15 = 300 lekë fitim.\n\n**Shembulli 2 - Përcaktimi i çmimit optimal:**\nNëse kostoja e një produkti është 25 lekë dhe duan 40% fitim, çmimi i shitjes është: s = c + 0.4c = 1.4c = 1.4×25 = 35 lekë\n\n**Shembulli 3 - Ekuacioni për arritjen e targetit:**\nDuan të fitojnë 2000 lekë duke shitur x produkte me fitim 15 lekë secili. Ekuacioni: 15x = 2000, pra x = 133.33, që do të thotë duhen të paktën 134 produkte.\n\nÇdo grup merr kartelat e produkteve dhe punon për të përcaktuar:\n1. Çmimin e blerjes (c) për çdo produkt\n2. Çmimin e shitjes (s) duke shtuar fitimin e dëshiruar\n3. Formulën për fitimin total F = n(s-c)\n4. Numrin e produkteve të nevojshëm për të fituar 1500 lekë\n\nMësuesi qarkullon dhe ndihmon grupet, duke demonstruar llogaritjet në tabelë.\n\n**PRAKTIKA** (10 minuta)\n**Niveli bazë:**\na) Nëse x = 50, gjeni vlerën e 3x + 200\nb) Zgjidhni ekuacionin: 2x + 30 = 90\nc) Llogaritni fitimin për 25 produkte, çmimi i blerjes 40 lekë, i shitjes 65 lekë\n\n**Niveli mesatar:**\na) Krijoni formulën për fitimin total nëse blini n produkte me çmim c lekë dhe i shisni me 25% fitim\nb) Sa produkte duhet të shisni për të fituar 3000 lekë, nëse fitimi për produkt është 45 lekë?\n\n**Niveli i avancuar:**\nNjë grup ka buxhet 5000 lekë. Produkti A kushton 30 lekë dhe shihet 50 lekë. Produkti B kushton 45 lekë dhe shihet 70 lekë. Nëse blejnë x produkte A dhe y produkte B, dhe duan të maksimizojnë fitimin, shkruani sistemin e inekuacioneve dhe gjeni kombinimin optimal.\n\n**MBYLLJA/REFLEKTIMI** (5 minuta)\nMësuesi përmbledh tre pikat kryesore: 1) Ndryshore përdoren për të përfaqësuar sasi të panjohura, 2) Formula ndihmojnë të llogarisim shpejt rezultate komplekse, 3) Ekuacionet na ndihmojnë të gjejmë vlera të panjohura. Quiz verbal: 'Çfarë është ndryshimi mes 2x+5 dhe 2(x+5)?' Parashikon: 'Orën e ardhshme do të prezantoni projektet dhe do të diskutoni strategjitë më efektive për maksimizimin e fitimit.'",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**1. DETYRË BAZË:**\nZgjidhni ushtrimet 1-6 nga faqja 78 të librit. Llogaritni vlerën e shprehjeve algjebrike për vlerat e dhëna të ndryshores. Shembull: Për x=15, gjeni 4x-50, 2x+30, dhe x²+10.\n\n**2. DETYRË KRIJUESE:**\nKrijoni një biznes-plan të thjeshtë për një produkt që ju intereson (ëmbëlsira, aksesore, libra). Përcaktoni kostot, çmimet e shitjes, dhe shkruani 3 formula të ndryshme: për fitimin, për të ardhurat totale, dhe për numrin e produkteve të nevojshëm për të arritur një target specifik. Prezantoni në një fletë A4 me grafikë dhe shembuj numerikë.\n\n**3. DETYRË SHTESË (fakultative):**\nHulumtoni çmimet e 10 produkteve të ndryshme në 3 supermarkete të Tiranës. Krijoni një tabelë krahasuese dhe përdorni shprehje algjebrike për të llogaritur kursimet potenciale nëse blini produkte nga dyqani më i lirë. Shkruani një raport 1-faqesh me rekomandimet tuaja.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Projekt",
+      "page_or_row": "114"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

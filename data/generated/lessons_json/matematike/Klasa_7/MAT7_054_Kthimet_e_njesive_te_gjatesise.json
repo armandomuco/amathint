@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_054",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 54,
+  "tema": "Kthimet e njësive të gjatësisë",
+  "tematika": "Matja",
+  "month": "Dhjetor",
+  "trimester": 1,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës së 7-të të shkollës 'Fan Noli' në Tiranë planifikojnë një ekspedition në malin e Dajtit. Ata duhet të përdorin hartën turistike që tregon distancën 18.5 km nga Tirana në teleferik, por në GPS shihet si 18,500 m. Për t'u përgatitur për këtë udhëtim, nxënësit duhet të mësojnë të kthejnë njësitë e gjatësisë për të krahasuar distancat, të llogarisë kohën e udhëtimit dhe të planifikojë sasinë e ujit të nevojshëm (1.5 L për çdo 5 km ecje).",
+  "rezultatet": [
+    "Nxënësi/ja kthen saktësisht njësitë e gjatësisë nga metrat në kilometra dhe anasjelltas",
+    "Nxënësi/ja llogarit distancat duke përdorur njësitë e duhura për situata të ndryshme praktike",
+    "Nxënësi/ja identifikon njësinë më të përshtatshme për matjen e objekteve të ndryshme",
+    "Nxënësi/ja zgjidh probleme të përbëra që përfshijnë kthime njësish dhe veprime aritmetike",
+    "Nxënësi/ja argumenton zgjedhjen e njësisë së matjes për situata specifike",
+    "Nxënësi/ja demonstron përdorimin e faktorëve të kthimit 1000 dhe 0.001 në llogaritje"
+  ],
+  "fjalet_kyce": [
+    "njësi bazë (m - metër)",
+    "njësi të mëdha (km - kilometër, hm - hektometër, dam - dekametër)",
+    "njësi të vogla (dm - decimetër, cm - centimetër, mm - milimetër)",
+    "faktor kthimi (×1000, ÷1000)",
+    "tabelë kthimi njësish",
+    "shkallë dhjetore",
+    "konvertim (conversion)",
+    "njësi matëse (measuring units)"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 4 'Matja', faqe 78-85",
+    "Vizore metalike 30 cm dhe metër shiritë për demonstrime",
+    "Tabelë e madhe kthimi njësish për klasën",
+    "Fletë pune e përgatitur me 15 probleme të graduar",
+    "Kalkulatore për kontrollin e rezultateve",
+    "Harta turistike e Tiranës dhe kalkulatore distance online"
+  ],
+  "lidhja": "Lidhje me Gjeografinë (leximi i hartave dhe shkallët, distancat mes qyteteve shqiptare), me shkencat natyrore (matja e gjatësisë në eksperimente), me Edukimin Fizik (matja e fushave sportive dhe pistave e atletikës), me jetën e përditshme (blerje materiale ndërtimi në metër/cm, planifikimi i udhëtimeve me km, matja e lartësisë së personit në cm).",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nKjo orë synon që nxënësit të përvetësojnë konceptin e kthimit të njësive të gjatësisë dhe të zbatojnë këtë njohuri në zgjidhjen e problemeve praktike të lidhura me jetën e përditshme në Shqipëri.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\nMësuesi fillon me pyetjen: \"Sa metra ka nga klasa jonë deri te porta e shkollës?\". Nxënësit japin vlerësime të ndryshme (20m, 50m, 0.05km). Mësuesi demonstron me metër shiriti dhe mat 45 metra, pastaj pyet: \"Si mund ta shprehim këtë në kilometra?\". Prezanton situatën e udhëtimit në Dajti dhe tregon se në harta të ndryshme distanca tregohet ndryshe: 18.5 km në hartë turistike, 18,500 m në GPS, 1,850,000 cm në hartë detaje. Pyet: \"A janë të njëjta këto matje? Si mund t'i krahasojmë?\". Lidhja me orën e kaluar: \"Javën e kaluar mësuam njësitë e gjatësisë, sot do të mësojmë t'i kthejmë njëra në tjetrën.\"\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\nMësuesi prezanton tabelën e njësive të gjatësisë në tabelë dhe shpjegon marrëdhëniet mes tyre. Demonstron tre shembuj të detajuar:\n\nShembull 1: Kthimi nga metra në kilometra\n\"Distanca Tiranë-Elbasan është 54,000 m. Sa kilometra është?\"\n54,000 m ÷ 1000 = 54 km\nShpjegimi: 1 km = 1000 m, prandaj për të gjetur km-të ndajmë me 1000.\n\nShembull 2: Kthimi nga kilometra në metra\n\"Lumi i Drinit është gjatë 285 km. Sa metra është?\"\n285 km × 1000 = 285,000 m\nShpjegimi: Çdo km ka 1000 m, prandaj shumëzojmë me 1000.\n\nShembull 3: Kthime të përbëra\n\"Një fushë futbolli është gjatë 105 m dhe gjerë 68 m. Gjeni perimetrin në kilometra.\"\nPerimetri = 2 × (105 + 68) = 2 × 173 = 346 m\n346 m ÷ 1000 = 0.346 km\n\nPunë në grupe (10 minuta): Secili grup merr nga 3 probleme me njësi të ndryshme dhe duhet t'i zgjidhë duke treguar hapat. Grupet prezantojne zgjidhjet dhe shpjegojnë metodën. Mësuesi demonstron në tabelë teknikën e \"zhvendosjes së pikës dhjetore\" për kthime të shpejta.\n\n**PRAKTIKA** (8-10 minuta)\na) Niveli bazë:\n- Kthe në kilometra: 3000 m = ? km, 7500 m = ? km, 12000 m = ? km\n- Kthe në metra: 4.5 km = ? m, 0.8 km = ? m\n\nb) Niveli mesatar:\n- Një makinë udhëton 180 km. Sa metra ka bërë?\n- Distanca mes dy qyteteve është 25,500 m. Shprehe në km dhe hm.\n\nc) Niveli i avancuar:\n- Një atletë vrapon 5 km çdo ditë. Sa cm vrapon në një javë?\n\n**MBYLLJA/REFLEKTIMI** (3-5 minuta)\nPërmbledhja e tri pikave kryesore: 1) Për të kaluar nga njësi të vogla në të mëdha ndajmë, 2) Për të kaluar nga njësi të mëdha në të vogla shumëzojmë, 3) Faktori kryesor është 1000 mes m dhe km. Quiz verbal: \"Sa metra ka 1 km? Sa km janë 5000 m?\". Parashikimi: \"Orën tjetër do të mësojmë kthimet e njësive të sipërfaqes dhe do të llogarisim sipërfaqen e oborrit të shkollës\".",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**NIVELI BAZË:**\n1. Kthe në kilometra: 2000 m, 5500 m, 8000 m, 12500 m\n2. Kthe në metra: 3 km, 7.2 km, 0.5 km, 15 km\n3. Plote tabelën: 4 km = ____m, 6000 m = ____km, 2.5 km = ____m\n4. Zgjidhë: Distanca Tiranë-Shkodër është 116 km. Sa metra është?\n\n**NIVELI KRIJUES:**\nKrijo një poster \"Udhëtimi im në Shqipëri\" ku përfshini 5 distanca të ndryshme (për shembull: nga shtëpia në shkollë, nga Tirana në Vlorë, etj.) dhe i shpreh në të paktën dy njësi të ndryshme. Përdor harta, fakte reale dhe foto nëse është e mundur.\n\n**NIVELI SHTESË (fakultativ):**\nHulumto dhe llogarit: Sa metër ka gjithsej autostrada e Kombit nga Tirana në Kukës? Nëse një makinë udhëton mesatarisht 80 km/h, sa kohë duhet për ta përshkuar plotësisht? Shprehe përgjigjen edhe në metra dhe orë.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Matja",
+      "page_or_row": "54"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

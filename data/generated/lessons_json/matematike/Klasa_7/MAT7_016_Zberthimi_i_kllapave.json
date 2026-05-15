@@ -1,0 +1,63 @@
+{
+  "id": "MAT7_016",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "III",
+  "lesson_number": 16,
+  "tema": "Zbërthimi i kllapave",
+  "tematika": "Algjebra",
+  "month": "Tetor",
+  "trimester": 1,
+  "duration_minutes": 45,
+  "situata": "Nxënësit llogaritin syprinën e një kopshti drejtkëndor me përmasa 5 metra dhe (x+3) metra. Ata zbulojnë se 5(x+3) = 5x + 15 duke zbërthyer kllapat.",
+  "rezultatet": [
+    "Nxënësi/ja aplikon vetinë shpërndarëse të shumëzimit",
+    "Nxënësi/ja zbërthen kllapat me koeficient pozitiv dhe negativ",
+    "Nxënësi/ja thjeshton shprehje pas zbërthimit të kllapave",
+    "Nxënësi/ja verifikon zbërthimin duke zëvendësuar vlera"
+  ],
+  "fjalet_kyce": [
+    "Zbërthim",
+    "Kllapa",
+    "Vetia shpërndarëse",
+    "Shumëzim",
+    "Shenjë",
+    "Thjeshtim"
+  ],
+  "burimet": [
+    "Libri i matematikës klasa 7, fq. 91-96",
+    "Pllaka algjebrike",
+    "Diagrama syprinash",
+    "Fletë pune",
+    "Kalkulator për verifikim"
+  ],
+  "lidhja": "Lidhje me Gjeometrinë: llogaritja e syprinave. Lidhje me shkencat natyrore: formulat e zgjeruara. Lidhje me Ekonominë: llogaritjet me përqindje.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "QËLLIMI: Nxënësit do të mësojnë të zbërthejnë kllapat duke përdorur vetinë shpërndarëse.\n\nHYRJA (6 min):\n• Situatë gjeometrike: Kopshti ka përmasa 4m dhe (x+2)m.\n• Syprina = 4 × (x+2) = ?\n• Vizualizim: Ndajmë në dy drejtkëndësha: 4×x dhe 4×2\n• Pra: 4(x+2) = 4x + 8\n\nZHVILLIMI (26 min):\n• VETIA SHPËRNDARËSE: a(b+c) = ab + ac\n• SHEMBUJ ME KOEFICIENT POZITIV:\n  - 3(x+5) = 3x + 15\n  - 5(2y-3) = 10y - 15\n  - 2(3a+4b-5) = 6a + 8b - 10\n\n• KUJDES ME SHENJAT:\n  - (+) × (+) = (+)\n  - (+) × (-) = (-)\n  - Shembull: 4(x-7) = 4x - 28\n\n• ZBËRTHIMI ME KOEFICIENT NEGATIV:\n  - -2(x+3) = -2x - 6\n  - -5(y-4) = -5y + 20\n  - -(a+b) = -a - b (sikur -1 para kllapës)\n\n• SHEMBUJ TË KOMBINUAR:\n  1. 3(x+2) + 2(x-4)\n     = 3x + 6 + 2x - 8\n     = 5x - 2\n\n  2. 5(2a-1) - 3(a+4)\n     = 10a - 5 - 3a - 12\n     = 7a - 17\n\n  3. -2(x²+3x-1) + 4(x-2)\n     = -2x² - 6x + 2 + 4x - 8\n     = -2x² - 2x - 6\n\n• VERIFIKIMI për x=2: 3(x+2)+2(x-4) dhe 5x-2\n  - 3(4)+2(-2) = 12-4 = 8\n  - 5(2)-2 = 10-2 = 8 ✓\n\nPRAKTIKA (10 min):\n• Ushtrim 1: Zbërtheni: a) 4(y+3)  b) -2(x-5)  c) 3(2a-4b+1)\n• Ushtrim 2: Zbërtheni dhe thjeshtoni: a) 2(x+4)+3(x-1)  b) 5(a-2)-2(a+3)\n• Ushtrim 3: Gjeni syprinën: drejtkëndësh me përmasa 6 dhe (2x-3)\n\nMBYLLJA (3 min):\n• Rregulli i artë: Shpërndani koeficientin te secili term brenda kllapës\n• Kujdes: Shenja para kllapës ndikon TË GJITHË termat!",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "1. Zbërtheni: a) 7(m-2)  b) -4(2x+3)  c) -(5y-8)  d) 6(a²-2a+3)\n2. Zbërtheni dhe thjeshtoni: a) 4(x+3)-2(x-5)  b) -3(2y+1)+5(y-4)  c) 2(a+b)-3(a-b)\n3. Gjeni perimetrin e drejtkëndëshit me përmasa (3x+2) dhe (x-1). Thjeshtoni.\n4. Verifikoni për x=-2: 3(x-4)+2(x+5) = 5x-2\n5. Sfidë: Faktorizoni (shkruani me kllapa): 6x+12, 4y-20, 3a²+6a",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Algjebra",
+      "page_or_row": "16"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

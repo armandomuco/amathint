@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_120",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 120,
+  "tema": "Përqindja - Koncepti",
+  "tematika": "Numri",
+  "month": "Maj",
+  "trimester": 3,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës së 7-të planifikojnë të organizojnë një panairin e shkollës për Javën e Dijes. Ata duhet të llogaritjnë përqindjet për: sa për qind të nxënësve të shkollës do të marrin pjesë (nga 800 nxënës total), sa për qind të fitimit do të dhurojnë për bamirësi (nga 50,000 lekë fitim), dhe sa për qind e çmimit origjinal do të jetë zbritja për produktet (nga çmimet 500-2000 lekë).",
+  "rezultatet": [
+    "Nxënësi/ja përkufizon konceptin e përqindjes si raport me emëruesin 100",
+    "Nxënësi/ja identifikon simbolin % dhe shkruan përqindjen në tre forma të ndryshme",
+    "Nxënësi/ja llogarit përqindjen e një numri duke përdorur rregullin e tre të thjeshtë",
+    "Nxënësi/ja konverton thyesat dhe numrat dhjetorë në përqindje",
+    "Nxënësi/ja zgjidh probleme praktike me përqindje nga jeta e përditshme",
+    "Nxënësi/ja argumenton zgjidhjen e problemeve me përqindje duke treguar hapat logjikë"
+  ],
+  "fjalet_kyce": [
+    "përqindja (%)",
+    "raport",
+    "emërues 100",
+    "numër dhjetor",
+    "thyesë dhjetore",
+    "rregull i tre të thjeshtë",
+    "konvertim",
+    "percentage (anglisht)"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' nga ALBAS - Kapitulli 5, faqe 78-85",
+    "Kalkulatore për kontroll llogaritjesh",
+    "Fletë pune e përgatitur me 15 probleme praktike",
+    "Kartelat me thyesa dhe përqindje përkatëse",
+    "Poster i madh me formulën bazë të përqindjes",
+    "Tabela e konvertimit thyesa-dhjetor-përqindje"
+  ],
+  "lidhja": "Lidhje me Gjeografinë për llogaritjen e përqindjes së popullsisë urbane në Shqipëri (67%), me Edukimin Fizik për statistikat sportive të ekipeve shqiptare, me Edukimin Financiar për llogaritjen e interesit bankar dhe zbritjeve në dyqanet e Tiranës, dhe me Shkencën për përqindjen e ujit në trupin njerëzor (60-70%). Në jetën e përditshme: llogaritja e TVSH-së (20%), rezultatet e zgjedhjeve, dhe përqindjet në media shqiptare.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI** \nKjo orë synon që nxënësit të kuptojnë konceptin bazë të përqindjes si raport me emëruesin 100, të mësojnë të shkruajnë dhe lexojnë përqindjet, dhe të zgjidhin probleme të thjeshta praktike me përqindje nga jeta e përditshme shqiptare.\n\n**EVOKIMI/HYRJA** (9 minuta)\nMësuesi fillon me një lojë interaktive: 'Statistikat e klasës'. Nxënësit numërojnë: sa prej tyre kanë sy kafe (p.sh. 18 nga 25), sa janë djem (p.sh. 13 nga 25), sa vijnë në shkollë me autobus (p.sh. 15 nga 25). Mësuesi shkruan në tabelë: 18/25, 13/25, 15/25 dhe pyet: 'A mund t'i krahasojmë këto me një klasë tjetër që ka 30 nxënës?' Nxënësit diskutojnë vështirësinë e krahasimit. Mësuesi prezanton pyetjen kryesore: 'Si mund t'i shprehim këto raporte në një formë që lejon krahasime të lehta?' Lidh me orën e kaluar për thyesat dhe thotë: 'Sot do të mësojmë një mënyrë të re për të shprehur raportet.'\n\n**REALIZIMI I KUPTIMIT** (26 minuta)\nMësuesi shpjegon: 'Përqindja është një raport special ku emëruesi është gjithmonë 100. Simboli % do të thotë \"nga 100\".' Demonstron në tabelë:\n\nShembull 1: 18/25 = ?/100\n18/25 = x/100\n18 × 100 = 25 × x\n1800 = 25x\nx = 1800 ÷ 25 = 72\nPra 18/25 = 72/100 = 72%\n\nShembull 2: Sa është 25% nga 80 nxënës?\n25% = 25/100\n25% nga 80 = (25/100) × 80 = (25 × 80)/100 = 2000/100 = 20 nxënës\n\nShembull 3: Në një dyqan në Tiranë një fustan kushton 4000 lekë. Bëhet zbritje 15%. Sa lekë është zbritja?\n15% nga 4000 = (15/100) × 4000 = (15 × 4000)/100 = 60000/100 = 600 lekë\n\nPunë në grupe (3 nxënës): Secili grup merr një kartela me problema praktike shqiptare: 'Në Shkodër jetojnë 135,000 banorë. Nëse 42% janë burra, sa burra ka?' 'Një makinë kushton 8,000,000 lekë. Taksa është 10%. Sa është taksa?' Grupet punojnë 8 minuta dhe prezantojnë zgjidhjet.\n\n**PRAKTIKA** (9 minuta)\na) Niveli bazë: \n- Shpreh si përqindje: 23/100, 7/100, 50/100\n- Llogarit: 10% nga 200, 25% nga 40, 50% nga 80\n\nb) Niveli mesatar:\n- Një shkollë ka 600 nxënës. 35% janë vajza. Sa vajza ka shkolla?\n- Çmimi i një libri është 1500 lekë. Bëhet zbritje 20%. Çmimi i ri?\n\nc) Niveli i avancuar:\n- Në një qytet shqiptar popullsia u rrit nga 50,000 në 65,000 banorë. Me sa përqind u rrit popullsia?\n\n**MBYLLJA** (5 minuta)\nPërmbledhje e tre pikave kryesore: 1) Përqindja është raport me emërues 100, 2) Simboli % do të thotë 'nga 100', 3) Për të gjetur përqindjen e një numri shumëzojmë me thyesën përkatëse. Quiz verbal: 'Çfarë do të thotë 30%?' 'Si llogaritim 20% nga 150?' Parashikim: 'Orën e ardhshme do të mësojmë të llogaritim sa për qind është një numër nga një numër tjetër.'",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "1. BAZË: Zgjidhni ushtrimet 1-8 nga libri, faqe 82. Llogaritni: 20% nga 150, 35% nga 200, 60% nga 80, dhe shprehni si përqindje: 17/100, 83/100, 9/100.\n\n2. KRIJUESE: Hulumtoni dhe krijoni një poster me 5 statistika interesante për Shqipërinë të shprehura në përqindje (p.sh. sa për qind e territorit është malor, sa për qind e popullsisë jeton në qytete, etj.). Përdorni ngjyra dhe grafikë të thjeshta.\n\n3. SHTESË (fakultative): Për nxënës të avancuar - Intervistoni 20 persona për temën 'Sporti i preferuar' dhe paraqitni rezultatet si përqindje. Krahasoni me statistikat kombëtare nëse i gjeni në internet.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Numri",
+      "page_or_row": "120"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_047",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 47,
+  "tema": "Kthimi thyesë-dhjetor dhe anasjelltas",
+  "tematika": "Numri",
+  "month": "Dhjetor",
+  "trimester": 1,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës së 7-të në shkollën 'Naim Frashëri' në Tiranë po organizojnë një treg bamirësie për të ndihmuar familjet në nevojë gjatë muajit dhjetor. Ata duhet të llogaritni çmimet e produkteve që shiten si thyesa të lekes shqiptare (p.sh. 2/5 të 1000 lekësh, 3/4 të 800 lekësh) dhe t'i shndërrojnë ato në numra dhjetorë për të bërë faturat dhe llogaritjet e fitimit të përgjithshëm.",
+  "rezultatet": [
+    "Nxënësi/ja shndërron thyesa të zakonshme në numra dhjetorë duke përdorur pjesëtimin",
+    "Nxënësi/ja kthen numra dhjetorë në thyesa të thjeshtuara duke identifikuar shifrat dhjetore",
+    "Nxënësi/ja llogarit me saktësi thyesa dhjetore në probleme praktike me para",
+    "Nxënësi/ja krahason numrat dhjetorë me thyesat përkatëse duke përdorur simbolet <, >, =",
+    "Nxënësi/ja zgjidh probleme të jetës reale që përfshijnë kthimin thyesë-dhjetor",
+    "Nxënësi/ja argumenton cilën formë (thyesë ose dhjetore) është më praktike për situata të ndryshme"
+  ],
+  "fjalet_kyce": [
+    "thyesë e zakonshme (common fraction)",
+    "numër dhjetor (decimal number)",
+    "pjesëtim i gjatë (long division)",
+    "periudhë e përsëritur (repeating decimal)",
+    "shifra dhjetore (decimal places)",
+    "10, 100, 1000 (fuqitë e dhjetës)",
+    "koma dhjetore (decimal point)",
+    "thyesë e dhjetë (decimal fraction)"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' të Albas - Kapitulli 4, faqe 78-85",
+    "Kalkulatore shkollore për verifikimin e rezultateve",
+    "Fletë pune e përgatitur me 15 ushtrime të ndryshme",
+    "Kartela me thyesa dhe numra dhjetorë për aktivitetin e krahasimit",
+    "Tabela e konvertimit thyesë-dhjetor e printuar në poster",
+    "Monedha dhe kartëmonedha artificiale për simulimin e tregut"
+  ],
+  "lidhja": "Lidhje me Edukimin Qytetar (organizimi i tregut bamirës), me Gjuhën shqipe (leximi i numrave dhjetorë), me Artizanatin (llogaritja e kostos së materialeve), dhe me jetën e përditshme shqiptare (blerjet në treg, llogaritja e ndarjes së faturave, këmbimi i monedhave në euro).",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nNxënësit do të mësojnë të shndërrojnë thyesat e zakonshme në numra dhjetorë dhe anasjelltas, duke përdorur këto njohuri për zgjidhjen e problemave praktike të jetës së përditshme.\n\n**EVOKIMI/HYRJA (8-10 minuta)**\nMësuesi fillon me një aktivitet motivues: 'Tregu i vogël i klasës'. Vendos në tabelë çmimet e disa produkteve të shkruara si thyesa: pizza 3/4 të 800 lekëve, libra 2/5 të 1000 lekëve, stilolapsa 1/2 të 240 lekëve. Pyet: 'Sa lekë duhet të paguajë Ali për pizzën? Si mund ta llogarisim më lehtë?' Nxënësit përpiqen të japin përgjigje dhe mësuesi shkruan në tabelë disa tentativa. Pastaj pyet: 'Cila është mënyra më e shpejtë për ta llogaritur këtë? A mund t'i kthejmë thyesat në numra që na duken më të njohur?' Lidh me orën e kaluar: 'Javën e kaluar mësuam të shumëzojmë thyesat. Sot do të mësojmë diçka të re dhe shumë praktike.'\n\n**REALIZIMI I KUPTIMIT (25-28 minuta)**\nMësuesi shpjegon konceptin bazë: 'Çdo thyesë mund të shkruhet si numër dhjetor duke bërë pjesëtimin e numëruesit me emëruesin.' Prezanton tre shembuj të detajuar:\n\n**Shembulli 1:** 3/4 = ?\nShkruaj në tabelë pjesëtimin e gjatë:\n3,000 ÷ 4 = 0,75\n4│3,000\n  2,8\n  ---\n  20\n  20\n  ---\n  00\nPrandaj 3/4 = 0,75 lekë (75 qindarka)\n\n**Shembulli 2:** 2/5 = ?\n2,000 ÷ 5 = 0,4\n5│2,000\n  2,0\n  ---\n  00\nPrandaj 2/5 = 0,4\n\n**Shembulli 3:** 1/3 = ?\n1,000 ÷ 3 = 0,333...\n3│1,000\n  9\n  ---\n  10\n  9\n  ---\n  10\n  9\n  ---\n  1\nPrandaj 1/3 = 0,3̄ (3 përsëritet pafundësisht)\n\nPastaj shpjegon kthimin e kundërt: numër dhjetor → thyesë:\n0,25 = 25/100 = 1/4 (pas thjeshtimit)\n0,6 = 6/10 = 3/5\n\nOrganzon punë në grupe (4-5 nxënës): Çdo grup merr 5 thyesa të ndryshme dhe duhet t'i kthejë në numra dhjetorë, pastaj të krahasojë rezultatet me grupet e tjera. Grupet prezantojnë nga një shembull në tabelë.\n\n**PRAKTIKA (8-10 minuta)**\na) **Niveli bazë (2-3 ushtrime):**\n   - Ktheni në numër dhjetor: 1/2, 3/5, 7/10\n   - Ktheni në thyesë: 0,5, 0,8, 0,25\n\nb) **Niveli mesatar (2 ushtrime):**\n   - Një libër kushton 2/3 të 1500 lekëve. Sa lekë kushton në numër dhjetor?\n   - Krahasoni: 3/4 dhe 0,8 (cila është më e madhe?)\n\nc) **Niveli i avancuar (1 problemë sfiduese):**\n   - Gjeni të gjitha thyesat me emërues 8 që japin numra dhjetorë me vetëm 3 shifra pas komas.\n\n**MBYLLJA/REFLEKTIMI (3-5 minuta)**\nPërmbledhje e tre pikave kryesore: 1) Çdo thyesë kthehet në dhjetor me pjesëtim, 2) Numrat dhjetorë kthehen në thyesa duke i vendosur mbi fuqitë e 10-ës, 3) Disa thyesa japin numra dhjetorë të pafundëm. Quiz verbal: 'Sa është 1/4 si numër dhjetor? Si shkruhet 0,3 si thyesë?' Parashikon orën e ardhshme: 'Nesër do të mësojmë të mbledhim dhe zbritim numrat dhjetorë.'",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**DETYRË BAZË:**\nZgjidhni ushtrimet 1-7 nga faqja 82 të librit: Ktheni në numra dhjetorë thyesat 1/5, 2/8, 3/10, 7/20. Ktheni në thyesa të thjeshtuara numrat dhjetorë 0,2, 0,75, 0,125, 0,6.\n\n**DETYRË KRIJUESE:**\nKrijoni një 'Menu restorani' me të paktën 8 produkte ku çmimet të jenë shkruar si thyesa të lekut shqiptar (p.sh. 3/4 të 1200 lekëve për pica). Pastaj llogaritni çmimin e saktë në lekë dhe qindarka për secilin produkt. Prezantoni menunë tuaj në klasë.\n\n**DETYRË SHTESË (fakultative):**\nHulumtoni cilat thyesa me emërues nga 2 deri në 12 japin numra dhjetorë të fundëm (që mbarojnë) dhe cilat japin numra dhjetorë të pafundëm (që përsëriten). Krijoni një tabelë me zbulimin tuaj dhe shpjegoni pse ndodh kjo.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Numri",
+      "page_or_row": "47"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

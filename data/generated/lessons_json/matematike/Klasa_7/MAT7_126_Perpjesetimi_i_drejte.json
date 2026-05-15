@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_126",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 126,
+  "tema": "Përpjesëtimi i drejtë",
+  "tematika": "Numri",
+  "month": "Maj",
+  "trimester": 3,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës VII në shkollën 'Naim Frashëri' në Tiranë po organizojnë një treg shkollor për të mbledhur fonde për ekspozitatë e fizikës. Ata duhet të llogaritim sa produkte mund të blejnë me buxhetin e tyre, duke ditur se çmimet janë në përpjesëtim të drejtë me sasinë. Për shembull, nëse 3 stilolapsa kushtojnë 450 lekë, sa do të kushtojnë 7 stilolapsa të tillë? Po ashtu duhet të përcaktojnë sa libra mund të blejnë për bibliotekën nëse dinë çmimin për një libër të vetëm.",
+  "rezultatet": [
+    "Nxënësi/ja përkufizon konceptin e përpjesëtimit të drejtë dhe identifikon shembuj nga jeta e përditshme",
+    "Nxënësi/ja llogarit anëtarin e panjohur të një përpjesëtimi të drejtë duke përdorur rregullën e tre të thjeshtë",
+    "Nxënësi/ja demonstron se dy madhësi janë në përpjesëtim të drejtë duke kontrolluar nëse raporti i tyre mbetet konstant",
+    "Nxënësi/ja zgjidh probleme të ndryshme me përpjesëtim të drejtë që përfshijnë çmime, distanca dhe kohë",
+    "Nxënësi/ja argumenton zgjidhjen e tij duke shpjeguar hapat logjikë të ndjekur",
+    "Nxënësi/ja analizon situata reale dhe përcakton kur dy madhësi janë në përpjesëtim të drejtë"
+  ],
+  "fjalet_kyce": [
+    "përpjesëtimi i drejtë (direct proportion)",
+    "raporti konstant",
+    "madhësi të përpjesëtueshme",
+    "regulla e tre të thjeshtë",
+    "koeficienti i përpjesëtimit",
+    "x : y = k (konstante)",
+    "y = kx (formula bazë)",
+    "proporcionaliteti"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 4: Përpjesëtimet, faqe 78-85",
+    "Kalkulatore për verifikimin e llogaritjeve të mëdha",
+    "Fletë pune e përgatitur me 12 probleme të shkallatuar",
+    "Kartela me shembuj nga tregu i Tiranës (çmimet e frutave, librave, artikujve shkollore)",
+    "Tabelë e madhe për demonstrime dhe grafikë",
+    "Postera me formulat kryesore të përpjesëtimit të drejtë"
+  ],
+  "lidhja": "Lidhje me Gjeografinë për llogaritjen e distancave në harta (1:25000, 1:50000), me shkencat natyrore për marrëdhëniet ndërmjet shpejtësisë-kohës-distancës, me Kimminë për përgatitjen e tretësirave me proporcione të caktuara. Në jetën e përditshme: llogaritja e çmimeve në marketet e Tiranës, planifikimi i buxhetit familjar, llogaritja e kohës së udhëtimit Tiranë-Shkodër me shpejtësi konstante.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nOrës ka për qëllim që nxënësit të kuptojnë konceptin e përpjesëtimit të drejtë si një marrëdhënie matematikore themelore, të mësojnë të zgjidhin probleme praktike duke përdorur rregullën e tre të thjeshtë dhe të zhvillojnë aftësinë për të analizuar situata reale ku dy madhësi ndryshojnë në mënyrë të përpjesëtuar.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\nMësuesi fillon me një lojë interaktive: 'Sa kushton në treg?' Duke përdorur kartela me produkte nga tregu i Pazarit të Ri në Tiranë. Pyetet: 'Nëse 2 kg mollë kushtojnë 200 lekë, sa do të kushtojnë 5 kg?' Nxënësit japin përgjigje spontane. Pastaj shtohen pyetje: 'Nëse një autobus ecën 60 km në 1 orë, sa km do të ecë në 3 orë?' 'Nëse për të lexuar 10 faqe duhen 15 minuta, sa kohë duhet për 30 faqe?' Mësuesi shkruan përgjigjet në tabelë dhe pyet: 'Çfarë ka të përbashkët te të gjitha këto situata?' Kjo lidhet me konceptin e orës së kaluar për raportet.\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\nMësuesi shpjegon: 'Kur dy madhësi ndryshojnë ashtu që raporti i tyre mbetet konstant, themi se janë në përpjesëtim të drejtë.' Formula bazë: y = kx, ku k është koeficienti konstant.\n\nShembull 1: Çmimi i librave\n3 libra kushtojnë 1200 lekë. Sa kushtojnë 7 libra?\nZgjidhje: 3 libra → 1200 lekë\n1 libër → 1200 ÷ 3 = 400 lekë\n7 libra → 400 × 7 = 2800 lekë\nVerifikim: 1200/3 = 400 dhe 2800/7 = 400 (raporti konstant)\n\nShembull 2: Distanca dhe koha\nNjë makinë ecën 120 km në 2 orë. Sa distancë do të ecë në 5 orë me të njëjtën shpejtësi?\nZgjidhje: 2 orë → 120 km\n1 orë → 120 ÷ 2 = 60 km\n5 orë → 60 × 5 = 300 km\nVerifikim: 120/2 = 60 dhe 300/5 = 60 km/h (konstante)\n\nShembull 3: Receta gatimi\nPër të përgatitur byrek për 4 persona duhen 300g miell. Sa miell duhet për 9 persona?\nZgjidhje: 4 persona → 300g miell\n1 person → 300 ÷ 4 = 75g miell\n9 persona → 75 × 9 = 675g miell\nVerifikim: 300/4 = 75 dhe 675/9 = 75g/person\n\nPunë në grupe (10 minuta): Secili grup merr nga 3 situata të ndryshme (çmimet e frutave në treg, orari i autobusëve Tiranë-Durrës, shpenzimi i karburantit) dhe zgjedh një problem duke përdorur rregullën e tre të thjeshtë. Grupet prezantojnë zgjidhjet.\n\n**PRAKTIKA** (8-10 minuta)\nNiveli bazë:\na) 5 stilolapsa kushtojnë 250 lekë. Sa kushtojnë 8 stilolapsa?\nb) 3 kg banane kushtojnë 360 lekë. Sa kushtojnë 7 kg?\nc) Një makinë ecën 80 km me 8 litra benzinë. Sa km ecën me 12 litra?\n\nNiveli mesatar:\na) Një hartë ka shkallë 1:50000. Nëse distanca në hartë është 6 cm, sa është distanca reale?\nb) 12 punëtorë mbarojnë një punë në 8 ditë. Sa ditë do të duhen për 6 punëtorë? (kujdes: përpjesëtim i zhdrejtë!)\n\nNiveli i avancuar:\nNjë fabrikë prodhon 450 artikuj në 6 orë me 15 makineri. Sa artikuj do të prodhojë në 10 orë me 25 makineri? (kombinim i përpjesëtimeve)\n\n**MBYLLJA/REFLEKTIMI** (3-5 minuta)\nTri pikat kryesore: 1) Përpjesëtimi i drejtë ka raport konstant y/x = k, 2) Përdorim rregullën e tre: a/b = c/x, 3) Kontrollojmë gjithmonë nëse raporti është konstant. Quiz verbal: 'Jepni një shembull përpjesëtimi të drejtë nga jeta juaj.' 'Si e kuptojmë se dy madhësi janë në përpjesëtim të drejtë?' Ora e ardhshme: Përpjesëtimi i zhdrejtë (si rasti i punëtorëve dhe ditëve).",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**NIVELI BAZË** (3-4 ushtrime):\n1. Zgjidhni ushtrimet 15, 16, 17, 18 nga faqja 82 të librit\n2. 4 kg portokaj kushtojnë 480 lekë. Sa kushtojnë 9 kg portokaj?\n3. Një autobus ecën 150 km në 3 orë. Sa km do të ecë në 7 orë?\n4. 6 kalamaj kushtojnë 420 lekë. Sa kushtojnë 11 kalamaj?\n\n**DETYRË KRIJUESE**:\nKrijoni një poster 'Përpjesëtimi në jetën tonë' me 5 situata nga jeta e përditshme në Shqipëri ku përdoret përpjesëtimi i drejtë. Për secilën situatë shkruani problemën dhe zgjidhjen e plotë. Përdorni ngjyra dhe figura për ta bërë tërheqës.\n\n**DETYRË SHTESË (fakultative)**:\nHulumtoni çmimet e të njëjtit produkt në 3 markete të ndryshme në lagjen tuaj. Verifikoni nëse janë në përpjesëtim të drejtë për sasi të ndryshme (1kg, 2kg, 5kg). Shkruani një raport 1-faqesor me konkluzionet tuaja.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Numri",
+      "page_or_row": "126"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

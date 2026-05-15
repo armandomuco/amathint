@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_111",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 111,
+  "tema": "Përsëritje për tremujorin e dytë",
+  "tematika": "Përsëritje",
+  "month": "Prill",
+  "trimester": 3,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës së 7-të në shkollën 'Fan S. Noli' në Tiranë organizojnë një panairin shkollor për Ditën e Tokës. Ata duhet të llogaritin sipërfaqet e stenave (drejtkëndëshe dhe rrethore), të përdorin thyesa për të ndarë fitimin midis klasave pjesëmarrëse, dhe të përdorin përqindje për të analizuar shitjet. Gjithashtu, duhet të kryejnë veprime me numra pozitivë dhe negativë për të llogaritin bilancin final.",
+  "rezultatet": [
+    "Nxënësi/ja llogarit saktësisht sipërfaqen e drejtkëndëshit dhe rrethit duke përdorur formulat përkatëse",
+    "Nxënësi/ja zbaton rregullat e veprimeve me thyesa për mbledhje, zbritje, shumëzim dhe pjesëtim",
+    "Nxënësi/ja kthen thyesat në përqindje dhe anasjelltas për të zgjidhur problemat praktike",
+    "Nxënësi/ja kryen veprime me numra racionalë pozitivë dhe negativë duke respektuar rregullat e shenjave",
+    "Nxënësi/ja demonstron zgjidhjen e ekuacioneve të thjeshta të shkallës së parë me një të panjohur",
+    "Nxënësi/ja argumenton procedurën e zgjidhjes së problemave të ndryshme duke kombinuar koncepte të ndryshme matematikore"
+  ],
+  "fjalet_kyce": [
+    "sipërfaqja (m²)",
+    "thyesa të zakonta dhe dhjetore",
+    "përqindja (%)",
+    "numra racionalë (Q)",
+    "ekuacioni ax + b = 0",
+    "rrjethi (π = 3,14)",
+    "drejtkëndëshi (S = a × b)",
+    "bilanci pozitiv/negativ"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 4-6, faqe 85-145",
+    "Fletë pune e përgatitur me 15 probleme të kombinuara",
+    "Busull, vizore, laps, goma, kalkulatore",
+    "Kartela me formula (sipërfaqe, thyesa, përqindje)",
+    "Postera me shembuj nga jeta reale në Shqipëri",
+    "Fletë milimetrike për skica gjeometrike"
+  ],
+  "lidhja": "Lënda lidhet fort me Gjeografinë (llogaritja e sipërfaqeve të territoreve shqiptare), shkencat natyrore (njësi matëse, densidade), Edukimin për Jetën (buxheti familjar, shpenzimet), dhe Artet (proporcionet në art). Konceptet përdoren në tregtinë e përditshme shqiptare (çmimet e produkteve në Pazarin e Ri, llogaritja e TVSH-së 20%, kursi i këmbimit euro-lek).",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nOra synon të përsërisë dhe të integroj konceptet kryesore të tremujorit të dytë: sipërfaqet gjeometrike, thyesat, përqindjet dhe numrat racionalë. Nxënësit do të zgjidhin probleme të kombinuara që reflektojnë situata reale nga jeta e përditshme shqiptare.\n\n**EVOKIMI/HYRJA** (10 minuta)\nFilloj me lojën 'Matematika në pazar': shfaq një slide me imazhe nga Pazari i Ri në Tiranë me çmime të produkteve. Pyes: 'Nëse 1 kg mollë kushton 150 lekë, sa kushtojnë 0,75 kg? Si e llogaritni 20% zbritje?' Nxënësit diskutojnë në çifte dhe japin përgjigje. Lidh me temën: 'Sot do përsërisim të gjitha mjetet matematikore që na ndihmojnë të zgjidhim probleme të tilla praktike.'\n\n**REALIZIMI I KUPTIMIT** (28 minuta)\n**Faza 1: Përsëritje konceptesh (8 min)**\nShëruas në tabelë formulat kryesore: S□ = a×b, Sο = π×r², thyesa në përqindje, rregullat e shenjave. Nxënësit kopjojnë në fletore.\n\n**Faza 2: Shembuj të zgjidhur (15 min)**\n*Shembulli 1:* Një fushë futbolli ka gjatësi 90m dhe gjerësi 60m. Sa është sipërfaqja?\nZgjidhja: S = 90 × 60 = 5400 m²\n\n*Shembulli 2:* Një shtëpi kushtoi 80,000 euro dhe u shit me 15% fitim. Sa fitim u realizua?\nZgjidhja: Fitimi = 80,000 × 15/100 = 80,000 × 0,15 = 12,000 euro\n\n*Shembulli 3:* Zgjidh ekuacionin: 3x - 7 = 14\nZgjidhja: 3x = 14 + 7 = 21, pra x = 21/3 = 7\n\n**Faza 3: Punë në grupe (5 min)**\nNdaj klasën në 4 grupe. Çdo grup merr një problem të kombinuar për panairinshkollor:\n- Grupi 1: Llogarit sipërfaqen e stenës së tyre (3m × 2m)\n- Grupi 2: Ndan 480 lekë fitim në raportin 3:5 midis dy klasave\n- Grupi 3: Gjen sa përqind të shitjeve ishin ëmbëlsira (150 nga 600 copë)\n- Grupi 4: Llogarit fitimin neto nëse u shitën mallra për 2400 lekë me 25% fitim\n\n**PRAKTIKA** (10 minuta)\n**Niveli bazë:**\na) Gjej sipërfaqen e një dhjome me rreze 4m (π=3,14)\nb) Shndërro në përqindje: 3/5, 7/10, 1/4\nc) Llogarit: (-5) + (+8) - (-3)\n\n**Niveli mesatar:**\na) Një dyqan shit një televizor 45,000 lekë me 10% zbritje. Cili ishte çmimi fillestare?\nb) Zgjidh: 2x + 5 = 3x - 7\n\n**Niveli i avancuar:**\nNjë fermë ka formë drejtkëndëshi 80m × 60m. Brenda saj ka një liqen rreth me rreze 15m. Sa m² tokë mbjellëse ka ferma?\n\n**MBYLLJA** (5 minuta)\nPërmbledh tre pikat kyçe: \n1) Formulat e sipërfaqeve përdoren në jetën reale\n2) Thyesat dhe përqindjet janë të lidhura ngushtë\n3) Ekuacionet ndihmojnë të gjejmë të panjohurat\n\nBëj quiz të shpejtë verbal: 'Sa është 25% e 200?' 'Cila është formula e sipërfaqes së drejtkëndëshit?' 'Si zgjidhet 2x = 10?'\n\nParashikoj orën e ardhshme: 'Do të fillojmë me gjeometrinë hapësinore - kubin dhe prizmin.'",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**DETYRAT BAZË:**\n1. Gjeni sipërfaqen e këtyre figurave: drejtkëndësh 15m×8m, rreth me r=6m\n2. Kryeni veprimet: 2/3 + 1/4, 5/6 - 1/3, 3/5 × 2/7\n3. Shndërroni në përqindje: 1/2, 3/4, 7/10, 9/20\n4. Zgjidhni ekuacionet: x + 5 = 12, 3x = 21, 2x - 4 = 10\n\n**DETYRË KRIJUESE:**\nKrijoni një poster 'Matematika në shtëpinë tonë' ku do të tregoni se si përdoret matematika në 5 aktivitete të ndryshme shtëpiake (gatim, blerje, riparim, etj). Përfshini së paku një thyesë, një përqindje dhe një llogaritje sipërfaqeje.\n\n**DETYRË SHTESË (fakultative):**\nHulumtoni çmimet e apartamenteve në Tiranë (online ose duke pyetur në familje). Llogaritni çmimin për m² në zona të ndryshme dhe krahasoni me përqindje. Paraqitni gjetjet në një tabelë të organizuar.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Përsëritje",
+      "page_or_row": "111"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

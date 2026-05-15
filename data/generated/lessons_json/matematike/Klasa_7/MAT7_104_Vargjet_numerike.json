@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_104",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 104,
+  "tema": "Vargjet numerike",
+  "tematika": "Algjebra",
+  "month": "Prill",
+  "trimester": 3,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës VII studiojnë rritjen e çmimeve të bukës në Tiranë gjatë 5 viteve të fundit. Vitin e parë çmimi ishte 80 lekë, vitin e dytë 85 lekë, vitin e tretë 90 lekë, vitin e katërt 95 lekë dhe vitin e pestë 100 lekë. Ata duhet të zbulojnë rregullin e kësaj rritjeje dhe të parashikojnë çmimin për vitet e ardhshme duke përdorur konceptin e vargjeve numerike.",
+  "rezultatet": [
+    "Nxënësi/ja përkufizon saktësisht çfarë është një varg numerik dhe identifikon termat e tij",
+    "Nxënësi/ja llogarit diferncën e përbashkët në një varg aritmetik dhe aplikon formulën an = a1 + (n-1)d",
+    "Nxënësi/ja identifikon raportin e përbashkët në një varg gjeometrik dhe aplikon formulën an = a1 × r^(n-1)",
+    "Nxënësi/ja zgjidh problema praktike duke përdorur vargjet aritmetike dhe gjeometrike",
+    "Nxënësi/ja demonstron nëse një varg i dhënë është aritmetik, gjeometrik apo asnjë prej tyre",
+    "Nxënësi/ja argumenton zgjidhjen e problemave me vargje duke shpjeguar hapat e ndjekur"
+  ],
+  "fjalet_kyce": [
+    "varg numerik (sequence)",
+    "term i vargut (an)",
+    "varg aritmetik",
+    "diferenca e përbashkët (d)",
+    "varg gjeometrik",
+    "raporti i përbashkët (r)",
+    "formula e termit të përgjithshëm",
+    "progresioni aritmetik dhe gjeometrik"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 4 'Vargjet numerike', faqe 78-85",
+    "Kalkulatore shkencorë për llogaritjet e fuqive",
+    "Fletë pune e përgatitur me 15 shembuj vargjesh të ndryshëm",
+    "Kartela me problemat e jetës së përditshme (çmimet, rritja e popullsisë)",
+    "Tabelë dhe markera me ngjyra për demonstrimet",
+    "Manuali i mësuesit me ushtrime shtesë për talentët"
+  ],
+  "lidhja": "Lidhje me Gjeografinë për rritjen e popullsisë së qyteteve shqiptare, me shkencat natyrore për lëvizjen e njëtrajtshme të trupit (distanca në çdo sekondë), me Historinë për kronologjinë e ngjarjeve historike, dhe me jetën e përditshme në Shqipëri siç janë llogaritja e kursimeve bankare, rritja e çmimeve, planifikimi i shpenzimeve mujore të familjes.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nOrë mësimore për njohjen e konceptit të vargjeve numerike, dallimin midis vargjeve aritmetike dhe gjeometrike, dhe aplikimin e tyre në zgjidhjen e problemave praktike të jetës së përditshme.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\nMësuesi shkruan në tabelë numrat: 2, 4, 6, 8, 10, ? dhe pyet: \"Cili është numri i ardhshëm?\". Pastaj shkruan 3, 6, 12, 24, ? dhe pyet të njëjtën gjë. Nxënësit diskutojnë në çifte dhe zbulojnë rregullat. Mësuesi lidh me orën e kaluar duke kujtuar progresionet dhe pyet: \"A ka lidhje kjo me progresionet që studiuam?\". Aktivitet motivues: \"Imagjinoni se çdo ditë kurseni dyfishin e parasë së ditës së mëparshme. Dita e parë 10 lekë, dita e dytë sa?\" Nxënësit llogaritin dhe zbulojnë rregullin.\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\nMësuesi prezanton përkufizimin: \"Vargu numerik është një varg i pafundmë numrash të renditur sipas një rregulli të caktuar\". Tregon se çdo numër quhet term i vargut dhe shënohet an ku n është pozicioni.\n\nSHEMBULLI 1 - Varg aritmetik: 5, 8, 11, 14, 17, ...\na1 = 5, a2 = 8, a3 = 11\nDiferenca: d = a2 - a1 = 8 - 5 = 3\nKontroll: a3 - a2 = 11 - 8 = 3 ✓\nFormula: an = a1 + (n-1)d = 5 + (n-1)×3\nGjetja e a10: a10 = 5 + (10-1)×3 = 5 + 27 = 32\n\nSHEMBULLI 2 - Varg gjeometrik: 2, 6, 18, 54, ...\na1 = 2, a2 = 6, a3 = 18\nRaporti: r = a2/a1 = 6/2 = 3\nKontroll: a3/a2 = 18/6 = 3 ✓\nFormula: an = a1 × r^(n-1) = 2 × 3^(n-1)\nGjetja e a6: a6 = 2 × 3^(6-1) = 2 × 3^5 = 2 × 243 = 486\n\nSHEMBULLI 3 - Problem praktik: \"Një familje në Tiranë kursen çdo muaj 5000 lekë më shumë se muajin e mëparshëm. Muajin e parë kurseu 15000 lekë. Sa do të kursejë muajin e 8-të?\"\nZgjidhje: a1 = 15000, d = 5000\na8 = 15000 + (8-1)×5000 = 15000 + 35000 = 50000 lekë\n\nPunë në grupe (10 minuta): Çdo grup merr nga 3 vargje të ndryshëm dhe duhet të përcaktojë llojin, të gjejë formulën dhe të llogaritë 2 terme të tjerë. Grupet prezantojnë në tabelë duke shpjeguar hapat.\n\n**PRAKTIKA** (8-10 minuta)\n\na) Niveli bazë:\n1. Gjeni termin e ardhshëm: 7, 14, 21, 28, ?\n2. Përcaktoni d për vargiin: 12, 17, 22, 27\n3. Llogaritni a5 për vargiin me a1=3 dhe d=4\n\nb) Niveli mesatar:\n1. Gjeni formulën e përgjithshëme për vargiin: -2, 1, 4, 7, 10\n2. Një varg gjeometrik ka a1=4 dhe r=2. Gjeni a7\n\nc) Niveli i avancuar:\n1. Një biznesmен në Shkodër ka fitim që rritet sipas një vargu gjeometrik. Muajin e parë fitoi 100,000 lekë, muajin e dytë 120,000 lekë. Sa do të fitojë muajin e 6-të?\n\n**MBYLLJA/REFLEKTIMI** (3-5 minuta)\nPërmbledhje me tre pika kryesore: 1) Vargjet numerike kanë rregull të qartë, 2) Vargjet aritmetike kanë diferncë konstante, 3) Vargjet gjeometrike kanë raport konstant. Quiz verbal: \"Si dallojmë vargiin aritmetik nga gjeometriku?\", \"Çfarë përdorim për të gjetur termin e n-të?\". Parashikim: \"Orën e ardhshme do të studiojmë shumën e termave të vargjeve aritmetike dhe gjeometrike\".",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**DETYRË BAZË:**\n1. Gjeni termin e ardhshëm për vargjet: a) 4, 9, 14, 19, ? b) 1, 4, 16, 64, ?\n2. Llogaritni a8 për vargiin aritmetik me a1=6 dhe d=3\n3. Përcaktoni nëse vargjet janë aritmetike, gjeometrike: a) 5, 10, 15, 20 b) 3, 9, 27, 81\n4. Zgjidhni problemën: Një nxënës lexon çdo ditë 5 faqe më shumë se ditën e mëparshme. Ditën e parë lexoi 10 faqe. Sa faqe do të lexojë ditën e 7-të?\n\n**DETYRË KRIJUESE:**\nKrijoni një poster A4 me titull \"Vargjet në jetën time\" ku do të paraqisni 3 situata nga jeta juaj ose e familjes ku hasni vargje numerike (kursimet, orari i autobusëve, rritja e lartësisë, etj.). Për çdo situatë shkruani 5 termat e parë dhe formulën.\n\n**DETYRË SHTESË (fakultative):**\nHulumtoni vargiin e Fibonacci (1, 1, 2, 3, 5, 8, 13, ...) dhe shkruani një ese 1 faqe rreth zbulimit të këtij vargu në natyrë (lule, bletë, spirale). Gjeni 10 termat e parë dhe provoni të zbuloni ndonjë rregull interesant.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Algjebra",
+      "page_or_row": "104"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

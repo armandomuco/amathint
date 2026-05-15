@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_059",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 59,
+  "tema": "Ushtrime - Matja",
+  "tematika": "Matja",
+  "month": "Dhjetor",
+  "trimester": 1,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës së 7-të në shkollën 'Fan Noli' në Tiranë duhet të organizojnë një ekspozitë shkollore për Ditën e Pavarësisë. Ata duhet të llogaritin saktësisht madhësinë e materialeve të nevojshme: sa metra pëlhurë për flamuj (3m × 2m), sa litra bojë për postera (12 postera 50cm × 70cm), dhe sa kilogramë ushqim për 150 mysafirë (150g bukë dhe 200ml lëng për person).",
+  "rezultatet": [
+    "Nxënësi/ja përkthehet saktësisht nga një njësi matëse në tjetrën (m në cm, kg në g, l në ml)",
+    "Nxënësi/ja llogarit sipërfaqen dhe perimetrin e drejtkëndëshave dhe katrorëve duke përdorur formulat e duhura",
+    "Nxënësi/ja zgjidh probleme praktike që përfshijnë shumëzim dhe pjesëtim me numra dhjetorë",
+    "Nxënësi/ja identifikon njësitë e duhura matëse për madhësi të ndryshme (gjatësi, sipërfaqe, vëllim, pesha)",
+    "Nxënësi/ja demonstron saktësinë e llogaritjeve duke kontrolluar rezultatet me mënyra të ndryshme",
+    "Nxënësi/ja argumenton zgjedhjen e strategjisë më të përshtatshme për zgjidhjen e problemave të matjes"
+  ],
+  "fjalet_kyce": [
+    "njësi matëse (m, cm, mm, km)",
+    "sipërfaqe (m², cm², formula S = a × b)",
+    "vëllim (l, ml, dm³, formula V = a × b × c)",
+    "pesha/masa (kg, g, t)",
+    "përkthen/konverton (conversion)",
+    "perimeter (P = 2a + 2b)",
+    "shumëzimi me 10, 100, 1000",
+    "dhjetore (decimal numbers)"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 4 'Matja', faqe 78-95",
+    "Vizore 30cm, metër shiritore, peshore elektronike për demonstrim",
+    "Kalkulatore shkollore për verifikimin e llogaritjeve",
+    "Fletë pune e përgatitur me 15 probleme matjeje",
+    "Tabela konvertimi të njësive matëse (poster A3)",
+    "Objekte konkrete për matje: kuti, shishe, libra, lapsa"
+  ],
+  "lidhja": "Gjeografi: matja e distancave në harta të Shqipërisë, llogaritja e shkallës 1:1000. Arte: projektimi i posterave dhe kalkulimi i materialeve. Ekonomia familjare: blerja në treg duke llogaritur çmimet për kilogram dhe litër. Edukata natyrore: matja e performancës sportive (distanca e hedhjes, koha e vrapimit). Teknologji: matja e komponentëve për projekte teknike.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**: Kjo orë synon të forcojë aftësitë praktike të nxënësve në matje duke zgjidhur probleme të lidhura me organizimin e aktiviteteve shkollore. Nxënësit do të praktikojnë konvertimin e njësive dhe llogaritjen e sipërfaqeve në situata reale.\n\n**EVOKIMI/HYRJA** (8-10 minuta):\nMësuesi sjell në klasë një flamur të Shqipërisë dhe pyet: 'Sa mendoni që është i gjatë ky flamur? Sa i gjerë?' Nxënësit japin përgjigje dhe më pas maten me vizore. Mësuesi shfaq fotografi nga ekspozita e vitit të kaluar dhe pyet: 'Nëse do të bënim 5 flamuj të tillë, sa metra pëlhurë do të na duheshin?' Lidhet me orën e kaluar për shumëzimin me numra dhjetorë: 'Kujtohuni kur mësuam të shumëzojmë 2,5 × 3,2? Sot do ta përdorim këtë në probleme reale.'\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta):\nMësuesi prezanton tre shembuj të detajuar:\n\n**Shembulli 1 - Llogaritja e pëlhurës për flamuj:**\n'Duam të bëjmë 4 flamuj, secili 3m × 2m. Sa m² pëlhurë na duhet?'\nZgjidhje: Sipërfaqja e një flamuri = 3m × 2m = 6m²\nPër 4 flamuj = 4 × 6m² = 24m²\n'Por pëlhura shitet me gjërësi 1,5m. Sa metra gjatësi na duhen?'\n24m² ÷ 1,5m = 16m gjatësi\n\n**Shembulli 2 - Llogaritja e bojës për postera:**\n'Çdo poster është 50cm × 70cm = 0,5m × 0,7m. Duam 12 postera.'\nSipërfaqja e një posteri = 0,5m × 0,7m = 0,35m²\nPër 12 postera = 12 × 0,35m² = 4,2m²\n'1 litër bojë mbulon 3m². Sa litra na duhen?'\n4,2m² ÷ 3m²/l = 1,4l ≈ 2 litra (rrumbullakosim lart)\n\n**Shembulli 3 - Llogaritja e ushqimit:**\n'Për 150 mysafirë: 150g bukë dhe 200ml lëng për person.'\nBuka totale = 150 × 150g = 22.500g = 22,5kg\nLëngu total = 150 × 200ml = 30.000ml = 30l\n\nPastaj nxënësit ndahen në 4 grupe. Grupi 1 llogarit materialet për 3 tavolina (1,2m × 0,8m secila). Grupi 2 gjen sa litra ujë duhen për 200 gota (250ml secila). Grupi 3 llogarit sa metra rrip duhen për 8 paketa (40cm rrip për paketë). Grupi 4 gjen sa kg biskota duhen për 180 nxënës (35g për person). Çdo grup prezanton zgjidhjen në tabelë.\n\n**PRAKTIKA** (8-10 minuta):\n**a) Niveli bazë:**\n1. Konverto: 2,5m = ___ cm; 1.400g = ___ kg; 3,2l = ___ ml\n2. Gjej sipërfaqen: drejtkëndësh 4m × 2,5m\n3. Sa kg mollë për 8 persona, 125g për person?\n\n**b) Niveli mesatar:**\n1. Një dhomë 6m × 4m lyhet me bojë. 1l bojë mbulon 5m². Sa litra bojë duhen për 2 shtresa?\n2. Një kuti 30cm × 20cm × 15cm. Sa shishe 0,5l zënë brenda?\n\n**c) Niveli i avancuar:**\nNjë kopsht drejtkëndor ka perimeter 36m dhe gjatësia është 2 herë gjerësia. Nëse mbillet me bar (1 paketë bar për 3m²), sa paketa duhen dhe sa kushton me 450 lekë paketa?\n\n**MBYLLJA/REFLEKTIMI** (3-5 minuta):\nPërmbledhje e tre pikave kryesore: 1) Konvertimi i njësive (×10, ×100 për më të vogla), 2) Formulat e sipërfaqes (S = a×b), 3) Organizimi i llogaritjeve në hapa. Quiz verbal: 'Sa cm janë 2,5m? Sa është sipërfaqja e një katror 3m × 3m? Pse është e rëndësishme të matim saktë?' Parashikim: 'Orën tjetër do të mësojmë matjen e rrethit dhe të llogaritim sa metra tel duhen për të rrethuar kopshtin e shkollës.'",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**1. BAZË - Ushtrime themelore:**\nZgjidhni ushtrimet 12-18 nga libri, faqe 89. Konvertoni: a) 3,5m në cm, b) 2.400g në kg, c) 1,8l në ml, d) 450cm në m. Gjeni sipërfaqen dhe perimetrin e një fushe futbolli 90m × 60m.\n\n**2. KRIJUESE - Projekt hulumtues:**\nMatni dhomën tuaj të gjumit dhe planifikoni si ta ribrendosni. Llogaritni sipërfaqen e dyshemesë, sa m² tapiceri duhet për shtrat, sa litra bojë për mureve (lartësia 2,8m). Krijoni një poster me rezultatet dhe fotografitë e matjeve.\n\n**3. SHTESË (fakultative) - Për nxënës të avancuar:**\nHulumtoni sa kushton të ndërtoni një pishinë 8m × 4m × 1,5m në oborrin tuaj. Llogaritni: vëllimin e ujit në litra, sipërfaqen për pllaka (dysheme dhe mure), sa kg çimento duhen (1 çantë 50kg për 2m² mur), kostoja totale me çmimet aktuale në Tiranë. Krahasoni me çmimet e pishinave të gatshme.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Matja",
+      "page_or_row": "59"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

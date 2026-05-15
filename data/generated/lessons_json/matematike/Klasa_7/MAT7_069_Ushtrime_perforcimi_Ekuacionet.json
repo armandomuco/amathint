@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_069",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 69,
+  "tema": "Ushtrime përforcimi - Ekuacionet",
+  "tematika": "Algjebra",
+  "month": "Janar",
+  "trimester": 2,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e shkollës \"Fan Noli\" në Tiranë organizojnë një treg shkollor për mbledhje fondesh. Ata duhet të llogaritsin çmimin e biletave për një aktivitet kulturor, duke ditur që nga shitja e 150 biletave plus 5000 lekë donacion, duhet të mbledhin gjithsej 35000 lekë. Përdorin ekuacionet për të gjetur çmimin e çdo biletës dhe planifikojnë buxhetin e aktivitetit.",
+  "rezultatet": [
+    "Nxënësi/ja zgjidh ekuacione lineare të tipit ax + b = c me koeficient të plotë",
+    "Nxënësi/ja transformon problemat e jetës reale në ekuacione matematikore",
+    "Nxënësi/ja verifikon saktësinë e zgjidhjes së ekuacionit duke zëvendësuar në ekuacionin fillestar",
+    "Nxënësi/ja interpreton kuptimin e zgjidhjes së ekuacionit në kontekstin e problemës",
+    "Nxënësi/ja llogarit vlerat e panjohura në situata praktike duke përdorur ekuacionet",
+    "Nxënësi/ja argumenton hapat e zgjidhjes së ekuacionit duke shpjeguar transformimet e kryera"
+  ],
+  "fjalet_kyce": [
+    "ekuacion linear",
+    "e panjohura (x)",
+    "koeficient",
+    "konstante",
+    "transformime ekuivalente",
+    "verifikim i zgjidhjes",
+    "ax + b = c",
+    "izolimi i të panjohurit"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 4, faqe 78-85",
+    "Tabelë e bardhë, markues ngjyra, sponxh",
+    "Fletë pune e përgatitur me 15 ekuacione dhe probleme praktike",
+    "Kalkulatore për verifikimin e rezultateve",
+    "Kartela me probleme të jetës reale nga konteksti shqiptar",
+    "Posterat me hapat e zgjidhjes së ekuacioneve"
+  ],
+  "lidhja": "Lidhje me Gjeografinë në llogaritjen e distancave ndërmjet qyteteve shqiptare, me Ekonominë në planifikimin e buxhetit familjar dhe llogaritjen e fitimit/humbjes në biznes, me shkencat natyrore në llogaritjen e shpejtësisë dhe kohës së udhëtimit, dhe me jetën e përditshme në situata si blerja me këste, planifikimi i shpenzimeve mujore, dhe llogaritja e konsumit të energjisë elektrike në shtëpi.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nKjo orë synon të përforcojë dhe sistematizojë njohuritë e nxënësve rreth zgjidhjes së ekuacioneve lineare përmes ushtrimeve praktike. Nxënësit do të aplikojnë teknikat e mësuara në situata të ndryshme dhe do të fitojnë siguri në zgjidhjen e problemave të jetës reale.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\nMësuesi fillon me një lojë \"Gjej numrin e fshehtë\": \"Mendova një numër, ia shtova 15 dhe më doli 43. Cili është numri që mendova?\" Nxënësit përgjigjen me mendim logjik, pastaj mësuesi tregon se kjo është një ekuacion: x + 15 = 43. Pyetje orientuese: \"Sa kushton një biletë kinematografie nëse 4 bileta plus 200 lekë parkim na kushtuan gjithsej 1400 lekë?\" Lidhja me orën e kaluar: \"Javën e kaluar mësuam si të zgjidhim ekuacionet, sot do t'i përdorimi në situata të ndryshme praktike.\"\n\n**REALIZIMI I KUPTIMIT/ZHVILLIMI** (25-28 minuta)\nMësuesi prezanton metodikën e zgjidhjes përmes tre shembujve të detajuar:\n\n**Shembulli 1:** Një librari në Shkodër shet 25 libra dhe mban 8000 lekë për mallra të tjera. Nëse dita përfundoi me 15500 lekë të ardhura, sa kushton çdo libër?\nZgjidhje: 25x + 8000 = 15500\n25x = 15500 - 8000\n25x = 7500\nx = 7500 ÷ 25 = 300 lekë/libër\nVerifikimi: 25×300 + 8000 = 7500 + 8000 = 15500 ✓\n\n**Shembulli 2:** Një autobus nga Tirana për Vlorë udhëton me shpejtësi konstante. Pas 2 orësh udhëtimi ka përshkuar 45 km më shumë se gjysmën e rrugës totale. Nëse rruga totale është 147 km, sa km ka përshkuar në 2 orë?\nZgjidhje: x = 147/2 + 45\nx = 73.5 + 45 = 118.5 km\nVerifikimi: 118.5 - 45 = 73.5 = 147/2 ✓\n\n**Shembulli 3:** Në një market në Durrës, çmimi i një produkti pasi u shtua TVSH 20% është 840 lekë. Cili ishte çmimi fillestar?\nZgjidhje: x + 0.20x = 840\n1.20x = 840\nx = 840 ÷ 1.20 = 700 lekë\nVerifikimi: 700 + 700×0.20 = 700 + 140 = 840 ✓\n\nPunë në grupe (15 minuta): Çdo grup prej 4 nxënësish merr 3 probleme të ngjashme dhe duhet t'i zgjidhë duke ndjekur të njëjtit format. Grupet prezantojnë zgjidhjet në tabelë dhe shpjegojnë hapat.\n\n**PRAKTIKA/USHTRIME** (8-10 minuta)\na) **Niveli bazë** (2-3 ushtrime):\n   - Zgjidh: 3x + 7 = 22\n   - Zgjidh: 5x - 12 = 18\n   - Zgjidh: 2x + 9 = 25\n\nb) **Niveli mesatar** (2 ushtrime):\n   - Një taksi në Tiranë ngarkon 150 lekë fillim plus 80 lekë për km. Nëse fatura ishte 790 lekë, sa km u përshkuan?\n   - Mosha e Anës sot është 3 vite më e madhe se dyfishi i moshës që kishte 5 vite më parë. Sa vjeçe është Ana?\n\nc) **Niveli i avancuar** (1 problemë sfiduese):\n   - Një fermër në Fier ka dy parcela. Parcela e dytë ka 150 m² më pak se sa dyfishi i parcelës së parë. Nëse sipërfaqja totale është 2850 m², gjeni sipërfaqen e çdo parcele.\n\n**MBYLLJA/REFLEKTIMI** (3-5 minuta)\nTrë pika përmbledhëse: 1) Ekuacionet na ndihmojnë të gjejmë të panjohurat në jetën reale, 2) Gjithmonë verifikojmë zgjidhjen duke zëvendësuar, 3) Problemat praktike transformohen në gjuhë matematikore. Quiz verbal: \"Cilët janë tre hapat kryesorë për zgjidhjen e një ekuacioni?\" Parashikim: \"Orën e ardhshme do të mësojmë sisteme ekuacionesh me dy të panjohura.\"",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**DETYRË BAZË:** Zgjidhni ekuacionet: 1) 4x + 5 = 21, 2) 7x - 8 = 27, 3) 3x + 12 = 39, 4) 6x - 15 = 21. Për çdo ekuacion shkruani hapat e zgjidhjes dhe verifikoni rezultatin.\n\n**DETYRË KRIJUESE:** Krijoni një problem të ri bazuar në një situatë nga jeta juaj (shpenzime familjare, kohë studimi, etj.) që zgjidhet me ekuacion. Shkruani problemën, ekuacionin përkatës, zgjidhjen e plotë dhe interpretimin e rezultatit. Përgaditni një prezantim 2-minutësh për të ndarë problemin tuaj me klasën.\n\n**DETYRË SHTESË (fakultative):** Hulumtoni historinë e ekuacioneve dhe matematikanët që kanë dhënë kontribut në këtë fushë. Shkruani një ese 200 fjalëshe rreth Al-Khwarizmi dhe kontributit të tij në algjebër. Zgjidhni edhe problemën sfidë: 'Një numër i shtuar me 25% të tij jep 75. Gjeni numrin.'",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Algjebra",
+      "page_or_row": "69"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

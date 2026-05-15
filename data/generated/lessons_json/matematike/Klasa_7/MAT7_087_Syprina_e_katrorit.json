@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_087",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 87,
+  "tema": "Syprina e katrorit",
+  "tematika": "Matja",
+  "month": "Shkurt",
+  "trimester": 2,
+  "duration_minutes": 45,
+  "situata": "Klasa 7A e shkollës 'Fan Noli' në Tiranë planifikon të dizajnojë një kopsht shkollor në formë katrori në oborrin e shkollës. Nxënësit duhet të llogarisin syprinën e këtij kopshti për të përcaktuar sa fara lulesh duhet të blejnë dhe sa do të kushtojë projektimi. Kopshti ka një hapësirë katrore prej 12 metra në secilën anë, dhe çdo metër katror kërkon 50 gram fara që kushtojnë 150 lekë. Nxënësit do të përdorin këto të dhëna reale për të mësuar llogaritjen e syprinës së katrorit dhe aplikimin e saj në jetë.",
+  "rezultatet": [
+    "Nxënësi/ja përkufizon saktësisht katrorin si figurë gjeometrike me të gjitha anët e barabarta",
+    "Nxënësi/ja llogarit syprinën e katrorit duke përdorur formulën S = a²",
+    "Nxënësi/ja identifikon njësinë e matjes për syprinë (m², cm², mm²)",
+    "Nxënësi/ja zgjidh problema praktike që kërkojnë llogaritjen e syprinës së katrorit",
+    "Nxënësi/ja demonstron lidhjen midis anës dhe syprinës duke përdorur figura të ndryshme katrorësh",
+    "Nxënësi/ja argumenton pse formula S = a² funksionon për çdo katror"
+  ],
+  "fjalet_kyce": [
+    "katror (square)",
+    "syprina (area)",
+    "formulë (formula) S = a²",
+    "ana e katrorit (side)",
+    "metër katror (m²)",
+    "eksponent ²",
+    "njësia e matjes",
+    "perimetri vs syprina"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 4: Matja, faqe 78-84",
+    "Vizore 30 cm, busull, laps, gome",
+    "Fletë milimetrike dhe kartona për vizatim",
+    "Metër shirit për matje konkrete në klasë",
+    "Fletë pune e përgatitur me 12 probleme syprinash",
+    "Kalkulatrice për llogaritjet e mëdha"
+  ],
+  "lidhja": "Lidhje të forta me Artet vizuale (dizajnimi i kopshtit, raportet gjeometrike në arkitekturë), Gjeografinë (matja e sipërfaqeve të tokës, hartat), Shkencave të Natyrës (llogaritja e sipërfaqeve të bimëve, dendësia), dhe jetën praktike shqiptare (blerja e pllakave për shtëpi, llogaritja e kostos së materialeve ndërtimi, planifikimi i kopshteve familjare).",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nOra ka për qëllim që nxënësit të kuptojnë konceptin e syprinës së katrorit, të mësojnë formulën S = a² dhe ta aplikojnë atë në situata konkrete jetësore duke lidhur matematikën me projektet praktike.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\nMësuesi nis me një aktivitet praktik duke treguar copëza kartoni në forma të ndryshme: drejtkëndësh, trekëndësh dhe katror. Pyet: 'Cilën formë do ta zgjidhnim për kopshtin tonë dhe pse?' Nxënësit diskutojnë avantazhet e katrorit. Pastaj mësuesi shfaq dy katrore të ndryshëm: një me anë 3 cm dhe një me anë 5 cm të vizatuar në tabelë. Pyet: 'Sa katrore të vegjël 1×1 cm zënë vendin e katrorit të madh?' Kjo pyetje orientuese i çon drejt konceptit të syprinës. Bën lidhjen me orën e kaluar për perimetrin: 'Dje mësuam sa është perimetri i këtyre katrorëve, sot do të mësojmë sa hapësirë zënë ata.'\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\nMësuesi shpjegon konceptin e syprinës si 'sa hapësirë zë një figurë' dhe prezanton formulën S = a² duke e shkruar qartë në tabelë.\n\nShembull 1: Katror me anë 4 m\nS = a² = 4² = 4 × 4 = 16 m²\nShpjegon: 'Në këtë katror zënë vendin 16 katrore prej 1×1 metër'\n\nShembull 2: Kopshti i shkollës me anë 12 m\nS = a² = 12² = 12 × 12 = 144 m²\nLlogarit kostot: 144 m² × 50 gram = 7200 gram fara\nKosto: 144 m² × 150 lekë = 21,600 lekë\n\nShembull 3: Dhoma katrore me anë 3.5 m\nS = a² = 3.5² = 3.5 × 3.5 = 12.25 m²\nShpjegon si të punojmë me numrat dhjetorë\n\nPastaj organizon punën në grupe prej 4 nxënësish. Çdo grup merr një detyrë: të matë objektet katrore në klasë (pllakat e dyshemesë, librat, fletoret) dhe të llogaritë syprinat. Çdo grup prezanton gjetjet dhe shkruan rezultatet në tabelë. Mësuesi demonstron në tabelë si të vizatojmë katrorin me busull dhe vizore, duke treguar që të gjitha anët janë të barabarta.\n\n**PRAKTIKA/USHTRIME** (8-10 minuta)\na) Niveli bazë:\n- Llogaritni syprinën e katrorit me anë 6 m\n- Katror me anë 8 cm, gjeni syprinën\n- Ana është 5 m, sa është syprina?\n\nb) Niveli mesatar:\n- Syprina e katrorit është 49 m². Sa është ana?\n- Krahasoni syprinat e dy katrorëve: njëri me anë 7 m, tjetri me anë 9 m\n\nc) Niveli i avancuar:\n- Një katror ka syprinë 2.25 m². Nëse duam ta dyfishojmë syprinën, me sa duhet të rritet ana?\n\n**MBYLLJA/REFLEKTIMI** (3-5 minuta)\nPërmbledhja e tre pikave kryesore: 1) Katrori ka të gjitha anët e barabarta, 2) Formula e syprinës është S = a², 3) Syprina matet në njësi katrore. Quiz verbal: 'Çfarë do të ndodhë me syprinën nëse dyfishojmë anën e katrorit?' Parashikon orën e ardhshme: 'Nesër do të mësojmë syprinën e drejtkëndëshit dhe do ta krahasojmë me katrorin.'",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "TRE nivele detyrash:\n\n1. BAZË (për të gjithë):\n- Zgjidhni ushtrimet 1-6, faqe 82: Llogaritni syprinat e katrorëve me ana 2m, 7m, 10m, 15m, 20m, 25m\n- Përdorni formulën S = a² dhe tregoni llogaritjet hap pas hapi\n- Mos harroni njësitë e matjes (m²)\n\n2. KRIJUESE (projekt):\nDizajnoni planin e një kopshti familjar në formë katrori. Zgjidhni madhësinë e anës (midis 5-15 metra), llogaritni syprinën, dhe hulumtoni çmimin e farërave të ndryshme në tregun e Tiranës. Paraqitni një plan të plotë me koston totale dhe vizatimin në shkallë.\n\n3. SHTESË (fakultative për nxënës të avancuar):\nHulumtoni lidhjen midis perimetrit dhe syprinës së katrorit. Krijoni një tabelë që tregon si ndryshon syprina kur ana rritet me 1, 2, 3 njësi. Gjeni një rregull matematikor për këtë ndryshim dhe shpjegoni pse ndodh kështu.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Matja",
+      "page_or_row": "87"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

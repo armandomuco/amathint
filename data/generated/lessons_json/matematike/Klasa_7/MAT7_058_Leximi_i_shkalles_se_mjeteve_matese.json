@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_058",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 58,
+  "tema": "Leximi i shkallës së mjeteve matëse",
+  "tematika": "Matja",
+  "month": "Dhjetor",
+  "trimester": 1,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës së 7-të të shkollës 'Naim Frashëri' në Tiranë organizojnë një ekspedition shkencore në parkun e Dajdit për të matur lartësinë e pemëve, temperaturat dhe largësitë. Ata duhet të përdorin instrumente matëse të ndryshme si termometra, vizore, metër pëlhure dhe të lexojnë saktësisht shkallët për të regjistruar rezultatet në ditarin e ekspedicionit.",
+  "rezultatet": [
+    "Nxënësi/ja lexon saktësisht shkallën e instrumenteve matëse (vizore, termometra, peshë, cilindra matës)",
+    "Nxënësi/ja përcakton njësinë e matjes dhe saktësinë e instrumentit nga shkalla e tij",
+    "Nxënësi/ja llogarit vlerën e një ndarjeje të shkallës për instrumente të ndryshëm",
+    "Nxënësi/ja demonstron teknikën korrekte të leximit të shkallës me sy në nivelin e lëngjeve",
+    "Nxënësi/ja argumenton shkakun e gabimeve në matje nga leximi i pasaktë i shkallës",
+    "Nxënësi/ja zgjidh probleme praktike të matjes duke përdorur të dhëna nga shkallët e instrumenteve"
+  ],
+  "fjalet_kyce": [
+    "shkalla (scale)",
+    "ndarje shkalle (division)",
+    "saktësia e matjes (precision)",
+    "njësia e matjes (unit)",
+    "vlera e një ndarjeje",
+    "gabimi i leximit",
+    "niveli i syrit (eye level)",
+    "cilindër matës (measuring cylinder)"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 4 'Matja', faqe 78-85",
+    "Vizore me shkallë mm dhe cm, termometra, peshë kuzhinë, cilindra matës 250ml",
+    "Fletë pune e përgatitur me 15 instrumente për lexim shkalle",
+    "Kartela me fotografi instrumentesh matëse të ndryshëm",
+    "Kompjuter me prezantim PowerPoint për shembuj interaktivë",
+    "Materiale demonstruese: ujë i ngjyrosur, rërë, objekte të vogla për peshim"
+  ],
+  "lidhja": "Lidhje e fortë me shkencat natyrore (matja e temperaturës, vëllimit, peshës), Kimia (përdorimi i cilindrave matës), Gjeografi (leximi i hartave dhe shkallëve topografike të Alpeve Shqiptare), Arte (vizatimi në shkallë të objekteve të ndryshëm), dhe jeta e përditshme - matja e përbërësve në gatim, leximi i termometrit mjekësor, matja e lartësisë së fëmijëve në shkollë.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nKjo orë mësimore synon që nxënësit të zotërojnë teknikat e sakta të leximit të shkallës së instrumenteve matëse dhe të kuptojnë rëndësinë e saktësisë në matje për rezultate të besueshme shkencore.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\nOrën e nisim me aktivitetin motivues 'Cili është më i saktë?'. Në tavolinë vendosim 3 termometra të ndryshëm dhe pyesim: 'Sa gradë tregon secili termometer?'. Nxënësit japin përgjigje të ndryshme për të njëjtin termometer. Pyetje orientuese: 'Pse dhanë përgjigje të ndryshme? Cili është leximi i saktë?' Lidhim me orën e kaluar për njësitë e matjes duke përmendur se sot do të fokusohemi te mënyra se si lexojmë vlerat nga instrumentet.\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\nShpjegojmë konceptin e shkallës si vijë ndarëse që na ndihmon të matim me saktësi.\n\n**Shembull 1 - Leximi i vizores (10 cm):**\nTregojmë vizore ku maja e lapësit ndodhet midis 7.3 dhe 7.4 cm. Shpjegojmë hap pas hapi: 'Shikojmë numrin më të madh të plotë: 7. Llogaritim ndarja të vogla: nga 7 te 7.1 ka 1mm, nga 7.1 te 7.2 ka 1mm. Maja është në pozicionin e 3-të pas 7, pra 7.3 cm.'\n\n**Shembull 2 - Leximi i termometrit:**\nTermometër që tregon mes 23° dhe 24°C. Hapa: 'Identifikojmë shkallën: çdo ndarje = 0.5°C. Lëngu arrin në pozicionin e 2-të pas 23, që do të thotë 23 + 2×0.5 = 24°C.'\n\n**Shembull 3 - Leximi i cilindrit matës:**\nCilindër 100ml me ujë në nivel 67ml. Demonstrojmë: 'Syri duhet të jetë në të njëjtin nivel me sipërfaqen e lëngjit. Lexojmë nga poshtë e meniskusit: 67ml.'\n\nPunë në grupe (4 nxënës): Çdo grup merr 3 instrumente të ndryshëm dhe plotëson tabelë me: emri i instrumentit, njësia, vlera e një ndarjeje, leximi aktual.\n\n**PRAKTIKA** (8-10 minuta)\n**a) Niveli bazë:**\n- Lexoni shkallën e vizores ku maja tregon 4.7 cm\n- Lexoni termometrin që tregon 18.5°C\n- Sa ml ujë ka në cilindrin që tregon 45ml?\n\n**b) Niveli mesatar:**\n- Një peshë ka shkallë 0-2kg me ndarje 50g. Sa peshon objekti që tregon në pozicionin e 7-të pas 1.5kg?\n- Cilindër 250ml ka shkallë me ndarje 5ml. Lexoni nivelin kur lëngu është 3 ndarje mbi 140ml.\n\n**c) Niveli i avancuar:**\n- Krijoni problem praktik ku duhet të përdorni 3 instrumente matëse të ndryshëm për të matur përbërësit e një recete gatimi për 25 persona.\n\n**MBYLLJA** (3-5 minuta)\nPërmbledhje e tre pikave kryesore: 1) Shkalla përcakton saktësinë, 2) Syri duhet në nivel me matjen, 3) Duhet të llogarisim vlerën e çdo ndarjeje. Quiz verbal: 'Çfarë do të thotë kur themi shkalla e instrumentit?' Parashikimi: orën e ardhshme do të mësojmë matjet indirekte dhe llogaritjen e gabimeve.",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**BAZË:** Zgjidhni ushtrimet 1-6 nga libri, faqe 83, ku duhet të lexoni shkallët e 6 instrumenteve të ndryshëm të paraqitur në figura. Për secilin instrument shkruani: njësinë, vlerën e një ndarjeje dhe leximin final.\n\n**KRIJUESE:** Krijoni një poster 'Instrumentet matëse në shtëpinë tonë' ku fotografoni ose vizatoni të paktën 5 instrumente që gjenden në shtëpi (termometer, peshë kuzhine, gotë matëse, vizore, etj) dhe shpjegoni shkallën e secilit me shembuj konkretë.\n\n**SHTESË (fakultative):** Hulumtoni historinë e zhvillimit të instrumenteve matëse dhe shkruani një ese 1 faqe rreth rëndësisë së matjeve të sakta në shkencë, duke përmendur të paktën 3 zbulime shkencore që u mundësuan nga matje të sakta.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Matja",
+      "page_or_row": "58"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

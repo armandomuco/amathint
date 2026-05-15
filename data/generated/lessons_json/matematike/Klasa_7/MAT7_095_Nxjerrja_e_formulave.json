@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_095",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 95,
+  "tema": "Nxjerrja e formulave",
+  "tematika": "Algjebra",
+  "month": "Mars",
+  "trimester": 2,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës së 7-të në shkollën 'Fan Noli' në Tiranë planifikojnë një udhëtim me autobus në Shkodër për të vizituar Kalaja e Rozafës. Ata duhet të llogaritin koston totale të udhëtimit duke ditur se çdo biletë kushton 800 lekë dhe ka edhe një taksë shtesë prej 50 lekë për person. Për të gjetur formulën që i ndihmon të llogaritin shpejt koston për çdo numër nxënësish, ata duhet të mësojnë teknikat e nxjerrjes së formulave nga shprehje algjebrike të dhëna.",
+  "rezultatet": [
+    "Nxënësi/ja identifikon variablat dhe konstantet në një shprehje algjebrike të dhënë",
+    "Nxënësi/ja nxjerr saktësisht formulën për një variabël të caktuar nga një barazim me dy a tre variabla",
+    "Nxënësi/ja llogarit vlerën numerike të një variabli duke zëvendësuar vlerat e tjera në formulën e nxjerrë",
+    "Nxënësi/ja demonstron hapat e nxjerrjes së formulave duke përdorur veprimet e anasjellta",
+    "Nxënësi/ja zgjidh probleme praktike duke nxjerrë formula nga situata të dhëna",
+    "Nxënësi/ja argumenton saktësinë e formulës së nxjerrë duke kontrolluar me zëvendësim"
+  ],
+  "fjalet_kyce": [
+    "formulë (formula)",
+    "nxjerrja e formulës",
+    "variabël i pavarur/varur",
+    "konstante",
+    "veprime të anasjellta (inverse operations)",
+    "zëvendësim (substitution)",
+    "barazim algjebrik",
+    "izolimi i variablit"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 4 'Shprehjet algjebrike', faqe 78-85",
+    "Fletë pune e përgatitur me 12 shembuj formulash për nxjerrje",
+    "Kartela me probleme praktike nga jeta e përditshme",
+    "Tabelë e bardhë, marker me ngjyra të ndryshme, vizore",
+    "Kalkulatore për kontrollin e rezultateve",
+    "Poster me hapat e nxjerrjes së formulave"
+  ],
+  "lidhja": "Lidhje me shkencat natyrore në formulat e shpejtësisë (v=s/t), dendësisë (d=m/V) dhe fuqisë (P=W/t). Lidhje me Gjeografinë në llogaritjen e shkallës së hartave dhe distancave reale. Lidhje me Ekonominë familjare në llogaritjen e kostove, fitimit dhe humbjes në tregjet e Tiranës, Elbasanit dhe qyteteve të tjera shqiptare. Aplikime në planifikimin e udhëtimeve dhe buxhetit familjar.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\n\nNxënësit do të mësojnë të nxjerrin formula nga barazime algjebrike për të zgjidhur probleme praktike nga jeta e përditshme, duke zhvilluar aftësitë e të menduarit logjik dhe aplikimit të matematikës në situata reale.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\n\nNis me një lojë motivuese: 'Detektivi matematik'. Prezantoj problemën e udhëtimit në Shkodër: 'Nëse dihet se kostoja totale për 25 nxënës është 21,250 lekë, sa kushton bileta për një person?' Pyes: 'Si mund ta gjejmë koston për person pa e ditur formulën paraprakisht?' Nxënësit mendojnë dhe diskutojnë në dyshe. Pastaj prezantoj barazimin: K = n × (800 + 50), ku K është kostoja totale, n numri i nxënësve. Pyes: 'Si mund ta gjejmë formulën për koston e një personi?' Lidh me orën e kaluar për zgjiedhjen e barazimeve të thjeshta.\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\n\nShpjegoj konceptin e nxjerrjes së formulave si proces të 'shpakimit' të një variabli nga barazimi. Demonstroj tre shembuj të plotë:\n\n**Shembull 1:** Nga formula e syprinës së drejtkëndëshit S = a × b, nxjerr formulën për gjerësinë.\nHapi 1: S = a × b\nHapi 2: Ndajmë të dy anët me 'a': S/a = b\nHapi 3: Formula e nxjerrë: b = S/a\nKontroll: Nëse S = 24 cm² dhe a = 6 cm, atëherë b = 24/6 = 4 cm. Verifikim: 6 × 4 = 24 ✓\n\n**Shembull 2:** Nga formula e perimetrit të drejtkëndëshit P = 2(a + b), nxjerr formulën për 'a'.\nHapi 1: P = 2(a + b)\nHapi 2: Ndajmë me 2: P/2 = a + b\nHapi 3: Zbresim 'b': P/2 - b = a\nHapi 4: Formula e nxjerrë: a = P/2 - b\nKontroll: Nëse P = 20 cm dhe b = 3 cm, atëherë a = 20/2 - 3 = 10 - 3 = 7 cm. Verifikim: 2(7 + 3) = 20 ✓\n\n**Shembull 3:** Nga formula e temperaturës F = (9/5)C + 32, nxjerr formulën për Celsius.\nHapi 1: F = (9/5)C + 32\nHapi 2: Zbresim 32: F - 32 = (9/5)C\nHapi 3: Shumëzojmë me 5/9: (5/9)(F - 32) = C\nHapi 4: Formula e nxjerrë: C = (5/9)(F - 32)\nKontroll: Nëse F = 68°F, atëherë C = (5/9)(68 - 32) = (5/9) × 36 = 20°C. Verifikim: (9/5) × 20 + 32 = 68 ✓\n\nOrganizoj punë në grupe prej 4 nxënësish. Çdo grup merr një kartë me një formulë të ndryshme (sipërfaqja e trekëndëshit, vëllimi i kutisë, kostoja e telefonit) dhe duhet të nxjerrë formulën për një variabël të caktuar. Grupet prezantojnë zgjidhjet në tabelë duke shpjeguar çdo hap.\n\n**PRAKTIKA** (8-10 minuta)\n\n**Niveli bazë:**\n1. Nga A = l × w, nxirr formulën për w\n2. Nga C = 2πr, nxirr formulën për r\n3. Nga y = 3x + 5, nxirr formulën për x\n\n**Niveli mesatar:**\n1. Nga V = (1/3)πr²h, nxirr formulën për h\n2. Nga S = n(a₁ + aₙ)/2, nxirr formulën për aₙ\n\n**Niveli i avancuar:**\n1. Një autobus udhëton nga Tirana në Vlorë me shpejtësi 80 km/h dhe kthehet me 60 km/h. Nëse koha totale është 7 orë, gjej distancën duke nxjerrë formulën përkatëse.\n\n**MBYLLJA/REFLEKTIMI** (3-5 minuta)\n\nPërmbledh tre pikat kryesore: 1) Nxjerrja e formulave përdor veprime të anasjellta, 2) Duhet të izolojmë variablin që kërkojmë, 3) Gjithmonë kontrollojmë rezultatin. Quiz verbal: 'Çfarë veprimesh përdorim për të nxjerrë x nga barazimi 3x + 7 = 22?' Parashikoj orën e ardhshme: 'Do të mësojmë të nxjerrim formula më komplekse me thyesa dhe eksponente.'",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**DETYRË BAZË:**\nZgjidhni ushtrimet 1-6 nga libri, faqe 82: Nxirrni formulat për variablat e kërkuar nga bararimet e dhëna (P = 4s për s; A = πr² për r; C = (F-32)×5/9 për F; etj). Kontrolloni rezultatet me zëvendësim.\n\n**DETYRË KRIJUESE:**\nKrijoni një problem të shkurtër nga jeta juaj e përditshme ku duhet të nxirrni një formulë. Shembull: llogaritja e parave që kurseni çdo muaj, kostoja e librave shkollore, ose koha e nevojshme për të mbaruar detyrat. Shkruani problemin, barazimin fillestar dhe nxirrni formulën hap pas hapi.\n\n**DETYRË SHTESË (fakultative):**\nHulumtoni formulat që përdoren në arkitekturë për llogaritjen e materialeve ndërtimore (betoni, tullat, pllakat). Gjeni të paktën 3 formula të ndryshme dhe tregoni se si mund të nxirren variablat e ndryshëm nga secila formulë. Përgatituri për prezantim në klasë.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Algjebra",
+      "page_or_row": "95"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

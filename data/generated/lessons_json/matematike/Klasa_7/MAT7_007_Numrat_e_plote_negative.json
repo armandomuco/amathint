@@ -1,0 +1,63 @@
+{
+  "id": "MAT7_007",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "III",
+  "lesson_number": 7,
+  "tema": "Numrat e plotë negativë",
+  "tematika": "Numri",
+  "month": "Shtator",
+  "trimester": 1,
+  "duration_minutes": 45,
+  "situata": "Nxënësit analizojnë temperaturën e ditëve të dimrit në Shqipëri, ku temperaturat shkojnë nën zero. Ata zbulojnë nevojën për numra që përfaqësojnë vlera nën zero.",
+  "rezultatet": [
+    "Nxënësi/ja kupton konceptin e numrave të plotë negativë si zgjerim i numrave natyrorë",
+    "Nxënësi/ja vendos numrat e plotë në boshtin numerik",
+    "Nxënësi/ja krahason numra të plotë duke përdorur < dhe >",
+    "Nxënësi/ja interpreton numrat negativë në kontekste reale"
+  ],
+  "fjalet_kyce": [
+    "Numër i plotë",
+    "Numër negativ",
+    "Numër pozitiv",
+    "Zero",
+    "Boshti numerik",
+    "Vlerë absolute"
+  ],
+  "burimet": [
+    "Libri i matematikës klasa 7, fq. 39-44",
+    "Termometër demonstrimi",
+    "Bosht numerik i madh",
+    "Kartela me numra negativë dhe pozitivë",
+    "Harta e temperaturave"
+  ],
+  "lidhja": "Lidhje me Gjeografinë: temperaturat, lartësitë nën nivelin e detit. Lidhje me Ekonominë: borxhi, humbja. Lidhje me Shkencën: temperaturat në fizikë dhe kimi.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "QËLLIMI: Nxënësit do të zgjerojnë kuptimin e numrave duke përfshirë numrat negativë dhe do të mësojnë t'i përdorin në kontekste reale.\n\nHYRJA (7 min):\n• Situatë: Temperatura sot në Korçë është -5°C. Çfarë do të thotë kjo?\n• Diskutim: Ku tjetër hasim numra negativë?\n  - Borxhi (-100 lekë = ke borxh 100 lekë)\n  - Lartësia (Deti i Vdekur: -430 m)\n  - Rezultati në lojë (humbje pikash)\n• Pyetje: Si i paraqesim këta numra?\n\nZHVILLIMI (25 min):\n• Bashkësia e numrave të plotë: ℤ = {..., -3, -2, -1, 0, 1, 2, 3, ...}\n• Boshti numerik:\n  ←──|──|──|──|──|──|──|──|──|──|──→\n    -5 -4 -3 -2 -1  0  1  2  3  4  5\n• Rregulla: Sa më djathtas, aq më i madh!\n  - 3 > -2 (3 është djathtas -2)\n  - -1 > -5 (-1 është djathtas -5)\n  - 0 > çdo numër negativ\n• VLERA ABSOLUTE: |n| = distanca nga zero\n  - |5| = 5, |-5| = 5\n  - |-3| = 3, |0| = 0\n• Aktivitet: Vendosni në bosht: -7, 4, -2, 0, 6, -4, 3\n• Krahasoni: -3 ○ -7, -2 ○ 5, |-4| ○ |3|\n\nPRAKTIKA (10 min):\n• Ushtrim 1: Renditni nga më i vogli: 5, -3, 0, -8, 2, -1\n  Përgjigje: -8 < -3 < -1 < 0 < 2 < 5\n• Ushtrim 2: Llogaritni: |-12|, |7|, |-1|, |0|\n• Ushtrim 3: Vendosni <, > ose =: -6 ○ -2, |-5| ○ |5|, -10 ○ 0\n• Problem: Temperatura në mëngjes ishte -4°C, në drekë u bë 3°C. Sa gradë u rrit?\n\nMBYLLJA (3 min):\n• Përmbledhje: ℤ përfshin pozitivët, negativët dhe zero\n• Rregulli i artë: Në boshtin numerik, djathtas = më i madh",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "1. Vizatoni boshtin numerik dhe vendosni: -9, -4, -1, 0, 2, 5, 8\n2. Krahasoni (vendosni < ose >): a) -15 ○ -7  b) -3 ○ 4  c) 0 ○ -100  d) |-8| ○ |6|\n3. Gjeni vlerën absolute: |-25|, |13|, |-1|, |0|, |-(-7)|\n4. Problem: Ashensori është në katin -2. Ngjitet 5 kate. Në cilin kat ndodhet tani?\n5. Hulumtim: Gjeni temperaturat rekord (minimale dhe maksimale) të regjistruara në Shqipëri.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Numri",
+      "page_or_row": "7"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

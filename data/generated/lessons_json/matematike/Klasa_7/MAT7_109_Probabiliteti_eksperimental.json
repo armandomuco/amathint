@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_109",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 109,
+  "tema": "Probabiliteti eksperimental",
+  "tematika": "Probabiliteti",
+  "month": "Prill",
+  "trimester": 3,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës së 7-të në shkollën 'Fan Noli' në Tiranë organizojnë një garë me zare për të festuar Ditën e Matematikës. Ata duhet të parashikojnë sa herë do të dalë numri 6 nëse hedhin zarin 60 herë, dhe më pas të krahasojnë rezultatet e tyre teorike me ato që marrin në praktikë duke hedhur fizikisht zarin.",
+  "rezultatet": [
+    "Nxënësi/ja përkufizon probabilitetin eksperimental si raport midis numrit të ngjarjeve të favorshme dhe numrit total të provave",
+    "Nxënësi/ja llogarit probabilitetin eksperimental duke përdorur formulën P(A) = numri i ngjarjeve të favorshme / numri total i provave",
+    "Nxënësi/ja demonstron eksperimente të thjeshta probabiliteti me zare, monedha dhe carta",
+    "Nxënësi/ja krahason probabilitetin teorik me atë eksperimental dhe shpjegon ndryshimet",
+    "Nxënësi/ja identifikon se sa më shumë prova të bëhen, aq më afër probabilitetit teorik është ai eksperimental",
+    "Nxënësi/ja zgjidh probleme praktike duke përdorur probabilitetin eksperimental në situata të ndryshme"
+  ],
+  "fjalet_kyce": [
+    "probabilitet eksperimental (experimental probability)",
+    "numri i ngjarjeve të favorshme",
+    "numri total i provave",
+    "formula P(A) = nf/nt",
+    "probabilitet teorik",
+    "krahasim probabilitetesh",
+    "ligji i numrave të mëdhenj",
+    "eksperiment statistikor"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 8: Probabiliteti, faqe 156-162",
+    "Zare të ndryshme (10 cope për klasë), monedha (20 cope)",
+    "Kartela me ngjyra (të kuqe, të zeza, të verdha - 30 cope)",
+    "Fletë pune e përgatitur 'Tabela e Eksperimenteve' me 5 detyra",
+    "Kalkulatore për llogaritjet e përqindjes",
+    "Tabela e madhe për regjistrimin e rezultateve të grupeve"
+  ],
+  "lidhja": "Lidhje me teknologjine për përdorimin e kalkulatorëve dhe krijimin e tabelave. Lidhje me Gjeografinë për probabilitetin e motit në rajone të ndryshme të Shqipërisë (reshje në Shkodër vs Vlorë). Lidhje me Arsimin Qytetar për vendimmarrjen bazuar në të dhëna statistikore. Lidhje me sportin për probabilitetin e fitores në lojërat e ekipit kombëtar.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\n\nNxënësit do të kuptojnë se çfarë është probabiliteti eksperimental dhe do të mësojnë ta llogaritjen duke kryer eksperimente praktike. Ata do të shohin ndryshimin midis atij që presim teorikisht dhe atij që ndodh në realitet.\n\n**EVOKIMI/HYRJA (8-10 minuta)**\n\nMësuesi hyn në klasë duke mbajtur një zar dhe pyet: 'Nëse hedh këtë zar 6 herë, sa herë mendoni se do të dalë numri 4?' Regjistron përgjigjet e nxënësve në tabelë. Më pas hedh zarin 6 herë dhe numëron rezultatet. Pyet: 'Pse nuk doli saktësisht 1 herë numri 4 siç prisnim?' Kjo çon në diskutimin se çfarë ndodh kur bëjmë eksperimente të vërteta. Lidh me orën e kaluar ku mësuan probabilitetin teorik: 'Javën e kaluar mësuam se probabiliteti teorik i daljes së numrit 4 është 1/6, por sot do të shohim çfarë ndodh në praktikë.'\n\n**REALIZIMI I KUPTIMIT (25-28 minuta)**\n\nMësuesi shpjegon: 'Probabiliteti eksperimental është ai që marrim duke bërë eksperimente të vërteta.' Shkruan formulën në tabelë: P(A) = numri i ngjarjeve të favorshme / numri total i provave\n\n**Shembull 1:** Ana hedh një zar 20 herë dhe numri 3 del 4 herë. Probabiliteti eksperimental i daljes së numrit 3 është: P(3) = 4/20 = 1/5 = 0.2 ose 20%. Ky është pak më i lartë se probabiliteti teorik që është 1/6 ≈ 0.167 ose 16.7%.\n\n**Shembull 2:** Beni hedh një monedhë 50 herë. 'Kreu' del 23 herë. Probabiliteti eksperimental i 'kreut' është: P(kreu) = 23/50 = 0.46 ose 46%. Probabiliteti teorik është 1/2 = 0.5 ose 50%.\n\n**Shembull 3:** Drita tërheq 100 kartela nga një kuti që ka 25 të kuqe dhe 75 të zeza. Tërheq 28 të kuqe. Probabiliteti eksperimental i kartelës së kuqe është: P(e kuqe) = 28/100 = 0.28 ose 28%. Probabiliteti teorik është 25/100 = 0.25 ose 25%.\n\nPas shembujve, ndanë klasën në 6 grupe. Çdo grup merr: 2 zare, 10 monedha, 20 kartela (10 të kuqe, 10 të zeza). Grup A dhe B eksperimentojnë me zare (hedhin 30 herë dhe numërojnë sa herë del çdo numër). Grup C dhe D eksperimentojnë me monedha (hedhin 40 herë). Grup E dhe F eksperimentojnë me kartela (tërheqin 50 herë me kthim). Çdo grup plotëson tabelën e tij dhe llogarit probabilitetin eksperimental.\n\n**PRAKTIKA (8-10 minuta)**\n\na) **Niveli bazë:** 1) Nëse një zar hidhet 24 herë dhe numri 5 del 3 herë, gjeni probabilitetin eksperimental. 2) Një monedhë hidhet 80 herë, 'pishqira' del 38 herë. Sa është probabiliteti eksperimental i 'pishqirës'? 3) Nga një qese me 200 kuletka, 45 janë të verdha. Sa është probabiliteti eksperimental i kuletës së verdhë?\n\nb) **Niveli mesatar:** 1) Krahasoni: Probabiliteti teorik i daljes së numrit 2 në zar është 1/6. Nëse në një eksperiment me 60 hedhje del 8 herë, sa është ndryshimi midis probabilitetit teorik dhe eksperimental? 2) Një sportist hedh basketboll 25 herë dhe qëllon 18 herë. Nëse hedh 100 herë me të njëjtën përformancë, sa gola pret të bëjë?\n\nc) **Niveli i avancuar:** Në një eksperiment, një zar hidhet 120 herë. Numrat 1,2,3,4,5,6 dalin përkatësisht 18, 22, 19, 21, 20, 20 herë. Analizoni nëse ky zar është i drejtë (fair) duke krahasuar probabilitetet eksperimentale me ato teorike.\n\n**MBYLLJA (3-5 minuta)**\n\nPërmbledhje: 1) Probabiliteti eksperimental gjendet duke ndarë numrin e ngjarjeve të favorshme me numrin total të provave. 2) Probabiliteti eksperimental mund të ndryshojë nga ai teorik, por sa më shumë prova të bëjmë, aq më afër bëhet. 3) Formula bazë: P(A) = nf/nt. Quiz verbal: 'Nëse hedh një monedhë 60 herë dhe kreu del 32 herë, sa është probabiliteti eksperimental?' Parashikim: 'Orën e ardhshme do të mësojmë probabilitetin e ngjarjeve të përbëra.'",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**BAZË:** Zgjidhni këto ushtrime:\n1. Një zar hidhet 36 herë, numri 6 del 7 herë. Gjeni probabilitetin eksperimental të numrit 6.\n2. Nga një kuti me 150 bonbone, 42 janë çokollatë. Sa është probabiliteti eksperimental i bonbonës çokollatë?\n3. Një monedhë hidhet 200 herë, kreu del 89 herë. Llogaritni probabilitetin eksperimental të kreut.\n4. Krahasoni përgjigjen e ushtrimit 3 me probabilitetin teorik (1/2).\n\n**KRIJUESE:** Krijoni një eksperiment në shtëpi duke përdorur objekte që keni (pullat, letra, kanaçe). Regjistroni 50 prova dhe llogaritni probabilitetin eksperimental. Shkruani një raport 1-faqesh duke krahasuar me probabilitetin teorik.\n\n**SHTESË (fakultative):** Hulumtoni 'Ligjin e Numrave të Mëdhenj' dhe shpjegoni pse probabiliteti eksperimental afrohet me atë teorik kur rritet numri i provave. Jepni një shembull me të paktën 3 eksperimente me numra të ndryshëm provash (10, 100, 1000).",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Probabiliteti",
+      "page_or_row": "109"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

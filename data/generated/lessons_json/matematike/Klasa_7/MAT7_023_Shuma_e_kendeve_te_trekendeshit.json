@@ -1,0 +1,64 @@
+{
+  "id": "MAT7_023",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 23,
+  "tema": "Shuma e këndeve të trekëndëshit",
+  "tematika": "Gjeometria",
+  "month": "Tetor",
+  "trimester": 1,
+  "duration_minutes": 45,
+  "situata": "Nxënësit janë të ftuar në një ekspozitë arkitekture ku duhet të analizojnë forma të ndryshme trekëndore të përdorura në ndërtesa shqiptare. Ata vërejnë që të gjithë trekëndëshat kanë diçka të përbashkët - pavarësisht nga forma, shuma e këndeve të brendshme duket e njëjtë.",
+  "rezultatet": [
+    "Nxënësi/ja demonstron që shuma e këndeve të brendshme të çdo trekëndëshi është 180°",
+    "Nxënësi/ja llogarit masën e një këndi të panjohur në trekëndësh kur i jepen dy këndet e tjera",
+    "Nxënësi/ja identifikon dhe klasifikon trekëndëshat bazuar në masat e këndeve të tyre",
+    "Nxënësi/ja zgjidh probleme praktike që përfshijnë shumën e këndeve në trekëndësh",
+    "Nxënësi/ja argumenton dhe arsyeton zgjidhjet e tij/saj duke përdorur vetinë e shumës së këndeve"
+  ],
+  "fjalet_kyce": [
+    "trekëndësh",
+    "kënd i brendshëm",
+    "shuma e këndeve",
+    "kënddrejtë",
+    "këndmprehtë",
+    "këndgjerë"
+  ],
+  "burimet": [
+    "Libri i nxënësit 'Matematika 7' - kapitulli Gjeometria",
+    "Busull dhe vizore për matjen e këndeve",
+    "Fletë pune me figura trekëndore për prerje dhe manipulim",
+    "Tabela demonstrative me lloje të ndryshme trekëndëshash",
+    "Kalkulatore për llogaritje të shpejta"
+  ],
+  "lidhja": "Tema lidhet me Artet Vizuale në studimin e formave gjeometrike në pikturë dhe skulpturë, me Gjeografinë në leximin e hartave dhe orientimin, me shkencat natyrore në analizën e forcave dhe me arkitekturën shqiptare tradicionale ku trekëndëshat përdoren në çatitë e shtëpive.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "QËLLIMI: Nxënësit do të zbulojnë dhe demonstrojnë që shuma e këndeve të brendshme të çdo trekëndëshi është gjithmonë 180°. Ata do të mësojnë të llogaritsin kënde të panjohur dhe të zgjidhin probleme praktike.\n\nHYRJA (7 minuta): Filloj me një aktivitet motivues duke shfaqur fotografi nga ndërtesa të ndryshme shqiptare (xhamia e Et'hem Beut, ura e Mesit) dhe pyes: 'Çfarë formash trekëndore shihni?' Ndaj klasën në grupe dhe jap secilës grup nga një trekëndësh të prerë nga kartoni (një kënddrejtë, një këndmprehtë, një këndgjerë). I kërkoj që të shkëputin këndet dhe t'i vendosin njërin pas tjetrit. Çfarë vërejnë?\n\nZHVILLIMI (28 minuta): Demonstroj teoremën duke përdorur një trekëndësh ABC në tabelë. Tregoj se këndi A + këndi B + këndi C = 180°. Jap shembuj numerikë: 1) Nëse këndi A = 60° dhe këndi B = 45°, sa është këndi C? (180° - 60° - 45° = 75°). 2) Në një trekëndësh kënddrejtë ku një kënd është 90° dhe tjetri 35°, sa është i treti? (180° - 90° - 35° = 55°). Organizoj punën në grupe ku secila grup merr 3 trekëndësha të ndryshëm, mat këndet me busull dhe verifikon teoremën. Grupet raportojnë gjetjet: Grupi 1 - trekëndësh me kënde 30°, 60°, 90°; Grupi 2 - trekëndësh me kënde 45°, 45°, 90°; Grupi 3 - trekëndësh me kënde 40°, 70°, 70°. Të gjitha konfirmojnë shumën 180°.\n\nPRAKTIKA (8 minuta): Jap ushtrime individuale: 1) Gjeni këndin e tretë nëse këndet e tjera janë 42° dhe 73°. 2) Në një trekëndësh dybrinjënjëshëm këndi i bazës është 70°, sa janë këndet e tjera? 3) A mund të ketë një trekëndësh me kënde 60°, 80° dhe 50°? Pse? Nxënësit punojnë individualisht ndërsa unë kontrollon dhe ndihmoj.\n\nMBYLLJA (5 minuta): Përmbledh konceptet kryesore duke përdorur metodën 'Tre gjëra që mësova sot'. Vlerësoj përgjigjet dhe jap përforcim pozitiv. Parashikoj orën tjetër ku do të punojmë me lloje të veçanta trekëndëshash.",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "DETYRA PËR NË SHTËPI: 1) Matni këndet e 5 objekteve trekëndore në shtëpinë tuaj (p.sh. trekëndëshi në shkallët, në çatinë e shtëpisë) dhe verifikoni nëse shuma është 180°. 2) Zgjidhni këto probleme: a) Këndet e një trekëndëshi janë në raportin 2:3:4. Gjeni masën e secilit kënd. b) Në një trekëndësh këndi i parë është 25° më i madh se i dyti, dhe i treti është sa 2 herë i dyti. Sa është secili kënd? c) A është e mundur një trekëndësh me kënde 95°, 45° dhe 30°? Arsyetoni. 3) Vizatoni dhe etiketoni 3 trekëndësha: një këndmprehtë, një kënddrejtë dhe një këndgjerë, duke shkruar masat e këndeve për secilin.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Gjeometria",
+      "page_or_row": "23"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

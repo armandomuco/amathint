@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_112",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 112,
+  "tema": "Test përmbledhës - Tremujori II",
+  "tematika": "Vlerësimi i njohurive të tremujori të dytë",
+  "month": "Prill",
+  "trimester": 3,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës së 7-të në shkollën 'Naim Frashëri' në Tiranë do të testohen për të gjitha temat e mësuara gjatë tremujori të dytë. Testi përfshin probleme nga jeta reale si llogaritjen e çmimit të produkteve në tregjet e Tiranës, gjetjen e sipërfaqes së kopshteve në Parkun e Madh, dhe zgjidhjen e ekuacioneve për planifikimin e shpenzimeve të një familjeje shqiptare.",
+  "rezultatet": [
+    "Nxënësi/ja zgjidh ekuacione lineare me një të panjohur në probleme praktike",
+    "Nxënësi/ja llogarit sipërfaqen dhe perimetrin e figurave gjeometrike të përbëra",
+    "Nxënësi/ja konverton njësi matëse dhe aplikon në situata konkrete",
+    "Nxënësi/ja identifikon dhe zgjidhë probleme me përpjesëtime dhe shkallë",
+    "Nxënësi/ja demonstron njohuritë mbi thyesat dhe numrat dhjetor në llogaritje",
+    "Nxënësi/ja analizon dhe interpreton të dhëna nga grafikët dhe tabelat statistikore"
+  ],
+  "fjalet_kyce": [
+    "ekuacion linear",
+    "sipërfaqe (S = a × b)",
+    "perimetër (P = 2a + 2b)",
+    "shkallë 1:50000",
+    "përpjesëtim i drejtë/i zhdrejtë",
+    "thyesa të përbëra",
+    "konvertim njësish (m², cm², mm²)",
+    "mesatare aritmetike (x̄)"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitujt 4-7, faqe 65-120",
+    "Fletë testi me 15 pyetje (3 kopje për secilin nxënës)",
+    "Vizore, busull, laps dhe gomë për secilën nxënës",
+    "Kalkulatore të thjeshta për kontrollin e llogaritjeve",
+    "Orë muri për menaxhimin e kohës",
+    "Letër rezervë dhe fletë shënimesh për punën e përkohshme"
+  ],
+  "lidhja": "Testi lidhet ngushtë me Gjeografinë përmes problemeve me harta dhe shkallë, me shkencat natyrore në konvertimin e njësive matëse, me teknologjine në leximin e grafikëve dhe me jetën e përditshme në Shqipëri përmes problemeve me çmimet në treg, planifikimin e buxhetit familjar dhe llogaritjen e sipërfaqeve të tokave bujqësore.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nKjo orë testi synon të vlerësojë nivelin e përvetësimit të njohurive matematikore të nxënësve për tremujori e dytë, duke përfshirë ekuacionet lineare, gjeometrinë, thyesat, përpjesëtimet dhe statistikat bazë.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\nMësuesi hyn në klasë me një qasje qetësuese për të zvogëluar ankthin e testit. Fillon me një aktivitet relaksues: 'Le të kujtojmë së bashku çfarë kemi mësuar këto muaj. Kush mund të më thotë si llogaritet sipërfaqja e një drejtkëndëshi?' Nxënësit përgjigjën verbalisht. Më pas, mësuesi thotë: 'Imagjinoni se duhet të llogaritni sa metra katror lule mund të mbillni në kopshtin e shkollës që ka formë drejtkëndëshi me gjatësi 15 m dhe gjerësi 8 m. Si do ta zgjidhnim?' Nxënësit diskutojnë shkurtimisht. Mësuesi shpjegon rregullat e testit: 'Sot do të keni 40 minuta për të zgjidhur 15 pyetje të ndryshme. Mund të përdorni vizore dhe kalkulatore vetëm për kontrollin e fundit.'\n\n**REALIZIMI I KUPTIMIT/ZHVENDOSJA E TESTIT** (25-28 minuta)\nMësuesi shpërndan fletët e testit dhe lexon me zë të lartë instruksionet. Testi përmban tre seksione:\n\nSeksioni A - Pyetje bazë (5 pikë):\nShembull 1: 'Familja Kola blen 3 kg mollë me çmim 150 lekë/kg dhe 2 kg banane me çmim 200 lekë/kg. Sa lekë paguajnë gjithsej?' Zgjidhja: 3 × 150 + 2 × 200 = 450 + 400 = 850 lekë.\n\nShembull 2: 'Zgjidh ekuacionin: 2x + 5 = 13.' Zgjidhja: 2x = 13 - 5, 2x = 8, x = 4.\n\nShembull 3: 'Konverto 2.5 m² në cm².' Zgjidhja: 2.5 m² = 2.5 × 10,000 cm² = 25,000 cm².\n\nSeksioni B - Pyetje mesatare (7 pikë):\nPërfshin probleme si llogaritjen e sipërfaqes së një kopshti me formë L, zgjidhjen e problemeve me përpjesëtime të drejta, dhe interpretimin e një grafiku me temperaturat e muajve në Tiranë.\n\nSeksioni C - Pyetje të avancuara (3 pikë):\nProbleme komplekse që kombinojnë disa koncepte, si planifikimi i një udhe Tiranë-Shkodër me llogaritjen e shpenzimeve të karburantit, distancës në hartë me shkallë 1:200,000, dhe kohës së udhëtimit.\n\nNxënësit punojnë individualisht. Mësuesi ecën nëpër klasë, vëzhgon pa ndërhyrë, dhe përgjigjët vetëm për pyetje procedurale.\n\n**PRAKTIKA/KONTROLLI I PUNËS** (8-10 minuta)\nPas mbarimit të testit, mësuesi mbledh fletët dhe organizon një diskutim të shkurtër reflektues. Pyet: 'Cilat pyetje ju dukën më të vështira? Pse?' 'Çfarë strategjish përdorët për të zgjidhur problemet me shumë hapa?' Nxënësit ndajnë përvojën e tyre. Mësuesi jep këshilla për orët e ardhshme: 'Për ata që patën vështirësi me ekuacionet, do të rishikojmë së bashku të premten. Për thyesat, do të bëjmë ushtrime shtesë.'\n\n**MBYLLJA/REFLEKTIMI** (3-5 minuta)\nMësuesi përmblidh: 'Sot vlerësuam njohuritë tuaja mbi tre tema kryesore: algjebra me ekuacionet, gjeometria me sipërfaqet, dhe statistikat me grafikët.' Jep një vlerësim të shpejtë verbal: 'Ngritni dorën nëse mendoni se u përballët mirë me tesi.' 'Kush ka nevojë për mbështetje shtesë?' Informon se rezultatet do të diskutohen të martën dhe paralajmëron orën e ardhshme: 'Të hënën do të fillojmë temën e re: Gjeometria e rrethit - do të mësojmë të llogarisim perimetrin dhe sipërfaqen.'",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**BAZË:** Për nxënësit që patën vështirësi me testin, zgjidhni ushtrimet 1-6 nga faqja 125 (ekuacione të thjeshta) dhe 7-10 nga faqja 87 (sipërfaqe drejtkëndëshash). Përsëritni konvertimin e njësive: 3 m² = ? cm², 500 cm² = ? m², 2.5 km = ? m, 1500 g = ? kg.\n\n**KRIJUESE:** Krijoni një problem matematik të inspiruar nga jeta juaj e përditshme në Shqipëri. Shembull: 'Llogaritni sa lekë ju duhen për të blerë materialet e duhura për të rinovuar dhomën tuaj.' Përfshini të paktën 3 lloje llogaritjesh të ndryshme (sipërfaqe, shumëzim, pjesëtim) dhe paraqitni zgjidhjen hap pas hapi.\n\n**SHTESË (Fakultative):** Hulumtoni dhe zgjidhni problemin e mëposhtëm: 'Një fermer në Fier ka një tokë me formë trekëndëshi me brinjë 120m, 80m dhe 100m. Dëshiron ta ndajë në dy pjesë të barabarta me një rrugicë të drejtë. Si mund ta bëjë këtë?' Përdorni internetin për të gjetur formula të sipërfaqes së trekëndëshit dhe paraqitni të paktën dy mënyra zgjidhje.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Test",
+      "page_or_row": "112"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

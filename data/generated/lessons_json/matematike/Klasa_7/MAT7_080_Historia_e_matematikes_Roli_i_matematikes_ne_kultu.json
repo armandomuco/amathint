@@ -1,0 +1,69 @@
+{
+  "id": "MAT7_080",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 80,
+  "tema": "Historia e matematikës - Roli i matematikës në kulturën shqiptare",
+  "tematika": "Projekt kurrikular",
+  "month": "Shkurt",
+  "trimester": 2,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës së 7-të në shkollën 'Fan Noli' në Tiranë organizojnë një ekspozitë për Javën e Shkencës ku do të prezantojnë kontributin e matematikëve të njohur në zhvillimin e shkencës, duke përfshirë matematikanë shqiptarë si Odhise Grillo dhe matematikanë të famshëm botërorë si Pitagora, Euklejdi dhe Al-Khwarizmi. Ata duhet të studiojnë linjën kohore të zhvillimeve matematikore, të llogaritsin vitet midis zbulimeve të mëdha dhe të prezantojnë se si këto zbulime ndikojnë edhe sot në jetën tonë të përditshme në Shqipëri.",
+  "rezultatet": [
+    "Nxënësi/ja identifikon të paktën 5 matematikanë të famshëm dhe kontributet e tyre kryesore në zhvillimin e matematikës",
+    "Nxënësi/ja llogarit saktësisht intervalin kohor midis zbulimeve matematikore dhe krijon një linjë kohore me të paktën 10 ngjarje",
+    "Nxënësi/ja argumenton rëndësinë e teoremave të Pitagorës, Euklejdit dhe Al-Khwarizmi në matematikën moderne",
+    "Nxënësi/ja demonstron përdorimin e formulave të njohura matematikore në jetën e përditshme shqiptare",
+    "Nxënësi/ja krijon një prezantim të plotë duke përdorur grafiqe, tabela dhe shembuj numerikë",
+    "Nxënësi/ja vlerëson ndikimin e matematikës në fushat e tjera si arkitektura, arti dhe teknologjia në Shqipëri"
+  ],
+  "fjalet_kyce": [
+    "matematikan (mathematician)",
+    "teorema e Pitagorës (a²+b²=c²)",
+    "algoritëm (algorithm)",
+    "gjeometria euklidiane",
+    "numërim decimal arab",
+    "linja kohore (timeline)",
+    "π (pi) = 3.14159...",
+    "zero (0) - koncepti arab"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 1 'Historia e matematikës', faqe 8-15",
+    "Enciklopedia e matematikës - seksioni 'Matematikanë të famshëm'",
+    "Kompjuteri/tableti për kërkime në internet dhe krijim prezantimesh",
+    "Fletë pune e përgatitur me linjën kohore 3000 p.e.s. - 2000 e.s.",
+    "Kartela me portretet dhe informacionet e matematikanëve",
+    "Postera dhe markera për prezantimet e grupeve",
+    "Kalkulatore për llogaritjet e intervaleve kohore"
+  ],
+  "lidhja": "Projekti lidhet me Historinë (periudhat historike dhe qytetërimet antike), me Artet (arkitektura e piramidave dhe ndërtesave të lashta shqiptare si kalaja e Rozafës), me Gjeografinë (vendet ku jetuan matematikanët dhe rrugët e tregtisë që përhapën njohuritë), me Gjuhën shqipe (përkthimi i termave matematikë), dhe me jetën e përditshme në Shqipëri (përdorimi i matematikës në ndërtimtari, teknologji, bankingu dhe tregtia).",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nKjo orë synon që nxënësit të kuptojnë rëndësinë historike të matematikës dhe të mësojnë të bëjnë kërkime shkenciore. Ata do të zhvillojnë aftësi hulumtuese dhe prezantuese duke studiuar matematikanë të famshëm dhe kontributet e tyre.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\nMësuesi fillon me një lojë interaktive: 'Gjej matematikanin misteroz'. Paraqet 5 indicie për Pitagorën: 'Jetoi në Greqinë e lashtë, zbuloi teoremën më të famshme të gjeometrisë, emri i tij lidhet me numra 3-4-5, themeloi një shkollë filozofike, ka një rrëkëndësh që mban emrin e tij'. Nxënësit duhet të hamendësojnë. Pastaj paraqet pyetje orientuese: 'A e dini se kush shpiku numrin zero? Sa vjet kanë kaluar nga zbulimi i teoremës së Pitagorës? Cilët janë matematikanët shqiptarë më të famshëm?' Lidh me orën e kaluar duke kujtuar formulat që përdorin dhe pyet: 'Kush i zbuloi këto formula që ne përdorim çdo ditë?'\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\nMësuesi prezanton linjën kohore të matematikës në tabelë dhe shpjegon me shembuj konkretë:\n\nShembull 1 - Llogaritja e intervaleve kohore:\nPitagora lindi në vitin 570 p.e.s. dhe vdiq në 495 p.e.s.\nSa vite jetoi? 570 - 495 = 75 vite\nSa vjet kanë kaluar nga vdekja e tij deri sot? 495 + 2024 = 2519 vjet\n\nShembull 2 - Zbatimi i teoremës së Pitagorës:\nNë kalajën e Rozafës në Shkodër, një mur ka gjatësi 12 metra dhe lartësi 5 metra. Sa është diagonalja?\nc² = a² + b² = 12² + 5² = 144 + 25 = 169\nc = √169 = 13 metra\n\nShembull 3 - Sistemi numerik arab:\nPara zbulimit të zeros, romakët shkruanin: MCDXLIV = 1444\nMe sistemin arab: 1444 (më i thjeshtë për llogaritje)\n\nPunë në grupe (15 minuta): Ndahen në 5 grupe, secili merr një matematikan:\nGrupi 1: Pitagora dhe gjeometria\nGrupi 2: Euklejdi dhe postulatet\nGrupi 3: Al-Khwarizmi dhe algjebra\nGrupi 4: Leonardo Fibonacci dhe vargjet\nGrupi 5: Odhise Grillo dhe matematika në Shqipëri\n\nÇdo grup duhet të përgatisë: biografinë e shkurtër, kontributin kryesor, një shembull numerik dhe ndikimin në jetën moderne.\n\n**PRAKTIKA** (8-10 minuta)\n\na) Niveli bazë:\n- Llogaritni sa vite jetuan: Arkimedi (287-212 p.e.s.), Euklejdi (325-265 p.e.s.)\n- Renditni kronologjikisht: Al-Khwarizmi (780-850), Pitagora (570-495 p.e.s.), Fibonacci (1175-1250)\n\nb) Niveli mesatar:\n- Përdorni teoremën e Pitagorës: Një shkallë 5m mbështetet në mur 4m lartë. Sa larg murit është baza?\n- Llogaritni: Në vitin 825, Al-Khwarizmi shkroi 'Kitab al-jabr'. Sa vjet pas lindjes së Krishtit?\n\nc) Niveli i avancuar:\nKrijoni një problem që kombinon historinë me matematikën: 'Nëse Fibonacci do të jetonte sot në Shqipëri dhe do të studionte rritjen e popullsisë së Tiranës sipas vargjeve të tij, si do ta llogariste numrin e banorëve për vitin 2030?'\n\n**MBYLLJA/REFLEKTIMI** (3-5 minuta)\nTri pika përmbledhëse:\n1. Matematika ka një histori të pasur që shtrihet mijëra vjet\n2. Çdo zbulim matematikor ndikon në jetën tonë të përditshme\n3. Edhe Shqipëria ka dhënë kontribut në matematikë\n\nQuiz verbal: 'Emëroni një matematikan dhe kontributin e tij', 'Çfarë do të ishte jeta pa numrin zero?', 'Si na ndihmon teorema e Pitagorës në jetë?'\n\nParashikim: 'Orën tjetër do të prezantojnë grupet projektet e tyre dhe do të votojmë për matematikanin më interesant.'",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**1. DETYRË BAZË:**\n- Plotësoni tabelën: Emri, vitet e jetës, kontributi kryesor për 5 matematikanë\n- Llogaritni intervalin kohor midis lindjes së Pitagorës dhe Al-Khwarizmi\n- Zgjidhni 3 probleme me teoremën e Pitagorës duke përdorur matjet e objekteve në shtëpi\n- Shkruani 5 raste kur përdorni matematikë gjatë një dite normale\n\n**2. DETYRË KRIJUESE:**\nKrijoni një poster A3 me temën 'Matematika në Shqipërinë e sotme' që përfshin:\n- Një linjë kohore me 10 ngjarje të rëndësishme të matematikës\n- Tri shembuj se si përdoret matematika në Shqipëri (ndërtimtari, bujqësi, teknologji)\n- Një intervistë të shkurtër me një adult që përdor matematikë në punë\n- Një hartë e Shqipërisë me distancat midis qyteteve të llogaritura\n\n**3. DETYRË SHTESË (FAKULTATIVE):**\nPër nxënësit e avancuar:\nHulumtoni dhe shkruani një ese 200-fjalëshe për një nga këto tema:\n- 'Pse Al-Khwarizmi quhet babai i algjebrës?'\n- 'Si do të ishte bota pa sistemin numerik arab?'\n- 'Matematikanë të tjerë shqiptarë dhe kontributet e tyre'\nPërgatitni një prezantim PowerPoint 5-minutësh për klasën",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Projekt",
+      "page_or_row": "80"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

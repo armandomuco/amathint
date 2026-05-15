@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_057",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 57,
+  "tema": "Vëllimi i lëngjeve",
+  "tematika": "Matja",
+  "month": "Dhjetor",
+  "trimester": 1,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës së 7-të të shkollës 'Fan Noli' në Tiranë organizojnë një festë për ditëlindjen e një shoku dhe duhet të blejnë lëngje për 30 persona. Në supermarket 'Conad' në Tiranë, lëngjet shiten në shishe të ndryshme: 250 ml, 500 ml, 1 litër dhe 2 litra. Nxënësit duhet të llogaritsin sa shishe nga çdo lloj u duhen dhe sa do të kushtojnë për të gjithë të ftuarit.",
+  "rezultatet": [
+    "Nxënësi/ja përkufizon njësitë e matjes së vëllimit (ml, l) dhe konverton mes tyre saktësisht",
+    "Nxënësi/ja llogarit vëllimin total të nevojshëm për një numër të caktuar personash",
+    "Nxënësi/ja identifikon madhësinë më ekonomike të shisheve bazuar në çmimin për njësi",
+    "Nxënësi/ja zgjidh probleme praktike me vëllimin e lëngjeve në jetën e përditshme",
+    "Nxënësi/ja argumenton zgjidhjen e zgjedhur duke krahasuar opsione të ndryshme",
+    "Nxënësi/ja demonstron aftësitë e mbledhjes dhe zbritjes me njësi të ndryshme vëllimi"
+  ],
+  "fjalet_kyce": [
+    "vëllim (volume)",
+    "mililitër (ml)",
+    "litër (l)",
+    "konvertim njësish",
+    "çmimi për njësi",
+    "vëllim total",
+    "raport ekonomik",
+    "1 l = 1000 ml"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 4 'Matja', faqe 52-58",
+    "Shishe të vërteta me kapacitete të ndryshme (250ml, 500ml, 1l, 2l)",
+    "Gota matëse transparente me shkallë",
+    "Fletë pune e përgatitur me 8 probleme vëllimi",
+    "Kalkulatrice për llogaritje të shpejta",
+    "Postera me tabelën e konvertimit të njësive (ml ↔ l)"
+  ],
+  "lidhja": "Tema lidhet direkt me Shkencën (matja e lëngjeve në eksperimente laboratorike), Gjeografinë (konsumi i ujit për frymë në Shqipëri, 150-200 l/ditë), Edukimin Shëndetësor (doza e nevojshme e ujit 2-3 l/ditë), Ekonominë shtëpiake (blerjet inteligjente në tregjet shqiptare si Conad, Carrefour), dhe shkencat natyrore (densidade e lëngjeve, 1 litër ujë = 1 kg).",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nOra synon që nxënësit të kuptojnë dhe zotërojnë matjen e vëllimit të lëngjeve përmes situatave praktike nga jeta e përditshme. Nxënësit do të mësojnë të konvertojnë mes njësive ml dhe l, të llogaritjin vëllime totale dhe të zgjedhin opsionin më ekonomik.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\nMësuesi sill në klasë 4 shishe të ndryshme: 250ml Coca-Cola, 500ml ujë, 1l qumësht, 2l Sprite. Pyet nxënësit: \"Sa persona mund të pijnë nga çdo shishe nëse çdo person pi 250ml?\" Shkruan në tabelë përgjigjet e nxënësve. Tregon se sot do të mësojnë të llogaritjin saktësisht këto sasira. Përsërit njohjen me ml dhe l nga ora e kaluar duke pyetur: \"1 litër sa ml është?\" Lidh me situatën: \"Si mund ta llogaritim kostën më të ulët për festa?\"\n\n**REALIZIMI I KUPTIMIT/ZHVILLIMI** (25-28 minuta)\nMësuesi shpjegon konvertimet bazë: 1 l = 1000 ml, 1 ml = 0.001 l. Demonstron me gotën matëse duke derdhur ujë.\n\n**Shembulli 1**: Familja Kelmendi organizon festë për 20 persona. Çdo person pi mesatarisht 300ml lëng. Sa litra lëng u duhen?\nZgjidhja: 20 persona × 300 ml = 6000 ml = 6000 ÷ 1000 = 6 litra\n\n**Shembulli 2**: Në dyqan ka shishe 500ml me çmim 80 lekë dhe shishe 1.5l me çmim 200 lekë. Cila është më ekonomike?\nZgjidhja: Shishe 500ml: 80 lekë ÷ 0.5l = 160 lekë/litër\nShishe 1.5l: 200 lekë ÷ 1.5l = 133.33 lekë/litër\nShishja 1.5l është më ekonomike.\n\n**Shembulli 3**: Mira ka në frigorifer 2 shishe 750ml dhe 3 shishe 330ml. Sa ml lëng ka gjithsej?\nZgjidhja: (2 × 750ml) + (3 × 330ml) = 1500ml + 990ml = 2490ml = 2.49 litra\n\nPunë në grupe (3-4 nxënës): Çdo grup merr një skenar të ndryshëm feste dhe duhet të llogaritë nevojat dhe koston. Grupi 1: Dasmë 50 persona, Grupi 2: Ditëlindje 15 persona, Grupi 3: Piknik klase 25 persona. Grupet prezantojnë zgjidhjat.\n\n**PRAKTIKA/USHTRIME** (8-10 minuta)\n\na) **Niveli bazë** (2-3 ushtrime të thjeshta):\n- Konverto: 2500ml = ___ l\n- Konverto: 3.5l = ___ ml\n- Sa persona mund të pijnë nga një shishe 2l nëse secili pi 200ml?\n\nb) **Niveli mesatar** (2 ushtrime):\n- Shishja 750ml kushton 120 lekë, shishja 1.5l kushton 200 lekë. Cila është më ekonomike?\n- Për një festë me 40 persona (çdo person pi 350ml), sa shishe 500ml duhen?\n\nc) **Niveli i avancuar** (1 problemë sfiduese):\n- Një restorant blen lëngje në 3 forma: kuti 250ml (60 lekë), shishe 750ml (150 lekë), bidona 5l (800 lekë). Nëse duhen 50 litra për një javë, cila kombinim i jep koston më të ulët?\n\n**MBYLLJA/REFLEKTIMI** (3-5 minuta)\nPërmbledhje me 3 pika kryesore: 1) 1l = 1000ml, 2) Për të gjetur çmimin më ekonomik, ndajmë çmimin me vëllimin, 3) Për festa llogaritim: numri personave × sasia për person. Quiz verbal: \"Sa ml ka një shishe 2.5l?\" \"Si gjejmë opsionin më ekonomik?\" Njoftim për orën tjetër: \"Nesër do të mësojmë vëllimin e trupave të ngurtë - sa ujë zë një top futbolli.\"",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**DETYRË BAZË**: Zgjidhni ushtrrimet 1-6 nga libri, faqe 55. Konvertoni: a) 3200ml = ___l, b) 4.7l = ___ml, c) 850ml = ___l, d) 2.3l = ___ml. Llogaritni sa lëng duhet për 12 persona nëse secili pi 280ml.\n\n**DETYRË KRIJUESE**: Vizitoni një supermarket në lagjen tuaj (Conad, Carrefour, Big Market) dhe regjistroni çmimet e të paktën 5 llojeve shishesh lëngjesh me kapacitete të ndryshme. Krijoni një tabelë që tregon cila shishe ka çmimin më ekonomik për litër. Prezantoni gjetjet tuaja në një poster A4.\n\n**DETYRË SHTESË (fakultative)**: Hulumtoni sa ujë konsumojnë familjet shqiptare mesatarisht në ditë dhe krahasojeni me vendet e tjera evropiane. Llogaritni koston vjetore të ujit për një familje 4-anëtarëshe në Tiranë duke përdorur tarifat aktuale të UJKUT (Ujësjellës Kanalizime Tiranë).",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Matja",
+      "page_or_row": "57"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

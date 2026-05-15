@@ -1,0 +1,63 @@
+{
+  "id": "MAT7_003",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "III",
+  "lesson_number": 3,
+  "tema": "Faktorët dhe pjesëtuesit e një numri",
+  "tematika": "Numri",
+  "month": "Shtator",
+  "trimester": 1,
+  "duration_minutes": 45,
+  "situata": "Nxënësit punojnë në një dyqan lulesh ku duhet të organizojnë 36 lule në vazot me numër të barabartë lulesh. Ata zbulojnë të gjitha mënyrat e mundshme të organizimit.",
+  "rezultatet": [
+    "Nxënësi/ja përcakton konceptin e faktorit si numër që e pjesëton një numër tjetër pa mbetje",
+    "Nxënësi/ja gjen të gjithë faktorët e një numri deri në 100",
+    "Nxënësi/ja kupton lidhjen midis faktorëve dhe shumëfishave",
+    "Nxënësi/ja identifikon çiftet e faktorëve"
+  ],
+  "fjalet_kyce": [
+    "Faktor",
+    "Pjesëtues",
+    "Çift faktorësh",
+    "Pjesëtim i plotë",
+    "Mbetje zero",
+    "Numër i plotë"
+  ],
+  "burimet": [
+    "Libri i matematikës klasa 7, fq. 18-22",
+    "Kube ose blloqe manipuluese",
+    "Fletë pune",
+    "Tabela e faktorëve",
+    "Kartela numrash"
+  ],
+  "lidhja": "Lidhje me jetën praktike: ndarja e ushqimeve në porcione të barabarta, organizimi i karrigeve në rreshta. Lidhje me Artin: dizenjimi i motiveve me simetri. Lidhje me Sportin: formimi i ekipeve me numër të barabartë lojtarësh.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "QËLLIMI: Nxënësit do të mësojnë konceptin e faktorëve, do të gjejnë faktorët e numrave, dhe do të kuptojnë lidhjen faktor-shumëfish.\n\nHYRJA (6 min):\n• Aktivitet praktik: Jepni 12 kube secilit grup. Si mund t'i organizoni në rreshta të barabartë?\n• Mundësitë: 1×12, 2×6, 3×4, 4×3, 6×2, 12×1\n• Pyetje: Cilët numra përdorëm? 1, 2, 3, 4, 6, 12 - Këta quhen FAKTORË të 12.\n\nZHVILLIMI (26 min):\n• Përkufizim: Faktori i një numri n është çdo numër që e pjesëton n pa mbetje.\n• Notacioni: F(n) = bashkësia e faktorëve të n\n• F(12) = {1, 2, 3, 4, 6, 12}\n• Shembull: Gjeni F(24)\n  - 24÷1=24 ✓, 24÷2=12 ✓, 24÷3=8 ✓, 24÷4=6 ✓\n  - 24÷5=4.8 ✗, 24÷6=4 ✓, 24÷8=3 ✓, 24÷12=2 ✓, 24÷24=1 ✓\n  - F(24) = {1, 2, 3, 4, 6, 8, 12, 24}\n• Vërejtje e rëndësishme: Çiftet e faktorëve shumëzohen për të dhënë numrin!\n  - 1×24, 2×12, 3×8, 4×6\n• LIDHJA: Nëse a është faktor i n, atëherë n është shumëfish i a.\n  - 3 është faktor i 12, pra 12 është shumëfish i 3.\n• Aktivitet në grupe: Gjeni F(36), F(48), F(60).\n\nPRAKTIKA (10 min):\n• Ushtrim 1: Gjeni të gjithë faktorët e: 18, 25, 30\n• Ushtrim 2: Cilët nga numrat janë faktorë të 42: 3, 4, 6, 7, 8, 14?\n• Ushtrim 3: Plotësoni: Nëse 5 është faktor i 35, atëherë 35 është ___ i 5.\n• Problem: 28 nxënës duhet të ndahen në grupe të barabarta. Cilat janë mundësitë?\n\nMBYLLJA (3 min):\n• Dallimi faktor - shumëfish: Faktorët janë më të vegjël ose të barabartë, shumëfishat janë më të mëdhenj ose të barabartë.\n• Kontrolli: Sa faktorë ka numri 16? (5 faktorë: 1, 2, 4, 8, 16)",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "1. Gjeni të gjithë faktorët e numrave: 40, 56, 72, 100.\n2. Gjeni faktorët e përbashkët të 24 dhe 36.\n3. Plotësoni tabelën: Numri | Faktorët | Numri i faktorëve për numrat 10-20.\n4. Problem: Një kopsht ka 48 pemë që duhen mbjellë në rreshta të barabartë. Gjeni të gjitha mënyrat e mundshme.\n5. Sfidë: Cili numër deri në 50 ka më shumë faktorë?",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Numri",
+      "page_or_row": "3"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_041",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 41,
+  "tema": "Vendvlerat në numrat dhjetorë",
+  "tematika": "Numri",
+  "month": "Nëntor",
+  "trimester": 1,
+  "duration_minutes": 45,
+  "situata": "Nxënësit punojnë si kasierë në supermarketin 'Big Market' në Tiranë dhe duhet të llogarisin me saktësi çmimin e produkteve. Ata duhet të kuptojnë se çmimi 12,45 lekë nënkupton 12 lekë e 45 qindarka, dhe se pozicioni i çdo shifre ka rëndësi kritike për llogaritjen e saktë të çmimit total të blerjes.",
+  "rezultatet": [
+    "Nxënësi/ja identifikon pozicionin e çdo shifre në numrat dhjetorë deri në mijëshen",
+    "Nxënësi/ja përkufizon vlerat pozicionale të numrave dhjetorë (njësi, dhjetëshi, qindëshi, mijëshi)",
+    "Nxënësi/ja llogarit vlerën e një shifre sipas pozicionit të saj në numrin dhjetorë",
+    "Nxënësi/ja shkruan numrat dhjetorë në formë të zgjeruar duke përdorur vendvlerat",
+    "Nxënësi/ja krahasón numrat dhjetorë duke analizuar vendvlerat e çdo pozicioni",
+    "Nxënësi/ja zgjidh problema praktike që përfshijnë vendvlerat në numrat dhjetorë"
+  ],
+  "fjalet_kyce": [
+    "vendvlera (place value)",
+    "pikë dhjetore (decimal point)",
+    "dhjetëshi (tenths) - 0,1",
+    "qindëshi (hundredths) - 0,01",
+    "mijëshi (thousandths) - 0,001",
+    "formë e zgjeruar (expanded form)",
+    "numër dhjetorë (decimal number)",
+    "pozicion i shifrës (digit position)"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 2, faqe 38-45",
+    "Tabelë vendvlerash e madhe për mur (nga njësitë tek mijëshat)",
+    "Karta lojë me numra dhjetorë dhe vendvlera të ndryshme",
+    "Fletë pune e përgatitur me 15 ushtrime vendvlerash",
+    "Kalkulatore për verifikimin e rezultateve",
+    "Monedha dhe kartëmonedha shqiptare (lekë dhe qindarka) për demonstrim"
+  ],
+  "lidhja": "Gjeografi: përdorimi i koordinatave me numra dhjetorë në hartat e Shqipërisë. Fizikë: matja e gjatësive dhe peshave me masa dhjetore. Edukim financiar: punë me paratë shqiptare (lekë dhe qindarka). Arte: krijoni modele vizuale të vendvlerave me ngjyra dhe forma. Kimia: përqendrimet e tretësirave shprehen me numra dhjetorë.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\n\nKjo orë mësimore synon që nxënësit të kuptojnë plotësisht konceptin e vendvlerës në numrat dhjetorë dhe të jenë të aftë të identifikojnë, lexojnë dhe shkruajnë numrat dhjetorë duke kuptuar rëndësinë e pozicionit të çdo shifre.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\n\nMësuesi nis orën duke treguar një faturë nga 'Big Market' me shumën 47,83 lekë. Pyet: \"Çfarë do të thotë ky numër? Sa lekë janë dhe sa qindarka?\" Nxënësit diskutojnë në çifte për 2 minuta. Më pas mësuesi tregon monedha të vërteta: 47 monedha 1-lekshe dhe 83 monedha 1-qindarka, duke pyetur: \"Pse pozicioni i shifrës 8 është i rëndësishëm? Çfarë ndryshimi do të kishte nëse do të shkruanim 478,3 lekë?\". Lidhet me orën e kaluar duke kujtuar vendvlerat në numrat e plotë.\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\n\nMësuesi shpjegon konceptin e vendvlerës duke përdorur tabelën e vendvlerave në tabelë. Demonstron me tre shembuj:\n\n**Shembulli 1:** Numri 125,467\n- Shifrën 1 është në pozicionin e qindërshave = 1 × 100 = 100\n- Shifrën 2 është në pozicionin e dhjetërshave = 2 × 10 = 20  \n- Shifrën 5 është në pozicionin e njësive = 5 × 1 = 5\n- Shifrën 4 është në pozicionin e dhjetëshave = 4 × 0,1 = 0,4\n- Shifrën 6 është në pozicionin e qindëshave = 6 × 0,01 = 0,06\n- Shifrën 7 është në pozicionin e mijëshave = 7 × 0,001 = 0,007\nForma e zgjeruar: 125,467 = 100 + 20 + 5 + 0,4 + 0,06 + 0,007\n\n**Shembulli 2:** Çmimi 89,25 lekë\n- Shifra 8: pozicioni i dhjetërshave = 8 × 10 = 80 lekë\n- Shifra 9: pozicioni i njësive = 9 × 1 = 9 lekë  \n- Shifra 2: pozicioni i dhjetëshave = 2 × 0,1 = 0,2 lekë = 20 qindarka\n- Shifra 5: pozicioni i qindëshave = 5 × 0,01 = 0,05 lekë = 5 qindarka\nGjithsej: 89,25 lekë = 89 lekë dhe 25 qindarka\n\n**Shembulli 3:** Distanca 15,678 km\n- 1 është në pozicionin e dhjetërshave = 1 × 10 = 10 km\n- 5 është në pozicionin e njësive = 5 × 1 = 5 km\n- 6 është në pozicionin e dhjetëshave = 6 × 0,1 = 0,6 km = 600 m\n- 7 është në pozicionin e qindëshave = 7 × 0,01 = 0,07 km = 70 m\n- 8 është në pozicionin e mijëshave = 8 × 0,001 = 0,008 km = 8 m\n\nNxënësit ndahen në grupe prej 4 personash. Çdo grup merr 3 karta me numra dhjetorë dhe duhet t'i shkruajë në formë të zgjeruar. Grupet prezantojnë zgjidhjet në tabelë dhe shpjegojnë arsyetimin.\n\n**PRAKTIKA** (8-10 minuta)\n\na) **Niveli bazë:**\n- Shkruani në formë të zgjeruar: 23,45\n- Gjeni vlerën e shifrës 7 në numrin 156,789\n- Sa qindarka përfaqëson shifra 3 në çmimin 67,38 lekë?\n\nb) **Niveli mesatar:**\n- Krahasoni numrat 45,67 dhe 45,76 duke shpjeguar arsyen\n- Një produkt kushton 123,456 lekë. Sa do të kushtojë nëse çmimi rritet për 0,1 lekë?\n\nc) **Niveli i avancuar:**\n- Krijoni një numër dhjetorë ku shifra 5 ka vlerën 0,05, shifra 8 ka vlerën 800, dhe shifra 2 ka vlerën 0,002. Shpjegoni zgjidhjen tuaj.\n\n**MBYLLJA/REFLEKTIMI** (3-5 minuta)\n\nPërmbledhja e tre pikave kryesore: 1) Çdo pozicion në numrin dhjetorë ka vlerë të caktuar; 2) Vendvlerat në të djathtë të pikës dhjetore janë dhjetëshi, qindëshi, mijëshi; 3) Për të gjetur vlerën e një shifre, e shumëzojmë me vendvlerën e pozicionit. Quiz verbal: \"Çfarë ndodh me vlerën e numrit nëse zhvendosim pikën dhjetore një pozicion djathtas?\" Parashikim i orës së ardhshme: \"Nesër do të mësojmë si të rrumbullakosim numrat dhjetorë sipas vendvlerave.\"",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**DETYRË BAZË:**\n1. Shkruani në formë të zgjeruar numrat: 67,234; 145,89; 23,056; 8,127\n2. Gjeni vlerën e shifrës së nënvizuar: 45,6̄89; 123,4̄56; 78,91̄2; 9,87̄6\n3. Plotësoni: Në numrin 156,789 shifra 6 ka vlerën ___, shifra 8 ka vlerën ___, shifra 9 ka vlerën ___\n4. Shkruani me fjalë: 234,567 lekë; 45,89 km; 12,345 kg\n\n**DETYRË KRIJUESE:**\nKrijoni një poster A4 me temën 'Vendvlerat në jetën time'. Përfshini të paktën 5 shembuj nga jeta e përditshme (çmimet në dyqan, notat e shkollës, matjet e gjatësisë, etj.) dhe shpjegoni vendvlerën e çdo shifre. Përdorni ngjyra të ndryshme për pozicione të ndryshme.\n\n**DETYRË SHTESË (Fakultative):**\nHulumtoni sistemin e parasë në 3 vende të ndryshme (p.sh. Euro, Dollar, Paund) dhe krahasoni me lekun shqiptar. Shkruani një esse të shkurtër (200 fjalë) se si përdoren numrat dhjetorë në këto sisteme monetare dhe pse vendvlerat janë të rëndësishme për tregti ndërkombëtare.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Numri",
+      "page_or_row": "41"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

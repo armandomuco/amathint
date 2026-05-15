@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_062",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 62,
+  "tema": "Ekuacionet - Hyrje",
+  "tematika": "Algjebra",
+  "month": "Janar",
+  "trimester": 2,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës së 7-të në shkollën 'Fan Noli' në Tiranë duhet të llogaritin kostot e një udhëtimi me autobus deri në Shkodër. Ata dinë që bileta kushton 600 lekë dhe se duhet të paguajnë edhe 150 lekë për secilin vakt ushqimi. Nëse kanë në dispozicion gjithsej 1200 lekë, sa vakte mund të blejnë? Kjo situatë i udhëheq nxënësit drejt konceptit të ekuacioneve si mjet për zgjidhjen e problemave praktike.",
+  "rezultatet": [
+    "Nxënësi/ja përkufizon me fjalë të thjeshta se çfarë është një ekuacion",
+    "Nxënësi/ja identifikon pjesët kryesore të një ekuacioni: anën e majtë, shenjën = dhe anën e djathtë",
+    "Nxënësi/ja llogarit vlerën e panjohurës në ekuacione të thjeshta me një veprim",
+    "Nxënësi/ja formulon ekuacion të thjeshtë nga një problem i jetës së përditshme",
+    "Nxënësi/ja verifikojnë saktësinë e zgjidhjes duke zëvendësuar vlerën e gjetur në ekuacionin fillestar",
+    "Nxënësi/ja argumenton pse një vlerë e caktuar është ose nuk është zgjidhja e një ekuacioni"
+  ],
+  "fjalet_kyce": [
+    "ekuacion (equation)",
+    "panjohur (x, y, z)",
+    "shenja e barazimit (=)",
+    "zgjidhja e ekuacionit",
+    "verifikimi i zgjidhjes",
+    "formulimi i ekuacionit",
+    "ana e majtë dhe ana e djathtë",
+    "zëvendësimi i vlerës"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 5: Hyrje në Algjebër, faqe 78-82",
+    "Tabelë e bardhë ose flipchart me markues me ngjyra",
+    "Fletë pune e përgatitur me 8 problema nga jeta e përditshme",
+    "Kartela me ekuacione të ndryshme për lojën e grupeve",
+    "Kalkulatorë për verifikimin e zgjidhjeve",
+    "Poster i madh me shembuj ekuacionesh nga sportet dhe blerjet"
+  ],
+  "lidhja": "Lënda lidhet ngushtë me shkencat natyrore në llogaritjen e shpejtësisë dhe distancës (v = s/t), me Gjeografinë në matjen e distancave në harta dhe shkallëzimit, me Edukimin Qytetar në menaxhimin e buxhetit familjar dhe planifikimin e shpenzimeve. Gjithashtu lidhet me tregtinë dhe ekonominë familjare shqiptare, duke përdorur shembuj nga tregjet lokale, çmimet e produkteve bujqësore dhe llogaritja e fitimit në biznese të vogla.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\n\nOrë këtë synon të prezantojë konceptin themelor të ekuacionit si mjet për zgjidhjen e problemave matematikore dhe praktike. Nxënësit do të kuptojnë se ekuacioni është një barazim që përmban një ose më shumë panjohura dhe se zgjidhja e tij na ndihmon të gjejmë vlerat e këtyre panjohurave.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\n\nFilloj orën me një lojë të thjeshtë: 'Gjej numrin e fshehtë'. Them: 'Mendova një numër, i shtova 5 dhe më doli 12. Cili është numri?' Nxënësit përpiqen të gjejnë përgjigjen me mendje. Pas disa përpjekjeve, shpjegoj se kjo është pikërisht ajo që bëjmë me ekuacionet. Shkruaj në tabelë: 'Numri i panjohur + 5 = 12' dhe pastaj 'x + 5 = 12'. Lidh me orën e kaluar për veprimet me numrat relativë duke pyetur: 'Si mund ta gjejmë x-in këtu?' Krijoj tension intelektual: 'A ka një mënyrë sistematike për të gjetur gjithmonë vlerën e panjohurës?'\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\n\nShpjegoj konceptin e ekuacionit: 'Ekuacioni është një barazim që përmban të paktën një panjohur (zakonisht x).' Tregoj pjesët: ana e majtë, shenja =, ana e djathtë.\n\n**Shembulli 1**: x + 3 = 8\n- Shpjegoj: 'Duam të gjejmë vlerën e x që e bën të vërtetë këtë barazim'\n- Zgjidhja: x = 8 - 3 = 5\n- Verifikimi: 5 + 3 = 8 ✓\n\n**Shembulli 2**: 2x = 14 (nga një problem praktik: '2 kg mollë kushtojnë 140 lekë, sa kushton 1 kg?')\n- Zgjidhja: x = 14 ÷ 2 = 7\n- Verifikimi: 2 × 7 = 14 ✓\n- Interpretimi: 1 kg mollë kushton 70 lekë\n\n**Shembulli 3**: x - 4 = 9 (nga problemi fillestar i udhëtimit)\n- Zgjidhja: x = 9 + 4 = 13\n- Verifikimi: 13 - 4 = 9 ✓\n\n**Punimi në grupe** (10 minuta): Ndaj klasën në 4 grupe. Çdo grup merr një kartelë me një problem praktik që duhet të kthejnë në ekuacion:\n- Grupi 1: 'Në një kuti ka disa bonbonë. Nëse heq 7, mbeten 15. Sa bonbonë ishin fillimisht?'\n- Grupi 2: 'Mosha e Anës plus 6 vjet është 19 vjet. Sa vjeç është Ana?'\n- Grupi 3: 'Tri fëmijë kanë të njëjtën shumë parash. Gjithsej kanë 24 lekë. Sa ka secili?'\n- Grupi 4: 'Në një autobus hipën 12 persona. Tani janë gjithsej 35. Sa ishin fillimisht?'\n\nGrupet prezantojnë zgjidhjet dhe unë demonstroj çdo rast në tabelë.\n\n**PRAKTIKA** (8-10 minuta)\n\n**Niveli bazë** (për të gjithë):\na) x + 6 = 11 \nb) x - 3 = 7\nc) 2x = 16\n\n**Niveli mesatar** (për ata që mbarojnë shpejt):\na) x + 8 = 15, pastaj verifikoni\nb) 3x = 21, gjeni x dhe kontrolloni\n\n**Niveli i avancuar** (për talentët):\nProblemë: 'Një libër kushton 800 lekë më shumë se një fletore. Së bashku kushtojnë 1400 lekë. Sa kushton libri?' (Formulojeni si ekuacion dhe zgjidheni)\n\nLëviz nëpër klasa, ndihmoj grupet dhe korigoj gabimet. Ftoj disa nxënës të shpjegojnë zgjidhjen në tabelë.\n\n**MBYLLJA** (3-5 minuta)\n\nPërmbledhje me tre pika kryesore:\n1. Ekuacioni është barazim me panjohura\n2. Zgjidhja gjendet duke izoluar panjohurën\n3. Gjithmonë verifikojmë zgjidhjen\n\nQuiz verbal: 'Nëse x + 4 = 10, sa është x?' Disa nxënës përgjigjen. Parashikoj orën e ardhshme: 'Nesër do të mësojmë ekuacione më komplekse me dy veprime.'",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**DETYRAT PËR NË SHTËPI**\n\n**1. Niveli bazë** (për të gjithë):\n- Zgjidhni ekuacionet: x + 7 = 12, x - 5 = 8, 3x = 18, x + 9 = 15\n- Verifikoni të gjitha zgjidhjet duke zëvendësuar vlerat\n- Libri 'Matematika 7', faqe 80, ushtrimet 1-6\n\n**2. Detyrë krijuese**:\nKrijoni tre problema nga jeta juaj e përditshme (p.sh. lojëra, blerje, sport) që mund të zgjidhen me ekuacione të thjeshta. Shkruani problemin, formuloni ekuacionin dhe zgjidheni. Shembull: 'Kam disa lekë. Nëse blej një stilolaps për 50 lekë, më mbeten 200 lekë. Sa lekë kisha fillimisht?'\n\n**3. Detyrë shtesë (fakultative)** - për nxënësit e avancuar:\nHulumtoni: Si zgjidhen ekuacionet ku panjohura është në të dy anët, si: x + 3 = 2x - 1? Provoni të gjeni zgjidhjen dhe sillni shpjegimin nesër. Ndihmë: Përdorni metodën e 'balancës' - çfarë bëni në njërën anë, bëni edhe në tjetrën.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Algjebra",
+      "page_or_row": "62"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

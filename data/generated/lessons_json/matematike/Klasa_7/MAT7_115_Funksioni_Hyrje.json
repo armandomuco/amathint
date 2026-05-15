@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_115",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 115,
+  "tema": "Funksioni - Hyrje",
+  "tematika": "Algjebra",
+  "month": "Prill",
+  "trimester": 3,
+  "duration_minutes": 45,
+  "situata": "Në tregun e Tiranës, çmimi i mollëve varet nga pesha që blejmë. Nëse 1 kg mollë kushton 150 lekë, 2 kg kushtojnë 300 lekë, 3 kg kushtojnë 450 lekë. Nxënësit do të zbulojnë lidhjen matematikore midis peshës dhe çmimit total, duke kuptuar se çmimi është një funksion i peshës.",
+  "rezultatet": [
+    "Nxënësi/ja përkufizon çfarë është një funksion duke përdorur shembuj nga jeta e përditshme",
+    "Nxënësi/ja identifikon variablin e pavarur dhe variablin e varur në situata të dhëna",
+    "Nxënësi/ja llogarit vlerën e funksionit për vlera të dhëna të variablit të pavarur",
+    "Nxënësi/ja krijon tabela të vlerave për funksione të thjeshta lineare",
+    "Nxënësi/ja argumenton pse një marrëdhënie është apo nuk është funksion",
+    "Nxënësi/ja zgjidh probleme praktike duke përdorur funksione të thjeshta"
+  ],
+  "fjalet_kyce": [
+    "funksion (function)",
+    "variabël i pavarur (independent variable)",
+    "variabël i varur (dependent variable)",
+    "f(x) - shënimi i funksionit",
+    "domain - fusha e përkufizimit",
+    "range - fusha e vlerave",
+    "tabelë e vlerave",
+    "marrëdhënie një me një (one-to-one relationship)"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 4: Funksionet, faqe 89-95",
+    "Fletë milimetrike për vizatimin e tabelave",
+    "Kalkulatorë për llogaritjet e shpejta",
+    "Fletë pune e përgatitur me 15 situata praktike",
+    "Postera A3 për prezantimin e grupeve",
+    "Markera dhe vizore për punën në grup"
+  ],
+  "lidhja": "Lidhje me shkencat natyrore: lëvizja uniforme (shpejtësia konstante), formula s = v·t. Lidhje me Gjeografinë: leximi i hartave dhe shkallës. Lidhje me Ekonominë familjare: buxheti familjar, llogaritja e shpenzimeve mujore. Lidhje me Teknologjinë: programimi i thjeshtë dhe algoritmet.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nNxënësit do të kuptojnë konceptin bazë të funksionit si marrëdhënie e veçantë midis dy madhësive, ku çdo vlerë e hyrjes (input) i korrespondon saktësisht një vlerë të daljes (output).\n\n**EVOKIMI/HYRJA** (8-10 minuta)\nMësuesi nis me një lojë praktike: 'Makina e Funksioneve'. Një nxënës qëndron në mes të klasës si 'makina' dhe merr numra nga shokët e tij. Rregulla: çdo numër që merr, e shumëzon me 3 dhe shton 2. Shembull: merr 4 → jep 14, merr 7 → jep 23. Pyetje orientuese: 'Çfarë rregullë po ndjek makina jonë?', 'Nëse fusim 10, çfarë do të dalë?', 'A mund të dalë një numër i njëjtë nga dy numra të ndryshëm që fusim?' Kjo lidhet me orën e kaluar për shprehjet algjebrike: 'Kujtoni formulën 3x + 2 që mësuam javën e kaluar.'\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\nMësuesi shpjegon se makina jonë është një 'funksion' - një rregull e veçantë që çdo hyrje i jep saktësisht një dalje.\n\n**Shembulli 1: Çmimi i bukës**\nNë furrat e Tiranës, 1 bukë kushton 50 lekë. Sa kushtojnë x bukë?\nf(x) = 50x\nf(1) = 50×1 = 50 lekë\nf(2) = 50×2 = 100 lekë\nf(5) = 50×5 = 250 lekë\nVariabli i pavarur: numri i bukëve (x)\nVariabli i varur: çmimi total f(x)\n\n**Shembulli 2: Distanca me shpejtësi konstante**\nNjë autobus udhëton me shpejtësi 60 km/h nga Tirana për në Shkodër.\nDistanca pas t orësh: f(t) = 60t\nf(1) = 60×1 = 60 km pas 1 ore\nf(2) = 60×2 = 120 km pas 2 orë\nf(3) = 60×3 = 180 km pas 3 orë\n\n**Shembulli 3: Perimetri i katrorit**\nNëse brinja e katrorit është x cm, perimetri është:\nf(x) = 4x\nf(3) = 4×3 = 12 cm\nf(5) = 4×5 = 20 cm\nf(10) = 4×10 = 40 cm\n\nPunë në grupe (3-4 nxënës): Çdo grup merr një situatë të ndryshme (çmimi i benzinës, tarifa e telefonit, paga për orë pune) dhe krijon tabelën e vlerave për 5 vlera të ndryshme. Prezantojnë gjetjet para klasës duke shpjeguar variablin e pavarur dhe atë të varur.\n\n**PRAKTIKA** (8-10 minuta)\n**Niveli bazë:**\n1. Nëse f(x) = 2x + 1, gjeni f(3), f(5), f(8)\n2. Një taksist merr 200 lekë fikse + 80 lekë për km. Sa kushton udhëtimi 4 km?\n3. Krijoni tabelën për f(x) = x + 7 për x = 1, 2, 3, 4, 5\n\n**Niveli mesatar:**\n1. Një punëtor merr 1500 lekë për orë. Shruani funksionin për pagën ditore nëse punon x orë.\n2. Kontrolloni nëse marrëdhënia është funksion: {(1,3), (2,5), (3,7), (1,9)}\n\n**Niveli i avancuar:**\n1. Një kompani interneti merr 2000 lekë të fiksme + 50 lekë për GB. Nëse dikush paguan 3500 lekë, sa GB ka përdorur?\n\n**MBYLLJA/REFLEKTIMI** (3-5 minuta)\nPërmbledhje: 1) Funksioni është rregull që çdo hyrje i jep një dalje të vetme, 2) x është variabli i pavarur, f(x) është variabli i varur, 3) Shënojmë f(x) dhe lexojmë 'f nga x'. Quiz verbal: 'Nëse f(x) = 3x, sa është f(4)?' 'Në shembullin e bukës, cila është variabla e pavarur?' Parashikim: 'Javën e ardhshme do të mësojmë të vizatojmë grafikun e funksioneve.'",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**BAZË:** Zgjidhni ushtrimet 1-8 nga faqja 93 të librit. Llogaritni vlerat e funksioneve: f(x) = x + 5 për x = 2, 6, 10; g(x) = 2x - 1 për x = 3, 7, 12; h(x) = 10x për x = 1, 4, 9.\n\n**KRIJUESE:** Hulumtoni në familjen tuaj 3 situata ku një madhësi varet nga një tjetër (p.sh. fatura e ujit, çmimi i frutave, koha e udhëtimit). Krijoni tabela të vlerave dhe prezantoni në fletë A4 me vizatime dhe ngjyra.\n\n**SHTESË (fakultative):** Për nxënës të avancuar: Studioni çmimin e karburantit në 5 stacione të ndryshme në Tiranë. A është çmimi funksion i stacionit? Argumentoni përgjigjen tuaj me të dhëna konkrete.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Algjebra",
+      "page_or_row": "115"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

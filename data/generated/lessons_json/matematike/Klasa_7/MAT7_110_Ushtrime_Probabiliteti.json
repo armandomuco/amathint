@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_110",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 110,
+  "tema": "Ushtrime - Probabiliteti",
+  "tematika": "Probabiliteti",
+  "month": "Prill",
+  "trimester": 3,
+  "duration_minutes": 45,
+  "situata": "Klasa 7 organizon një short shkollor me rastin e 7 Marsit. Nxënësit duhet të llogaritin probabilitetin për nxjerrjen e biletave fitues nga një kuti me 100 bileta, ku 15 janë fituese. Gjithashtu, ata llogaritsin probabilitetin për hedhjen e një monedhe gjatë përcaktimit të skuadrave në garat sportive.",
+  "rezultatet": [
+    "Nxënësi/ja llogarit saktësisht probabilitetin e ngjarjeve të thjeshta duke përdorur formulën P(A) = m/n",
+    "Nxënësi/ja identifikon hapësirën e mundësive dhe ngjarjen e favorshme në situata konkrete",
+    "Nxënësi/ja argumenton pse probabiliteti i një ngjarre është midis 0 dhe 1",
+    "Nxënësi/ja zgjidh probleme me probabilitet duke përdorur monedha, zarë dhe karta loje",
+    "Nxënësi/ja demonstron llogaritjen e probabilitetit në situata praktike nga jeta e përditshme",
+    "Nxënësi/ja përkufizon probabilitetin e ngjarjes së sigurt dhe të pamundur"
+  ],
+  "fjalet_kyce": [
+    "probabilitet (P)",
+    "hapësira e mundësive (Ω)",
+    "ngjarje e favorshme",
+    "ngjarje e sigurt (P=1)",
+    "ngjarje e pamundur (P=0)",
+    "formula P(A) = m/n",
+    "eksperiment random",
+    "proporcion"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 9: Probabiliteti, faqe 142-148",
+    "Kuti me 50 bileta të numëruara (25 të bardha, 25 të kuqe)",
+    "6 monedha, 4 zarë me 6 fytyra",
+    "Fletë pune e përgatitur me 15 ushtrime probabiliteti",
+    "Karta loje (52 karta standarde)",
+    "Tabela e probabiliteteve të përgatitur paraprakisht"
+  ],
+  "lidhja": "Lidhet me shkencat natyrore në eksperimentet me matje të pasigurisë, me Gjeografinë në parashikimin e motit dhe probabilitetin e reshjeve në Shqipëri, me Edukimin Fizik në llogaritjen e shanseve të fitores në garat sportive, dhe me jetën e përditshme në lojërat e fatit dhe vendimmarrjen e bazuar në të dhëna.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\n\nOra synon që nxënësit të zgjidhin probleme konkrete me probabilitet duke përdorur formulën P(A) = m/n, të kuptojnë konceptin e hapësirës së mundësive dhe të aplikojnë njohuritë në situata praktike nga jeta e përditshme shqiptare.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\n\nMësuesi fillon orën duke hedhur një monedh para klasës dhe pyet: \"Çfarë mendoni, sa shanse ka që të dalë koka?\". Pas disa përgjigje, vendos në tabelë një kuti me 10 bileta (7 të bardha dhe 3 të kuqe). Pyet nxënësit: \"Nëse nxirr një biletë pa parë, sa shanse ka të jetë e kuqe?\". Shkruan përgjigjet dhe lidh me konceptin e probabilitetit të mësuar në orën e kaluar. Rikujton formulën P(A) = m/n dhe shpjegon se sot do të zgjidhin shumë ushtrime praktike.\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\n\nMësuesi shpjegon metodën sistematike për zgjidhjen e problemeve të probabilitetit dhe zgjidh tre shembuj konkretë:\n\nShembull 1: Hedhja e një zarri\nPyetja: Sa është probabiliteti që të dalë numri 5?\nZgjidhja: Hapësira e mundësive Ω = {1,2,3,4,5,6}, pra n=6\nNgjarja e favorshme A = {5}, pra m=1\nP(A) = m/n = 1/6 ≈ 0.167 ose 16.7%\n\nShembull 2: Nxjerrja e një karte nga letra e lojës\nPyetja: Sa është probabiliteti të nxjerrim një As?\nZgjidhja: Në një letër standarde ka 52 karta, pra n=52\nKa 4 As (zemra, spatë, kunj, romb), pra m=4\nP(A) = 4/52 = 1/13 ≈ 0.077 ose 7.7%\n\nShembull 3: Bileta në short shkollor\nPyetja: Nga 80 bileta, 12 janë fituese. Sa është probabiliteti i fitores?\nZgjidhja: Hapësira e mundësive n=80\nBileta fituese m=12\nP(fitore) = 12/80 = 3/20 = 0.15 ose 15%\n\nPas shembujve, organizon punë në grupe prej 4 nxënësish. Çdo grup merr një set materialesh (monedha, zarë, bileta) dhe zgjidh 3 probleme të dhëna. Grupet prezantojnë zgjidhjet para klasës dhe diskutojnë rezultatet.\n\n**PRAKTIKA** (8-10 minuta)\n\na) Niveli bazë (2-3 ushtrime):\n- Hedhim një monedhë. Gjeni P(kokë) dhe P(pështjellë)\n- Nga 20 nxënës, 8 janë djem. Zgjedhim një nxënës rastësisht. Gjeni P(djalë)\n- Një kuti ka 15 bileta të bardha dhe 5 të zeza. Gjeni P(e bardhë)\n\nb) Niveli mesatar (2 ushtrime):\n- Hedh dy zarë njëkohësisht. Gjeni probabilitetin që shuma të jetë 7\n- Nga një letër me 52 karta, gjeni probabilitetin të nxjerrim një kartë të kuqe (zemër ose romb)\n\nc) Niveli i avancuar (1 problemë sfiduese):\n- Në një klasë me 25 nxënës, 15 pëlqejnë futbollin dhe 12 pëlqejnë basketbollin, ndërsa 8 pëlqejnë të dyja sportet. Zgjedhim një nxënës rastësisht. Gjeni probabilitetin që ai të pëlqejë të paktën një nga sportet.\n\n**MBYLLJA** (3-5 minuta)\n\nMësuesi përmbledh tre pikat kryesore: 1) Formula P(A) = m/n përdoret në të gjitha problemet, 2) Probabiliteti është gjithmonë midis 0 dhe 1, 3) Duhet të identifikojmë qartë hapësirën e mundësive dhe ngjarjen e favorshme. Zhvillon një quiz të shkurtër verbal: \"Sa është P(ngjarje e sigurt)? P(ngjarje e pamundur)?\". Njofton që ora e ardhshme do të trajtojë probabilitetin e ngjarjeve të përbëra.",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "1. BAZË: Zgjidhni ushtrimet 1-6 nga faqja 147 të librit. Përfshijnë hedhje monedhe, zarri dhe nxjerrje biletash nga kuti. Çdo ushtrim duhet të tregojë qartë hapësirën e mundësive, ngjarjen e favorshme dhe llogaritjen përfundimtare.\n\n2. KRIJUESE: Krijoni një lojë fati për familjen tuaj duke përdorur 20 objekte të ndryshme (letra, monedha, filxhana). Shpjegoni rregullat e lojës dhe llogaritni probabilitetin e fitores për çdo pjesëmarrës. Paraqitni rezultatet në një tabelë të organizuar.\n\n3. SHTESË (fakultative): Hulumtoni probabilitetin e moti në Tiranë gjatë muajit prill. Përdorni të dhënat e motit për 30 ditët e fundit dhe llogaritni: P(diell), P(shi), P(vranësira). Krahasoni me parashikimin meteorologjik dhe shkruani një raport 200-fjalorvë.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Probabiliteti",
+      "page_or_row": "110"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

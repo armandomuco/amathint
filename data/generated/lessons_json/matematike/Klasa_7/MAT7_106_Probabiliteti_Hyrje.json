@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_106",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 106,
+  "tema": "Probabiliteti - Hyrje",
+  "tematika": "Probabiliteti",
+  "month": "Prill",
+  "trimester": 3,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës së 7-të të shkollës 'Faik Konica' në Tiranë organizojnë një lojë fati për ditën e shkollës. Ata duhet të llogaritjnë probabilitetin e fitimit për çdo lojë (hedhje zarash, tërheqje topishtash nga shporta, rrotëza me numra) dhe të vendosin çmimet e biletave që të sigurojnë fitim për shitjen e ushqimeve në mensa. Situata kërkon kuptimin e koncepteve bazë të probabilitetit për të planifikuar aktivitete të suksesshme.",
+  "rezultatet": [
+    "Nxënësi/ja përkufizon probabilitetin si raportin e ngjarjeve të favorshme me numrin total të ngjarjeve të mundshme",
+    "Nxënësi/ja identifikon ngjarjet e mundshme dhe të favorshme në situata konkrete jetësore",
+    "Nxënësi/ja llogarit probabilitetin e ngjarjeve të thjeshta duke përdorur formulën P(A) = m/n",
+    "Nxënësi/ja krahajon probabilitetet e ngjarjeve të ndryshme dhe i rendit nga më të vogla te më të mëdhatë",
+    "Nxënësi/ja shpreh probabilitetin si thyesë, numër dhjetor dhe përqindje",
+    "Nxënësi/ja zgjidh probleme praktike të probabilitetit nga jeta e përditshme shqiptare"
+  ],
+  "fjalet_kyce": [
+    "probabilitet",
+    "ngjarje e mundshme",
+    "ngjarje e favorshme",
+    "hapësirë mostër",
+    "formula P(A) = m/n",
+    "thyesë probabiliteti",
+    "përqindje probabiliteti",
+    "numër dhjetor"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 8 'Probabiliteti', faqe 134-142",
+    "Zare të ndryshëm (6 faqe, 8 faqe, 10 faqe), monedha, karta letre",
+    "Shportë me topishta me ngjyra të ndryshme (10 të kuq, 15 blu, 5 të verdhë)",
+    "Rrotëz me numra nga 1-10, fletë pune të përgatitura me 15 ushtrime",
+    "Kalkulatore, tabela me të dhëna, kartela me ngjarje",
+    "Prezantim PowerPoint 'Probabiliteti në jetën tonë'"
+  ],
+  "lidhja": "Lidhje me shkencat natyrore përmes ngjarjeve të rastësishme në natyrë. Lidhje me Gjeografinë duke përdorur të dhëna meteorologjike për probabilitetin e reshjeve në qytete shqiptare. Lidhje me Edukimin Qytetar përmes organizimit demokratik të votimeve dhe parashikimit të rezultateve. Lidhje me jetën e përditshme: probabiliteti i fitimit në lotarinë kombëtare, shanse të kalimit të provimeve, probabiliteti i shiut gjatë pushimeve verore në bregdet.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nOrë hyrëse që synon të njohë nxënësit me konceptin bazë të probabilitetit përmes aktiviteteve praktike dhe situatave nga jeta e përditshme. Nxënësit do të kuptojnë se probabiliteti mat shanset e ndodhjes së një ngjarja dhe shprehet si numër midis 0 dhe 1.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\nMësuesi fillon me lojën 'Gjej numrin': në një shportë vendos 20 topishta - 10 të kuq, 6 blu, 4 të verdhë. Pyet: 'Sa shanse ka Arta të tërheqë një top të kuq pa parë?' Nxënësit japin mendime të ndryshme. Më pas hedhim një zar dhe pyesim: 'Sa shanse ka të dalë numri 6? Numri 7?' Aktiviteti vazhdon me hedhjen e monedhës: 'Sa shanse ka të dalë koka?' Pyetje orientuese: 'Cilën ngjarje e konsideroni më të mundshme? Pse numri 7 në zar ka zero shanse? Si mund ta llogarisim saktësisht?' Lidhje me orën e kaluar për thyesat: 'Përgjigjet tuaja kanë të bëjnë me thyesa - sot do të mësojmë t'i llogarisim shkencërisht.'\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\nMësuesi prezanton konceptin: 'Probabiliteti tregon sa shanse ka të ndodhë një ngjarje. Shprehet si raporti P(A) = m/n, ku m = ngjarje të favorshme, n = ngjarje të mundshme gjithsej.'\n\nSHEMBULLI 1 - Hedhja e zarit: 'Sa është probabiliteti të dalë numri 3 në një zar 6-faqësh?' Zgjidhje: m = 1 (vetëm numri 3 është i favorshëm), n = 6 (numrat 1,2,3,4,5,6). Prandaj P(3) = 1/6 = 0.167 = 16.7%\n\nSHEMBULLI 2 - Tërheqja e kartave: 'Në një pako me 52 karta, sa është probabiliteti të tërheqësh një As?' Zgjidhje: m = 4 (katër As), n = 52 (gjithsej karta). P(As) = 4/52 = 1/13 = 0.077 = 7.7%\n\nSHEMBULLI 3 - Topishtat me ngjyra: 'Në shportë ka 10 topishta të kuq, 15 blu, 5 të verdhë. Sa është probabiliteti të tërheqësh një top blu?' Zgjidhje: m = 15 (topishta blu), n = 30 (gjithsej topishta). P(blu) = 15/30 = 1/2 = 0.5 = 50%\n\nPunë në grupe (3-4 nxënës): Çdo grup merr një set materialesh dhe llogarit probabilitetet për situata të ndryshme. Grupi 1: hedhje zarash, Grupi 2: tërheqje kartash, Grupi 3: rrotëz me numra. Secili grup prezanton një llogaritje në tabelë.\n\n**PRAKTIKA** (8-10 minuta)\na) Niveli bazë: 1) Probabiliteti i daljes së numrit çift në zar 6-faqësh. 2) Probabiliteti i tërheqjes së një karte të kuqe. 3) Probabiliteti i daljes së 'tulave' në monedhë.\n\nb) Niveli mesatar: 1) Në një kuti ka 8 fishekë të kuq, 12 blu, 5 të verdhë. Sa është probabiliteti të tërheqësh dy fishekë blu radhazi (pa kthim)? 2) Sa është probabiliteti që në dy hedhje zari, të paktën njëra të japë numër mbi 4?\n\nc) Niveli i avancuar: Në lotarinë e shkollës ka 100 bileta, 5 fitues. Nëse Ana blen 3 bileta, sa është probabiliteti që të fitojë të paktën një çmim?\n\n**MBYLLJA** (3-5 minuta)\nPërmbledhje: 1) Probabiliteti mat shanset nga 0 (e pamundur) deri 1 (e sigurt). 2) Llogaritet me formulën P(A) = m/n. 3) Mund të shprehet si thyesë, dhjetor ose përqindje. Quiz verbal: 'Cili probabilitet është më i madh: 0.3 apo 40%?' Parashikim: 'Orën e ardhshme do të mësojmë probabilitetin e ngjarjeve të përbëra dhe do të eksperimentojmë me hedhje të shumta zarash.'",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**BAZË:** Zgjidhni ushtrimet 1-8 nga faqja 138: llogaritni probabilitetin e daljes së numrave tek në zar, probabilitetin e tërheqjes së kartave me ngjyrë të zezë, probabilitetin e zgjedhjes së një nxënësi djalë nga klasa. Shprehni rezultatet si thyesa të thjeshtuara dhe përqindje.\n\n**KRIJUESE:** Krijoni një lojë fate për aktivitetin e fundvitit të shkollës. Përgatisnі një poster që tregon probabilitetet e fitimit për secilën lojë (hedhje zarash, rrotëz fati, tërheqje biletash). Llogaritni sa bileta duhen shitur që të mbuloni kostot dhe të keni fitim 20%.\n\n**SHTESË (fakultative):** Hulumtoni probabilitetin e ngjarjeve të përbëra: sa është probabiliteti që në 3 hedhje monedhe të dalin 2 herë 'koka'? Përdorni internetin për të gjetur probabilitetin e fitimit në 'Loto 5/35' dhe krahasojeni me probabilitetin e prekjes nga rrufeja.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Probabiliteti",
+      "page_or_row": "106"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

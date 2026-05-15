@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_046",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 46,
+  "tema": "Shumëzimi i numrave dhjetorë",
+  "tematika": "Numri",
+  "month": "Dhjetor",
+  "trimester": 1,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës së 7-të të shkollës 'Fan Noli' në Tiranë planifikojnë të organizojnë një treg shkollor për Krishtlindje. Ata duhet të llogaritin kostot dhe çmimet për produktet e tyre: çokollata të vogla që kushtojnë 2.35 lekë për copë dhe do t'i shesin me 3.75 lekë, pulla urimesh që kushtojnë 1.80 lekë dhe do t'i shesin me 2.50 lekë. Për të llogaritur fitimin dhe planifikuar blerjet, nxënësit duhet të zotërojnë shumëzimin e numrave dhjetorë.",
+  "rezultatet": [
+    "Nxënësi/ja llogarit saktësisht prodhimin e dy numrave dhjetorë duke përdorur rregullin e vendosjes së presjes dhjetore",
+    "Nxënësi/ja identifikon vendin e saktë të presjes dhjetore në prodhimin e numrave dhjetorë",
+    "Nxënësi/ja zgjidh probleme praktike nga jeta e përditshme që kërkojnë shumëzimin e numrave dhjetorë",
+    "Nxënësi/ja demonstron procedurën e shumëzimit të një numri dhjetor me numër natyror",
+    "Nxënësi/ja argumenton pse në prodhimin e numrave dhjetorë presja vendoset sipas shumës së shifrave pas presjes",
+    "Nxënësi/ja përdor strategji të ndryshme për të kontrolluar saktësinë e rezultatit të shumëzimit"
+  ],
+  "fjalet_kyce": [
+    "numër dhjetor (decimal number)",
+    "presje dhjetore (decimal point)",
+    "prodhim/rezultat i shumëzimit",
+    "shifra pas presjes dhjetore",
+    "shumëzim vertikal",
+    "vlerësim i rezultatit",
+    "numër natyror",
+    "algoritmi i shumëzimit"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 2: Numrat dhjetorë, faqe 38-42",
+    "Kalkulatore për kontroll (një për çdo grup)",
+    "Fletë pune e përgatitur me 15 ushtrime të nivelit të ndryshëm",
+    "Tabelë e madhe për demonstrime me shembuj",
+    "Kartela me çmime produktesh nga tregjete shqiptare",
+    "Vizore për ndarjen e kolonave gjatë shumëzimit vertikal"
+  ],
+  "lidhja": "Lënda lidhet fuqishëm me Edukimin për Jetën (planifikim buxhetesh, llogaritje çmimesh në treg), Gjeografi (llogaritje distancash dhe shkallësh në harta), Fizikë (matje dhe llogaritje me instrumente matëse), Arte (llogaritje përmasash për projekte artistike) dhe Edukim Qytetar (menaxhim personal dhe familjar i parasë, kursime). Në jetën e përditshme përdoret për blerje në dyqane, llogaritje konsumi energjie elektrike, matje të ingredientëve në gatim sipas recetave tradicionale shqiptare.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nKjo orë synon që nxënësit të zotërojnë teknikën e shumëzimit të numrave dhjetorë dhe të kuptojnë rregullin e vendosjes së presjes dhjetore në rezultat. Ata do të aplikojnë këto njohuri për zgjidhjen e problemeve praktike nga jeta e përditshme.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\nMësuesi prezanton situatën e tregut shkollor: \"Sa do të kushtojnë 4 çokollata nëse çdo copë kushton 2.35 lekë?\" Nxënësit përpiqen të gjejnë përgjigjen me metoda të ndryshme. Mësuesi shënon në tabelë: 2.35 × 4 = ? dhe pyet: \"Si mund ta llogarisim këtë?\" Lidhet me shumëzimin e numrave natyrorë të mësuar më parë: \"Dijmë të shumëzojmë 235 × 4 = 940, por ku duhet të vendosim presjn?\" Aktivizimi i njohurive të mëparshme: \"Çfarë dini për numrat dhjetorë? Sa shifra ka pas presjes në 2.35?\"\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\nMësuesi shpjegon rregullin: \"Numri i shifrave pas presjes në rezultat barazohet me shumën e shifrave pas presjeve të faktorëve.\"\n\nShembull 1: 2.35 × 4\n- Shumëzojmë si numra natyrorë: 235 × 4 = 940\n- 2.35 ka 2 shifra pas presjes, 4 ka 0 shifra\n- Rezultati do të ketë 2 + 0 = 2 shifra pas presjes\n- Vendosim presjn: 9.40 lekë\n\nShembull 2: 3.7 × 2.1\n- Shumëzojmë: 37 × 21 = 777\n- 3.7 ka 1 shifër pas presjes, 2.1 ka 1 shifër\n- Rezultati: 1 + 1 = 2 shifra pas presjes\n- Përgjigja: 7.77\n\nShembull 3: 12.45 × 0.3\n- Shumëzojmë: 1245 × 3 = 3735\n- 12.45 ka 2 shifra, 0.3 ka 1 shifër pas presjes\n- Rezultati: 2 + 1 = 3 shifra pas presjes\n- Përgjigja: 3.735\n\nPunë në grupe (4-5 nxënës): Çdo grup merr kartela me çmime produktesh dhe llogarit koston totale për sasi të ndryshme. Grupi 1: mollë 0.85 lekë/kg, grupi 2: benzinë 1.67 lekë/litër, grupi 3: bukë 0.90 lekë/copë. Demonstrim në tabelë me kontroll në kalkulatore.\n\n**PRAKTIKA** (8-10 minuta)\nTre nivele ushtrimesh:\n\na) Niveli bazë:\n- 2.4 × 3 = ?\n- 1.7 × 5 = ?\n- 6.2 × 4 = ?\n\nb) Niveli mesatar:\n- 3.25 × 1.4 = ?\n- 0.75 × 2.6 = ?\n\nc) Niveli i avancuar:\nProblemë: \"Një familje në Shkodër konsumon mesatarisht 3.75 kWh energji elektrike në ditë. Sa do të paguajë për 30 ditë nëse tarifa është 0.095 lekë/kWh?\"\n\n**MBYLLJA** (3-5 minuta)\nPërmbledhja në tre pika: 1) Shumëzojmë si numra natyrorë, 2) Numërojmë shifrat pas presjeve, 3) Vendosim presjn në rezultat. Quiz verbal: \"Sa shifra pas presjes do të ketë rezultati i 2.47 × 1.3?\" Parashikimi: \"Orën e ardhshme do të mësojmë pjesëtimin e numrave dhjetorë.\"",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**BAZË:**\n1. Zgjidhni ushtrimet 8, 9, 10, 11 nga faqja 41 të librit\n2. Llogaritni: 4.6 × 7, 3.25 × 4, 1.8 × 12\n3. Sa kushton 2.5 kg mollë nëse 1 kg kushton 1.20 lekë?\n\n**KRIJUESE:**\nKrijoni një listë blerjesh për një drekë familjare me 5 persona. Përdorni çmimet reale nga tregu i lagjes suaj. Llogaritni koston totale duke shumëzuar çmimet me sasinë e nevojshme për çdo produkt. Prezantoni në një tabelë të bukur.\n\n**SHTESË (fakultative):**\nHulumtoni se sa është konsumi mesatar mujor i energjisë elektrike të një familjeje shqiptare dhe llogaritni kostot për 6 muaj duke përdorur tarifat aktuale. Krahasoni me konsumin e familjes suaj.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Numri",
+      "page_or_row": "46"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

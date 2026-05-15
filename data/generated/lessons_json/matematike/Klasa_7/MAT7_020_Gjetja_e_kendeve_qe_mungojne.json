@@ -1,0 +1,63 @@
+{
+  "id": "MAT7_020",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "III",
+  "lesson_number": 20,
+  "tema": "Gjetja e këndeve që mungojnë",
+  "tematika": "Gjeometria",
+  "month": "Tetor",
+  "trimester": 1,
+  "duration_minutes": 45,
+  "situata": "Nxënësit zbulojnë se kur dimë disa kënde në një figurë, mund të gjejmë të tjerët duke përdorur vetitë e këndeve dhe figurave gjeometrike.",
+  "rezultatet": [
+    "Nxënësi/ja përdor vetitë e këndeve të drejtëzave që priten për të gjetur kënde",
+    "Nxënësi/ja aplikon vetitë e këndeve të trekëndëshit",
+    "Nxënësi/ja argumenton zgjidhjen hap pas hapi",
+    "Nxënësi/ja zgjidh probleme me kënde të panjohura"
+  ],
+  "fjalet_kyce": [
+    "Kënd",
+    "Kënde në kulm",
+    "Kënde ngjitur",
+    "Shuma e këndeve",
+    "Trekëndësh",
+    "Argumentim"
+  ],
+  "burimet": [
+    "Libri i matematikës klasa 7, fq. 114-119",
+    "Figura gjeometrike",
+    "Raportor",
+    "Fletë pune",
+    "Vizore"
+  ],
+  "lidhja": "Lidhje me shkencat natyrore: reflektimi i dritës. Lidhje me Inxhinierinë: llogaritjet strukturore.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "QËLLIMI: Nxënësit do të mësojnë strategji për gjetjen e këndeve të panjohura në figura të ndryshme.\n\nHYRJA (5 min):\n• Enigmë: Në një figurë, një kënd është 70°. Këndi ngjitur është... ?\n• Përgjigje: 180° - 70° = 110° (kënde suplementare në drejtëz)\n• Sot do të zgjidhim probleme më komplekse!\n\nZHVILLIMI (27 min):\n• VETITË BAZË:\n  1. Këndet në kulm janë të barabartë\n  2. Këndet ngjitur mbi drejtëz: shuma = 180°\n  3. Këndet rreth pikës: shuma = 360°\n  4. Këndet e trekëndëshit: shuma = 180°\n\n• STRATEGJIA E ZGJIDHJES:\n  1. Identifiko vetinë që mund të përdorësh\n  2. Shkruaj ekuacionin\n  3. Zgjidh për këndin e panjohur\n  4. Verifiko përgjigjen\n\n• SHEMBUJ:\n  1. Dy drejtëza priten. Njëri kënd = 65°. Gjeni të tjerët.\n     Këndi në kulm: 65°\n     Këndet ngjitur: 180° - 65° = 115°\n     Përgjigje: 65°, 115°, 65°, 115°\n\n  2. Në trekëndësh: ∠A = 50°, ∠B = 70°. Gjeni ∠C.\n     ∠A + ∠B + ∠C = 180°\n     50° + 70° + ∠C = 180°\n     ∠C = 180° - 120° = 60°\n\n  3. Tre kënde rreth pikës janë x, 2x, dhe 3x. Gjeni x.\n     x + 2x + 3x = 360°\n     6x = 360° → x = 60°\n     Këndet: 60°, 120°, 180°\n\n  4. Në trekëndësh barabrinjës, këndi në kulm = 40°. Gjeni këndet në bazë.\n     40° + α + α = 180°\n     2α = 140° → α = 70°\n\nPRAKTIKA (10 min):\n• Ushtrim 1: Dy drejtëza priten, një kënd = 48°. Gjeni tre të tjerët.\n• Ushtrim 2: Në trekëndësh: ∠P = 35°, ∠Q = 85°. Gjeni ∠R.\n• Ushtrim 3: Këndet rreth pikës janë 2x, 3x, 4x, 5x. Gjeni x dhe këndet.\n• Ushtrim 4: Trekëndësh kënddrejtë ka një kënd 30°. Gjeni të tretin.\n\nMBYLLJA (3 min):\n• Hapat: Identifiko vetinë → Shkruaj ekuacionin → Zgjidh → Verifiko\n• 'Exit ticket': Një enigmë me kënde",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "1. Dy drejtëza priten, një kënd = 72°. Gjeni masat e të gjithë këndeve.\n2. Në trekëndësh: ∠A = 3∠B, ∠C = 2∠B. Gjeni tre këndet.\n3. Katër kënde rreth pikës janë në raport 1:2:3:4. Gjeni masat.\n4. Trekëndësh dybrinjënjëshëm ka këndet bazë 65° secili. Gjeni këndin në kulm.\n5. Sfidë: Në një katërkëndësh, tre kënde janë 80°, 95°, 110°. Gjeni të katërtin.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Gjeometria",
+      "page_or_row": "20"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

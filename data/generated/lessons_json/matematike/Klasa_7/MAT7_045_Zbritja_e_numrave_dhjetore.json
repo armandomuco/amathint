@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_045",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 45,
+  "tema": "Zbritja e numrave dhjetorë",
+  "tematika": "Numri",
+  "month": "Dhjetor",
+  "trimester": 1,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës së 7-të të shkollës 'Fan S. Noli' në Tiranë organizojnë një bazaar bamirësieje për të ndihmuar familjet në nevojë para festave të fundvitit. Ata duhet të llogaritsin sa para kanë mbledhur nga shitja e ëmbëlsirave dhe sa para kanë shpenzuar për blerjen e ingredientëve, duke përdorur zbritjen e numrave dhjetorë për të gjetur fitimin final. Çmimet e produkteve janë në euro dhe lekë me shifra dhjetore.",
+  "rezultatet": [
+    "Nxënësi/ja përkufizon rregullat e zbritjes së numrave dhjetorë duke radhitur shifrat sipas pozitave dhjetore",
+    "Nxënësi/ja llogarit saktësisht zbritjen e numrave dhjetorë me 1-3 shifra pas presjes dhjetore",
+    "Nxënësi/ja identifikon kur është e nevojshme 'marrja hua' gjatë zbritjes së numrave dhjetorë",
+    "Nxënësi/ja zgjidh probleme praktike të jetës së përditshme duke përdorur zbritjen e numrave dhjetorë",
+    "Nxënësi/ja demonstron zbritjen e numrave dhjetorë në kolona duke respektuar pozitat dhjetore",
+    "Nxënësi/ja argumenton pse rezultati i zbritjes së numrave dhjetorë mund të jetë më i vogël se një nga numrat fillestare"
+  ],
+  "fjalet_kyce": [
+    "presja dhjetore (decimal point)",
+    "shifra dhjetore",
+    "pozita dhjetore",
+    "marrja hua (borrowing)",
+    "minuend (numri nga i cili zbritet)",
+    "subtrahend (numri që zbritet)",
+    "diferencë (rezultati i zbritjes)",
+    "radhitja vertikale"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 2 'Numrat dhjetorë', faqet 32-38",
+    "Tabla dhe marker për demonstrime",
+    "Fletë pune e përgatitur me 15 ushtrime të niveleve të ndryshme",
+    "Kalkulatore për verifikimin e rezultateve",
+    "Kartela me numra dhjetorë për aktivitetin në grup",
+    "Posteri i madh me skemën e pozitave dhjetore"
+  ],
+  "lidhja": "Lidhje me Gjeografinë për llogaritjen e distancave në kilometra midis qyteteve shqiptare, me shkencat natyrore për matjen e temperaturave negative në dimër, me Ekonominë për llogaritjen e çmimeve dhe kursimeve në lekë dhe euro, me Historinë për studimet demografike me shifra dhjetore, dhe me jetën e përditshme për blerjet në treg, llogaritjen e notave mesatare, dhe menaxhimin e parave të xhepave.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nOrë mësimore synon që nxënësit të zotërojnë teknikën e zbritjes së numrave dhjetorë dhe të aplikojnë këtë aftësi në zgjidhjen e problemave praktike të lidhura me jetën e tyre të përditshme, veçanërisht në situata që përfshijnë para dhe matje.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\nMësuesja fillon me një aktivitet motivues duke shfaqur një fletë blerje të vërtetë nga supermarketi 'Big Market' me çmime si 4.75 euro, 12.30 euro, dhe 8.90 euro. Pyetje orientuese: 'Nëse keni 20.00 euro dhe blini produkte me vlerë 15.65 euro, sa para do t'ju mbeten?' Aktiviteti i 'Lojës së Parasë': secili nxënës merr një kartë me një shumë parash dhjetore (si 25.40 lekë) dhe duhet të zbritet nga një shumë më e madhe (si 50.00 lekë). Kjo e lidh me orën e kaluar për mbledhjen e numrave dhjetorë, duke përmendur se sot do të mësojnë veprimin e kundërt.\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\nShpjegimi fillon me vizatimin e pozitave dhjetore në tabelë: dhjetëra, njësitë, dhjetëshja, qindëshja. Mësuesja demonstron tre shembuj të plotë:\n\nShembull 1: 15.7 - 8.4\n- Radhitim vertikal: pozita e dhjetëshes nën pozitën e dhjetëshes\n- Zbritet 4 nga 7 = 3 (dhjetëshe)\n- Zbritet 8 nga 15 (5-8 nuk bëhet, marrim hua nga dhjetëra): 15-8=7\n- Rezultati: 7.3\n\nShembull 2: 23.45 - 15.78\n- Radhitim i saktë: qindëshet nën qindëshe, dhjetëshet nën dhjetëshe\n- 5-8 nuk bëhet, marrim hua: 15-8=7\n- 3-7 (pas marrjes hua bëhet 2-7) nuk bëhet, marrim hua: 13-7=6, por nga 4 bëhet 3\n- 2-5 (pas marrjes hua bëhet 1-5) nuk bëhet, marrim hua: 12-5=7\n- Rezultati: 7.67\n\nShembull 3: 50.00 - 27.85\n- Punë me zerot: 0-5 nuk bëhet, 0-8 nuk bëhet\n- Marrja hua nga pozitat më të larta\n- Rezultati: 22.15\n\nPunë në grupe (3-4 nxënës): Çdo grup merr fletë pune me 4 ushtrime për t'i zgjidhur bashkë. Një anëtar shpjegon në tabelë zgjidhjen e grupit. Demonstrimi bëhet nga nxënësit në tabelën e klasës me mbikëqyrjen e mësueses.\n\n**PRAKTIKA** (8-10 minuta)\na) Niveli bazë:\n- 12.6 - 7.3 =\n- 25.8 - 14.5 =\n- 30.0 - 18.7 =\n\nb) Niveli mesatar:\n- 45.27 - 28.89 =\n- 100.5 - 67.78 =\n\nc) Niveli i avancuar:\nProblema: Ariana ka 85.50 lekë. Blen një libër me 32.75 lekë dhe një stilolaps me 18.90 lekë. Sa para i mbeten dhe a i mjaftojnë për të blerë edhe një fletore që kushton 25.60 lekë?\n\n**MBYLLJA/REFLEKTIMI** (3-5 minuta)\nPërmbledhja e tre pikave kryesore: 1) Radhitimi i saktë sipas pozitave dhjetore, 2) Marrja hua kur shifra e poshtme është më e madhe, 3) Kujdesi me zerot në pozitat dhjetore. Quiz verbal: 'Çfarë bëjmë kur 3-7 nuk realizohet?' Parashikim: Ora e ardhshme do të trajtojë shumëzimin e numrave dhjetorë në kontekstin e llogaritjes së sipërfaqeve të dhomave.",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**DETYRË BAZË:**\nZgjidhni ushtrimet 1-6 nga faqja 36 të librit:\n- 18.7 - 12.4 =\n- 35.2 - 19.8 =\n- 67.45 - 23.67 =\n- 90.0 - 45.75 =\n\n**DETYRË KRIJUESE:**\nKrijoni një problem të shkurtër matematikor duke përdorur çmimet e produkteve që gjenden në shtëpinë tuaj (të paktën 3 produkte me çmime dhjetore). Shkruani problemin dhe zgjidheni duke përdorur zbritjen e numrave dhjetorë. Paraqiteni në një fletë A4 me ngjyra dhe vizatime.\n\n**DETYRË SHTESË (fakultative):**\nHulumtoni dhe llogaritni: Nëse temperatura në Tiranë është 8.5°C dhe në Korçë është -2.3°C, sa gradë diferencë ka? Gjeni temperaturat maksimale dhe minimale të 5 qyteteve të Shqipërisë dhe llogaritni diferencat duke përdorur zbritjen e numrave dhjetorë, duke përfshirë edhe numrat negativë.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Numri",
+      "page_or_row": "45"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

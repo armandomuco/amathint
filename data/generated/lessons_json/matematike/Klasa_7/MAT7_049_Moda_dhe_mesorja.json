@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_049",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 49,
+  "tema": "Moda dhe mesorja",
+  "tematika": "Statistika",
+  "month": "Dhjetor",
+  "trimester": 1,
+  "duration_minutes": 45,
+  "situata": "Klasa 7C e shkollës 'Faik Konica' në Tiranë kryen një hulumtim për të gjetur cilat janë sportet më të preferuara nga nxënësit e shkollës së tyre. Ata mbledhin të dhëna nga 120 nxënës të klasave 6-9 dhe duhet të përdorin modën dhe mesorjen për të prezantuar rezultatet e hulumtimit në një takim me drejtuesin e shkollës.",
+  "rezultatet": [
+    "Nxënësi/ja përkufizon saktësisht konceptin e modës si vlerën më të shpeshtë në një bashkësi të dhënash",
+    "Nxënësi/ja identifikon modën në seri të dhënash numerike dhe kategoriale",
+    "Nxënësi/ja llogarit mesorjen e një grupi të dhënash të renditura sipas madhësisë",
+    "Nxënësi/ja demonstron ndryshimin midis modës dhe mesores me shembuj konkretë",
+    "Nxënësi/ja zgjidh probleme praktike duke përdorur modën dhe mesorjen në situata të jetës së përditshme",
+    "Nxënësi/ja argumenton cilën masë qendrore (modë ose mesore) duhet përdorur në situata të ndryshme"
+  ],
+  "fjalet_kyce": [
+    "moda (mode)",
+    "mesorja (median)",
+    "të dhëna (data)",
+    "frekuenca",
+    "renditja në rend rritës/zbritës",
+    "masi qendrore",
+    "pozicioni qendror",
+    "vlerë më e shpeshtë"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 8 'Statistika', faqe 134-142",
+    "Tabela të mëdha për demonstrime dhe llogaritje",
+    "Fletë pune e përgatitur me 15 seri të dhënash të ndryshme",
+    "Kalkulatore për llogaritjet e shpejta",
+    "Kartela me koncepte për punën në grupe",
+    "Kompjuter dhe projektor për prezantimin e shembujve"
+  ],
+  "lidhja": "Lënda e Gjeografisë për analizimin e të dhënave klimatike të Shqipërisë (temperatura mesatare, reshjet). Edukimi Fizik për statistikat e lojërave sportive. Shkencat Sociale për studimet demografike. Gjuha Shqipe për analizimin e frekuencës së fjalëve në tekste letrare. Aktivitete praktike si hulumtimi i çmimeve të produkteve në tregje lokale, analizimi i pikëve të nxënësve në provime, dhe organizimi i të dhënave për festivale shkollore.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nNxënësit do të mësojnë të llogaritsin modën dhe mesorjen e një grupi të dhënash, duke kuptuar ndryshimin midis tyre dhe duke zgjedhur masën më të përshtatshme qendrore për situata të ndryshme praktike.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\nMësuesi fillon me një lojë interaktive: 'Cili është numri juaj i preferuar nga 1 deri në 10?' Nxënësit ngrenë dorë dhe përgjigjën. Mësuesi regjistron përgjigjet në tabelë: 3, 7, 5, 7, 2, 7, 8, 5, 7, 3, 7, 6, 4, 7, 5. Pyetje orientuese: 'Cili numër përsëritet më shumë?' (7 - 6 herë). 'Nëse i rendisim këto numra, cili do të jetë në mes?' Kjo lidhja me orën e kaluar rreth organizimit të të dhënave dhe frekuencës.\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\nMësuesi shpjegon konceptet bazë me tre shembuj të detajuar:\n\nShembulli 1 - Gjetur modën:\nNotat e një nxënësi në matematikë: 8, 7, 9, 8, 6, 8, 7, 8\nHapi 1: Numërojmë frekuencën: 6→1 herë, 7→2 herë, 8→4 herë, 9→1 herë\nHapi 2: Identifikojmë vlerën më të shpeshtë: 8 (4 herë)\nPërgjigje: Moda = 8\n\nShembulli 2 - Gjetur mesorjen:\nMoshat e 7 anëtarëve të një ekipi: 12, 14, 13, 15, 12, 16, 13\nHapi 1: Rendisim në rend rritës: 12, 12, 13, 13, 14, 15, 16\nHapi 2: Gjejmë pozicionin qendror: (7+1)÷2 = 4-të vlera\nHapi 3: Mesorja = vlera e 4-të = 13\nPërgjigje: Mesorja = 13 vjeç\n\nShembulli 3 - Numër çift të dhënash:\nÇmimet e bukës në 8 dyqane (lekë): 80, 90, 85, 95, 80, 85, 90, 100\nModa: Rendisim frekuencat: 80→2, 85→2, 90→2, 95→1, 100→1 (Ka tri moda: 80, 85, 90)\nMesorja: Rendisim: 80, 80, 85, 85, 90, 90, 95, 100\nMesorja = (85+90)÷2 = 87.5 lekë\n\nPunë në grupe (3 nxënës): Çdo grup merr një fletë pune me një skenario të ndryshëm (nota provimesh, moshat e familjes, çmimet e produkteve) dhe duhet të gjejnë modën dhe mesorjen duke ndjekur hapat e mësuara.\n\n**PRAKTIKA** (8-10 minuta)\na) Niveli bazë (2-3 ushtrime):\n- Gjeni modën: 5, 3, 7, 5, 2, 5, 8\n- Gjeni mesorjen: 4, 6, 8, 10, 12\n- Rendisni: 15, 12, 18, 12, 20 dhe gjeni mesorjen\n\nb) Niveli mesatar (2 ushtrime):\n- Nota të matematikës: 6, 8, 7, 9, 8, 6, 7, 8, 9, 6. Gjeni modën dhe mesorjen\n- 10 nxënës kanë këto moshat: 13, 14, 13, 15, 14, 13, 16, 14, 15, 13. Krahasoni modën dhe mesorjen\n\nc) Niveli i avancuar (1 problemë sfiduese):\n- Një klasë ka këto nota: 7, 8, 6, 9, 8, 7, x, 8, 9. Nëse moda është 8, cilat vlera mund të ketë x? Nëse mesorja është 8, sa është x?\n\n**MBYLLJA** (3-5 minuta)\nPërmbledhje e tre pikave kryesore:\n1. Moda është vlera që përsëritet më shumë\n2. Mesorja është vlera që ndodhet në mes kur të dhënat janë të renditura\n3. Për numër çift të dhënash, mesorja është mesatarja e dy vlerave qendrore\n\nQuiz verbal: 'Në serinë 3, 5, 5, 7, 8, cila është moda?' (5) 'Cila është mesorja?' (5)\nParashikim: Ora e ardhshme do të mësojmë mesataren aritmetike dhe do t'i krahasojmë të tre masat qendrore.",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**BAZË:** Zgjidhni ushtrimet 1-6 nga libri, faqe 139. Gjeni modën dhe mesorjen për: a) 12, 15, 12, 18, 12, 20, 15  b) 25, 30, 35, 40, 45  c) 8, 6, 9, 8, 7, 6, 8, 9, 7  d) Moshat në familjen tuaj\n\n**KRIJUESE:** Kryeni një hulumtim të shkurtër në klasën tuaj: Pyesni 15 nxënës 'Sa orë në ditë shikoni televizor?' Organizoni të dhënat në tabelë, gjeni modën dhe mesorjen, dhe shkruani një paragraf që shpjegon rezultatet.\n\n**SHTESË (fakultative):** Hulumtoni në internet çmimet e telefonave më të shitur në Shqipëri (të paktën 12 modele). Gjeni modën dhe mesorjen e çmimeve. Cila masë qendrore e përshkruan më mirë tregun? Argumentoni përgjigjen tuaj në 5-6 rreshta.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Statistika",
+      "page_or_row": "49"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

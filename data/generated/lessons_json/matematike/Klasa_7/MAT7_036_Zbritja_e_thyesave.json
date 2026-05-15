@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_036",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 36,
+  "tema": "Zbritja e thyesave",
+  "tematika": "Numri",
+  "month": "Nëntor",
+  "trimester": 1,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës së 7-të në shkollën 'Fan Noli' në Tiranë organizojnë një treg shkollor për të mbledhur fonde për bibliotekën. Ata blejnë lëndë të parë për të bërë ëmbëlsira: 3/4 kg miell në tregun e Pazarit të Ri me çmim 200 lekë/kg, dhe pastaj përdorin 2/5 kg për të bërë byrek. Duhet të llogaritsin sa miell u ka mbetur dhe sa lekë kanë shpenzuar për atë që përdorën.",
+  "rezultatet": [
+    "Nxënësi/ja përkufizon rregullin e zbritjes së thyesave me emërues të njëjtë dhe të ndryshëm",
+    "Nxënësi/ja llogarit saktësisht diferencën e dy thyesave duke i kthyer në emërues të përbashkët",
+    "Nxënësi/ja demonstron se 3/4 - 2/5 = 15/20 - 8/20 = 7/20 duke treguar të gjithë hapat",
+    "Nxënësi/ja zgjidh probleme praktike të zbritjes së thyesave në kontekstin e jetës së përditshme",
+    "Nxënësi/ja argumenton pse duhet të gjejë emëruesin e përbashkët para se të zbresë thyesat",
+    "Nxënësi/ja identifikon gabimet më të shpeshta në zbritjen e thyesave dhe i korrigjon ato"
+  ],
+  "fjalet_kyce": [
+    "thyesë (fraction)",
+    "emëruesi (denominator)",
+    "numer (numerator)",
+    "emëruesi i përbashkët (common denominator)",
+    "EPMT - Emëruesi i Përbashkët më i Vogël",
+    "thyesë të njëvlershme (equivalent fractions)",
+    "forma e thjeshtuar (simplest form)",
+    "zbritje thyesash (subtraction of fractions)"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 2: Thyesat, faqe 34-38",
+    "Fletë pune e përgatitur me 15 ushtrime të graduar sipas vështirësisë",
+    "Kartela me thyesa të ndryshme për demonstrime vizuale",
+    "Vizore dhe laps për të vizatuar figurat përfaqësuese",
+    "Tabela demonstruese për llogaritjen e EPMT",
+    "Kalkulatorë për kontrollimin e rezultateve"
+  ],
+  "lidhja": "Lidhje me shkencat natyrore në matjen e masave dhe volumeve (kg, litra). Lidhje me Gjeografinë në llogaritjen e distancave dhe proporcionalitetit në harta. Lidhje me Artet në krijimin e posterave vizuale për prezantimin e thyesave. Lidhje me Edukimin Financiar në llogaritjen e shpenzimeve dhe kursimeve në jetën e përditshme shqiptare. Përdorim praktik në kuzhinë për llogaritjen e përbërësve të recetave tradicionale shqiptare.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nNxënësit do të mësojnë të zbresë thyesat me emërues të ndryshëm duke përdorur emëruesin e përbashkët. Ora synon të forcojë shkathtësitë llogaritëse dhe lidhjen e matematikës me situata praktike nga jeta e përditshme.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\nFilloj me një lojë: 'Tregu i thyesave'. Në tabelë vizatoj një kuti me 3/4 kg miell dhe pyes: 'Nëse përdorim 1/4 kg për byrek, sa na mbetet?' Nxënësit përgjigjen lehtë: 2/4 = 1/2 kg. Pastaj pyes: 'Po nëse përdorim 2/5 kg?' Nxënësit nuk mund ta zgjidhin menjëherë. Shkruaj në tabelë: 3/4 - 2/5 = ? Pyes: 'Pse nuk mund ta llogaritim këtë drejtpërdrejt?' Lidh me orën e kaluar për mbledhjen e thyesave dhe kujtoj rregullin: 'Thyesat mblidhen dhe zbrihen vetëm nëse kanë emërues të njëjtë.'\n\n**REALIZIMI I KUPTIMIT/ZHVILLIMI** (25-28 minuta)\nShpjegoj konceptin me tre shembuj konkretë:\n\nShembull 1: 3/4 - 2/5\nHapi 1: Gjej EPMT për 4 dhe 5. Faktorët e 4: 4, 8, 12, 16, 20... Faktorët e 5: 5, 10, 15, 20... EPMT = 20\nHapi 2: Shndërroj thyesat: 3/4 = 15/20 dhe 2/5 = 8/20\nHapi 3: Zbres: 15/20 - 8/20 = 7/20\nHapi 4: Kontrolloj nëse mund ta thjeshtoj: 7/20 është në formë të thjeshtuar\n\nShembull 2: 5/6 - 1/4\nHapi 1: EPMT për 6 dhe 4: Faktorët e 6: 6, 12, 18... Faktorët e 4: 4, 8, 12... EPMT = 12\nHapi 2: 5/6 = 10/12 dhe 1/4 = 3/12\nHapi 3: 10/12 - 3/12 = 7/12\n\nShembull 3: 7/8 - 3/10\nHapi 1: EPMT për 8 dhe 10: 40\nHapi 2: 7/8 = 35/40 dhe 3/10 = 12/40\nHapi 3: 35/40 - 12/40 = 23/40\n\nPastaj organizoj punën në grupe prej 4 nxënësish. Çdo grup merr kartela me thyesa të ndryshme dhe duhet të llogarisë 3 zbritje. Grupi 1: thyesa me emërues 2, 4, 8. Grupi 2: thyesa me emërues 3, 6, 9. Rrotulloj dhe ndihmoj grupet duke treguar metodën e EPMT në detaje.\n\n**PRAKTIKA/USHTRIME** (8-10 minuta)\na) Niveli bazë - Llogaritni:\n- 2/3 - 1/6 = ? (Përgjigja: 4/6 - 1/6 = 3/6 = 1/2)\n- 3/5 - 1/10 = ? (Përgjigja: 6/10 - 1/10 = 5/10 = 1/2)\n- 7/8 - 1/4 = ? (Përgjigja: 7/8 - 2/8 = 5/8)\n\nb) Niveli mesatar:\n- 5/6 - 2/9 = ? (EPMT = 18, përgjigja: 15/18 - 4/18 = 11/18)\n- 4/5 - 3/8 = ? (EPMT = 40, përgjigja: 32/40 - 15/40 = 17/40)\n\nc) Niveli i avancuar:\n- Një pazarxhi ka 7/8 kg domatë. Shet 2/5 kg në mëngjes dhe 1/4 kg në drekë. Sa kg domatë i kanë mbetur? (Duhet të llogaritë: 7/8 - 2/5 - 1/4)\n\n**MBYLLJA/REFLEKTIMI** (3-5 minuta)\nPërmbledh tri pikat kryesore: 1) Për të zbritur thyesa duhet emërues i njëjtë, 2) Gjejmë EPMT-në, 3) Shndërrojmë, zbresim dhe thjeshtojmë. Bëj quiz verbal: 'Sa është 1/2 - 1/3?' Pres përgjigjen: 3/6 - 2/6 = 1/6. Parashikoj orën e ardhshme: 'Nesër do të mësojmë shumëzimin e thyesave, që është më i lehtë se zbritja!'",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**1. DETYRË BAZË:**\nZgjidhni ushtrimet 1-6 nga libri, faqe 37:\n- 3/4 - 1/2\n- 5/6 - 1/3  \n- 7/10 - 2/5\n- 4/7 - 1/14\n\n**2. DETYRË KRIJUESE:**\nKrijoni një problem praktik për familjen tuaj: Llogaritni sa kg miell, sheqer ose vaj keni në shtëpi dhe sa përdorni për një recetë tradicionale shqiptare (byrek, baklava, etj). Shkruani problemin dhe zgjidheni duke përdorur zbritjen e thyesave. Prezantoni në një fletë A4 me vizatime.\n\n**3. DETYRË SHTESË (Fakultative):**\nHulumtoni dhe zgjidhni problemin: 'Një restorant në Bulevardin e Dëshmorëve në Tiranë përdor 5/6 kg vaj ulliri në ditë. Nëse ka blerë 2 1/4 kg (thyesë e përzier) në fillim të javës dhe ka përdorur 3/4 kg të hënën dhe 2/3 kg të martën, sa vaj i ka mbetur për ditët e tjera?' Tregoni të gjitha hapat e llogaritjes.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Numri",
+      "page_or_row": "36"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

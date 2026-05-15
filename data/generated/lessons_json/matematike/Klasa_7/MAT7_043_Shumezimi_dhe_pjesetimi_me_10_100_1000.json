@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_043",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 43,
+  "tema": "Shumëzimi dhe pjesëtimi me 10, 100, 1000",
+  "tematika": "Numri",
+  "month": "Nëntor",
+  "trimester": 1,
+  "duration_minutes": 45,
+  "situata": "Klasa e 7B të shkollës 'Naim Frashëri' në Tiranë po organizon një treg bamirësie për të ndihmuar fëmijët në nevojë. Nxënësit duhet të llogaritsin çmimet e produkteve kur blejnë në sasi të mëdha (10, 100, 1000 copë) dhe të përcaktojnë sa para do të grumbullojnë nëse shesin të gjitha produktet. Një kuti biskota kushton 150 lekë, por nëse blejnë 10 kuti marrin 10% zbritje, 100 kuti marrin 15% zbritje, dhe 1000 kuti marrin 20% zbritje.",
+  "rezultatet": [
+    "Nxënësi/ja llogarit saktësisht produktin e një numri me 10, 100, 1000 duke lëvizur presjen dhjetore",
+    "Nxënësi/ja përcakton herësin e një numri me 10, 100, 1000 duke lëvizur presjen dhjetore në drejtimin e kundërt",
+    "Nxënësi/ja identifikon rregullin e lëvizjes së presjeve në shumëzime dhe pjesëtime me pushtete të 10-shit",
+    "Nxënësi/ja zgjidh probleme praktike që përfshijnë shumëzime dhe pjesëtime me 10, 100, 1000",
+    "Nxënësi/ja demonstron lidhjen midis shumëzimit me 10ⁿ dhe shtimit të n zeros në fund të numrit",
+    "Nxënësi/ja argumenton pse në pjesëtimin me 10ⁿ presja zhvendoset n pozicione majtas"
+  ],
+  "fjalet_kyce": [
+    "shumëzimi (multiplication)",
+    "pjesëtimi (division)",
+    "pushteti i 10-shit (power of 10)",
+    "presja dhjetore (decimal point)",
+    "10¹ = 10, 10² = 100, 10³ = 1000",
+    "zero të shtuar (adding zeros)",
+    "zhvendosja e presjës (shifting decimal point)",
+    "rregull i shkurtër (shortcut rule)"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 2: Numrat dhjetorë, faqet 34-38",
+    "Tabela e madhe 100x100 për demonstrime",
+    "Kalkulatore për verifikim të rezultateve",
+    "Fletë pune me 15 ushtrime të niveleve të ndryshme",
+    "Kartela me numra dhjetorë dhe të plotë për aktivitete",
+    "PowerPoint prezantim me animacione të lëvizjes së presjës dhjetore"
+  ],
+  "lidhja": "Lidhje me Gjeografinë përmes llogaritjes së distancave në harta (shkalla 1:10000, 1:100000). Lidhje me Ekonominë përmes llogaritjes së çmimeve në tregje dhe dyqane ku produktet shiten në sasi (10-she, 100-she). Lidhje me shkencat natyrore në matjet (nga mm në cm, nga cm në m, nga m në km). Lidhje me jetën e përditshme në Shqipëri: çmimet e produkteve në supermarkete (1 copë vs 10 copë), popullsia e qyteteve (Tirana ~500,000, Durrësi ~200,000).",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nKjo orë synon që nxënësit të kuptojnë dhe të aplikojnë rregullin e shkurtër për shumëzimin dhe pjesëtimin me 10, 100, 1000 përmes lëvizjes së presjës dhjetore, duke i përdorur këto njohuri për zgjidhjen e problemave praktike nga jeta e përditshme.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\nMësuesi fillon me një lojë matematikore: 'Shpejt-llogaritës'. Shfaq në tabelë numra të ndryshëm dhe kërkon nga nxënësit të llogaritin sa është 15 × 10, 15 × 100, 15 × 1000. Vëren që disa nxënës llogaritin me algoritmin tradicional ndërsa të tjerë thonë përgjigjet shpejt. Pyet: 'A vutë re ndonjë model?' Prezanton situatën e tregjit bamirës dhe pyet: 'Nëse një kuti kushton 150 lekë, sa kushton blerja e 10 kutive? 100 kutive? 1000 kutive?' Shkruan përgjigjet në tabelë: 1500, 15000, 150000 dhe pyet: 'Çfarë ndodh me numrin 150?'\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\nMësuesi shpjegon konceptin duke filluar me demonstrimin vizual të lëvizjes së presjës dhjetore.\n\n**Shembulli 1 - Shumëzimi me 10:**\n2.5 × 10 = ?\nDemonstrimi: 2.5 = 25/10, prandaj 25/10 × 10 = 25 × 10/10 = 25\nRregulla: Presja lëviz një pozicion djathtas → 2.5 → 25.0 = 25\nVerifikimi me kalkulatore: 2.5 × 10 = 25 ✓\n\n**Shembulli 2 - Shumëzimi me 100:**\n3.47 × 100 = ?\nRregulla: Presja lëviz dy pozicione djathtas → 3.47 → 347.0 = 347\nShpjegim: 100 = 10², prandaj presja lëviz 2 pozicione\nVerifikimi: 3.47 × 100 = 347 ✓\n\n**Shembulli 3 - Pjesëtimi me 1000:**\n4500 ÷ 1000 = ?\nRregulla: Presja lëviz tre pozicione majtas → 4500. → 4.500 = 4.5\nShpjegim: 1000 = 10³, prandaj presja lëviz 3 pozicione majtas\nVerifikimi: 4500 ÷ 1000 = 4.5 ✓\n\nNxënësit ndahen në grupe prej 4 vetash. Çdo grup merr nga 5 kartela me numra dhe duhet të llogaritin: a) numri × 10, b) numri × 100, c) numri ÷ 10, d) numri ÷ 100. Grupet prezantojnë zgjidhjet dhe shpjegojnë rregullin që kanë zbuluar. Mësuesi krijon një tabelë përmbledhëse në dërrasë:\n- Shumëzimi me 10ⁿ: Presja lëviz n pozicione DJATHTAS\n- Pjesëtimi me 10ⁿ: Presja lëviz n pozicione MAJTAS\n- Nëse nuk ka presje, shtojmë zeros në fund (për shumëzim)\n- Nëse duhen zeros shtesë, i vendosim në fillim (për pjesëtim)\n\n**PRAKTIKA** (8-10 minuta)\n**Niveli bazë:**\na) 12 × 100 = ? (Përgjigje: 1200)\nb) 45.6 ÷ 10 = ? (Përgjigje: 4.56)\nc) 0.7 × 1000 = ? (Përgjigje: 700)\n\n**Niveli mesatar:**\na) Një produkt kushton 2.45 euro. Sa kushtojnë 100 produkte? (Përgjigje: 245 euro)\nb) Nëse 1000 fletë letër peshojnë 5.5 kg, sa peshon 1 fletë? (Përgjigje: 0.0055 kg)\n\n**Niveli i avancuar:**\nNë tregun e ri të Kamzës, një tregtar shet domate. Çmimi për 1 kg është 120 lekë, por për 10 kg jep 10% zbritje, për 100 kg jep 15% zbritje. Llogaritni: Sa lekë kursen një blerës që blen 100 kg domate në vend që të blejë 100 herë nga 1 kg?\n\n**MBYLLJA** (3-5 minuta)\nPërmbledhje e pikave kryesore:\n1. Shumëzimi me 10, 100, 1000 = lëvizja e presjës djathtas\n2. Pjesëtimi me 10, 100, 1000 = lëvizja e presjës majtas\n3. Numri i pozicioneve = numri i zeros në 10, 100, 1000\n\nQuiz verbal: 'Sa është 2.3 × 100?' '230 ÷ 10?' 'Çfarë ndodh me presjen kur shumëzojmë me 1000?'\nParashikim: 'Orën e ardhshme do të mësojmë si të aplikojmë këto rregulla në llogaritjen e përqindjeve.'",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**NIVELI BAZË:** Zgjidhni ushtrimet 1-8 nga faqja 36 të librit: Llogaritni produktet dhe herësit: 15×10, 23×100, 456×1000, 89÷10, 340÷100, 5600÷1000. Shtesë: 0.6×10, 12.5×100, 4.56÷10, 789.4÷100.\n\n**DETYRA KRIJUESE:** Krijoni një poster me temë 'Matematika në tregun e Tiranës' duke përdorur të paktën 10 shembuj realë të shumëzimit/pjesëtimit me 10, 100, 1000. Përfshini çmimet e frutave/perimeve, peshën e produkteve, dhe llogaritjet për blerje në sasi. Përdorni fotografi ose vizatime.\n\n**DETYRA SHTESË (fakultative):** Hulumtoni sistemin metrik dhe shkruani një ese 1 faqe rreth 'Pse sistemi dhjetor është praktik?' Duke përfshirë shembuj nga matjet: mm→cm→dm→m→km dhe g→kg→ton. Intervistoni një tregtar të lagjes suaj dhe pyeteni si përdor llogaritjet me 10, 100, 1000 në punën e përditshme.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Numri",
+      "page_or_row": "43"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

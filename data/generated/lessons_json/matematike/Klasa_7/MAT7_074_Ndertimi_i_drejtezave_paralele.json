@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_074",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 74,
+  "tema": "Ndërtimi i drejtëzave paralele",
+  "tematika": "Gjeometria",
+  "month": "Shkurt",
+  "trimester": 2,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e shkollës 'Naim Frashëri' në Tiranë duhet të projektojnë një kopësht shkollor të ri duke planifikuar shtigje paralele që do të lidhin ndërtesën kryesore me laboratorët e shkencave. Ata duhet të përdorin instrumente gjeometrike për të siguruar që shtigjet të jenë drejtë, paralele dhe me largësi të barabarta njëra nga tjetra për të krijuar një ambient funksional dhe estetik.",
+  "rezultatet": [
+    "Nxënësi/ja përkufizon drejtëzat paralele duke përdorur simbolin || dhe kushtet gjeometrike",
+    "Nxënësi/ja ndërton drejtëza paralele duke përdorur busull dhe vizore me saktësi të plotë",
+    "Nxënësi/ja identifikon këndët alternatë të brendshëm dhe të jashtëm në drejtëza paralele të prera nga një transversale",
+    "Nxënësi/ja demonstron që shuma e këndeve alternatë të brendshëm është 180°",
+    "Nxënësi/ja llogarit madhësinë e këndeve të panjohur në figurat me drejtëza paralele",
+    "Nxënësi/ja zgjidh probleme praktike duke aplikuar vetitë e drejtëzave paralele"
+  ],
+  "fjalet_kyce": [
+    "drejtëza paralele (||)",
+    "transversale",
+    "kënd alternë i brendshëm",
+    "kënd alternë i jashtëm",
+    "kënd korrespondues",
+    "360° (kendi i plotë)",
+    "180° (kënd i drejtë i shtirë)",
+    "postulati i drejtëzës paralele"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 4 'Gjeometria në plan', faqet 52-58",
+    "Busull, vizore 30cm, laps 2H dhe goma fshirëse",
+    "Fletë milimetrike A4 dhe fije me ngjyra të ndryshme",
+    "Fletë pune e përgatitur me 12 ushtrime për ndërtim drejtëzash",
+    "Kartela me figura gjeometrike dhe kënd-matës",
+    "GeoGebra software për demonstrime interaktive (optional)"
+  ],
+  "lidhja": "Lidhje me Artet Vizuale përmes projektimit të kopështeve dhe planifikimit urban. Lidhje me Gjeografinë në leximin e hartave dhe koordinatave. Lidhje me shkencat natyrore në konceptin e forcave paralele. Aplikim praktik në arkitekturën shqiptare tradicionale ku shtëpitë e vjetra kanë traje paralele, si dhe në planifikimin e rrugëve të Tiranës së re.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nKjo orë synon që nxënësit të mësojnë të ndërtojnë drejtëza paralele duke përdorur instrumente gjeometrike dhe të kuptojnë vetitë themelore të këndeve që formohen nga prerja e drejtëzave paralele.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\nNis orën duke treguar një foto të rrugëve paralele të Bulevardit 'Dëshmorët e Kombit' në Tiranë. Pyes: 'Çfarë vëzhgoni te këto rrugë?' dhe 'Pse janë të rëndësishme linjat paralele në jetën tonë të përditshme?' Përdor fije me ngjyra për të demonstruar linja paralele dhe jo-paralele në tabelë. Lidh me orën e kaluar duke përsëritur konceptin e drejtëzës dhe segmentit.\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\nShpjegoj konceptin e drejtëzave paralele: 'Dy drejtëza janë paralele nëse nuk takohen kurrë, edhe nëse i shtrijmë në pafundësi.' Demonstroj simbolin ||.\n\nShembull 1: Ndërtoj drejtëzën AB dhe një pikë C jashtë saj. Duke përdorur busull, marr largësinë AC dhe e transferoj në dy pika të tjera të drejtëzës AB. Lidh pikën C me këto pika për të krijuar paralele.\n\nShembull 2: Tregoj metodën me kënd të barabartë - nëse kemi drejtëzën d dhe pikën P, vizatoj një transversale nga P që takon d, kopjoj këndin dhe krijoj drejtëzën paralele.\n\nShembull 3: Përdor vizoren për të matur largësinë konstante midis dy drejtëzave paralele. Demonstroj që largësia është e njëjtë në çdo pikë.\n\nTreg figurën e drejtëzave paralele AB || CD të prera nga transversalja EF. Identifikoj këndjet:\n- Alternë të brendshëm: ∠3 = ∠6, ∠4 = ∠5\n- Alternë të jashtëm: ∠1 = ∠8, ∠2 = ∠7  \n- Korrespondues: ∠1 = ∠5, ∠2 = ∠6, ∠3 = ∠7, ∠4 = ∠8\n\nPunë në grupe: Çdo grup merr një fletë milimetrike dhe dëgjon instruksionet për të ndërtuar 3 drejtëza paralele në largësi 2cm nga njëra-tjetra.\n\n**PRAKTIKA** (8-10 minuta)\na) Niveli bazë:\n   - Ndërtoni drejtëzën paralele me AB që kalon nga pika C\n   - Gjeni madhësinë e këndit x nëse ∠a = 65° dhe janë alternë të brendshëm\n   - Llogaritni ∠b nëse ∠c = 120° dhe janë korrespondues\n\nb) Niveli mesatar:\n   - Në figurën me AB || CD, nëse ∠1 = 3x + 20° dhe ∠5 = 5x - 40°, gjeni x\n   - Provoni që dy drejtëza janë paralele nëse këndjet alternë të brendshëm janë të barabartë\n\nc) Niveli i avancuar:\n   - Në një katërkëndësh ABCD, nëse AB || DC dhe ∠A + ∠D = 180°, provoni që AD || BC\n\n**MBYLLJA** (3-5 minuta)\nPërmbledh tri pikat kryesore: 1) Drejtëzat paralele nuk takohen kurrë, 2) Këndjet alternë të brendshëm janë të barabartë, 3) Largësia midis tyre është konstante. Quiz verbal: 'Nëse ∠x = 75°, sa është këndi alternë i brendshëm?' Njoftoj se ora e ardhshme do të trajtojë trapezin dhe paralelogramin.",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**BAZË:**\n1. Ndërtoni tre drejtëza paralele në largësi 1.5cm nga njëra-tjetra\n2. Gjeni këndjet e panjohur: nëse ∠a = 68° (alternë të brendshëm me ∠b)\n3. Llogaritni ∠x dhe ∠y në figurën e faqes 55, ushtrimi 1-4\n4. Shkruani simbolikisht marrëdhëniet paralele për figurat e dhëna\n\n**KRIJUESE:**\nKrijoni një poster me tema 'Paralelet në arkitekturën shqiptare' - fotografoni 5 shembuj të ndërtesave në lagjen tuaj ku shihen linja paralele (dritare, balkona, shkallë) dhe shpjegoni rëndësinë e tyre në dizajn.\n\n**SHTESË (fakultative):**\nHulumtoni dhe provoni teoremën: 'Nëse dy drejtëza në plan janë pingule me të njëjtën drejtëz të tretë, atëherë ato janë paralele me njëra-tjetrën.' Përdorni demonstrim gjeometrik me figura.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Gjeometria",
+      "page_or_row": "74"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

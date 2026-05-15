@@ -1,0 +1,63 @@
+{
+  "id": "MAT7_010",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "III",
+  "lesson_number": 10,
+  "tema": "Krahasimi i numrave të plotë",
+  "tematika": "Numri",
+  "month": "Shtator",
+  "trimester": 1,
+  "duration_minutes": 45,
+  "situata": "Nxënësit organizojnë një garë ku duhet të rendisin numrat e plotë nga më i vogli tek më i madhi. Ata përdorin boshtin numerik dhe rregullat e krahasimit për të argumentuar përgjigjet.",
+  "rezultatet": [
+    "Nxënësi/ja krahason numra të plotë duke përdorur simbolet <, >, =",
+    "Nxënësi/ja rendit numra të plotë në rend rritës dhe zbritës",
+    "Nxënësi/ja kupton lidhjen midis pozicionit në bosht dhe madhësisë",
+    "Nxënësi/ja zgjidh inekuacione të thjeshta me numra të plotë"
+  ],
+  "fjalet_kyce": [
+    "Krahasim",
+    "Më i madh",
+    "Më i vogël",
+    "Rend rritës",
+    "Rend zbritës",
+    "Inekuacion"
+  ],
+  "burimet": [
+    "Libri i matematikës klasa 7, fq. 57-61",
+    "Bosht numerik i madh",
+    "Kartela numrash",
+    "Fletë pune",
+    "Tabela krahasimesh"
+  ],
+  "lidhja": "Lidhje me jetën: krahasimi i temperaturave, llogarive bankare, rezultateve. Lidhje me Sportin: renditja e ekipeve sipas pikëve.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "QËLLIMI: Nxënësit do të përforcojnë aftësitë e krahasimit të numrave të plotë dhe do të zgjidhin probleme me inekuacione.\n\nHYRJA (5 min):\n• Lojë e shpejtë: Tregoni me duar (majtas = më i vogël, djathtas = më i madh)\n  -5 dhe 3? -2 dhe -7? 0 dhe -1?\n• Rikujtim: Në bosht, djathtas = më i madh\n\nZHVILLIMI (27 min):\n• RREGULLAT E KRAHASIMIT:\n  1. Çdo numër pozitiv > çdo numër negativ\n     Shembull: 1 > -100\n  2. Midis dy negativëve, më i madh është ai me vlerë absolute më të vogël\n     Shembull: -3 > -7 (sepse |-3| < |-7|)\n  3. Zero > çdo numër negativ, Zero < çdo numër pozitiv\n• RENDITJA:\n  - Rend rritës (nga më i vogli): -5 < -2 < 0 < 3 < 7\n  - Rend zbritës (nga më i madhi): 7 > 3 > 0 > -2 > -5\n• INEKUACIONET E THJESHTA:\n  - Gjeni numrat e plotë x ku: -3 < x < 2\n  - Përgjigje: x ∈ {-2, -1, 0, 1}\n  - Gjeni numrat e plotë x ku: x ≤ -2\n  - Përgjigje: x ∈ {..., -5, -4, -3, -2}\n• Aktivitet në çifte: 10 krahasime - kush përfundon shpejt dhe saktë?\n\nPRAKTIKA (10 min):\n• Ushtrim 1: Vendosni < ose >: a) -8 ○ -3  b) -5 ○ 2  c) -1 ○ -10  d) 0 ○ -5\n• Ushtrim 2: Renditni rritës: 4, -7, 0, -2, 5, -5, 1\n• Ushtrim 3: Gjeni numrat e plotë: a) -4 < x < 1  b) -2 ≤ x ≤ 3\n• Problem: Temperaturat e javës: Hënë -3°C, Martë 2°C, Mërkurë -5°C, Enjte 0°C, Premte -1°C. Renditni ditët nga më e ftohta.\n\nMBYLLJA (3 min):\n• Test i shpejtë: 5 krahasime për vetëvlerësim\n• Rregulla për memorizim: Mendo temperaturën - -20°C është më ftohtë se -5°C!",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "1. Krahasoni: a) -12 ○ -8  b) |-5| ○ |3|  c) -(-4) ○ -4  d) -7 ○ -(-7)\n2. Renditni zbritës: -11, 6, -3, 0, -8, 4, -1\n3. Gjeni të gjithë numrat e plotë: a) -5 ≤ x < 2  b) |x| < 4\n4. Problem: 5 qytete kanë temperatura: A=-8°C, B=-3°C, C=5°C, D=-1°C, E=0°C. Renditni nga më e ftohta.\n5. Sfidë: Gjeni numrin më të vogël të plotë që plotëson: x + 3 > -2",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Numri",
+      "page_or_row": "10"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

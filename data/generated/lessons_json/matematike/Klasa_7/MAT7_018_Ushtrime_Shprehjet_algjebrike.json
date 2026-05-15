@@ -1,0 +1,63 @@
+{
+  "id": "MAT7_018",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "III",
+  "lesson_number": 18,
+  "tema": "Ushtrime - Shprehjet algjebrike",
+  "tematika": "Algjebra",
+  "month": "Tetor",
+  "trimester": 1,
+  "duration_minutes": 45,
+  "situata": "Nxënësit konsolidojnë njohuritë mbi shprehjet algjebrike duke zgjidhur probleme të kombinuara dhe duke u përgatitur për vlerësimin e njësisë.",
+  "rezultatet": [
+    "Nxënësi/ja demonstron zotërim të shkrimit dhe thjeshtimit të shprehjeve",
+    "Nxënësi/ja zbërthen kllapat dhe bashkon termat e ngjashëm",
+    "Nxënësi/ja llogarit vlera numerike për shprehje komplekse",
+    "Nxënësi/ja aplikon shprehjet në probleme praktike"
+  ],
+  "fjalet_kyce": [
+    "Shprehje",
+    "Thjeshtim",
+    "Zbërthim",
+    "Zëvendësim",
+    "Problem",
+    "Verifikim"
+  ],
+  "burimet": [
+    "Libri i matematikës klasa 7, fq. 102-106",
+    "Fletë pune përmbledhëse",
+    "Kartela problemesh",
+    "Kalkulator",
+    "Test model"
+  ],
+  "lidhja": "Aplikim i integruar i njohurive algjebrike në fusha të ndryshme.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "QËLLIMI: Konsolidimi i njohurive mbi shprehjet algjebrike përmes ushtrimeve të larmishme.\n\nHYRJA (5 min):\n• Mini-test diagnostik: 5 ushtrime të shpejta\n• Identifikimi i vështirësive.\n\nZHVILLIMI (27 min):\n• BLLOKU A - Thjeshtimi (8 min):\n  1. 5x - 3 + 2x + 7 - x = 6x + 4\n  2. 3a² - 2a + 5a² + 4a - 1 = 8a² + 2a - 1\n  3. 4xy - 2x + 3xy + 5x - y = 7xy + 3x - y\n\n• BLLOKU B - Zbërthimi dhe thjeshtimi (8 min):\n  1. 3(x + 4) - 2(x - 3)\n     = 3x + 12 - 2x + 6 = x + 18\n  2. -2(y² - 3y + 1) + 5(y - 2)\n     = -2y² + 6y - 2 + 5y - 10 = -2y² + 11y - 12\n  3. 4(a - b) - 3(2a - b) + 2(a + 3b)\n     = 4a - 4b - 6a + 3b + 2a + 6b = 5b\n\n• BLLOKU C - Zëvendësimi (6 min):\n  Për x = -1, y = 2:\n  1. x² + 2xy - y² = 1 + 2(-1)(2) - 4 = 1 - 4 - 4 = -7\n  2. (x + y)² - (x - y)² = (1)² - (-3)² = 1 - 9 = -8\n\n• BLLOKU D - Probleme (5 min):\n  1. Perimetri i trekëndëshit me brinjë (2x+1), (3x-2), (x+4)\n     P = 2x+1 + 3x-2 + x+4 = 6x + 3\n     Për x = 5: P = 6(5) + 3 = 33\n\n  2. Çmimi: n libra × 350 lek + m fletore × 80 lek\n     Totali = 350n + 80m\n     Për n=3, m=5: T = 1050 + 400 = 1450 lek\n\nPRAKTIKA (10 min):\n• Punë individuale: 8 ushtrime me shkallë vështirësie\n• Korrigjim në çifte.\n\nMBYLLJA (3 min):\n• Diskutim gabimesh\n• Përgatitje për testin",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "1. Thjeshtoni: a) 7m-4n+3m-n+5  b) 2x²-5x+3x²+x-4\n2. Zbërtheni dhe thjeshtoni: a) 5(2x-3)-3(x+4)  b) -2(a²+3a-1)+4(a-2)\n3. Për a=2, b=-3, llogaritni: a) 3a²-2ab+b²  b) (a-b)³\n4. Problem: Bileta e autobusit kushton x lek. Bileta e trenit kushton 3x-100 lek. Shkruani koston totale për 2 bileta autobusi dhe 1 tren. Gjeni për x=150.\n5. Sfidë: Faktorizoni plotësisht: 6x²y - 9xy²",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Algjebra",
+      "page_or_row": "18"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

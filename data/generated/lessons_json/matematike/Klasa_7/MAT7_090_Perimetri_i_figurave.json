@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_090",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 90,
+  "tema": "Perimetri i figurave",
+  "tematika": "Matja",
+  "month": "Mars",
+  "trimester": 2,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e shkollës 'Naim Frashëri' në Tiranë planifikojnë të rrethojnë me gardh kopshtin shkollor që ka formën e një drejtkëndëshi 15m × 8m, plus një sipërfaqe shtesë trekëndore për lulishtën me brinjë 6m, 8m dhe 10m. Ata duhet të llogaritsin sa metra gardh u nevojitet gjithsej dhe çmimin total nëse 1 metër gardh kushton 450 lekë.",
+  "rezultatet": [
+    "Nxënësi/ja përkufizon perimetrin si shumën e të gjitha brinjëve të një figure gjeometrike",
+    "Nxënësi/ja llogarit saktësisht perimetrin e drejtkëndëshit duke përdorur formulën P = 2(a + b)",
+    "Nxënësi/ja identifikon dhe mat perimetrin e trekëndëshit duke mbledhur të tre brinjët",
+    "Nxënësi/ja zgjidh problemat e përbëra që kërkojnë llogaritjen e perimetrave të figurave të ndryshme",
+    "Nxënësi/ja argumenton pse formula e perimetrit të drejtkëndëshit është P = 2(a + b)",
+    "Nxënësi/ja demonstron matjen e perimetrit duke përdorur mjete matëse në situata reale"
+  ],
+  "fjalet_kyce": [
+    "perimetër (perimeter)",
+    "formulë (P = 2(a + b))",
+    "drejtkëndësh (rectangle)",
+    "trekëndësh (triangle)",
+    "katror (square)",
+    "brinjë/anë",
+    "njësi matëse (m, cm, mm)",
+    "figura të përbëra"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 4: Matja, faqe 62-67",
+    "Vizore të gjata (30cm), metra matëse, litar",
+    "Fletë pune e përgatitur me 8 figura për matje",
+    "Kartela me formula të perimetrit për secilin grup",
+    "Kalkulator për kontrollin e rezultateve",
+    "Postera me figura gjeometrike dhe formulat përkatëse"
+  ],
+  "lidhja": "Lidhje me Gjeografinë (matja e distancave në harta), Artet (projektimi i kornizave dhe dekorimeve), shkencat natyrore (matja dhe njësitë), Teknologjinë (planifikimi i materialeve për ndërtim). Aplikime praktike në jetën e përditshme shqiptare: llogaritja e materialeve për gardhe, korniza fotosh, oborret e shtëpive, tarracat, fushat sportive në shkolla.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nKjo orë synon që nxënësit të kuptojnë konceptin e perimetrit si shumë e të gjitha brinjëve të një figure, të mësojnë formulat specifike për drejtkëndëshin dhe katrorin, dhe të zgjidhin problema praktike që lidhen me jetën e përditshme.\n\n**EVOKIMI/HYRJA** (10 minuta)\nMësuesi sjell një kornizë të madhe fotografike dhe pyet: 'Sa centimetra dru na duhen për ta bërë këtë kornizë?' Demonstron matjen e kornizës me vizore. Pyetje orientuese: 'Nëse kjo kornizë është 20cm e gjatë dhe 15cm e gjerë, sa centimetra dru na duhen gjithsej?' Nxënësit diskutojnë në çifte dhe propozojnë zgjidhje. Lidhja me orën e kaluar: 'Javën e shkuar mësuam për sipërfaqen, sot do të mësojmë për perimetrin - gjatësinë rreth figurës.'\n\n**REALIZIMI I KUPTIMIT** (27 minuta)\nShpjegimi i konceptit: Perimetri është gjatësia e kufirit të një figure, d.m.th. shuma e të gjitha brinjëve të saj. Simboli: P (nga greqishtja 'periphereia' - rreth).\n\nShembull 1 - Drejtkëndëshi:\nOborri i shkollës ka gjatësi 25m dhe gjerësi 18m. Sa metra gardh na duhen?\nP = brinja1 + brinja2 + brinja3 + brinja4\nP = 25 + 18 + 25 + 18 = 86m\nFormula: P = 2(a + b) = 2(25 + 18) = 2 × 43 = 86m\n\nShembull 2 - Katrori:\nNjë dhomë katrore ka brinjë 4m. Sa metra listela na duhen për kornizën?\nP = 4 × a = 4 × 4 = 16m\n\nShembull 3 - Trekëndëshi:\nNjë copë tokë trekëndore ka brinjë 12m, 15m dhe 20m. Sa tel na duhet për ta rrethuar?\nP = a + b + c = 12 + 15 + 20 = 47m\n\nPunë në grupe (4 nxënës/grup): Çdo grup mat perimetrin e objekteve në klasë - tavolinës, dritares, librit, etj. Përdorin vizore dhe mbushin tabelën e përgatitur. Prezantojnë rezultatet dhe shpjegojnë metodën e përdorur.\n\n**PRAKTIKA** (10 minuta)\na) Niveli bazë:\n1. Llogaritni perimetrin e një drejtkëndëshi 8cm × 5cm\n2. Gjeni perimetrin e një katrori me brinjë 7cm\n3. Sa është perimetri i një trekëndëshi me brinjë 6cm, 8cm dhe 10cm?\n\nb) Niveli mesatar:\n1. Një drejtkëndësh ka perimetër 24cm. Nëse gjatësia është 8cm, sa është gjerësia?\n2. Perimetri i një katrori është 36m. Sa është brinja e tij?\n\nc) Niveli i avancuar:\nNjë kopsht ka formë L (dy drejtkëndësha të bashkuar). Pjesa e parë është 10m × 6m, pjesa e dytë 8m × 4m. Sa gardh na duhet?\n\n**MBYLLJA** (5 minuta)\nPërmbledhja:\n1. Perimetri është shuma e të gjitha brinjëve të një figure\n2. Formula për drejtkëndëshin: P = 2(a + b)\n3. Formula për katrorin: P = 4a\nQuiz verbal: 'Çfarë është perimetri?' 'Si llogaritet perimetri i drejtkëndëshit?' 'Pse përdorim formulën P = 2(a + b)?'\nParashikimi: Orën tjetër do të mësojmë për perimetrin e rrethit - perimetrin më special!",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**DETYRAT PËR NË SHTËPI**\n\n1. **BAZË**: Zgjidhni ushtrimet 1-6 nga faqja 65 të librit. Llogaritni perimetrin e dhomës suaj (matni me hapa ose vizore). Shkruani rezultatet në fletoren e ushtrimit.\n\n2. **KRIJUESE**: Krijoni një hartë të thjeshtë të oborrit të shtëpisë tuaj. Tregoni format gjeometrike që shihni (drejtkëndësha, katrorë, trekëndësha). Llogaritni perimetrin e të paktën 3 objekteve dhe paraqitni në një poster të vogël me ngjyra.\n\n3. **SHTESË (fakultative)**: Hulumtoni dhe shkruani për perimetrin e figurave të tjera (peshëkëndëshi, tetëkëndëshi). Gjeni objekte në jetën reale që kanë këto forma dhe llogaritni perimetrat e tyre. Përdorni internetin ose libra të tjerë për të gjetur formula.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Matja",
+      "page_or_row": "90"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

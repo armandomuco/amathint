@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_116",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 116,
+  "tema": "Makina funksion",
+  "tematika": "Algjebra",
+  "month": "Prill",
+  "trimester": 3,
+  "duration_minutes": 45,
+  "situata": "Në stacionin e autobusave të Tiranës, nxënësit vërejnë se çmimi i biletës varet nga distanca e udhëtimit. Për Durrës (38 km) paguajnë 150 lekë, për Elbasan (54 km) paguajnë 200 lekë, ndërsa për Shkodër (116 km) paguajnë 350 lekë. Ata duhet të zbulojnë se si funksionon kjo 'makinë' që përkthen distancën në çmim.",
+  "rezultatet": [
+    "Nxënësi/ja përkufizon konceptin e makinës funksion dhe identifikon inputin dhe outputin",
+    "Nxënësi/ja identifikon rregullin e funksionit duke analizuar çiftet e dhëna",
+    "Nxënësi/ja llogarit vlerën e outputit duke përdorur inputin dhe rregullin e dhënë",
+    "Nxënësi/ja demonstron se si funksioni transformon të dhënat hyrëse në të dhëna dalëse",
+    "Nxënësi/ja zgjidh probleme të thjeshta duke përdorur makinën funksion",
+    "Nxënësi/ja argumenton pse një rregull i caktuar është ose nuk është funksion"
+  ],
+  "fjalet_kyce": [
+    "funksion (function)",
+    "input (të dhëna hyrëse)",
+    "output (të dhëna dalëse)",
+    "rregull transformimi",
+    "makinë funksion",
+    "çift të renditur (x, y)",
+    "variabël e pavarur",
+    "variabël e varur"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 4, faqet 52-56",
+    "Fletë pune e përgatitur me 15 çifte të dhënash",
+    "Kartela me makinat funksion të vizatuara",
+    "Kalkulatore për llogaritjet",
+    "Poster i madh për demonstrimin në klasë",
+    "Materiale për punë në grupe (lapsa, ngjyra, fletore)"
+  ],
+  "lidhja": "Lidhje me Gjeografinë në llogaritjen e distancave midis qyteteve shqiptare dhe hartave. Lidhje me Ekonominë në sistemin e çmimeve dhe tarifave të transportit publik. Lidhje me teknologjine në programet që përdorin input dhe output. Lidhje me jetën e përditshme në Shqipëri përmes shembujve të çmimeve në treg, tarifave të ujit, dritës elektrike.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\n\nKjo orë synon të prezantojë konceptin themelor të makinës funksion duke përdorur shembuj konkretë nga jeta e përditshme. Nxënësit do të kuptojnë se si një rregull i caktuar transformon inputin në output dhe do të mësojnë të identifikojnë dhe përdorin këto rregulla.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\n\nNisim me një lojë motivuese: 'Makina magjike'. Mësuesi paraqet një kuti të mbyllur dhe thotë: 'Kjo është një makinë e veçantë. Nëse unë fus numrin 2, del 6. Nëse fus 3, del 9. Nëse fus 5, del 15.' Pyetje orientuese: 'Çfarë do të dalë nëse fusim 4? Pse?' 'A mund të zbuloni si punon kjo makinë?' Nxënësit diskutojnë në çifte dhe propozojnë rregulla. Më pas lidhim me situatën e biletave të autobusit: 'Edhe në jetën reale kemi makina të tilla që e ndryshojnë një gjë në tjetrën.' Prezantojmë situatën e çmimeve të biletave për qytetet e ndryshme.\n\n**REALIZIMI I KUPTIMIT/ZHVILLIMI** (25-28 minuta)\n\nShpjegimi i konceptit me tre shembuj të zgjidhur hap pas hapi:\n\n*Shembulli 1: Makina 'Shumëzo me 3'*\nInput: 2 → Output: 2 × 3 = 6\nInput: 4 → Output: 4 × 3 = 12\nInput: 7 → Output: 7 × 3 = 21\nRregull: y = 3x (ku x është input, y është output)\n\n*Shembulli 2: Makina 'Shto 5'*\nInput: 3 → Output: 3 + 5 = 8\nInput: 10 → Output: 10 + 5 = 15\nInput: 0 → Output: 0 + 5 = 5\nRregull: y = x + 5\n\n*Shembulli 3: Makina e çmimeve të biletave*\nDistanca Durrës: 38 km → Çmimi: 150 lekë\nDistanca Elbasan: 54 km → Çmimi: 200 lekë\nDistanca Shkodër: 116 km → Çmimi: 350 lekë\nRregull: Çmimi ≈ Distanca × 3 lekë/km (plus një tarifë bazë)\n\nPunë në grupe (4 nxënës): Çdo grup merr një kartë me një makinë funksion të ndryshme dhe duhet të gjejë rregullin. Grupi 1: y = 2x + 1, Grupi 2: y = x - 3, Grupi 3: y = 4x, Grupi 4: y = x + 10. Secili grup plotëson një tabelë me 5 çifte (x,y) dhe prezanton rregullin e tij.\n\nDemonstrim në tabelë: Mësuesi tregon si të vizatojmë makinën funksion me shigjetë që tregon transformimin nga input tek output. Thekson se çdo input ka vetëm një output (përkufizon funksionin).\n\n**PRAKTIKA/USHTRIME** (8-10 minuta)\n\na) Niveli bazë (2-3 ushtrime):\n- Makina y = x + 4. Gjeni output-in për x = 2, x = 5, x = 8\n- Makina y = 2x. Gjeni output-in për x = 3, x = 6, x = 9\n- Makina y = x - 1. Gjeni output-in për x = 5, x = 10, x = 7\n\nb) Niveli mesatar (2 ushtrime):\n- Një makinë jep këto rezultate: (1,4), (2,7), (3,10). Gjeni rregullin dhe llogaritni y kur x = 6\n- Çmimi i taksis në Tiranë është 300 lekë tarifa bazë plus 80 lekë për km. Shkruani rregullin dhe llogaritni çmimin për 5 km\n\nc) Niveli i avancuar (1 problemë sfiduese):\n- Krijoni një makinë funksion që transformon moshën tuaj në vitin kur jeni lindur. Testojeni me tre shembuj dhe shpjegoni logjikën.\n\n**MBYLLJA/REFLEKTIMI** (3-5 minuta)\n\nPërmbledhje e tri pikave kryesore: 1) Makina funksion ka input dhe output, 2) Çdo input ka vetëm një output, 3) Ekziston një rregull matematik që lidhë input-in me output-in. Vlerësim i shkurtër me quiz verbal: 'Nëse makina është y = x + 3, çfarë del nëse fusim 7?' 'Si e quajmë numrin që fusim në makinë?' Parashikim i orës së ardhshme: 'Nesër do të mësojmë të vizatojmë grafikun e një funksioni në sistem koordinativ.'",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**BAZË:** Zgjidhni ushtrimet 1-6 nga faqja 54 të librit. Plotësoni tabelat e funksioneve: y = x + 2 për x = 1,2,3,4,5 dhe y = 3x për x = 2,4,6,8. Gjeni output-in e makinave të dhëna kur input-i është 10.\n\n**KRIJUESE:** Krijoni një poster me temën 'Makinat funksion në jetën time'. Gjeni të paktën 3 shembuj nga jeta reale ku përdoren funksione (çmimet në dyqan, orari i shkollës, temperatura, etj.). Për secilin shembull, shkruani rregullin dhe jepni 3 çifte (input, output).\n\n**SHTESË (fakultative):** Hulumtoni se si funksionojnë makinat e shitjes automatike (vending machines). Shkruani një raport 1 faqe për mënyrën se si këto makina përdorin funksione për të llogaritur ndryshimin që duhet të kthejnë. Testoni me shembuj konkretë çmimesh.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Algjebra",
+      "page_or_row": "116"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

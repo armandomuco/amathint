@@ -1,0 +1,116 @@
+# Amathint Git hygiene
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Python caches and build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Test/type/lint caches
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+.tox/
+.nox/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
+.ruff_cache/
+
+# Editors and OS files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs and process state
+logs/
+*.log
+process_log.json
+*.lock
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Node / NestJS
+node_modules/
+apps/api/prisma/dev.db
+apps/api/prisma/dev.db-journal
+
+# Local temporary files
+tmp/
+temp/
+cache/
+*.tmp
+*.bak
+
+# Generated teacher-facing report artifacts.
+# Canonical JSON and indexes are tracked; rendered DOCX files are reproducible.
+outputs/amathint_docx/
+data/generated/validation_reports/
+!legacy/prototype/artifacts/generated_lessons/*.json
+!legacy/prototype/artifacts/generated_lessons/README.md
+
+# Old root-level generated/output folders, if recreated.
+Materiale_Mesimore/
+Materiale_Mesimore_LLM/
+Materiale_Mesimore_Matematike/
+output/
+
+# Archives produced during handoff/export.
+*.zip
+*.7z
+*.tar.gz
+*.rar
+
+# Ignore generated office/document artifacts by default, then explicitly keep
+# source curriculum/reference files that are part of the handoff.
+*.doc
+*.docx
+*.pdf
+!data/sources/**/*.doc
+!data/sources/**/*.docx
+!data/sources/**/*.pdf

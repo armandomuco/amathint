@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_044",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 44,
+  "tema": "Mbledhja e numrave dhjetorë",
+  "tematika": "Numri",
+  "month": "Nëntor",
+  "trimester": 1,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës së 7-të organizojnë një treg shkollor për të shitur artikuj të ndryshëm. Ata duhet të llogaritin çmimet totale kur blejnë produkte nga tregtarë të ndryshëm: 2.5 euro për mollë, 1.75 euro për banane dhe 3.25 euro për portokaj. Gjithashtu, ata duhet të llogaritin fitimin e përgjithshëm nga shitja e produkteve me çmime dhjetore.",
+  "rezultatet": [
+    "Nxënësi/ja identifikon pozicionin e shifrave në numrat dhjetorë dhe kuptimin e tyre vendor",
+    "Nxënësi/ja llogarit saktësisht shumën e dy ose më shumë numrave dhjetorë duke përdorur metodën me kolona",
+    "Nxënësi/ja demonstron teknikën e barazimit të pjesës dhjetore përpara mbledhjes",
+    "Nxënësi/ja zgjidh problemë të jetës së përditshme që përfshijnë mbledhje numrash dhjetorë",
+    "Nxënësi/ja argumenton rëndësinë e pozicionimit të saktë të presjes dhjetore në llogaritje",
+    "Nxënësi/ja përcakton gabime të zakonshme në mbledhje numrash dhjetorë dhe i korrigjon ato"
+  ],
+  "fjalet_kyce": [
+    "numrat dhjetorë (decimal numbers)",
+    "preja dhjetore (decimal point)",
+    "pjesa e plotë (whole part)",
+    "pjesa dhjetore (decimal part)",
+    "shifra vendore (place value)",
+    "barazimi i shifrës dhjetore",
+    "mbledhja me kolona",
+    "transporti (carry-over)"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 2: Numrat dhjetorë, faqe 34-42",
+    "Fletë pune e përgatitur me 15 ushtrime mbledhje numrash dhjetorë",
+    "Kalkulatore për verifikim të rezultateve",
+    "Kartela me shembuj problemash nga jeta e përditshme",
+    "Tabelë e madhe për demonstrime në klasë",
+    "Fleta milimetrike për organizimin e llogaritjeve me kolona"
+  ],
+  "lidhja": "Lënda lidhet ngushtë me Gjeografinë kur llogarisim distancat ndërmjet qyteteve shqiptare (km), me Ekonominë familjare për buxhetin e shtëpisë (lekë dhe euro), me shkencat natyrore për matjen e peshës së objekteve (kg), dhe me Artet vizuale për llogaritjen e dimensioneve të projekteve krijuese (cm, m). Aplikime praktike përfshijnë blerjen në tregje, llogaritjen e notave mesatare, dhe planifikimin e udhëtimeve.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\nKjo orë synon që nxënësit të kuptojnë dhe zotërojnë teknikën e mbledhjes së numrave dhjetorë përmes shembujve konkretë nga jeta e përditshme. Nxënësit do të zhvillojnë aftësi për të zgjidhur problemë praktike duke përdorur mbledhjen e numrave dhjetorë.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\nMësuesja fillon me një aktivitet praktik: \"Imagjinoni se jeni në tregun e Tiranës. Blini 1.5 kg mollë me 150 lekë/kg, 2.25 kg banane me 120 lekë/kg dhe 0.75 kg portokaj me 200 lekë/kg. Sa para duhet të paguani gjithsej?\" Nxënësit diskutojnë në çifte dhe japin përgjigje të ndryshme. Mësuesja shkruan në tabelë disa përgjigje dhe pyet: \"Pse mendoni se kemi rezultate të ndryshme?\" Kjo çon në diskutimin e rëndësisë së pozicionimit të saktë të presjes dhjetore. Lidhja me orën e kaluar: \"Javën e kaluar mësuam të lexojmë numrat dhjetorë. Sot do të mësojmë t'i mbledhim ata.\"\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\nMësuesja shpjegon rregullat bazë të mbledhjes së numrave dhjetorë duke theksuar: \"Preja dhjetore duhet të jetë nën presje dhjetore.\" Demonstron tre shembuj të detajuar:\n\nShembull 1: 12.3 + 5.7\n  12.3\n+  5.7\n------\n  18.0\nShpjegon: \"Mbledh 3+7=10, shkruaj 0 dhe mbaj mend 1. Pastaj 2+5+1=8. Në fund, 1+0=1.\"\n\nShembull 2: 25.47 + 8.6\n  25.47\n+  8.60  (shton zero për barazim)\n-------\n  34.07\nThekson: \"Kur numrat kanë shifra të ndryshme dhjetore, shtojmë zero për barazim.\"\n\nShembull 3: 156.8 + 23.45 + 7.123\n   156.800\n+   23.450\n+    7.123\n----------\n   187.373\n\nPas demonstrimit, nxënësit ndahen në grupe prej 4 vetësh. Çdo grup merr kartela me problema të ngjashme: \"Llogaritni shpenzimin total për një familje që blen: mish 850 lekë/kg × 1.2 kg, perime 450 lekë × 2.3 kg, bukë 80 lekë × 3.5 copë.\" Grupet punojnë për 10 minuta dhe prezantojnë zgjidhjet. Mësuesja korrigjon gabimet dhe thekson pikat kyçe.\n\n**PRAKTIKA** (8-10 minuta)\nTre nivele ushtrimesh:\n\na) Niveli bazë (për të gjithë):\n- 3.4 + 2.1 = ?\n- 15.6 + 8.3 = ?\n- 7.25 + 4.50 = ?\n\nb) Niveli mesatar:\n- 45.37 + 128.9 + 6.45 = ?\n- Një nxënës ka 12.75 euro. I jep motrës 4.50 euro dhe blen një libër për 6.25 euro. Sa para i mbeten?\n\nc) Niveli i avancuar (për talentët):\n- Gjoni udhëton nga Shkodra në Tiranë (110.5 km), pastaj në Durrës (38.7 km), dhe kthehet në Shkodër (125.3 km). Nëse makina konsumon 0.08 litër benzinë për km dhe benzina kushton 1.45 euro/litër, llogaritni koston totale të udhëtimit.\n\n**MBYLLJA** (3-5 minuta)\nPërmbledhje me tri pika kryesore:\n1. Presja dhjetore duhet të jetë nën presje dhjetore\n2. Barazojmë shifrat dhjetore duke shtuar zero\n3. Mbledhim nga e djathta në të majtë si me numra të plotë\n\nQuiz verbal: \"Çfarë bëjmë nëse numrat kanë shifra të ndryshme dhjetore?\" \"Si pozicionojmë numrat për mbledhje?\" Parashikimi: \"Orën e ardhshme do të mësojmë zbritjen e numrave dhjetorë dhe do të zgjidhim problema më komplekse nga tregtia.\"",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "1. DETYRË BAZË: Zgjidhni ushtrimet 15-22 nga faqja 41 të librit, ku përfshihen: 4.5+3.2, 12.67+8.45, 25.9+17.38, dhe tri problema të thjeshta me blerje në dyqan.\n\n2. DETYRË KRIJUESE: Krijoni një fletë shpenzimesh për familjen tuaj për një javë. Përdorni çmime reale nga dyqanet lokale (minimum 8 artikuj me çmime dhjetore). Llogaritni totalin për çdo ditë dhe totalin e përgjithshëm javën. Prezantoni në një tabelë të organizuar.\n\n3. DETYRË SHTESË (fakultative): Hulumtoni çmimet e benzinës në 5 stacione të ndryshme në qytetin tuaj. Llogaritni sa do të kushtonte të mbushni një rezervuar 45.5 litrësh në secilin stacion. Gjeni rezervuarin më të lirë dhe më të shtrenjtë, dhe llogaritni diferencën.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Numri",
+      "page_or_row": "44"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}

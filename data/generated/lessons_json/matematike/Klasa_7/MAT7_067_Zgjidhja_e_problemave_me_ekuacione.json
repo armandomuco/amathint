@@ -1,0 +1,68 @@
+{
+  "id": "MAT7_067",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 7,
+  "shkalla": "II",
+  "lesson_number": 67,
+  "tema": "Zgjidhja e problemave me ekuacione",
+  "tematika": "Algjebra",
+  "month": "Janar",
+  "trimester": 2,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës së 7-të në shkollën 'Fan S. Noli' në Tiranë planifikojnë një eksursion në Parkun Kombëtar të Dajës. Ata duhet të llogaritin koston totale të udhëtimit duke ditur që çmimi për një autobus është 15,000 lekë dhe çdo nxënës duhet të paguajë nga 800 lekë për hyrje. Gjithashtu, ata duhet të gjejnë se sa nxënës mund të marrin pjesë me një buxhet prej 50,000 lekësh. Kjo situatë reale i nxit nxënësit të përdorin ekuacionet për të zgjidhur probleme praktike nga jeta e përditshme shqiptare.",
+  "rezultatet": [
+    "Nxënësi/ja përkufizon ekuacionin si një barazim që përmban një të panjohur",
+    "Nxënësi/ja identifikon të panjohurën dhe koeficientët në një ekuacion linear",
+    "Nxënësi/ja llogarit vlerën e të panjohurës duke përdorur veprime të anasjellta",
+    "Nxënësi/ja zgjidh probleme praktike duke përdorur ekuacione lineare",
+    "Nxënësi/ja argumenton saktësinë e zgjidhjes duke verifikuar rezultatin",
+    "Nxënësi/ja demonstron aftësi në interpretimin e rezultateve në kontekstin e problemës"
+  ],
+  "fjalet_kyce": [
+    "ekuacion linear",
+    "të panjohura (x, y)",
+    "koeficient",
+    "term i lirë",
+    "veprime të anasjellta",
+    "verifikim i zgjidhjes",
+    "interpretim i rezultatit",
+    "ax + b = c (forma standarde)"
+  ],
+  "burimet": [
+    "Libri 'Matematika 7' - Kapitulli 4, faqe 82-89",
+    "Fletë pune me 12 problema nga konteksti shqiptar",
+    "Tabelë e bardhë dhe markues me ngjyra",
+    "Kalkulatore për verifikim",
+    "Postera me hapat e zgjidhjes së ekuacioneve",
+    "Kartela me situata problemore nga tregu i Tiranës"
+  ],
+  "lidhja": "Lënda lidhet ngushtë me Gjeografinë duke përdorur distancat reale midis qyteteve shqiptare (Tiranë-Durrës: 38 km, Tiranë-Shkodër: 116 km). Në Edukim Qytetarie diskutohen konceptet e buxhetimit familjar dhe planifikimit ekonomik. Lidhja me Artet shihet në llogaritjen e përmasave për postera dhe ekspozita. Në jetën e përditshme, nxënësit përdorin këto njohuri për të llogaritur çmimet në dyqane, kohën e udhëtimit me transport publik në Tiranë, dhe për të planifikuar shpenzimet e xheparëve.",
+  "metodologjia": {
+    "qellimi": "",
+    "evokim": "",
+    "realizim_kuptimi": "**QËLLIMI**\n\nKjo orë synon që nxënësit të mësojnë të zgjidhin probleme praktike duke përdorur ekuacione lineare. Ata do të zhvillojnë aftësi për të përkthyer situata reale në gjuhën matematikore dhe të interpretonin zgjidhjet në kontekstin e problemës.\n\n**EVOKIMI/HYRJA** (8-10 minuta)\n\nFilloj orën me një situatë reale: 'Sot në tregun e ri të Tiranës, Ana bleu 3 kg mollë dhe pagoi gjithsej 450 lekë. Sa kushton 1 kg mollë?' Shkruaj në tabelë: 3 × x = 450. Pyes nxënësit: 'Si mund ta gjejmë vlerën e x?' Lidh me orën e kaluar rreth veprimeve me numra të plotë dhe pyes: 'Çfarë veprimi duhet të bëjmë për të gjetur x?' Prezantoj objektivin: 'Sot do të mësojmë të zgjidhim probleme të ngjashme duke përdorur ekuacione.'\n\n**REALIZIMI I KUPTIMIT** (25-28 minuta)\n\nShpjegoj konceptin: 'Ekuacioni është një barazim që përmban një të panjohur (zakonisht x).' Demonstroj tre shembuj të plotë:\n\n**Shembulli 1:** Në një autobus të linjës Tiranë-Durrës ka 45 vende. Nëse janë zënë x vende dhe kanë mbetur 18 vende boshe, sa vende janë zënë?\nEkuacioni: x + 18 = 45\nZgjidhja: x = 45 - 18 = 27\nVerifikimi: 27 + 18 = 45 ✓\n\n**Shembulli 2:** Mira ka në xhepin e saj një shumë parash. Nëse shpenzon 200 lekë dhe i mbeten 800 lekë, sa para kishte fillimisht?\nEkuacioni: x - 200 = 800\nZgjidhja: x = 800 + 200 = 1000 lekë\nVerifikimi: 1000 - 200 = 800 ✓\n\n**Shembulli 3:** Në një klasë janë 28 nxënës. Nëse numri i vajzave është 4 më i madh se numri i djalit, sa djem ka në klasë?\nLe të jetë x = numri i djemve, atëherë x + 4 = numri i vajzave\nEkuacioni: x + (x + 4) = 28\n2x + 4 = 28\n2x = 24\nx = 12 djem, vajza = 16\nVerifikimi: 12 + 16 = 28 ✓\n\nPas shembujve, organizoj punën në grupe nga 4 nxënës. Çdo grup merr nga një kartela me problem të ndryshëm nga konteksti i Shqipërisë (çmimet në treg, udhëtime me autobus, planet për festa). Grupet prezantojnë zgjidhjet e tyre në tabelë.\n\n**PRAKTIKA** (8-10 minuta)\n\n**a) Niveli bazë (3 ushtrime):**\n1. x + 15 = 23 (Përgjigja: x = 8)\n2. x - 12 = 18 (Përgjigja: x = 30)\n3. 5x = 35 (Përgjigja: x = 7)\n\n**b) Niveli mesatar (2 ushtrime):**\n1. Një libër kushton 3 herë më shumë se një fletore. Nëse së bashku kushtojnë 800 lekë, sa kushton libri? (Përgjigja: 600 lekë)\n2. Perimetri i një katrori është 48 cm. Sa është brinja e tij? (Përgjigja: 12 cm)\n\n**c) Niveli i avancuar (1 problemë sfiduese):**\nNë një konkurrim matematikor marrin pjesë 150 nxënës. Numri i djemve është 20 më i vogël se dyfishi i numrit të vajzave. Sa vajza dhe sa djem marrin pjesë? (Përgjigja: 90 djem, 60 vajza)\n\n**MBYLLJA** (3-5 minuta)\n\nPërmbledh tri pikat kryesore: 1) Ekuacioni është barazim me të panjohur, 2) Zgjidhim duke përdorur veprime të anasjellta, 3) Gjithmonë verifikojmë zgjidhjen. Bëj quiz verbal: 'Për të zgjidhur x + 5 = 12, çfarë veprimi duhet të bëjmë?' Njoftoj se ora e ardhshme do të fokusohemi në ekuacione më komplekse me kllapa.",
+    "praktike": "",
+    "reflektim": "",
+    "vleresim": "",
+    "nxenes_ak": ""
+  },
+  "detyrat": {
+    "baze": "**BAZË:** Zgjidhni ushtrimet 1-6 nga faqja 85 të librit: x + 7 = 15, x - 9 = 12, 4x = 28, x/3 = 9. Gjithashtu zgjidhni problemin: 'Në një dyqan fruta, 1 kg portokaj kushton 120 lekë. Nëse Ana pagoi 360 lekë, sa kg portokaj bleu?'\n\n**KRIJUESE:** Krijoni një problem original nga jeta juaj e përditshme që zgjidhet me ekuacion linear. Shkruajeni problemin, ekuacionin, zgjidhjen dhe verifikimin në një fletë A4 të zbukuruar me vizatime. Tema mund të jetë: shpenzimet në shkollë, planet për ditëlindje, ose llogaritja e kohës për detyrat.\n\n**SHTESË (fakultative):** Hulumtoni ekuacionet që përdoren në arkitekturën shqiptare. Gjeni të dhëna rreth përmasave të Piramidës së Tiranës ose Kalasë së Krujës dhe krijoni 2-3 probleme me ekuacione bazuar në këto të dhëna. Prezantojeni gjetjen në orën e ardhshme.",
+    "krijuese": "",
+    "shtese": ""
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Algjebra",
+      "page_or_row": "67"
+    }
+  ],
+  "generation": {
+    "provider": "legacy",
+    "model": "",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-01T11:56:15"
+  }
+}
