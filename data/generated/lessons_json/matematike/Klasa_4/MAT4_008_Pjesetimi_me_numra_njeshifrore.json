@@ -1,0 +1,61 @@
+{
+  "id": "MAT4_008",
+  "subject": "matematike",
+  "subject_full": "Matematikë",
+  "grade": 4,
+  "shkalla": "II",
+  "lesson_number": 8,
+  "tema": "Pjesëtimi me numra njëshifrorë",
+  "tematika": "Numri",
+  "month": "Nëntor",
+  "trimester": 1,
+  "duration_minutes": 45,
+  "situata": "Nxënësit e klasës 4 analizojnë temën 'Pjesëtimi me numra njëshifrorë' në një situatë të njohur shkollore në Shqipëri. Ata punojnë me shembuj konkretë, diskutojnë në grupe dhe lidhin njohuritë me jetën e përditshme.",
+  "rezultatet": [
+    "Nxënësi/ja përkufizon konceptet kryesore të temës 'Pjesëtimi me numra njëshifrorë'.",
+    "Nxënësi/ja identifikon shembuj konkretë që lidhen me 'Pjesëtimi me numra njëshifrorë'.",
+    "Nxënësi/ja zbaton njohuritë e reja në ushtrime të drejtuara.",
+    "Nxënësi/ja argumenton hapat e zgjidhjes me gjuhë të qartë.",
+    "Nxënësi/ja bashkëpunon në grup për të zgjidhur një detyrë praktike."
+  ],
+  "fjalet_kyce": [
+    "pjesëtimi",
+    "numra",
+    "njëshifrorë"
+  ],
+  "burimet": [
+    "Libri i nxënësit - Matematikë 4",
+    "Fletore pune dhe fletë ushtrimesh",
+    "Tabela e klasës dhe markera",
+    "Materiale të përgatitura nga mësuesi",
+    "Shembuj nga jeta e përditshme në Shqipëri"
+  ],
+  "lidhja": "Lidhet me gjuhën shqipe për shpjegimin e qartë të mendimit, me qytetarinë për bashkëpunimin në grup dhe me teknologjinë për përdorimin e mjeteve ndihmëse gjatë temës 'Pjesëtimi me numra njëshifrorë'.",
+  "metodologjia": {
+    "qellimi": "Qëllimi i orës është që nxënësit të ndërtojnë kuptim të qëndrueshëm për 'Pjesëtimi me numra njëshifrorë' dhe ta përdorin këtë njohuri në situata praktike. Mësimi fokusohet te zgjidhje problemash me numra dhe arsyetim logjik.",
+    "evokim": "8-10 minuta: Mësuesi paraqet një pyetje hyrëse për temën 'Pjesëtimi me numra njëshifrorë' dhe kërkon nga nxënësit të japin shembuj nga përvoja e tyre. Nxënësit punojnë në dyshe, shkruajnë dy ide në fletore dhe i ndajnë me klasën. Mësuesi lidh përgjigjet me njohuritë e orës së kaluar dhe shpall rezultatet e pritshme.",
+    "realizim_kuptimi": "25-28 minuta: Mësuesi shpjegon konceptin kryesor të 'Pjesëtimi me numra njëshifrorë' me tre shembuj të zgjidhur hap pas hapi në tabelë. Shembulli 1 është i thjeshtë dhe kontrollon kuptimin bazë; Shembulli 2 kërkon zbatim në një situatë shkollore; Shembulli 3 kërkon arsyetim dhe krahasim strategjish. Nxënësit ndahen në grupe me role: lexuesi i kërkesës, zgjidhësi, kontrolluesi dhe prezantuesi. Çdo grup merr një detyrë të lidhur me 'Pjesëtimi me numra njëshifrorë', diskuton hapat, verifikon përgjigjen dhe përgatit një prezantim të shkurtër. Mësuesi qarkullon, bën pyetje orientuese, ndihmon nxënësit që kanë vështirësi dhe nxit nxënësit e avancuar të gjejnë një mënyrë tjetër zgjidhjeje.",
+    "praktike": "8-10 minuta: Niveli bazë përfshin 3 ushtrime të drejtpërdrejta. Niveli mesatar përfshin 2 situata problemore me dy hapa. Niveli i avancuar përfshin një problem sfidues ku nxënësi duhet të shpjegojë arsyetimin. Nxënësit zgjedhin nivelin e parë me mbështetjen e mësuesit dhe mund të kalojnë në nivel më të lartë kur përfundojnë.",
+    "reflektim": "3-5 minuta: Klasa përmbledh tre gjërat më të rëndësishme për 'Pjesëtimi me numra njëshifrorë'. Mësuesi bën një kontroll të shpejtë me pyetje verbale dhe kërkon nga nxënësit të plotësojnë fjalinë: 'Sot mësova se...'. Në fund prezantohet lidhja me orën e ardhshme.",
+    "vleresim": "Vlerësimi bëhet përmes vëzhgimit gjatë punës në grup, përgjigjeve në tabelë, saktësisë së ushtrimeve dhe aftësisë për të shpjeguar hapat. Kriteret janë: identifikon konceptin, zbaton procedurën, argumenton përgjigjen dhe bashkëpunon.",
+    "nxenes_ak": "Për nxënësit me vështirësi përdoren shembuj më të thjeshtë, fletë pune me hapa, kohë shtesë dhe mbështetje nga një shok i grupit. Për nxënësit e avancuar jepet një detyrë sfiduese me kërkesë për argumentim."
+  },
+  "detyrat": {
+    "baze": "Zgjidhni 4 ushtrime bazë që lidhen me temën 'Pjesëtimi me numra njëshifrorë' nga fleta e punës.",
+    "krijuese": "Gjeni një shembull nga jeta e përditshme ku përdoret 'Pjesëtimi me numra njëshifrorë' dhe përshkruajeni me 5 fjali.",
+    "shtese": "Përgatitni një problem shtesë për 'Pjesëtimi me numra njëshifrorë' dhe sillni zgjidhjen në orën tjetër."
+  },
+  "source_refs": [
+    {
+      "source_id": "curriculum_full_catalog",
+      "section": "Numri",
+      "page_or_row": "8"
+    }
+  ],
+  "generation": {
+    "provider": "fake",
+    "model": "fake-v1",
+    "prompt_version": "v1",
+    "generated_at": "2026-05-24T15:31:28"
+  }
+}

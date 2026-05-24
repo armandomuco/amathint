@@ -1,6 +1,11 @@
 import { ForbiddenException, Injectable, UnauthorizedException } from "@nestjs/common";
+import fs from "fs";
+import path from "path";
 import type { AuthUser } from "../auth/auth.types";
 import { PrismaService } from "../prisma/prisma.service";
+
+const ROOT_DIR = path.resolve(process.cwd(), "../..");
+const OUT_OF_MATH_KEYWORD = "Jashtë Matematikës";
 
 @Injectable()
 export class AnalyticsService {
@@ -27,14 +32,15 @@ export class AnalyticsService {
       orderBy: { createdAt: "desc" }
     });
 
+    const mathMessages = messages.filter((message) => message.mathKeyword !== OUT_OF_MATH_KEYWORD);
     const totalQuestions = messages.length;
     const uniqueStudents = new Set(messages.map((message) => message.conversation.studentId)).size;
-    const averageRisk = totalQuestions
-      ? Math.round(messages.reduce((sum, message) => sum + (message.riskScore || 20), 0) / totalQuestions)
+    const averageRisk = mathMessages.length
+      ? Math.round(mathMessages.reduce((sum, message) => sum + (message.riskScore || 20), 0) / mathMessages.length)
       : 0;
 
     const keywordMap = new Map<string, { keyword: string; count: number; averageRisk: number; totalRisk: number }>();
-    for (const message of messages) {
+    for (const message of mathMessages) {
       const keyword = message.mathKeyword || "Të përgjithshme";
       const current = keywordMap.get(keyword) || { keyword, count: 0, averageRisk: 0, totalRisk: 0 };
       current.count += 1;
@@ -49,12 +55,12 @@ export class AnalyticsService {
       .map(({ totalRisk, ...row }) => row);
 
     const riskSummary = {
-      low: messages.filter((message) => (message.riskLevel || "low") === "low").length,
-      medium: messages.filter((message) => message.riskLevel === "medium").length,
-      high: messages.filter((message) => message.riskLevel === "high").length
+      low: mathMessages.filter((message) => (message.riskLevel || "low") === "low").length,
+      medium: mathMessages.filter((message) => message.riskLevel === "medium").length,
+      high: mathMessages.filter((message) => message.riskLevel === "high").length
     };
 
-    const recentQuestions = messages.slice(0, 8).map((message) => ({
+    const recentQuestions = messages.slice(0, 5).map((message) => ({
       id: message.id,
       studentName: message.conversation.student.name,
       question: message.content,
@@ -63,17 +69,24 @@ export class AnalyticsService {
       riskScore: message.riskScore || 20,
       createdAt: message.createdAt
     }));
+    const availableGrades = this.availableGeneratedGrades();
 
     return {
       summary: {
         schoolIdentifier: teacher.schoolIdentifier,
         totalQuestions,
         uniqueStudents,
-        averageRisk
+        averageRisk,
+        mathQuestions: mathMessages.length,
+        outOfMathQuestions: totalQuestions - mathMessages.length,
+        availableGrades
       },
       topKeywords,
       riskSummary,
-      recentQuestions
+      recentQuestions,
+      riskExplanation:
+        "Risk is a support signal, not a grade. It increases when a student says they do not understand, asks to solve/compute an exercise directly, writes a very short unclear question, or no math topic is detected.",
+      topicMethod: "Most asked math topics are counted from student chat questions in this teacher's school and grouped by detected math keyword."
     };
   }
 
@@ -97,12 +110,13 @@ export class AnalyticsService {
           conversationTitle: conversation.title
         }))
     );
+    const mathQuestionMessages = questionMessages.filter((message) => message.mathKeyword !== OUT_OF_MATH_KEYWORD);
     const assistantMessages = conversations.flatMap((conversation) =>
       conversation.messages.filter((message) => message.role === "assistant")
     );
 
     const keywordMap = new Map<string, number>();
-    for (const message of questionMessages) {
+    for (const message of mathQuestionMessages) {
       const keyword = message.mathKeyword || "Të përgjithshme";
       keywordMap.set(keyword, (keywordMap.get(keyword) || 0) + 1);
     }
@@ -127,13 +141,15 @@ export class AnalyticsService {
         return rows;
       })
       .sort((a, b) => b.createdAt.getTime() - a.createdAt.getTime())
-      .slice(0, 10);
+      .slice(0, 5);
 
     return {
       summary: {
         totalQuestions: questionMessages.length,
         totalAnswers: assistantMessages.length,
-        totalConversations: conversations.length
+        totalConversations: conversations.length,
+        mathQuestions: mathQuestionMessages.length,
+        outOfMathQuestions: questionMessages.length - mathQuestionMessages.length
       },
       topKeywords: [...keywordMap.entries()]
         .map(([keyword, count]) => ({ keyword, count }))
@@ -141,6 +157,19 @@ export class AnalyticsService {
         .slice(0, 6),
       recentQa
     };
+  }
+
+  private availableGeneratedGrades() {
+    const baseFolder = path.join(ROOT_DIR, "data/generated/lessons_json/matematike");
+    if (!fs.existsSync(baseFolder)) {
+      return [];
+    }
+    return fs
+      .readdirSync(baseFolder, { withFileTypes: true })
+      .filter((entry) => entry.isDirectory())
+      .map((entry) => Number(entry.name.match(/^Klasa_(\d+)$/)?.[1]))
+      .filter((grade) => Number.isInteger(grade))
+      .sort((first, second) => first - second);
   }
 
   private requireTeacher(user: AuthUser | null) {

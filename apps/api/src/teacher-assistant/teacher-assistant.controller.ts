@@ -57,6 +57,12 @@ export class TeacherAssistantController {
     return response.download(file.path, file.filename);
   }
 
+  @Delete("documents/folders/:folder")
+  async deleteDocumentFolder(@Headers("authorization") authorization: string | undefined, @Param("folder") folder: string) {
+    const user = await this.auth.currentUserFromToken(tokenFromHeader(authorization));
+    return this.teacherAssistant.deleteDocumentFolder(user, decodeURIComponent(folder));
+  }
+
   @Delete("documents/:id")
   async deleteDocument(@Headers("authorization") authorization: string | undefined, @Param("id") id: string) {
     const user = await this.auth.currentUserFromToken(tokenFromHeader(authorization));

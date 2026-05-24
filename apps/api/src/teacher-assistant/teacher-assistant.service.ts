@@ -47,7 +47,7 @@ export class TeacherAssistantService {
           requestText: message,
           provider,
           status: "greeting",
-          summary: "Pershendetje! Si mund te te ndihmoj? Mund te kerkosh nje Ditare me lesson id, p.sh. MAT7_001, ose te kerkosh te gjitha Ditaret per Matematike klasa 7."
+          summary: `Pershendetje! Si mund te te ndihmoj? Mund te kerkosh nje Ditare me lesson id, p.sh. MAT7_001, ose te kerkosh te gjitha Ditaret per Matematike per ${this.availableGradesText()}.`
         }
       });
       return {
@@ -273,6 +273,43 @@ export class TeacherAssistantService {
     return { ok: true };
   }
 
+  async deleteDocumentFolder(user: AuthUser | null, folder: string) {
+    const teacher = this.requireTeacher(user);
+    const runs = await this.prisma.teacherAssistantRun.findMany({
+      where: {
+        teacherId: teacher.id,
+        status: "completed",
+        docxPath: { not: null }
+      }
+    });
+    const folderRuns = runs.filter((run) => this.folderForLesson(run.lessonId) === folder);
+
+    if (!folderRuns.length) {
+      throw new NotFoundException("Teacher document folder was not found.");
+    }
+
+    const docxPaths = folderRuns.map((run) => run.docxPath).filter((value): value is string => Boolean(value));
+    await this.prisma.teacherAssistantRun.deleteMany({
+      where: {
+        teacherId: teacher.id,
+        id: { in: folderRuns.map((run) => run.id) }
+      }
+    });
+
+    for (const docxPath of new Set(docxPaths)) {
+      const otherRunUsingFile = await this.prisma.teacherAssistantRun.findFirst({
+        where: {
+          docxPath
+        }
+      });
+      if (!otherRunUsingFile && fs.existsSync(docxPath)) {
+        await fs.promises.unlink(docxPath).catch(() => undefined);
+      }
+    }
+
+    return { ok: true, deleted: folderRuns.length };
+  }
+
   private async createDownloadToken(teacherId: string, runId: string) {
     const token = createRawSessionToken();
     await this.prisma.downloadToken.create({
@@ -344,7 +381,7 @@ export class TeacherAssistantService {
           requestText: message,
           provider,
           status: "needs_lesson",
-          summary: `Per momentin kemi te dhena te gjeneruara vetem per Matematike klasa 7. Nuk kemi ende dokumente te gatshme per klasen ${request.grade}.`
+          summary: `Per momentin kemi dokumente te gatshme per Matematike per ${this.availableGradesText()}. Nuk kemi ende dokumente te gatshme per klasen ${request.grade}.`
         }
       });
       return { run, assistant: run.summary };
@@ -503,6 +540,30 @@ export class TeacherAssistantService {
       .sort((first, second) => first.id.localeCompare(second.id));
   }
 
+  private availableGeneratedGrades() {
+    const baseFolder = path.join(ROOT_DIR, "data/generated/lessons_json/matematike");
+    if (!fs.existsSync(baseFolder)) {
+      return [];
+    }
+    return fs
+      .readdirSync(baseFolder, { withFileTypes: true })
+      .filter((entry) => entry.isDirectory())
+      .map((entry) => Number(entry.name.match(/^Klasa_(\d+)$/)?.[1]))
+      .filter((grade) => Number.isInteger(grade))
+      .sort((first, second) => first - second);
+  }
+
+  private availableGradesText() {
+    const grades = this.availableGeneratedGrades();
+    if (!grades.length) {
+      return "asnje klase";
+    }
+    if (grades.length === 1) {
+      return `klasa ${grades[0]}`;
+    }
+    return `klasat ${grades.slice(0, -1).join(", ")} dhe ${grades[grades.length - 1]}`;
+  }
+
   private findClassRequest(message: string): ClassRequest | null {
     const normalizedMessage = this.normalize(message);
     if (this.includesUnsupportedSubject(normalizedMessage)) {
@@ -525,7 +586,7 @@ export class TeacherAssistantService {
     }
     const grade = this.extractGrade(normalizedMessage);
     if (grade && this.includesMathSubject(normalizedMessage)) {
-      return `Per momentin kemi dokumente te gjeneruara vetem per Matematike klasa 7. Nuk kemi ende dokumente te gatshme per Matematike klasa ${grade}.`;
+      return `Per momentin kemi dokumente te gjeneruara per Matematike per ${this.availableGradesText()}. Nuk kemi ende dokumente te gatshme per Matematike klasa ${grade}.`;
     }
     return null;
   }

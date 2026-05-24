@@ -22,7 +22,10 @@ def validate_docx(path: str | Path, min_body_chars: int = 500) -> list[str]:
         return [f"cannot open docx: {exc}"]
     if not doc.tables:
         return ["document has no Amathint/Ditare table"]
-    table = doc.tables[0]
+    table = next(
+        (candidate for candidate in doc.tables if len(candidate.rows) >= 7 and len(candidate.columns) >= 4),
+        doc.tables[0],
+    )
     if len(table.rows) < 7 or len(table.columns) < 4:
         errors.append("Amathint/Ditare table must have at least 7 rows and 4 columns")
         return errors

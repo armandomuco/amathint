@@ -20,9 +20,14 @@ export type TeacherDashboardData = {
     totalQuestions: number;
     uniqueStudents: number;
     averageRisk: number;
+    mathQuestions: number;
+    outOfMathQuestions: number;
+    availableGrades: number[];
   };
   topKeywords: Array<{ keyword: string; count: number; averageRisk: number }>;
   riskSummary: { low: number; medium: number; high: number };
+  riskExplanation: string;
+  topicMethod: string;
   recentQuestions: Array<{
     id: string;
     studentName: string;
@@ -39,6 +44,8 @@ export type StudentDashboardData = {
     totalQuestions: number;
     totalAnswers: number;
     totalConversations: number;
+    mathQuestions: number;
+    outOfMathQuestions: number;
   };
   topKeywords: Array<{ keyword: string; count: number }>;
   recentQa: Array<{
@@ -192,6 +199,16 @@ export function listTeacherDocuments(token: string) {
 export function deleteTeacherDocument(token: string, id: string) {
   return request<{ ok: boolean }>(
     `/teacher-assistant/documents/${id}`,
+    {
+      method: "DELETE"
+    },
+    token
+  );
+}
+
+export function deleteTeacherDocumentFolder(token: string, folder: string) {
+  return request<{ ok: boolean; deleted: number }>(
+    `/teacher-assistant/documents/folders/${encodeURIComponent(folder)}`,
     {
       method: "DELETE"
     },
