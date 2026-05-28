@@ -1,4 +1,4 @@
-import { Controller, Get, Headers } from "@nestjs/common";
+import { Controller, Get, Headers, Query } from "@nestjs/common";
 import { AuthService } from "../auth/auth.service";
 import { AnalyticsService } from "./analytics.service";
 
@@ -16,9 +16,9 @@ export class AnalyticsController {
   ) {}
 
   @Get("teacher-dashboard")
-  async teacherDashboard(@Headers("authorization") authorization: string | undefined) {
+  async teacherDashboard(@Headers("authorization") authorization: string | undefined, @Query("grade") grade?: string) {
     const user = await this.auth.currentUserFromToken(tokenFromHeader(authorization));
-    return this.analytics.teacherDashboard(user);
+    return this.analytics.teacherDashboard(user, grade);
   }
 
   @Get("student-dashboard")

@@ -12,13 +12,14 @@ type StudentChatAnswer = {
 };
 
 const DEFAULT_ANTHROPIC_MODEL = "claude-sonnet-4-20250514";
-const LOCAL_MODEL = "local-guided-v3";
+const LOCAL_MODEL = "local-guided-v4";
 
 const SYSTEM_PROMPT = [
   "You are Amathint Student Math Q/A Chatbot.",
   "You help Albanian school students understand Mathematics.",
   "You answer in simple Albanian unless the student asks in another language.",
-  "Before answering, interpret Albanian school math wording and common missing accents, for example siperfaqe/sipërfaqe, trekendesh/trekëndësh, sfere/sferë, vellim/vëllim.",
+  "First act as a silent Albanian math translator: normalize the student's Albanian wording, missing accents, dialect spelling, and school terminology into clear math intent.",
+  "Then decide if the intent is Mathematics. Treat geometry shapes, formulas, units, graph words, algebra words, and Albanian variants like siperfaqe/sipërfaqe, trekendesh/trekëndësh, sfere/sferë, vellim/vëllim, rrenje/rrënjë as Mathematics.",
   "You only answer Mathematics questions. If the student asks about another subject, politely explain that this chatbot is only for Math Q/A.",
   "You do not solve full homework/exam exercises directly.",
   "If the student asks to solve an exercise, explain the concept and ask which step is confusing.",
@@ -31,9 +32,10 @@ const SYSTEM_PROMPT = [
 export class StudentChatAiService {
   async answer(question: string, history: ChatHistoryMessage[]): Promise<StudentChatAnswer> {
     const provider = (process.env.STUDENT_CHAT_PROVIDER || "anthropic").toLowerCase();
-    const normalizedQuestion = this.normalize(question);
+    const interpretedQuestion = this.interpretAlbanianMath(question);
+    const normalizedQuestion = interpretedQuestion.normalized;
 
-    if (!this.isGreeting(normalizedQuestion) && !this.isMathQuestion(normalizedQuestion)) {
+    if (!this.isGreeting(normalizedQuestion) && !this.isMathQuestion(normalizedQuestion, interpretedQuestion.canonical)) {
       return {
         content:
           "Ky chatbot eshte vetem per pyetje dhe pergjigje ne Matematike. Mund te me pyesesh per formula, koncepte, gjeometri, algjeber, funksione, probabilitet ose tema te tjera matematikore.",
@@ -43,7 +45,7 @@ export class StudentChatAiService {
     }
 
     if (provider === "anthropic") {
-      return this.answerWithAnthropic(question, history);
+      return this.answerWithAnthropic(question, history, interpretedQuestion.canonical);
     }
 
     if (provider === "local") {
@@ -53,7 +55,7 @@ export class StudentChatAiService {
     throw new ServiceUnavailableException(`Unsupported student chat provider: ${provider}`);
   }
 
-  private async answerWithAnthropic(question: string, history: ChatHistoryMessage[]): Promise<StudentChatAnswer> {
+  private async answerWithAnthropic(question: string, history: ChatHistoryMessage[], interpretedIntent: string): Promise<StudentChatAnswer> {
     const apiKey = process.env.ANTHROPIC_API_KEY;
     const model = process.env.STUDENT_CHAT_MODEL || DEFAULT_ANTHROPIC_MODEL;
 
@@ -66,7 +68,10 @@ export class StudentChatAiService {
         role: message.role === "assistant" ? "assistant" : "user",
         content: message.content
       })),
-      { role: "user", content: question }
+      {
+        role: "user",
+        content: `Student question: ${question}\nInterpreted math intent: ${interpretedIntent || "unknown"}`
+      }
     ];
 
     const response = await fetch("https://api.anthropic.com/v1/messages", {
@@ -111,6 +116,7 @@ export class StudentChatAiService {
 
   private answerWithLocalFallback(question: string): StudentChatAnswer {
     const lower = this.normalize(question);
+    const interpretedQuestion = this.interpretAlbanianMath(question);
 
     if (this.isGreeting(lower)) {
       return {
@@ -120,7 +126,7 @@ export class StudentChatAiService {
       };
     }
 
-    if (!this.isMathQuestion(lower)) {
+    if (!this.isMathQuestion(lower, interpretedQuestion.canonical)) {
       return {
         content:
           "Ky chatbot eshte vetem per pyetje dhe pergjigje ne Matematike. Mund te me pyesesh per formula, koncepte, gjeometri, algjeber, funksione, probabilitet ose tema te tjera matematikore.",
@@ -174,6 +180,38 @@ export class StudentChatAiService {
 
   private hasAny(question: string, terms: string[]) {
     return terms.some((term) => question.includes(this.normalize(term)));
+  }
+
+  private interpretAlbanianMath(question: string) {
+    const normalized = this.normalize(question);
+    const replacements: Array<[RegExp, string]> = [
+      [/\bsiperfaq(?:e|ja|en|es)?\b/g, " surface area "],
+      [/\bsyprin(?:e|a|en|es)?\b/g, " surface area "],
+      [/\bvellim(?:i|in|it)?\b/g, " volume "],
+      [/\btrekend(?:esh|eshi|eshit)?\b/g, " triangle "],
+      [/\bdrejtkend(?:esh|eshi|eshit)?\b/g, " rectangle "],
+      [/\bkatror(?:i|it)?\b/g, " square "],
+      [/\brreth(?:i|it|or)?\b/g, " circle "],
+      [/\bsfer(?:e|a|es)?\b/g, " sphere "],
+      [/\btrapez(?:i|it)?\b/g, " trapezoid "],
+      [/\bcilinder(?:i|it)?\b/g, " cylinder "],
+      [/\bpiramid(?:e|a|es)?\b/g, " pyramid "],
+      [/\bthyes(?:e|a|at)?\b/g, " fraction "],
+      [/\bperqind(?:je|ja|jen)?\b/g, " percent "],
+      [/\brrenj(?:e|a|en|es)?\b/g, " root "],
+      [/\bfuqi(?:a|te)?\b/g, " power exponent "],
+      [/\bekuacion(?:i|et)?\b/g, " equation "],
+      [/\binekuacion(?:i|et)?\b/g, " inequality "],
+      [/\bfunksion(?:i|et)?\b/g, " function "],
+      [/\bgrafik(?:u|et)?\b/g, " graph "],
+      [/\bkend(?:i|et|e)?\b/g, " angle "],
+      [/\bbrinj(?:e|a|et)?\b/g, " side "],
+      [/\blartesi(?:a|ne)?\b/g, " height "],
+      [/\bbaz(?:e|a|en|at)?\b/g, " base "],
+      [/\bperimetr(?:i|in)?\b/g, " perimeter "]
+    ];
+    const canonical = replacements.reduce((current, [pattern, replacement]) => current.replace(pattern, replacement), normalized);
+    return { normalized, canonical };
   }
 
   private findFormulaAnswer(question: string) {
@@ -323,7 +361,8 @@ export class StudentChatAiService {
     return /^(hi|hello|hey|pershendetje|tung|ckemi|c kemi|miremengjes|miredita|mirembrema)$/.test(question);
   }
 
-  private isMathQuestion(question: string) {
+  private isMathQuestion(question: string, canonicalQuestion = "") {
+    const searchable = `${question} ${canonicalQuestion}`;
     const mathTerms = [
       "matematike",
       "formul",
@@ -367,12 +406,38 @@ export class StudentChatAiService {
       "mesatare",
       "raport",
       "perpjesetim",
-      "algjeber"
+      "algjeber",
+      "surface",
+      "area",
+      "volume",
+      "triangle",
+      "rectangle",
+      "square",
+      "circle",
+      "sphere",
+      "trapezoid",
+      "fraction",
+      "percent",
+      "root",
+      "power",
+      "exponent",
+      "equation",
+      "inequality",
+      "function",
+      "graph",
+      "angle",
+      "perimeter",
+      "base",
+      "height",
+      "side",
+      "formula",
+      "geometry",
+      "algebra"
     ];
-    const tokens = new Set(question.split(/\s+/).filter(Boolean));
+    const tokens = new Set(searchable.split(/\s+/).filter(Boolean));
     return (
-      mathTerms.some((term) => (term.length <= 5 ? tokens.has(term) : question.includes(term))) ||
-      /[0-9]+\s*([+\-*/^=<>]|%)/.test(question)
+      mathTerms.some((term) => (term.length <= 5 ? tokens.has(term) : searchable.includes(term))) ||
+      /[0-9]+\s*([+\-*/^=<>]|%)/.test(searchable)
     );
   }
 }

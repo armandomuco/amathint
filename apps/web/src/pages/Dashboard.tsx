@@ -8,6 +8,9 @@ export function Dashboard({ auth, copy, setView }: { auth: AuthResponse; copy: T
   const action = auth.user.role === "student" ? "student-chat" : "teacher-assistant";
   const [teacherData, setTeacherData] = useState<TeacherDashboardData | null>(null);
   const [studentData, setStudentData] = useState<StudentDashboardData | null>(null);
+  const [selectedTeacherGrade, setSelectedTeacherGrade] = useState<number | null>(
+    auth.user.role === "teacher" ? auth.user.teacherGrades?.[0] || null : null
+  );
   const [error, setError] = useState("");
 
   useEffect(() => {
@@ -16,7 +19,7 @@ export function Dashboard({ auth, copy, setView }: { auth: AuthResponse; copy: T
       setError("");
       try {
         if (auth.user.role === "teacher") {
-          const data = await getTeacherDashboard(auth.token);
+          const data = await getTeacherDashboard(auth.token, selectedTeacherGrade);
           if (!cancelled) setTeacherData(data);
         } else {
           const data = await getStudentDashboard(auth.token);
@@ -30,18 +33,32 @@ export function Dashboard({ auth, copy, setView }: { auth: AuthResponse; copy: T
     return () => {
       cancelled = true;
     };
-  }, [auth.token, auth.user.role]);
+  }, [auth.token, auth.user.role, selectedTeacherGrade]);
 
   return (
     <main className="workspace">
       <section className="page-heading">
-        <p className="eyebrow">{auth.user.schoolIdentifier}</p>
+        <p className="eyebrow">{auth.user.schoolName || auth.user.schoolIdentifier}</p>
         <h1>{auth.user.role === "student" ? copy.studentDashboard : copy.teacherDashboard}</h1>
         <p>
           {copy.welcome}, {auth.user.name}. {copy.dashboardNext}
         </p>
       </section>
       {error && <Alert tone="error" message={error} />}
+      {auth.user.role === "teacher" && Boolean(auth.user.teacherGrades?.length) && (
+        <section className="class-tabs" aria-label={copy.teacherGrades}>
+          {auth.user.teacherGrades.map((grade) => (
+            <button
+              className={selectedTeacherGrade === grade ? "active" : ""}
+              key={grade}
+              onClick={() => setSelectedTeacherGrade(grade)}
+              type="button"
+            >
+              {copy.classLabel} {grade}
+            </button>
+          ))}
+        </section>
+      )}
       <section className={`dashboard-grid ${auth.user.role === "teacher" ? "teacher-dashboard-grid" : "student-dashboard-grid"}`}>
         <button className="task-tile" onClick={() => setView(action)}>
           <span>{auth.user.role === "student" ? copy.studentChatTile : copy.teacherAssistantTile}</span>

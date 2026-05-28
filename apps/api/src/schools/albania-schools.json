@@ -1,0 +1,1024 @@
+[
+  {
+    "id": "berat-gjimnazi-antipatrea",
+    "name": "Gjimnazi Antipatrea",
+    "city": "Berat",
+    "qark": "Berat",
+    "level": "high"
+  },
+  {
+    "id": "berat-gjimnazi-babe-dude-karbunara",
+    "name": "Gjimnazi Babë Dudë Karbunara",
+    "city": "Berat",
+    "qark": "Berat",
+    "level": "high"
+  },
+  {
+    "id": "berat-gjimnazi-kristaq-capo",
+    "name": "Gjimnazi Kristaq Capo",
+    "city": "Berat",
+    "qark": "Berat",
+    "level": "high"
+  },
+  {
+    "id": "berat-shkolla-9-vjecare-22-tetori",
+    "name": "Shkolla 9-vjeçare 22 Tetori",
+    "city": "Berat",
+    "qark": "Berat",
+    "level": "primary"
+  },
+  {
+    "id": "berat-shkolla-9-vjecare-babe-dude-karbunara",
+    "name": "Shkolla 9-vjeçare Babë Dudë Karbunara",
+    "city": "Berat",
+    "qark": "Berat",
+    "level": "primary"
+  },
+  {
+    "id": "berat-shkolla-9-vjecare-mustafa-gjinishi",
+    "name": "Shkolla 9-vjeçare Mustafa Gjinishi",
+    "city": "Berat",
+    "qark": "Berat",
+    "level": "primary"
+  },
+  {
+    "id": "berat-shkolla-9-vjecare-thimi-tani",
+    "name": "Shkolla 9-vjeçare Thimi Tani",
+    "city": "Berat",
+    "qark": "Berat",
+    "level": "primary"
+  },
+  {
+    "id": "berat-shkolla-9-vjecare-zihni-toska",
+    "name": "Shkolla 9-vjeçare Zihni Toska",
+    "city": "Berat",
+    "qark": "Berat",
+    "level": "primary"
+  },
+  {
+    "id": "berat-shkolla-e-bashkuar-artistike-ajet-xhindole",
+    "name": "Shkolla e Bashkuar Artistike Ajet Xhindole",
+    "city": "Berat",
+    "qark": "Berat",
+    "level": "primary"
+  },
+  {
+    "id": "bogove-myslim-bakerri",
+    "name": "Myslim Bakerri",
+    "city": "Bogovë",
+    "qark": "Berat",
+    "level": "primary"
+  },
+  {
+    "id": "corovode-kahreman-ylli",
+    "name": "Kahreman Ylli",
+    "city": "Çorovodë",
+    "qark": "Berat",
+    "level": "primary"
+  },
+  {
+    "id": "corovode-ramiz-aranitasi",
+    "name": "Ramiz Aranitasi",
+    "city": "Çorovodë",
+    "qark": "Berat",
+    "level": "primary"
+  },
+  {
+    "id": "corovode-zylyftar-veleshnja",
+    "name": "Zylyftar Veleshnja",
+    "city": "Çorovodë",
+    "qark": "Berat",
+    "level": "primary"
+  },
+  {
+    "id": "mbrakull-shkolla-e-mesme-e-bashkuar-mbrakull",
+    "name": "Shkolla e Mesme e Bashkuar Mbrakull",
+    "city": "Mbrakull",
+    "qark": "Berat",
+    "level": "high"
+  },
+  {
+    "id": "polican-gjimnazi-muhamet-kondi",
+    "name": "Gjimnazi Muhamet Kondi",
+    "city": "Poliçan",
+    "qark": "Berat",
+    "level": "high"
+  },
+  {
+    "id": "arras-gryke-noke",
+    "name": "Grykë Nokë",
+    "city": "Arras",
+    "qark": "Diber",
+    "level": "primary"
+  },
+  {
+    "id": "arras-miftar-krashi",
+    "name": "Miftar Krashi",
+    "city": "Arras",
+    "qark": "Diber",
+    "level": "primary"
+  },
+  {
+    "id": "brezhdan-isuf-karasani",
+    "name": "Isuf Karasani",
+    "city": "Brezhdan",
+    "qark": "Diber",
+    "level": "primary"
+  },
+  {
+    "id": "bulqize-shefqet-tanci",
+    "name": "Shefqet Tançi",
+    "city": "Bulqizë",
+    "qark": "Diber",
+    "level": "primary"
+  },
+  {
+    "id": "burrel-gjimnazi-myslim-peza",
+    "name": "Gjimnazi Myslim Peza",
+    "city": "Burrel",
+    "qark": "Diber",
+    "level": "high"
+  },
+  {
+    "id": "burrel-shkolla-9-vjecare-pjeter-budi",
+    "name": "Shkolla 9-vjeçare Pjetër Budi",
+    "city": "Burrel",
+    "qark": "Diber",
+    "level": "primary"
+  },
+  {
+    "id": "diber-gjimnazi-haki-stermilli",
+    "name": "Gjimnazi Haki Stërmilli",
+    "city": "Dibër",
+    "qark": "Diber",
+    "level": "high"
+  },
+  {
+    "id": "diber-shkolla-9-vjecare-demir-gashi",
+    "name": "Shkolla 9-vjeçare Demir Gashi",
+    "city": "Dibër",
+    "qark": "Diber",
+    "level": "primary"
+  },
+  {
+    "id": "dovolan-nazmi-rushiti",
+    "name": "Nazmi Rushiti",
+    "city": "Dovolan",
+    "qark": "Diber",
+    "level": "primary"
+  },
+  {
+    "id": "fushe-alie-sali-demiri",
+    "name": "Sali Demiri",
+    "city": "Fushë Alie",
+    "qark": "Diber",
+    "level": "primary"
+  },
+  {
+    "id": "fushe-bulqize-asllan-keta",
+    "name": "Asllan Keta",
+    "city": "Fushë-Bulqizë",
+    "qark": "Diber",
+    "level": "primary"
+  },
+  {
+    "id": "kastriot-gjergj-kastrioti",
+    "name": "Gjergj Kastrioti",
+    "city": "Kastriot",
+    "qark": "Diber",
+    "level": "primary"
+  },
+  {
+    "id": "kastriot-kastriot",
+    "name": "Kastriot",
+    "city": "Kastriot",
+    "qark": "Diber",
+    "level": "primary"
+  },
+  {
+    "id": "kastriot-koben",
+    "name": "Koben",
+    "city": "Kastriot",
+    "qark": "Diber",
+    "level": "primary"
+  },
+  {
+    "id": "kercisht-haki-sharofi",
+    "name": "Haki Sharofi",
+    "city": "Kërçisht",
+    "qark": "Diber",
+    "level": "primary"
+  },
+  {
+    "id": "lure-nikoll-kacori",
+    "name": "Nikoll Kacori",
+    "city": "Lurë",
+    "qark": "Diber",
+    "level": "primary"
+  },
+  {
+    "id": "luzni-katund-i-ri",
+    "name": "Katund i Ri",
+    "city": "Luzni",
+    "qark": "Diber",
+    "level": "primary"
+  },
+  {
+    "id": "maqellare-fiqiri-dine",
+    "name": "Fiqiri Dine",
+    "city": "Maqellarë",
+    "qark": "Diber",
+    "level": "primary"
+  },
+  {
+    "id": "maqellare-majtare",
+    "name": "Majtare",
+    "city": "Maqellarë",
+    "qark": "Diber",
+    "level": "primary"
+  },
+  {
+    "id": "maqellare-maqellare",
+    "name": "Maqellarë",
+    "city": "Maqellarë",
+    "qark": "Diber",
+    "level": "primary"
+  },
+  {
+    "id": "melan-haki-stermilli",
+    "name": "Haki Stërmilli",
+    "city": "Melan",
+    "qark": "Diber",
+    "level": "primary"
+  },
+  {
+    "id": "muhurr-dine-hoxha",
+    "name": "Dine Hoxha",
+    "city": "Muhurr",
+    "qark": "Diber",
+    "level": "primary"
+  },
+  {
+    "id": "mustafe-hakik-xhika",
+    "name": "Hakik Xhika",
+    "city": "Mustafe",
+    "qark": "Diber",
+    "level": "primary"
+  },
+  {
+    "id": "peshkopi-gjimnazi-xhevdet-doda",
+    "name": "Gjimnazi Xhevdet Doda",
+    "city": "Peshkopi",
+    "qark": "Diber",
+    "level": "high"
+  },
+  {
+    "id": "peshkopi-irfan-hajrullaj",
+    "name": "Irfan Hajrullaj",
+    "city": "Peshkopi",
+    "qark": "Diber",
+    "level": "primary"
+  },
+  {
+    "id": "peshkopi-myslim-shehu",
+    "name": "Myslim Shehu",
+    "city": "Peshkopi",
+    "qark": "Diber",
+    "level": "primary"
+  },
+  {
+    "id": "peshkopi-said-najdeni",
+    "name": "Said Najdeni",
+    "city": "Peshkopi",
+    "qark": "Diber",
+    "level": "primary"
+  },
+  {
+    "id": "peshkopi-selim-alliu",
+    "name": "Selim Alliu",
+    "city": "Peshkopi",
+    "qark": "Diber",
+    "level": "primary"
+  },
+  {
+    "id": "peshkopi-shkolla-9-vjecare-selman-alia",
+    "name": "Shkolla 9-vjeçare Selman Alia",
+    "city": "Peshkopi",
+    "qark": "Diber",
+    "level": "primary"
+  },
+  {
+    "id": "pocest-pocest",
+    "name": "Pocest",
+    "city": "Pocest",
+    "qark": "Diber",
+    "level": "primary"
+  },
+  {
+    "id": "radomire-ibrahim-gjorgji",
+    "name": "Ibrahim Gjorgji",
+    "city": "Radomirë",
+    "qark": "Diber",
+    "level": "primary"
+  },
+  {
+    "id": "shupenze-ibrahim-daci",
+    "name": "Ibrahim Daçi",
+    "city": "Shupenzë",
+    "qark": "Diber",
+    "level": "primary"
+  },
+  {
+    "id": "tomin-idriz-kaba",
+    "name": "Idriz Kaba",
+    "city": "Tomin",
+    "qark": "Diber",
+    "level": "primary"
+  },
+  {
+    "id": "tregtan-9-vjecare-rexhep-hoxha",
+    "name": "9-vjeçare Rexhep Hoxha",
+    "city": "Tregtan",
+    "qark": "Diber",
+    "level": "primary"
+  },
+  {
+    "id": "durres-gjimnazi-gjergj-kastrioti",
+    "name": "Gjimnazi Gjergj Kastrioti",
+    "city": "Durrës",
+    "qark": "Durres",
+    "level": "high"
+  },
+  {
+    "id": "durres-gjimnazi-olsi-lasko",
+    "name": "Gjimnazi Olsi Lasko",
+    "city": "Durrës",
+    "qark": "Durres",
+    "level": "high"
+  },
+  {
+    "id": "durres-shkolla-9-vjecare-14-nentori",
+    "name": "Shkolla 9-vjeçare 14 Nëntori",
+    "city": "Durrës",
+    "qark": "Durres",
+    "level": "primary"
+  },
+  {
+    "id": "durres-shkolla-9-vjecare-neim-babameto",
+    "name": "Shkolla 9-vjeçare Neim Babameto",
+    "city": "Durrës",
+    "qark": "Durres",
+    "level": "primary"
+  },
+  {
+    "id": "kruje-gjimnazi-skenderbeu",
+    "name": "Gjimnazi Skënderbeu",
+    "city": "Krujë",
+    "qark": "Durres",
+    "level": "high"
+  },
+  {
+    "id": "kruje-shkolla-9-vjecare-ramazan-jangozi",
+    "name": "Shkolla 9-vjeçare Ramazan Jangozi",
+    "city": "Krujë",
+    "qark": "Durres",
+    "level": "primary"
+  },
+  {
+    "id": "elbasan-gjimnazi-dhaskal-todri",
+    "name": "Gjimnazi Dhaskal Todri",
+    "city": "Elbasan",
+    "qark": "Elbasan",
+    "level": "high"
+  },
+  {
+    "id": "elbasan-gjimnazi-kostandin-kristoforidhi",
+    "name": "Gjimnazi Kostandin Kristoforidhi",
+    "city": "Elbasan",
+    "qark": "Elbasan",
+    "level": "high"
+  },
+  {
+    "id": "elbasan-shkolla-9-vjecare-jorgji-dilo",
+    "name": "Shkolla 9-vjeçare Jorgji Dilo",
+    "city": "Elbasan",
+    "qark": "Elbasan",
+    "level": "primary"
+  },
+  {
+    "id": "elbasan-shkolla-9-vjecare-qemal-haxhihasani",
+    "name": "Shkolla 9-vjeçare Qemal Haxhihasani",
+    "city": "Elbasan",
+    "qark": "Elbasan",
+    "level": "primary"
+  },
+  {
+    "id": "librazhd-gjimnazi-vasil-kamami",
+    "name": "Gjimnazi Vasil Kamami",
+    "city": "Librazhd",
+    "qark": "Elbasan",
+    "level": "high"
+  },
+  {
+    "id": "librazhd-shkolla-9-vjecare-dritero-agolli",
+    "name": "Shkolla 9-vjeçare Dritëro Agolli",
+    "city": "Librazhd",
+    "qark": "Elbasan",
+    "level": "primary"
+  },
+  {
+    "id": "peqin-gjimnazi-adem-sheme",
+    "name": "Gjimnazi Adem Sheme",
+    "city": "Peqin",
+    "qark": "Elbasan",
+    "level": "high"
+  },
+  {
+    "id": "peqin-shkolla-9-vjecare-vasil-kamami",
+    "name": "Shkolla 9-vjeçare Vasil Kamami",
+    "city": "Peqin",
+    "qark": "Elbasan",
+    "level": "primary"
+  },
+  {
+    "id": "cerme-sektor-shmb-cerme-sektor",
+    "name": "SHMB Çermë Sektor",
+    "city": "Çermë Sektor",
+    "qark": "Fier",
+    "level": "primary"
+  },
+  {
+    "id": "cerme-shkumbin-shmb-cerme-shkumbin",
+    "name": "SHMB Çermë Shkumbin",
+    "city": "Çermë Shkumbin",
+    "qark": "Fier",
+    "level": "primary"
+  },
+  {
+    "id": "fier-gjimnazi-jale-minga",
+    "name": "Gjimnazi Jalë Minga",
+    "city": "Fier",
+    "qark": "Fier",
+    "level": "high"
+  },
+  {
+    "id": "fier-gjimnazi-perikli-ikonomi",
+    "name": "Gjimnazi Perikli Ikonomi",
+    "city": "Fier",
+    "qark": "Fier",
+    "level": "high"
+  },
+  {
+    "id": "fier-shkolla-9-vjecare-andon-xoxa",
+    "name": "Shkolla 9-vjeçare Andon Xoxa",
+    "city": "Fier",
+    "qark": "Fier",
+    "level": "primary"
+  },
+  {
+    "id": "fier-shkolla-9-vjecare-pinellopi-pirro",
+    "name": "Shkolla 9-vjeçare Pinellopi Pirro",
+    "city": "Fier",
+    "qark": "Fier",
+    "level": "primary"
+  },
+  {
+    "id": "fierseman-shmb-mihal-nako",
+    "name": "SHMB Mihal Nako",
+    "city": "Fierseman",
+    "qark": "Fier",
+    "level": "primary"
+  },
+  {
+    "id": "lushnje-gjimnazi-18-tetori",
+    "name": "Gjimnazi 18 Tetori",
+    "city": "Lushnjë",
+    "qark": "Fier",
+    "level": "high"
+  },
+  {
+    "id": "lushnje-shkolla-9-vjecare-kongresi-i-lushnjes",
+    "name": "Shkolla 9-vjeçare Kongresi i Lushnjës",
+    "city": "Lushnjë",
+    "qark": "Fier",
+    "level": "primary"
+  },
+  {
+    "id": "mallakaster-gjimnazi-bilal-golemi",
+    "name": "Gjimnazi Bilal Golemi",
+    "city": "Mallakastër",
+    "qark": "Fier",
+    "level": "high"
+  },
+  {
+    "id": "mallakaster-shkolla-9-vjecare-naim-frasheri",
+    "name": "Shkolla 9-vjeçare Naim Frashëri",
+    "city": "Mallakastër",
+    "qark": "Fier",
+    "level": "primary"
+  },
+  {
+    "id": "gjirokaster-gjimnazi-asim-zeneli",
+    "name": "Gjimnazi Asim Zeneli",
+    "city": "Gjirokastër",
+    "qark": "Gjirokaster",
+    "level": "high"
+  },
+  {
+    "id": "gjirokaster-gjimnazi-siri-shapllo",
+    "name": "Gjimnazi Siri Shapllo",
+    "city": "Gjirokastër",
+    "qark": "Gjirokaster",
+    "level": "high"
+  },
+  {
+    "id": "gjirokaster-shkolla-9-vjecare-koto-hoxhi",
+    "name": "Shkolla 9-vjeçare Koto Hoxhi",
+    "city": "Gjirokastër",
+    "qark": "Gjirokaster",
+    "level": "primary"
+  },
+  {
+    "id": "korce-gjimnazi-raqi-qirinxhi",
+    "name": "Gjimnazi Raqi Qirinxhi",
+    "city": "Korçë",
+    "qark": "Korce",
+    "level": "high"
+  },
+  {
+    "id": "korce-gjimnazi-themistokli-germenji",
+    "name": "Gjimnazi Themistokli Gërmenji",
+    "city": "Korçë",
+    "qark": "Korce",
+    "level": "high"
+  },
+  {
+    "id": "korce-gjimnazi-thoma-nasi",
+    "name": "Gjimnazi Thoma Nasi",
+    "city": "Korçë",
+    "qark": "Korce",
+    "level": "high"
+  },
+  {
+    "id": "korce-shkolla-9-vjecare-mihal-grameno",
+    "name": "Shkolla 9-vjeçare Mihal Grameno",
+    "city": "Korçë",
+    "qark": "Korce",
+    "level": "primary"
+  },
+  {
+    "id": "korce-shkolla-9-vjecare-pandeli-cale",
+    "name": "Shkolla 9-vjeçare Pandeli Cale",
+    "city": "Korçë",
+    "qark": "Korce",
+    "level": "primary"
+  },
+  {
+    "id": "korce-shkolla-9-vjecare-sevasti-qiriazi",
+    "name": "Shkolla 9-vjeçare Sevasti Qiriazi",
+    "city": "Korçë",
+    "qark": "Korce",
+    "level": "primary"
+  },
+  {
+    "id": "pogradec-gjimnazi-sotir-gurra",
+    "name": "Gjimnazi Sotir Gurra",
+    "city": "Pogradec",
+    "qark": "Korce",
+    "level": "high"
+  },
+  {
+    "id": "pogradec-shkolla-9-vjecare-reshit-collaku",
+    "name": "Shkolla 9-vjeçare Reshit Çollaku",
+    "city": "Pogradec",
+    "qark": "Korce",
+    "level": "primary"
+  },
+  {
+    "id": "fajza-9-vjecare-islam-goci",
+    "name": "9-vjeçare Islam Goçi",
+    "city": "Fajza",
+    "qark": "Kukes",
+    "level": "primary"
+  },
+  {
+    "id": "golaj-shmb-arif-zeqir-brati",
+    "name": "SHMB Arif Zeqir Brati",
+    "city": "Golaj",
+    "qark": "Kukes",
+    "level": "primary"
+  },
+  {
+    "id": "helshan-9-vjecare-sali-hajdari",
+    "name": "9-vjeçare Sali Hajdari",
+    "city": "Helshan",
+    "qark": "Kukes",
+    "level": "primary"
+  },
+  {
+    "id": "kukes-gjimnazi-havzi-nela",
+    "name": "Gjimnazi Havzi Nela",
+    "city": "Kukës",
+    "qark": "Kukes",
+    "level": "high"
+  },
+  {
+    "id": "kukes-shkolla-9-vjecare-islam-dema",
+    "name": "Shkolla 9-vjeçare Islam Dema",
+    "city": "Kukës",
+    "qark": "Kukes",
+    "level": "primary"
+  },
+  {
+    "id": "letaj-9-vjecare-letaj",
+    "name": "9-vjeçare Letaj",
+    "city": "Letaj",
+    "qark": "Kukes",
+    "level": "primary"
+  },
+  {
+    "id": "metaliaj-9-vjecare-rexhep-hoxha",
+    "name": "9-vjeçare Rexhep Hoxha",
+    "city": "Metaliaj",
+    "qark": "Kukes",
+    "level": "primary"
+  },
+  {
+    "id": "nikoliq-9-vjecare-nikoliq",
+    "name": "9-vjeçare Nikoliq",
+    "city": "Nikoliq",
+    "qark": "Kukes",
+    "level": "primary"
+  },
+  {
+    "id": "tropoje-gjimnazi-shejnaze-juka",
+    "name": "Gjimnazi Shejnaze Juka",
+    "city": "Tropojë",
+    "qark": "Kukes",
+    "level": "high"
+  },
+  {
+    "id": "vlahen-9-vjecare-rexh-bajraktari",
+    "name": "9-vjeçare Rexh Bajraktari",
+    "city": "Vlahen",
+    "qark": "Kukes",
+    "level": "primary"
+  },
+  {
+    "id": "kurbin-gjimnazi-at-shtjefen-gjecovi",
+    "name": "Gjimnazi At Shtjefën Gjeçovi",
+    "city": "Kurbin",
+    "qark": "Lezhe",
+    "level": "high"
+  },
+  {
+    "id": "kurbin-shkolla-9-vjecare-skenderbeu",
+    "name": "Shkolla 9-vjeçare Skënderbeu",
+    "city": "Kurbin",
+    "qark": "Lezhe",
+    "level": "primary"
+  },
+  {
+    "id": "lezhe-gjimnazi-hydajet-lezha",
+    "name": "Gjimnazi Hydajet Lezha",
+    "city": "Lezhë",
+    "qark": "Lezhe",
+    "level": "high"
+  },
+  {
+    "id": "lezhe-shkolla-9-vjecare-beselidhja",
+    "name": "Shkolla 9-vjeçare Besëlidhja",
+    "city": "Lezhë",
+    "qark": "Lezhe",
+    "level": "primary"
+  },
+  {
+    "id": "mamurras-gjimnazi-gramoz-palushi",
+    "name": "Gjimnazi Gramoz Palushi",
+    "city": "Mamurras",
+    "qark": "Lezhe",
+    "level": "high"
+  },
+  {
+    "id": "shkoder-ali-lacej",
+    "name": "Ali Laçej",
+    "city": "Shkodër",
+    "qark": "Shkoder",
+    "level": "primary"
+  },
+  {
+    "id": "shkoder-branko-kadia",
+    "name": "Branko Kadia",
+    "city": "Shkodër",
+    "qark": "Shkoder",
+    "level": "primary"
+  },
+  {
+    "id": "shkoder-gjimnazi-28-nentori",
+    "name": "Gjimnazi 28 Nëntori",
+    "city": "Shkodër",
+    "qark": "Shkoder",
+    "level": "high"
+  },
+  {
+    "id": "shkoder-gjimnazi-hamdi-bushati",
+    "name": "Gjimnazi Hamdi Bushati",
+    "city": "Shkodër",
+    "qark": "Shkoder",
+    "level": "high"
+  },
+  {
+    "id": "shkoder-gjimnazi-jordan-misja",
+    "name": "Gjimnazi Jordan Misja",
+    "city": "Shkodër",
+    "qark": "Shkoder",
+    "level": "high"
+  },
+  {
+    "id": "shkoder-gjimnazi-oso-kuka",
+    "name": "Gjimnazi Oso Kuka",
+    "city": "Shkodër",
+    "qark": "Shkoder",
+    "level": "high"
+  },
+  {
+    "id": "shkoder-martin-camaj",
+    "name": "Martin Camaj",
+    "city": "Shkodër",
+    "qark": "Shkoder",
+    "level": "primary"
+  },
+  {
+    "id": "shkoder-shkolla-9-vjecare-ismail-qemali",
+    "name": "Shkolla 9-vjeçare Ismail Qemali",
+    "city": "Shkodër",
+    "qark": "Shkoder",
+    "level": "primary"
+  },
+  {
+    "id": "shkoder-shkolla-9-vjecare-ndre-mjeda",
+    "name": "Shkolla 9-vjeçare Ndre Mjeda",
+    "city": "Shkodër",
+    "qark": "Shkoder",
+    "level": "primary"
+  },
+  {
+    "id": "shkoder-shkolla-9-vjecare-prenke-jakova",
+    "name": "Shkolla 9-vjeçare Prenkë Jakova",
+    "city": "Shkodër",
+    "qark": "Shkoder",
+    "level": "primary"
+  },
+  {
+    "id": "shkoder-shkolla-9-vjecare-skenderbeu",
+    "name": "Shkolla 9-vjeçare Skënderbeu",
+    "city": "Shkodër",
+    "qark": "Shkoder",
+    "level": "primary"
+  },
+  {
+    "id": "kamez-gjimnazi-besnik-sykja",
+    "name": "Gjimnazi Besnik Sykja",
+    "city": "Kamëz",
+    "qark": "Tirane",
+    "level": "high"
+  },
+  {
+    "id": "kamez-shkolla-9-vjecare-ibrahim-rugova",
+    "name": "Shkolla 9-vjeçare Ibrahim Rugova",
+    "city": "Kamëz",
+    "qark": "Tirane",
+    "level": "primary"
+  },
+  {
+    "id": "kavaje-gjimnazi-aleksander-moisiu",
+    "name": "Gjimnazi Aleksandër Moisiu",
+    "city": "Kavajë",
+    "qark": "Tirane",
+    "level": "high"
+  },
+  {
+    "id": "kavaje-shkolla-9-vjecare-qazim-turdiu",
+    "name": "Shkolla 9-vjeçare Qazim Turdiu",
+    "city": "Kavajë",
+    "qark": "Tirane",
+    "level": "primary"
+  },
+  {
+    "id": "tirane-gjimnazi-aleks-buda",
+    "name": "Gjimnazi Aleks Buda",
+    "city": "Tiranë",
+    "qark": "Tirane",
+    "level": "high"
+  },
+  {
+    "id": "tirane-gjimnazi-andon-zako-cajupi",
+    "name": "Gjimnazi Andon Zako Çajupi",
+    "city": "Tiranë",
+    "qark": "Tirane",
+    "level": "high"
+  },
+  {
+    "id": "tirane-gjimnazi-arben-broci",
+    "name": "Gjimnazi Arben Broci",
+    "city": "Tiranë",
+    "qark": "Tirane",
+    "level": "high"
+  },
+  {
+    "id": "tirane-gjimnazi-asim-vokshi",
+    "name": "Gjimnazi Asim Vokshi",
+    "city": "Tiranë",
+    "qark": "Tirane",
+    "level": "high"
+  },
+  {
+    "id": "tirane-gjimnazi-ismail-qemali",
+    "name": "Gjimnazi Ismail Qemali",
+    "city": "Tiranë",
+    "qark": "Tirane",
+    "level": "high"
+  },
+  {
+    "id": "tirane-gjimnazi-myslym-keta",
+    "name": "Gjimnazi Myslym Keta",
+    "city": "Tiranë",
+    "qark": "Tirane",
+    "level": "high"
+  },
+  {
+    "id": "tirane-gjimnazi-partizani",
+    "name": "Gjimnazi Partizani",
+    "city": "Tiranë",
+    "qark": "Tirane",
+    "level": "high"
+  },
+  {
+    "id": "tirane-gjimnazi-petro-nini-luarasi",
+    "name": "Gjimnazi Petro Nini Luarasi",
+    "city": "Tiranë",
+    "qark": "Tirane",
+    "level": "high"
+  },
+  {
+    "id": "tirane-gjimnazi-qemal-stafa",
+    "name": "Gjimnazi Qemal Stafa",
+    "city": "Tiranë",
+    "qark": "Tirane",
+    "level": "high"
+  },
+  {
+    "id": "tirane-gjimnazi-sami-frasheri",
+    "name": "Gjimnazi Sami Frashëri",
+    "city": "Tiranë",
+    "qark": "Tirane",
+    "level": "high"
+  },
+  {
+    "id": "tirane-gjimnazi-sander-prosi",
+    "name": "Gjimnazi Sandër Prosi",
+    "city": "Tiranë",
+    "qark": "Tirane",
+    "level": "high"
+  },
+  {
+    "id": "tirane-shkolla-9-vjecare-1-maji",
+    "name": "Shkolla 9-vjeçare 1 Maji",
+    "city": "Tiranë",
+    "qark": "Tirane",
+    "level": "primary"
+  },
+  {
+    "id": "tirane-shkolla-9-vjecare-andrea-stefani",
+    "name": "Shkolla 9-vjeçare Andrea Stefani",
+    "city": "Tiranë",
+    "qark": "Tirane",
+    "level": "primary"
+  },
+  {
+    "id": "tirane-shkolla-9-vjecare-avni-rustemi",
+    "name": "Shkolla 9-vjeçare Avni Rustemi",
+    "city": "Tiranë",
+    "qark": "Tirane",
+    "level": "primary"
+  },
+  {
+    "id": "tirane-shkolla-9-vjecare-betim-muco",
+    "name": "Shkolla 9-vjeçare Betim Muço",
+    "city": "Tiranë",
+    "qark": "Tirane",
+    "level": "primary"
+  },
+  {
+    "id": "tirane-shkolla-9-vjecare-dora-d-istria",
+    "name": "Shkolla 9-vjeçare Dora d'Istria",
+    "city": "Tiranë",
+    "qark": "Tirane",
+    "level": "primary"
+  },
+  {
+    "id": "tirane-shkolla-9-vjecare-edit-durham",
+    "name": "Shkolla 9-vjeçare Edit Durham",
+    "city": "Tiranë",
+    "qark": "Tirane",
+    "level": "primary"
+  },
+  {
+    "id": "tirane-shkolla-9-vjecare-emin-duraku",
+    "name": "Shkolla 9-vjeçare Emin Duraku",
+    "city": "Tiranë",
+    "qark": "Tirane",
+    "level": "primary"
+  },
+  {
+    "id": "tirane-shkolla-9-vjecare-hasan-prishtina",
+    "name": "Shkolla 9-vjeçare Hasan Prishtina",
+    "city": "Tiranë",
+    "qark": "Tirane",
+    "level": "primary"
+  },
+  {
+    "id": "tirane-shkolla-9-vjecare-kongresi-i-manastirit",
+    "name": "Shkolla 9-vjeçare Kongresi i Manastirit",
+    "city": "Tiranë",
+    "qark": "Tirane",
+    "level": "primary"
+  },
+  {
+    "id": "tirane-shkolla-9-vjecare-migjeni",
+    "name": "Shkolla 9-vjeçare Migjeni",
+    "city": "Tiranë",
+    "qark": "Tirane",
+    "level": "primary"
+  },
+  {
+    "id": "tirane-shkolla-9-vjecare-naim-frasheri",
+    "name": "Shkolla 9-vjeçare Naim Frashëri",
+    "city": "Tiranë",
+    "qark": "Tirane",
+    "level": "primary"
+  },
+  {
+    "id": "tirane-shkolla-9-vjecare-servete-maci",
+    "name": "Shkolla 9-vjeçare Servete Maçi",
+    "city": "Tiranë",
+    "qark": "Tirane",
+    "level": "primary"
+  },
+  {
+    "id": "tirane-shkolla-9-vjecare-vasil-shanto",
+    "name": "Shkolla 9-vjeçare Vasil Shanto",
+    "city": "Tiranë",
+    "qark": "Tirane",
+    "level": "primary"
+  },
+  {
+    "id": "sarande-gjimnazi-hasan-tahsini",
+    "name": "Gjimnazi Hasan Tahsini",
+    "city": "Sarandë",
+    "qark": "Vlore",
+    "level": "high"
+  },
+  {
+    "id": "sarande-shkolla-9-vjecare-adem-harxhi",
+    "name": "Shkolla 9-vjeçare Adem Harxhi",
+    "city": "Sarandë",
+    "qark": "Vlore",
+    "level": "primary"
+  },
+  {
+    "id": "vlore-gjimnazi-ali-demi",
+    "name": "Gjimnazi Ali Demi",
+    "city": "Vlorë",
+    "qark": "Vlore",
+    "level": "high"
+  },
+  {
+    "id": "vlore-gjimnazi-hasan-tahsini",
+    "name": "Gjimnazi Hasan Tahsini",
+    "city": "Vlorë",
+    "qark": "Vlore",
+    "level": "high"
+  },
+  {
+    "id": "vlore-shkolla-9-vjecare-24-maji",
+    "name": "Shkolla 9-vjeçare 24 Maji",
+    "city": "Vlorë",
+    "qark": "Vlore",
+    "level": "primary"
+  },
+  {
+    "id": "vlore-shkolla-9-vjecare-naim-frasheri",
+    "name": "Shkolla 9-vjeçare Naim Frashëri",
+    "city": "Vlorë",
+    "qark": "Vlore",
+    "level": "primary"
+  },
+  {
+    "id": "vranisht-9-vjecare-liman-mazrreku",
+    "name": "9-vjeçare Liman Mazrreku",
+    "city": "Vranisht",
+    "qark": "Vlore",
+    "level": "primary"
+  }
+]

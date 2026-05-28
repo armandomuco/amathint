@@ -12,6 +12,11 @@ model User {
   name          String
   email         String             @unique
   schoolIdentifier String             @default("local-school")
+  schoolId      String             @default("local-school")
+  schoolName    String             @default("Local School")
+  schoolQark    String?
+  studentGrade  Int?
+  teacherGrades Int[]              @default([])
   role          String
   passwordHash  String
   createdAt     DateTime           @default(now())
@@ -20,6 +25,9 @@ model User {
   conversations ChatConversation[]
   teacherRuns   TeacherAssistantRun[]
   downloadTokens DownloadToken[]
+
+  @@index([schoolId, studentGrade])
+  @@index([schoolId, role])
 }
 
 model Session {

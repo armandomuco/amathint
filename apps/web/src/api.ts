@@ -5,7 +5,20 @@ export type User = {
   name: string;
   email: string;
   schoolIdentifier: string;
+  schoolId: string;
+  schoolName: string;
+  schoolQark?: string | null;
+  studentGrade?: number | null;
+  teacherGrades: number[];
   role: Role;
+};
+
+export type School = {
+  id: string;
+  name: string;
+  qark: string;
+  city: string;
+  level: "primary" | "high";
 };
 
 export type AuthResponse = {
@@ -17,6 +30,10 @@ export type AuthResponse = {
 export type TeacherDashboardData = {
   summary: {
     schoolIdentifier: string;
+    schoolName?: string;
+    schoolQark?: string | null;
+    teacherGrades: number[];
+    selectedGrade?: number | null;
     totalQuestions: number;
     uniqueStudents: number;
     averageRisk: number;
@@ -101,7 +118,9 @@ export function signup(payload: {
   email: string;
   password: string;
   role: Role;
-  schoolIdentifier: string;
+  schoolId: string;
+  studentGrade?: number | null;
+  teacherGrades?: number[];
 }) {
   return request<AuthResponse>("/auth/signup", {
     method: "POST",
@@ -121,7 +140,9 @@ export function updateProfile(
   payload: {
     name: string;
     email: string;
-    schoolIdentifier: string;
+    schoolId: string;
+    studentGrade?: number | null;
+    teacherGrades?: number[];
   }
 ) {
   return request<{ user: User }>(
@@ -138,8 +159,13 @@ export function getMe(token: string) {
   return request<{ user: User }>("/auth/me", {}, token);
 }
 
-export function getTeacherDashboard(token: string) {
-  return request<TeacherDashboardData>("/analytics/teacher-dashboard", {}, token);
+export function listSchools() {
+  return request<{ schools: School[] }>("/schools");
+}
+
+export function getTeacherDashboard(token: string, grade?: number | null) {
+  const query = grade ? `?grade=${grade}` : "";
+  return request<TeacherDashboardData>(`/analytics/teacher-dashboard${query}`, {}, token);
 }
 
 export function getStudentDashboard(token: string) {

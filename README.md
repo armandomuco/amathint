@@ -16,6 +16,14 @@ The canonical JSON is the source of truth. DOCX files are output artifacts and c
 
 ## Quick Start
 
+Run the full local web application:
+
+```bash
+./run-amathint-local.sh
+```
+
+This starts the NestJS backend on `http://127.0.0.1:4000` and the React frontend on `http://127.0.0.1:5173`. Press `Ctrl+C` in the terminal to stop both servers. PostgreSQL must already be running locally with the database configured in `apps/api/.env`.
+
 ```bash
 ./amathint catalog build
 ./amathint run-sample-gate --force

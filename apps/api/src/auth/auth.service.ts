@@ -1,5 +1,6 @@
 import { BadRequestException, ConflictException, Injectable, UnauthorizedException } from "@nestjs/common";
 import { PrismaService } from "../prisma/prisma.service";
+import { SchoolsService } from "../schools/schools.service";
 import type { AuthUser, LoginBody, SignupBody, UpdateProfileBody } from "./auth.types";
 import {
   createRawSessionToken,
@@ -13,17 +14,23 @@ import {
 } from "./auth.utils";
 
 const SESSION_DAYS = 7;
+const MIN_GRADE = 1;
+const MAX_GRADE = 12;
 
 @Injectable()
 export class AuthService {
-  constructor(private readonly prisma: PrismaService) {}
+  constructor(
+    private readonly prisma: PrismaService,
+    private readonly schools: SchoolsService
+  ) {}
 
   async signup(body: SignupBody) {
     const name = String(body.name || "").trim();
     const email = normalizeEmail(body.email);
     const password = String(body.password || "");
-    const schoolIdentifier = String(body.schoolIdentifier || "").trim();
+    const school = this.requireSchool(body.schoolId, body.schoolIdentifier);
     const role = parseRole(body.role);
+    const classAccess = this.parseClassAccess(role, school.level, body.studentGrade, body.teacherGrades);
 
     if (name.length < 2) {
       throw new BadRequestException("Name must have at least 2 characters.");
@@ -34,9 +41,6 @@ export class AuthService {
     if (password.length < 6) {
       throw new BadRequestException("Password must have at least 6 characters.");
     }
-    if (schoolIdentifier.length < 2) {
-      throw new BadRequestException("School name must have at least 2 characters.");
-    }
     if (!role) {
       throw new BadRequestException("Role must be teacher or student.");
     }
@@ -46,7 +50,12 @@ export class AuthService {
         data: {
           name,
           email,
-          schoolIdentifier,
+          schoolIdentifier: school.id,
+          schoolId: school.id,
+          schoolName: school.name,
+          schoolQark: school.qark,
+          studentGrade: classAccess.studentGrade,
+          teacherGrades: classAccess.teacherGrades,
           role: toDbRole(role),
           passwordHash: hashPassword(password)
         }
@@ -85,16 +94,15 @@ export class AuthService {
 
     const name = String(body.name || "").trim();
     const email = normalizeEmail(body.email);
-    const schoolIdentifier = String(body.schoolIdentifier || "").trim();
+    const school = this.requireSchool(body.schoolId, body.schoolIdentifier);
+    const role = currentUser.role;
+    const classAccess = this.parseClassAccess(role, school.level, body.studentGrade, body.teacherGrades);
 
     if (name.length < 2) {
       throw new BadRequestException("Name must have at least 2 characters.");
     }
     if (!email.includes("@")) {
       throw new BadRequestException("Email is invalid.");
-    }
-    if (schoolIdentifier.length < 2) {
-      throw new BadRequestException("School name must have at least 2 characters.");
     }
 
     try {
@@ -103,7 +111,12 @@ export class AuthService {
         data: {
           name,
           email,
-          schoolIdentifier
+          schoolIdentifier: school.id,
+          schoolId: school.id,
+          schoolName: school.name,
+          schoolQark: school.qark,
+          studentGrade: classAccess.studentGrade,
+          teacherGrades: classAccess.teacherGrades
         }
       });
       return { user: this.toAuthUser(user) };
@@ -164,12 +177,79 @@ export class AuthService {
     return this.toAuthUser(session.user);
   }
 
-  private toAuthUser(user: { id: string; name: string; email: string; schoolIdentifier: string; role: string }): AuthUser {
+  private requireSchool(schoolId: unknown, fallbackSchoolIdentifier?: unknown) {
+    const id = String(schoolId || fallbackSchoolIdentifier || "").trim();
+    const school = this.schools.findById(id);
+    if (!school) {
+      throw new BadRequestException("Choose a school from the list.");
+    }
+    return school;
+  }
+
+  private parseClassAccess(
+    role: "teacher" | "student" | null,
+    schoolLevel: "primary" | "high",
+    studentGradeInput: unknown,
+    teacherGradesInput: unknown
+  ) {
+    if (role === "student") {
+      const studentGrade = this.parseGrade(studentGradeInput, schoolLevel);
+      if (!studentGrade) {
+        throw new BadRequestException("Choose your class.");
+      }
+      return { studentGrade, teacherGrades: [] };
+    }
+
+    if (role === "teacher") {
+      const teacherGrades = Array.isArray(teacherGradesInput)
+        ? teacherGradesInput.map((grade) => this.parseGrade(grade, schoolLevel)).filter((grade): grade is number => Boolean(grade))
+        : [];
+      const uniqueGrades = [...new Set(teacherGrades)].sort((first, second) => first - second);
+      if (!uniqueGrades.length) {
+        throw new BadRequestException("Choose at least one class for teacher access.");
+      }
+      return { studentGrade: null, teacherGrades: uniqueGrades };
+    }
+
+    return { studentGrade: null, teacherGrades: [] };
+  }
+
+  private parseGrade(value: unknown, schoolLevel: "primary" | "high") {
+    const grade = Number(value);
+    if (!Number.isInteger(grade) || grade < MIN_GRADE || grade > MAX_GRADE) {
+      return null;
+    }
+    if (schoolLevel === "primary" && grade > 9) {
+      return null;
+    }
+    if (schoolLevel === "high" && grade < 10) {
+      return null;
+    }
+    return grade;
+  }
+
+  private toAuthUser(user: {
+    id: string;
+    name: string;
+    email: string;
+    schoolIdentifier: string;
+    schoolId?: string | null;
+    schoolName?: string | null;
+    schoolQark?: string | null;
+    studentGrade?: number | null;
+    teacherGrades?: number[] | null;
+    role: string;
+  }): AuthUser {
     return {
       id: user.id,
       name: user.name,
       email: user.email,
       schoolIdentifier: user.schoolIdentifier,
+      schoolId: user.schoolId || user.schoolIdentifier,
+      schoolName: user.schoolName || user.schoolIdentifier,
+      schoolQark: user.schoolQark,
+      studentGrade: user.studentGrade,
+      teacherGrades: user.teacherGrades || [],
       role: toPublicRole(user.role)
     };
   }

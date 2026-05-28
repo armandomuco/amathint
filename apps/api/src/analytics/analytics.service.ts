@@ -11,14 +11,24 @@ const OUT_OF_MATH_KEYWORD = "Jashtë Matematikës";
 export class AnalyticsService {
   constructor(private readonly prisma: PrismaService) {}
 
-  async teacherDashboard(user: AuthUser | null) {
+  async teacherDashboard(user: AuthUser | null, requestedGrade?: string) {
     const teacher = this.requireTeacher(user);
+    const teacherGrades = teacher.teacherGrades || [];
+    const parsedGrade = Number(requestedGrade);
+    const selectedGrade =
+      Number.isInteger(parsedGrade) && teacherGrades.includes(parsedGrade)
+        ? parsedGrade
+        : teacherGrades.length
+          ? teacherGrades[0]
+          : null;
+
     const messages = await this.prisma.chatMessage.findMany({
       where: {
         role: "student",
         conversation: {
           student: {
-            schoolIdentifier: teacher.schoolIdentifier
+            schoolId: teacher.schoolId || teacher.schoolIdentifier,
+            ...(selectedGrade ? { studentGrade: selectedGrade } : {})
           }
         }
       },
@@ -74,6 +84,10 @@ export class AnalyticsService {
     return {
       summary: {
         schoolIdentifier: teacher.schoolIdentifier,
+        schoolName: teacher.schoolName,
+        schoolQark: teacher.schoolQark,
+        teacherGrades,
+        selectedGrade,
         totalQuestions,
         uniqueStudents,
         averageRisk,
