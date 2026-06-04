@@ -30,6 +30,12 @@ export class StudentChatController {
     return this.studentChat.listConversations(user);
   }
 
+  @Get("history")
+  async history(@Headers("authorization") authorization: string | undefined) {
+    const user = await this.auth.currentUserFromToken(tokenFromHeader(authorization));
+    return this.studentChat.history(user);
+  }
+
   @Get("conversations/:id")
   async getConversation(@Headers("authorization") authorization: string | undefined, @Param("id") id: string) {
     const user = await this.auth.currentUserFromToken(tokenFromHeader(authorization));
@@ -54,6 +60,12 @@ export class StudentChatbotController {
   async listConversations(@Headers("authorization") authorization: string | undefined) {
     const user = await this.auth.currentUserFromToken(tokenFromHeader(authorization));
     return this.studentChat.listConversations(user);
+  }
+
+  @Get("history")
+  async history(@Headers("authorization") authorization: string | undefined) {
+    const user = await this.auth.currentUserFromToken(tokenFromHeader(authorization));
+    return this.studentChat.history(user);
   }
 
   @Get("conversations/:id")

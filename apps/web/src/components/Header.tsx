@@ -52,6 +52,14 @@ export function Header({
             <button className={view === chatView ? "active" : ""} onClick={() => setView(chatView)}>
               {copy.navChat}
             </button>
+            {auth.user.role === "student" && (
+              <button
+                className={view === "student-history" ? "active" : ""}
+                onClick={() => setView("student-history")}
+              >
+                {copy.navHistory}
+              </button>
+            )}
             {auth.user.role === "teacher" && (
               <button
                 className={view === "teacher-documents" ? "active" : ""}

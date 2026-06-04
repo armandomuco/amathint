@@ -90,6 +90,43 @@ export class StudentChatService {
     return { conversation };
   }
 
+  async history(user: AuthUser | null) {
+    const student = this.requireStudent(user);
+    const conversations = await this.prisma.chatConversation.findMany({
+      where: { studentId: student.id },
+      include: {
+        messages: {
+          orderBy: { createdAt: "asc" }
+        }
+      },
+      orderBy: { updatedAt: "desc" }
+    });
+
+    const history = conversations
+      .flatMap((conversation) => {
+        const rows = [];
+        for (let index = 0; index < conversation.messages.length; index += 1) {
+          const message = conversation.messages[index];
+          if (message.role !== "student") continue;
+          const answer = conversation.messages.slice(index + 1).find((next) => next.role === "assistant");
+          rows.push({
+            id: message.id,
+            conversationId: conversation.id,
+            conversationTitle: conversation.title,
+            question: message.content,
+            answer: answer?.content || "",
+            keyword: message.mathKeyword || "Të përgjithshme",
+            riskLevel: message.riskLevel || "low",
+            createdAt: message.createdAt
+          });
+        }
+        return rows;
+      })
+      .sort((first, second) => second.createdAt.getTime() - first.createdAt.getTime());
+
+    return { history };
+  }
+
   private requireStudent(user: AuthUser | null) {
     if (!user) {
       throw new UnauthorizedException("Missing or invalid session.");

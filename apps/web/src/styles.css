@@ -1275,6 +1275,54 @@ select:disabled {
   color: var(--muted);
 }
 
+.history-list {
+  display: grid;
+  gap: 12px;
+}
+
+.history-card {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-soft);
+  display: grid;
+  gap: 10px;
+  padding: 18px;
+}
+
+.history-card > div {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: space-between;
+}
+
+.history-card h2 {
+  font-size: 1.05rem;
+  margin: 0;
+}
+
+.history-card p {
+  color: #2f3a56;
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.history-card small {
+  color: var(--muted);
+}
+
+.history-keyword {
+  background: linear-gradient(135deg, rgba(15, 190, 218, 0.12), rgba(135, 78, 222, 0.12));
+  border: 1px solid rgba(11, 116, 201, 0.18);
+  border-radius: 999px;
+  color: var(--blue);
+  font-size: 0.82rem;
+  font-weight: 850;
+  padding: 5px 10px;
+}
+
 .document-actions {
   display: flex;
   flex-wrap: wrap;

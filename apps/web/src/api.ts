@@ -76,6 +76,17 @@ export type StudentDashboardData = {
   }>;
 };
 
+export type StudentHistoryItem = {
+  id: string;
+  conversationId: string;
+  conversationTitle: string;
+  question: string;
+  answer: string;
+  keyword: string;
+  riskLevel: string;
+  createdAt: string;
+};
+
 export type TeacherDocument = {
   id: string;
   lessonId?: string;
@@ -184,6 +195,10 @@ export function askStudentChat(token: string, question: string, conversationId?:
     },
     token
   );
+}
+
+export function listStudentHistory(token: string) {
+  return request<{ history: StudentHistoryItem[] }>("/student-chat/history", {}, token);
 }
 
 export function createTeacherDitare(

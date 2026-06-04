@@ -5,6 +5,7 @@ export type View =
   | "dashboard"
   | "profile"
   | "student-chat"
+  | "student-history"
   | "teacher-assistant"
   | "teacher-documents";
 

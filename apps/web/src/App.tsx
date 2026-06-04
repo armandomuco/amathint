@@ -7,6 +7,7 @@ import { StudentChat, TeacherAssistant } from "./pages/Chat";
 import { Dashboard } from "./pages/Dashboard";
 import { Landing } from "./pages/Landing";
 import { ProfilePage } from "./pages/ProfilePage";
+import { StudentHistory } from "./pages/StudentHistory";
 import { TeacherDocuments } from "./pages/TeacherDocuments";
 import type { View } from "./types";
 
@@ -81,6 +82,9 @@ function App() {
       {view === "dashboard" && auth && <Dashboard auth={auth} copy={copy} setView={setView} />}
       {view === "profile" && auth && <ProfilePage auth={auth} copy={copy} updateSavedAuth={updateSavedAuth} />}
       {view === "student-chat" && auth && <StudentChat copy={copy} token={auth.token} />}
+      {view === "student-history" && auth && auth.user.role === "student" && (
+        <StudentHistory copy={copy} token={auth.token} />
+      )}
       {view === "teacher-assistant" && auth && <TeacherAssistant copy={copy} token={auth.token} />}
       {view === "teacher-documents" && auth && auth.user.role === "teacher" && (
         <TeacherDocuments copy={copy} token={auth.token} />

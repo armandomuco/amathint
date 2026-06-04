@@ -7,6 +7,7 @@ WEB_DIR="$ROOT_DIR/apps/web"
 API_ENV="$API_DIR/.env"
 API_PORT="${PORT:-4000}"
 WEB_PORT="${WEB_PORT:-5173}"
+WEB_DEMO_HOST="${WEB_DEMO_HOST:-amathint.localhost}"
 API_PID=""
 WEB_PID=""
 
@@ -87,7 +88,8 @@ echo "Preparing Prisma client and database schema..."
 echo
 echo "Starting AmathInt locally..."
 echo "API: http://127.0.0.1:$API_PORT"
-echo "Web: http://127.0.0.1:$WEB_PORT"
+echo "Web: http://$WEB_DEMO_HOST:$WEB_PORT"
+echo "Raw web URL: http://127.0.0.1:$WEB_PORT"
 echo "Press Ctrl+C to stop both servers."
 echo
 
