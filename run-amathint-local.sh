@@ -5,9 +5,10 @@ ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 API_DIR="$ROOT_DIR/apps/api"
 WEB_DIR="$ROOT_DIR/apps/web"
 API_ENV="$API_DIR/.env"
-API_PORT="${PORT:-4000}"
+API_PORT="${API_PORT:-4000}"
 WEB_PORT="${WEB_PORT:-5173}"
 WEB_DEMO_HOST="${WEB_DEMO_HOST:-amathint.localhost}"
+BUNDLED_NODE_DIR="/Users/armandomuco/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/bin"
 API_PID=""
 WEB_PID=""
 
@@ -30,6 +31,33 @@ require_command() {
     echo "Install it first, then run this script again."
     exit 1
   fi
+}
+
+node_major_version() {
+  node -p 'Number(process.versions.node.split(".")[0])' 2>/dev/null || echo 0
+}
+
+ensure_modern_node() {
+  local current_major
+  current_major="$(node_major_version)"
+
+  if [ "$current_major" -ge 20 ]; then
+    return 0
+  fi
+
+  if [ -x "$BUNDLED_NODE_DIR/node" ]; then
+    local bundled_major
+    bundled_major="$("$BUNDLED_NODE_DIR/node" -p 'Number(process.versions.node.split(".")[0])' 2>/dev/null || echo 0)"
+    if [ "$bundled_major" -ge 20 ]; then
+      export PATH="$BUNDLED_NODE_DIR:$PATH"
+      echo "Using bundled Node $(node -v) because the active Node was too old for Vite."
+      return 0
+    fi
+  fi
+
+  echo "Node.js 20 or newer is required for the web app. Current Node: $(node -v 2>/dev/null || echo missing)"
+  echo "Install or activate Node 20+ and run this script again."
+  exit 1
 }
 
 port_is_busy() {
@@ -61,12 +89,18 @@ wait_for_api() {
 }
 
 require_command npm
+require_command node
 require_command curl
 require_command lsof
+ensure_modern_node
 
 if [ ! -f "$API_ENV" ]; then
   echo "Creating apps/api/.env from .env.example..."
   cp "$API_DIR/.env.example" "$API_ENV"
+fi
+
+if [ "${AMATHINT_SKIP_PRESTOP:-0}" != "1" ] && [ -x "$ROOT_DIR/stop-amathint-local.sh" ]; then
+  "$ROOT_DIR/stop-amathint-local.sh"
 fi
 
 if port_is_busy "$API_PORT"; then
@@ -93,12 +127,12 @@ echo "Raw web URL: http://127.0.0.1:$WEB_PORT"
 echo "Press Ctrl+C to stop both servers."
 echo
 
-(cd "$API_DIR" && npm run dev) &
+(cd "$API_DIR" && PORT="$API_PORT" npm run dev) &
 API_PID="$!"
 
 wait_for_api
 
-(cd "$WEB_DIR" && npm run dev) &
+(cd "$WEB_DIR" && npm run dev -- --host 127.0.0.1 --port "$WEB_PORT" --strictPort) &
 WEB_PID="$!"
 
 while true; do

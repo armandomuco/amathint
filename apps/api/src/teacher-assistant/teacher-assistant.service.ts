@@ -68,7 +68,7 @@ export class TeacherAssistantService {
           requestText: message,
           provider,
           status: "needs_lesson",
-          summary: unavailable || "Nuk gjeta temen e matematikes. Shkruaj lesson id, p.sh. MAT7_001, ose emrin e temes."
+          summary: unavailable || "Ky eshte nje pyetje e pavlefshme. Ky eshte nje assistent i ditareve per matematike."
         }
       });
       return {
